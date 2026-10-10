@@ -10,6 +10,7 @@
 <meta name="apple-mobile-web-app-title" content="N5 단어">
 <link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
 <link rel="icon" href="icon-512.png?v=2">
+<link rel="manifest" href="manifest.webmanifest">
 <title>일본어 N5 단어</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1174,6 +1175,9 @@ $("#resetBtn").onclick=()=>{
   $("#rY").onclick=()=>{prog={v:2,cards:{},days:{}}; save(); $("#resetBox").innerHTML=""; render();};
 };
 render();
+if("serviceWorker" in navigator && location.protocol!=="file:"){
+  navigator.serviceWorker.register("sw.js").then(()=>navigator.serviceWorker.ready).then(()=>{ const el=document.getElementById("sync"); if(el) el.textContent="오프라인 사용 준비 완료 · 기록은 이 기기에 저장됩니다"; }).catch(()=>{});
+}
 </script>
 </body>
 </html>
