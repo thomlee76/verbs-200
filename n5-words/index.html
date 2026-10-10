@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko" data-pal="t26d">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#000000">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="N5 단어">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" href="icon-512.png">
 <title>일본어 N5 단어</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -260,7 +272,10 @@ button:disabled{cursor:default}
 .seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
 :root[data-pal="t26"]{--bg:#F7F7F7;--surface:#FFFFFF;--ink:#111111;--muted:#86868B;--line:#ECECEE;--soft:#F2F2F4;--accent:#111111;--accent-ink:#FFFFFF;--btn:#111111;--btn-ink:#FFFFFF;--hero:#FFFFFF;--hero-ink:#111111;--hero-muted:#86868B;--hero-ghost:#F2F2F4;--hero-track:#E9E9EC;--lv3:#111111;--lv2:#C2C2C7;--lvbad:#F04438;--empty:#E9E9EC;--good:#22A447;--good-soft:#E8F6EB;--good-ink:#157A33;--bad:#F04438;--bad-soft:#FDECEB;--bad-ink:#B42318;--streak:#F2F2F4;--streak-ink:#111111;--warn:#C2C2C7;color-scheme:light}
 :root[data-pal="t26d"]{--bg:#000000;--surface:#1E1F24;--ink:#FFFFFF;--muted:#9A9AA3;--line:#2C2D33;--soft:#2A2B31;--accent:#8ED8E0;--accent-ink:#111111;--btn:#FFFFFF;--btn-ink:#111111;--hero:#1E1F24;--hero-ink:#FFFFFF;--hero-muted:#9A9AA3;--hero-ghost:#2C2D35;--hero-track:#2C2D35;--lv3:#8ED8E0;--lv2:#5A5B63;--lvbad:#FF6B5E;--empty:#2C2D33;--good:#8ED8E0;--good-soft:#16333A;--good-ink:#BDEDF2;--bad:#FF6B5E;--bad-soft:#3A1F1D;--bad-ink:#FFA49B;--streak:#2A2B31;--streak-ink:#8ED8E0;--warn:#5A5B63;color-scheme:dark}
+.wrap{padding-top:max(18px,env(safe-area-inset-top))}
 </style>
+</head>
+<body>
 
 <div class="wrap"><main id="view"></main>
   <div class="foot" id="foot"><span id="sync">학습 기록은 이 브라우저에 저장됩니다</span><button id="resetBtn">기록 초기화</button></div>
@@ -1160,3 +1175,5 @@ $("#resetBtn").onclick=()=>{
 };
 render();
 </script>
+</body>
+</html>
