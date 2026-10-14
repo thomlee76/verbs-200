@@ -10,6 +10,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="theme-color" content="#FFFFFF">
+<link rel="manifest" href="manifest.json">
 <style>
 :root{
   --bg:#F2F3F5; --page:#FFFFFF; --card:#FFFFFF; --ink:#111214; --sub:#80858E; --line:#E7E9EC; --chip:#EEF0F2;
@@ -713,7 +714,7 @@ const TX={
   v:"v",pv:"구동사",search:"단어 검색",learning:"학습 중",packs:"단어팩",picked:n=>`${n}개 단어를 학습 목록에 담았어요.`,skimNone:"오늘 고를 새 단어가 없어요.",
   goFlash:"플래시카드 시작",goHome:"홈으로",flashDone:"오늘 카드를 모두 끝냈어요!",tom:n=>n?`내일 복습할 단어: ${n}개`:"내일 복습할 단어는 없어요.",
   set:"설정",perDay:"하루 새 단어 수",perDayH:"스키밍에서 고를 단어 개수예요.",lang:"화면 언어",front:"카드 앞면",fronts:["영어","뜻","섞기"],frontH:"뜻을 앞면에 두면 말하기 연습이 돼요.",
-  progress:"진행 상황",xfer:"진행 옮기기",xferH:"다른 기기나 새 주소로 학습 기록을 옮길 때 사용해요.",exp:"내보내기",imp:"가져오기",copied:"코드를 복사했어요. 새 앱의 가져오기에 붙여넣으세요.",copyHint:"아래 코드를 전체 선택해서 복사하세요.",pasteH:"내보낸 코드를 붙여넣으세요",impOk:"학습 기록을 가져왔어요.",impBad:"코드가 올바르지 않아요.",impQ:"지금 기록을 가져온 기록으로 바꿀까요?",apply:"적용",reset:"진행 초기화",resetQ:"모든 진행을 초기화할까요? 200개 단어가 모두 새 단어가 됩니다.",syncOk:"진행 상황은 Claude 계정과 이 기기에 저장돼요.",syncLocal:"진행 상황은 이 기기에 저장돼요.",
+  progress:"진행 상황",off:"오프라인 사용",offH:"그림을 기기에 저장하면 인터넷 없이도 앱 전체를 쓸 수 있어요 (약 30MB).",offDl:"지금 저장",offN:(a,b)=>`저장됨 ${a}/${b}`,offOk:"오프라인 준비 완료",offNo:"이 브라우저는 오프라인 저장을 지원하지 않아요.",xfer:"진행 옮기기",xferH:"다른 기기나 새 주소로 학습 기록을 옮길 때 사용해요.",exp:"내보내기",imp:"가져오기",copied:"코드를 복사했어요. 새 앱의 가져오기에 붙여넣으세요.",copyHint:"아래 코드를 전체 선택해서 복사하세요.",pasteH:"내보낸 코드를 붙여넣으세요",impOk:"학습 기록을 가져왔어요.",impBad:"코드가 올바르지 않아요.",impQ:"지금 기록을 가져온 기록으로 바꿀까요?",apply:"적용",reset:"진행 초기화",resetQ:"모든 진행을 초기화할까요? 200개 단어가 모두 새 단어가 됩니다.",syncOk:"진행 상황은 Claude 계정과 이 기기에 저장돼요.",syncLocal:"진행 상황은 이 기기에 저장돼요.",
   overall:"전체 진행률",mastered:"외운 단어",inStudy:"학습 중",left:"남은 단어",last7:"최근 7일 학습량",byPack:"팩별 진행률",mins:n=>`~${n}분`,notFound:"검색 결과가 없어요.",
   listen:"발음 듣기",back:"뒤로",left2:"남은 카드",progText:(k,l,u)=>`외운 단어 ${k}개, 학습 중 ${l}개, 시작 전 ${u}개. 다음 복습이 3주 이상 남으면 외운 단어로 쳐요.`,
   knownN:"알고 있음",needSkim:"먼저 스키밍에서 모르는 단어를 골라주세요.",goSkim:"스키밍 시작",close:"닫기",words:"단어",muteHint:"소리가 안 들리면 무음 모드를 해제해 주세요.",noSound:"이 화면에서는 소리를 재생할 수 없어요. 링크를 Safari에서 열어 보세요."},
@@ -724,7 +725,7 @@ const TX={
   v:"гл.",pv:"фраз. гл.",search:"Поиск слова",learning:"Изучается",packs:"Наборы слов",picked:n=>`${n} слов добавлено в изучение.`,skimNone:"Новых слов на сегодня нет.",
   goFlash:"Перейти к карточкам",goHome:"На главную",flashDone:"Все карточки на сегодня пройдены!",tom:n=>n?`Завтра к повторению: ${n}`:"На завтра повторений нет.",
   set:"Настройки",perDay:"Новых слов в день",perDayH:"Сколько слов отбирать в скиминге.",lang:"Язык интерфейса",front:"Лицевая сторона",fronts:["Английский","Перевод","Вперемешку"],frontH:"Перевод на лицевой стороне тренирует речь.",
-  progress:"Прогресс",xfer:"Перенос прогресса",xferH:"Чтобы перенести прогресс на другое устройство или новый адрес.",exp:"Экспорт",imp:"Импорт",copied:"Код скопирован. Вставьте его в «Импорт» в новом приложении.",copyHint:"Выделите весь код ниже и скопируйте.",pasteH:"Вставьте экспортированный код",impOk:"Прогресс перенесён.",impBad:"Код неверный.",impQ:"Заменить текущий прогресс импортированным?",apply:"Применить",reset:"Сбросить прогресс",resetQ:"Сбросить весь прогресс? Все 200 слов снова станут новыми.",syncOk:"Прогресс сохраняется в аккаунте Claude и на этом устройстве.",syncLocal:"Прогресс сохраняется на этом устройстве.",
+  progress:"Прогресс",off:"Офлайн-режим",offH:"Картинки сохраняются на устройстве, после этого приложение работает без интернета (около 30 МБ).",offDl:"Сохранить сейчас",offN:(a,b)=>`Сохранено ${a}/${b}`,offOk:"Готово к работе офлайн",offNo:"Этот браузер не поддерживает офлайн-сохранение.",xfer:"Перенос прогресса",xferH:"Чтобы перенести прогресс на другое устройство или новый адрес.",exp:"Экспорт",imp:"Импорт",copied:"Код скопирован. Вставьте его в «Импорт» в новом приложении.",copyHint:"Выделите весь код ниже и скопируйте.",pasteH:"Вставьте экспортированный код",impOk:"Прогресс перенесён.",impBad:"Код неверный.",impQ:"Заменить текущий прогресс импортированным?",apply:"Применить",reset:"Сбросить прогресс",resetQ:"Сбросить весь прогресс? Все 200 слов снова станут новыми.",syncOk:"Прогресс сохраняется в аккаунте Claude и на этом устройстве.",syncLocal:"Прогресс сохраняется на этом устройстве.",
   overall:"Общий прогресс",mastered:"Выучено",inStudy:"Учу",left:"Осталось",last7:"Последние 7 дней",byPack:"Прогресс по наборам",mins:n=>`~${n} мин`,notFound:"Ничего не найдено.",
   listen:"Послушать",back:"Назад",left2:"Осталось",progText:(k,l,u)=>`Выучено ${k}, в процессе ${l}, не начато ${u}. Слово считается выученным, когда до повторения 3 недели и больше.`,
   knownN:"Знаю",needSkim:"Сначала отберите незнакомые слова в скиминге.",goSkim:"Начать скиминг",close:"Закрыть",words:"слов",muteHint:"Если не слышно, выключите беззвучный режим переключателем сбоку.",noSound:"В этом окне звук недоступен. Откройте ссылку в Safari."}};
@@ -950,12 +951,13 @@ function openSheet(){const t=TT(),c=counts();const sh=$("sheet");
    <div class="sg"><h5>${t.lang}</h5><div class="seg" id="sLang"><button data-l="ko" aria-pressed="${!RU()}">한국어</button><button data-l="ru" aria-pressed="${RU()}">Русский</button></div></div>
    <div class="sg"><h5>${t.front}</h5><p>${t.frontH}</p><div class="seg" id="sDir">${["en","rev","mix"].map((k,j)=>`<button data-d="${k}" aria-pressed="${state.settings.dir===k}">${t.fronts[j]}</button>`).join("")}</div></div>
    <div class="sg" style="border:0"><h5>${t.progress}</h5><p>${t.progText(c.known,c.learn,c.unseen)}</p><button class="danger" id="sReset">${t.reset}</button></div>
+   <div class="sg"><h5>${t.off}</h5><p>${t.offH}</p><p id="offSt" style="font-weight:600">${offText()}</p><button id="sOff" class="${OFF.done>=OFF.total?"hidden":""}">${t.offDl}</button></div>
    <div class="sg"><h5>${t.xfer}</h5><p>${t.xferH}</p><div class="seg"><button id="sExp">${t.exp}</button><button id="sImp">${t.imp}</button></div>
     <div id="xBox" class="hidden" style="margin-top:12px"><p id="xHint" style="margin:0 0 6px;color:var(--sub);font-size:14px"></p><textarea id="xTa" rows="5" style="width:100%;border:1.5px solid var(--line);border-radius:12px;padding:10px;font:13px/1.35 ui-monospace,Menlo,monospace;background:var(--card);color:var(--ink);word-break:break-all"></textarea>
     <button id="xApply" class="cta hidden" style="margin-top:8px">${t.apply}</button></div></div>
    <button class="cta" id="sClose">${t.close}</button><div class="syn">${synced?t.syncOk:t.syncLocal}</div></div>`;
   sh.classList.remove("hidden");
-  sh.onclick=e=>{if(e.target===sh)closeSheet()};$("sClose").onclick=closeSheet;
+  sh.onclick=e=>{if(e.target===sh)closeSheet()};$("sClose").onclick=closeSheet;if($("sOff"))$("sOff").onclick=()=>offlineSync(true);
   sh.querySelectorAll("#sPer button").forEach(b=>b.onclick=()=>{state.settings.perDay=+b.dataset.n;save();openSheet();renderAll()});
   sh.querySelectorAll("#sLang button").forEach(b=>b.onclick=()=>{state.settings.lang=b.dataset.l;save();openSheet();renderAll()});
   sh.querySelectorAll("#sDir button").forEach(b=>b.onclick=()=>{state.settings.dir=b.dataset.d;save();openSheet()});
@@ -977,6 +979,29 @@ document.querySelectorAll("nav .t").forEach(b=>b.onclick=()=>{cur=b.dataset.v;do
   ["vHome","vLib","vStats"].forEach(id=>$(id).classList.toggle("hidden",id!==cur));if(cur==="vLib"){libPack=-1}renderAll();window.scrollTo(0,0)});
 $("openSet").onclick=openSheet;
 loadLocal();renderAll();initRemote();
+
+/* ---------- offline ---------- */
+const OFF={done:0,total:400,busy:false,ok:"serviceWorker" in navigator&&"caches" in window};
+function offText(){const t=TT();if(!OFF.ok)return t.offNo;return OFF.done>=OFF.total?t.offOk:t.offN(OFF.done,OFF.total)}
+function offPaint(){const e=document.getElementById("offSt");if(e)e.textContent=offText();const b=document.getElementById("sOff");if(b)b.classList.toggle("hidden",OFF.done>=OFF.total||OFF.busy)}
+async function offlineSync(force){
+  if(!OFF.ok||OFF.busy)return;OFF.busy=true;offPaint();
+  try{
+    const c=await caches.open("v200-img-1");const urls=[];
+    for(let i=0;i<200;i++){urls.push(picUrl(i),picThumb(i))}
+    const miss=[];let have=0;
+    for(const u of urls){(await c.match(u,{ignoreSearch:true}))?have++:miss.push(u)}
+    OFF.done=have;offPaint();
+    for(let k=0;k<miss.length;k+=6){
+      await Promise.all(miss.slice(k,k+6).map(u=>fetch(u).then(r=>{if(r.ok)return c.put(u,r).then(()=>{OFF.done++})}).catch(()=>{})));
+      offPaint();
+    }
+  }catch(e){}
+  OFF.busy=false;offPaint();
+}
+if(OFF.ok&&location.protocol.startsWith("http")){
+  navigator.serviceWorker.register("sw.js").then(()=>navigator.serviceWorker.ready).then(()=>setTimeout(()=>offlineSync(false),1500)).catch(()=>{OFF.ok=false});
+}
 </script>
 </body>
 </html>
