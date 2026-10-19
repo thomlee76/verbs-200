@@ -1,0 +1,2754 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "en": "Present Simple vs Present Continuous",
+      "ru": "Present Simple или Present Continuous",
+      "summary": "Present Simple — привычки, факты и расписания. Present Continuous — то, что происходит прямо сейчас или временно.",
+      "formula": [
+        "I work / he works",
+        "am / is / are + V-ing"
+      ],
+      "rules": [
+        {
+          "ru": "Регулярные действия и привычки — Present Simple.",
+          "en": "I visit our distributor in Almaty every month.",
+          "tr": "Я каждый месяц езжу к нашему дистрибьютору в Алматы."
+        },
+        {
+          "ru": "Действие прямо в момент речи — Present Continuous.",
+          "en": "Sorry, I can't talk now. I'm boarding the plane.",
+          "tr": "Извини, не могу говорить. Я сажусь в самолёт."
+        },
+        {
+          "ru": "Временная ситуация (на этой неделе, в этом месяце) — тоже Continuous.",
+          "en": "This week I'm working from our Tokyo office.",
+          "tr": "На этой неделе я работаю из нашего офиса в Токио."
+        },
+        {
+          "ru": "Глаголы состояния (know, want, need, like, believe, cost, seem) обычно не ставят в -ing.",
+          "en": "I need the price list right now.",
+          "tr": "Мне нужен прайс-лист прямо сейчас."
+        },
+        {
+          "ru": "Факты и расписания — Present Simple.",
+          "en": "The hospital opens at seven in the morning.",
+          "tr": "Больница открывается в семь утра."
+        }
+      ],
+      "signals": [
+        "always",
+        "usually",
+        "often",
+        "every day",
+        "now",
+        "right now",
+        "at the moment",
+        "this week",
+        "these days"
+      ],
+      "mistake": {
+        "wrong": "I am knowing this client very well.",
+        "right": "I know this client very well.",
+        "note": "Know — глагол состояния: даже если по-русски «знаю сейчас», -ing с ним не используют."
+      },
+      "exercises": [
+        {
+          "q": "Our company usually ___ ultrasound scanners to private clinics.",
+          "options": [
+            "is selling",
+            "sells",
+            "sell",
+            "selling"
+          ],
+          "answer": 1,
+          "explain": "usually — привычное действие, Present Simple; it → sells."
+        },
+        {
+          "q": "Please call back later. Mr. Tanaka ___ to a client right now.",
+          "options": [
+            "is talking",
+            "talks",
+            "talk"
+          ],
+          "answer": 0,
+          "explain": "right now — действие в момент речи, Present Continuous."
+        },
+        {
+          "q": "I ___ what you mean, but the price is too high.",
+          "options": [
+            "understand",
+            "am understanding",
+            "understanding",
+            "am understand"
+          ],
+          "answer": 0,
+          "explain": "understand — глагол состояния, в Continuous не используется."
+        },
+        {
+          "q": "Look! The courier ___ the boxes in the wrong place.",
+          "options": [
+            "puts",
+            "put",
+            "is putting"
+          ],
+          "answer": 2,
+          "explain": "Look! — показываем на то, что происходит сейчас."
+        },
+        {
+          "q": "How often ___ you ___ to Bogotá?",
+          "options": [
+            "are / flying",
+            "do / fly",
+            "does / fly",
+            "is / fly"
+          ],
+          "answer": 1,
+          "explain": "How often — вопрос о регулярности, Present Simple с do."
+        },
+        {
+          "q": "This contract ___ like a good deal to me.",
+          "options": [
+            "is seeming",
+            "seem",
+            "seems"
+          ],
+          "answer": 2,
+          "explain": "seem — глагол состояния; it → seems."
+        },
+        {
+          "q": "This month we ___ a new distributor in Peru.",
+          "options": [
+            "test",
+            "testing",
+            "tests",
+            "are testing"
+          ],
+          "answer": 3,
+          "explain": "This month — временная ситуация, Present Continuous."
+        },
+        {
+          "q": "Hiroshi ___ coffee. He always drinks green tea.",
+          "options": [
+            "isn't drinking",
+            "doesn't drink",
+            "don't drink"
+          ],
+          "answer": 1,
+          "explain": "Привычка, Present Simple; he → doesn't."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "en": "Past Simple vs Past Continuous",
+      "ru": "Past Simple или Past Continuous",
+      "summary": "Past Simple — законченные действия в прошлом. Past Continuous — процесс, который шёл в определённый момент или был прерван другим действием.",
+      "formula": [
+        "V2 / -ed",
+        "was / were + V-ing"
+      ],
+      "rules": [
+        {
+          "ru": "Завершённые действия и цепочка событий — Past Simple.",
+          "en": "I landed, took a taxi and checked in.",
+          "tr": "Я приземлился, взял такси и заселился."
+        },
+        {
+          "ru": "Процесс в конкретный момент прошлого — Past Continuous.",
+          "en": "At 10 a.m. I was presenting the new scanner.",
+          "tr": "В 10 утра я как раз презентовал новый сканер."
+        },
+        {
+          "ru": "Длинное действие прервано коротким: while/when + Continuous, when + Simple.",
+          "en": "I was driving to the hospital when the client called.",
+          "tr": "Я ехал в больницу, когда позвонил клиент."
+        },
+        {
+          "ru": "Два параллельных процесса — оба в Continuous, обычно с while.",
+          "en": "While I was talking, she was taking notes.",
+          "tr": "Пока я говорил, она записывала."
+        },
+        {
+          "ru": "Глаголы состояния и здесь остаются в Past Simple.",
+          "en": "I didn't know about the delay.",
+          "tr": "Я не знал о задержке."
+        }
+      ],
+      "signals": [
+        "when",
+        "while",
+        "yesterday",
+        "ago",
+        "last week",
+        "at that moment",
+        "at 5 p.m. yesterday"
+      ],
+      "mistake": {
+        "wrong": "Yesterday I was writing the report and sent it to the client.",
+        "right": "Yesterday I wrote the report and sent it to the client.",
+        "note": "Русское «писал» не всегда процесс: если действие доведено до конца, нужен Past Simple."
+      },
+      "exercises": [
+        {
+          "q": "I ___ the contract when the lights went out.",
+          "options": [
+            "read",
+            "was reading",
+            "were reading",
+            "am reading"
+          ],
+          "answer": 1,
+          "explain": "Длинное действие, прерванное коротким — Past Continuous; I → was."
+        },
+        {
+          "q": "While we ___ lunch, the shipment arrived.",
+          "options": [
+            "were having",
+            "was having",
+            "have"
+          ],
+          "answer": 0,
+          "explain": "while + процесс в прошлом; we → were."
+        },
+        {
+          "q": "She ___ her passport at the airport and missed the flight.",
+          "options": [
+            "was losing",
+            "lost",
+            "loses"
+          ],
+          "answer": 1,
+          "explain": "Однократное завершённое событие — Past Simple."
+        },
+        {
+          "q": "What ___ you ___ when I called? You sounded busy.",
+          "options": [
+            "did / do",
+            "were / doing",
+            "was / doing",
+            "are / doing"
+          ],
+          "answer": 1,
+          "explain": "Спрашиваем о процессе в момент звонка — Past Continuous."
+        },
+        {
+          "q": "When the director ___ in, everyone stopped talking.",
+          "options": [
+            "came",
+            "was coming",
+            "comes"
+          ],
+          "answer": 0,
+          "explain": "Короткое действие, после которого всё остановилось — Past Simple."
+        },
+        {
+          "q": "At midnight we ___ still ___ the contract.",
+          "options": [
+            "did / discuss",
+            "was / discussing",
+            "are / discussing",
+            "were / discussing"
+          ],
+          "answer": 3,
+          "explain": "Процесс в конкретный момент прошлого — Past Continuous; we → were."
+        },
+        {
+          "q": "I ___ the email three times before I sent it.",
+          "options": [
+            "was checking",
+            "were checking",
+            "checked"
+          ],
+          "answer": 2,
+          "explain": "Действие завершено и посчитано (три раза) — Past Simple."
+        },
+        {
+          "q": "While I ___ the demo, the software crashed.",
+          "options": [
+            "did",
+            "do",
+            "doing",
+            "was doing"
+          ],
+          "answer": 3,
+          "explain": "while + процесс, который прервали — Past Continuous."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "en": "Present Perfect vs Past Simple",
+      "ru": "Present Perfect или Past Simple",
+      "summary": "Present Perfect — опыт или результат, важный сейчас, без точного времени. Past Simple — когда названо конкретное время в прошлом или история закончена.",
+      "formula": [
+        "have / has + V3",
+        "V2 / -ed"
+      ],
+      "rules": [
+        {
+          "ru": "Жизненный опыт без даты — Present Perfect.",
+          "en": "I've been to Japan five times.",
+          "tr": "Я был в Японии пять раз."
+        },
+        {
+          "ru": "Результат важен сейчас — Present Perfect.",
+          "en": "The shipment has arrived, so we can start installation.",
+          "tr": "Груз прибыл, можно начинать установку."
+        },
+        {
+          "ru": "Есть точное время (yesterday, last week, in 2022, ago) — только Past Simple.",
+          "en": "We signed the contract last Friday.",
+          "tr": "Мы подписали контракт в прошлую пятницу."
+        },
+        {
+          "ru": "Период ещё не закончился (today, this week, this year) — Present Perfect.",
+          "en": "I've had three meetings today.",
+          "tr": "Сегодня у меня уже было три встречи."
+        },
+        {
+          "ru": "Вопрос с When…? — всегда Past Simple.",
+          "en": "When did you visit the clinic?",
+          "tr": "Когда вы были в клинике?"
+        }
+      ],
+      "signals": [
+        "ever",
+        "never",
+        "already",
+        "yet",
+        "just",
+        "so far",
+        "yesterday",
+        "ago",
+        "last year",
+        "in 2023"
+      ],
+      "mistake": {
+        "wrong": "I have seen him yesterday.",
+        "right": "I saw him yesterday.",
+        "note": "С yesterday, ago, last… Present Perfect не ставится — в русском такого ограничения нет, поэтому ошибка очень частая."
+      },
+      "exercises": [
+        {
+          "q": "___ you ever ___ to Japan?",
+          "options": [
+            "Has / been",
+            "Have / been",
+            "Were / gone",
+            "Did / been"
+          ],
+          "answer": 1,
+          "explain": "ever — вопрос об опыте, Present Perfect; you → have."
+        },
+        {
+          "q": "We ___ the invoice two days ago.",
+          "options": [
+            "have paid",
+            "has paid",
+            "paid"
+          ],
+          "answer": 2,
+          "explain": "ago — точное время в прошлом, Past Simple."
+        },
+        {
+          "q": "This is the first time I ___ a tender in Chile.",
+          "options": [
+            "have won",
+            "won",
+            "win",
+            "am winning"
+          ],
+          "answer": 0,
+          "explain": "После This is the first time… — Present Perfect."
+        },
+        {
+          "q": "When ___ the engineer ___ the system?",
+          "options": [
+            "has / installed",
+            "did / install",
+            "have / installed"
+          ],
+          "answer": 1,
+          "explain": "Вопрос с When — Past Simple."
+        },
+        {
+          "q": "So far this year we ___ twenty scanners.",
+          "options": [
+            "sold",
+            "sell",
+            "have sold",
+            "had sold"
+          ],
+          "answer": 2,
+          "explain": "so far, this year — период не закончился, Present Perfect."
+        },
+        {
+          "q": "She ___ in Almaty from 2015 to 2020.",
+          "options": [
+            "has lived",
+            "lived",
+            "has been living"
+          ],
+          "answer": 1,
+          "explain": "Период полностью в прошлом — Past Simple."
+        },
+        {
+          "q": "I ___ never ___ sushi in Osaka. Let's go tonight!",
+          "options": [
+            "did / try",
+            "has / tried",
+            "was / trying",
+            "have / tried"
+          ],
+          "answer": 3,
+          "explain": "never — опыт до настоящего момента, Present Perfect; I → have."
+        },
+        {
+          "q": "Our manager ___ to Lima last month.",
+          "options": [
+            "went",
+            "has gone",
+            "has been",
+            "goes"
+          ],
+          "answer": 0,
+          "explain": "last month — точное время, Past Simple."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "en": "Present Perfect Continuous; for / since",
+      "ru": "Present Perfect Continuous; for и since",
+      "summary": "Present Perfect Continuous — действие началось в прошлом и длится до сих пор (или только что закончилось). for — сколько времени, since — с какого момента.",
+      "formula": [
+        "have / has been + V-ing",
+        "for + период: for two hours",
+        "since + момент: since Monday"
+      ],
+      "rules": [
+        {
+          "ru": "Действие длится до сих пор. По-русски тут часто настоящее время.",
+          "en": "I've been waiting for the taxi for 40 minutes.",
+          "tr": "Я жду такси уже 40 минут."
+        },
+        {
+          "ru": "for + отрезок времени (two years, a week).",
+          "en": "We've been working with this hospital for five years.",
+          "tr": "Мы работаем с этой больницей пять лет."
+        },
+        {
+          "ru": "since + точка начала (2020, Monday, last summer).",
+          "en": "He's been traveling since Monday.",
+          "tr": "Он в разъездах с понедельника."
+        },
+        {
+          "ru": "С глаголами состояния (know, have, be) — обычный Present Perfect.",
+          "en": "I've known Ms. Sato since 2018.",
+          "tr": "Я знаю госпожу Сато с 2018 года."
+        },
+        {
+          "ru": "Если важен результат или количество — Present Perfect Simple.",
+          "en": "I've called five clinics this morning.",
+          "tr": "Я сегодня утром обзвонил пять клиник."
+        }
+      ],
+      "signals": [
+        "for",
+        "since",
+        "how long",
+        "all day",
+        "lately",
+        "recently"
+      ],
+      "mistake": {
+        "wrong": "I work here since 2020.",
+        "right": "I've worked here since 2020.",
+        "note": "По-русски «работаю с 2020» — настоящее время, а в английском с since и for нужен Present Perfect (Continuous)."
+      },
+      "exercises": [
+        {
+          "q": "We ___ for the shipment since Monday.",
+          "options": [
+            "wait",
+            "are waiting",
+            "have been waiting",
+            "waited"
+          ],
+          "answer": 2,
+          "explain": "since + действие длится до сих пор — Present Perfect Continuous."
+        },
+        {
+          "q": "I've been learning English ___ three years.",
+          "options": [
+            "since",
+            "for",
+            "during"
+          ],
+          "answer": 1,
+          "explain": "three years — отрезок времени, значит for."
+        },
+        {
+          "q": "She has worked in sales ___ 2017.",
+          "options": [
+            "since",
+            "for",
+            "from",
+            "ago"
+          ],
+          "answer": 0,
+          "explain": "2017 — точка начала, значит since."
+        },
+        {
+          "q": "How long ___ you ___ Ms. Sato?",
+          "options": [
+            "do / know",
+            "have / been knowing",
+            "have / known",
+            "are / knowing"
+          ],
+          "answer": 2,
+          "explain": "know — глагол состояния: Present Perfect Simple, не Continuous."
+        },
+        {
+          "q": "Your eyes are red. ___ you ___ all night?",
+          "options": [
+            "Are / work",
+            "Have / been working",
+            "Did / worked"
+          ],
+          "answer": 1,
+          "explain": "Видимый результат долгого процесса — Present Perfect Continuous."
+        },
+        {
+          "q": "I ___ three reports so far today.",
+          "options": [
+            "have been writing",
+            "have written",
+            "am writing"
+          ],
+          "answer": 1,
+          "explain": "Важно количество (три отчёта) — Present Perfect Simple."
+        },
+        {
+          "q": "The engineer ___ the X-ray machine since 9 a.m., and he's still not finished.",
+          "options": [
+            "repairs",
+            "repaired",
+            "is repairing",
+            "has been repairing"
+          ],
+          "answer": 3,
+          "explain": "since + всё ещё продолжается — Present Perfect Continuous."
+        },
+        {
+          "q": "Mr. Akhmetov has been our partner ___ the company opened.",
+          "options": [
+            "when",
+            "for",
+            "since"
+          ],
+          "answer": 2,
+          "explain": "since + событие, с которого всё началось."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "en": "Past Perfect",
+      "ru": "Past Perfect",
+      "summary": "Past Perfect показывает, что одно действие в прошлом случилось раньше другого прошлого действия — «уже успело произойти к тому моменту».",
+      "formula": [
+        "had + V3",
+        "By the time + V2, … had + V3"
+      ],
+      "rules": [
+        {
+          "ru": "Действие произошло раньше другого прошлого события.",
+          "en": "When I arrived, the meeting had already started.",
+          "tr": "Когда я приехал, встреча уже началась."
+        },
+        {
+          "ru": "Часто с by the time, before, after.",
+          "en": "By the time we called, they had signed with a competitor.",
+          "tr": "К нашему звонку они уже подписали договор с конкурентом."
+        },
+        {
+          "ru": "Если события идут по порядку, достаточно Past Simple.",
+          "en": "I opened the box and checked the device.",
+          "tr": "Я открыл коробку и проверил прибор."
+        },
+        {
+          "ru": "never / ever до какого-то момента в прошлом.",
+          "en": "I had never seen Tokyo before that trip.",
+          "tr": "До той поездки я ни разу не был в Токио."
+        },
+        {
+          "ru": "Причина, которая случилась ещё раньше.",
+          "en": "She was upset because the hotel had lost her booking.",
+          "tr": "Она расстроилась, потому что отель потерял её бронь."
+        }
+      ],
+      "signals": [
+        "already",
+        "by the time",
+        "before",
+        "after",
+        "never … before",
+        "just"
+      ],
+      "mistake": {
+        "wrong": "When I got to the airport, the plane already left.",
+        "right": "When I got to the airport, the plane had already left.",
+        "note": "В русском нет «предпрошедшего» времени; без had получается, что самолёт улетел ровно в момент вашего прихода."
+      },
+      "exercises": [
+        {
+          "q": "When we got to the hospital, the surgery ___.",
+          "options": [
+            "already started",
+            "had already started",
+            "has already started",
+            "already starts"
+          ],
+          "answer": 1,
+          "explain": "Операция началась раньше нашего прихода — Past Perfect."
+        },
+        {
+          "q": "I didn't recognize him because he ___ a lot.",
+          "options": [
+            "had changed",
+            "has changed",
+            "changes"
+          ],
+          "answer": 0,
+          "explain": "Изменился раньше момента встречи — had + V3."
+        },
+        {
+          "q": "By the time the shipment arrived, the client ___ the order.",
+          "options": [
+            "cancels",
+            "has canceled",
+            "had canceled",
+            "was cancel"
+          ],
+          "answer": 2,
+          "explain": "By the time + прошлое — Past Perfect."
+        },
+        {
+          "q": "She ___ never ___ abroad before she joined our company.",
+          "options": [
+            "has / traveled",
+            "had / traveled",
+            "did / travel",
+            "was / traveled"
+          ],
+          "answer": 1,
+          "explain": "never … before + момент в прошлом — Past Perfect."
+        },
+        {
+          "q": "The director was angry because nobody ___ the contract.",
+          "options": [
+            "had read",
+            "has read",
+            "reads"
+          ],
+          "answer": 0,
+          "explain": "Причина в более раннем прошлом — had + V3."
+        },
+        {
+          "q": "___ you ever ___ to Mexico before your first business trip there?",
+          "options": [
+            "Have / been",
+            "Did / been",
+            "Had / been"
+          ],
+          "answer": 2,
+          "explain": "Опыт до момента в прошлом — Past Perfect."
+        },
+        {
+          "q": "I was nervous because I ___ to a tender committee before.",
+          "options": [
+            "never spoke",
+            "had never spoken",
+            "have never spoken",
+            "never speak"
+          ],
+          "answer": 1,
+          "explain": "Опыт до прошлого момента — had never + V3."
+        },
+        {
+          "q": "By 2020, our company ___ more than 500 devices in Latin America.",
+          "options": [
+            "has installed",
+            "installs",
+            "install",
+            "had installed"
+          ],
+          "answer": 3,
+          "explain": "By + год в прошлом — Past Perfect."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "en": "used to / would / be used to",
+      "ru": "used to, would и be used to",
+      "summary": "used to + V — то, что раньше было регулярно, а теперь нет. would — повторяющиеся действия в прошлом (не состояния). be / get used to + V-ing — «привык / привыкаю».",
+      "formula": [
+        "used to + V",
+        "would + V (только действия)",
+        "be / get used to + V-ing или сущ."
+      ],
+      "rules": [
+        {
+          "ru": "Прошлая привычка или состояние, которого больше нет — used to.",
+          "en": "I used to work for a pharmaceutical company.",
+          "tr": "Раньше я работал в фармкомпании."
+        },
+        {
+          "ru": "В отрицании и вопросе — use to без -d: didn't use to, Did you use to…?",
+          "en": "Did you use to travel this much?",
+          "tr": "Ты раньше так много ездил?"
+        },
+        {
+          "ru": "would — только для повторяющихся действий, не для состояний.",
+          "en": "On Fridays we would go to the same sushi bar.",
+          "tr": "По пятницам мы ходили в один и тот же суши-бар."
+        },
+        {
+          "ru": "be used to + V-ing / сущ. — «привык».",
+          "en": "I'm used to long flights.",
+          "tr": "Я привык к долгим перелётам."
+        },
+        {
+          "ru": "get used to — «привыкать», процесс.",
+          "en": "It took me a month to get used to the time difference.",
+          "tr": "Мне понадобился месяц, чтобы привыкнуть к разнице во времени."
+        }
+      ],
+      "signals": [
+        "anymore",
+        "before",
+        "when I was…",
+        "now",
+        "at first"
+      ],
+      "mistake": {
+        "wrong": "I am used to work late.",
+        "right": "I am used to working late.",
+        "note": "В be used to частица to — это предлог, поэтому дальше -ing, а не инфинитив; русскоговорящие часто путают с used to + V."
+      },
+      "exercises": [
+        {
+          "q": "I ___ smoke, but I quit five years ago.",
+          "options": [
+            "use to",
+            "used to",
+            "am used to",
+            "was used to"
+          ],
+          "answer": 1,
+          "explain": "Прошлая привычка, которой больше нет — used to + V."
+        },
+        {
+          "q": "Don't worry about the night flight. I ___ sleeping on planes.",
+          "options": [
+            "used to",
+            "am used to",
+            "use to"
+          ],
+          "answer": 1,
+          "explain": "«Я привык» + V-ing — be used to."
+        },
+        {
+          "q": "We ___ have an office in Bishkek, but we closed it.",
+          "options": [
+            "used to",
+            "would",
+            "are used to"
+          ],
+          "answer": 0,
+          "explain": "have здесь — состояние, would с ним не используют."
+        },
+        {
+          "q": "___ you use to live in Moscow?",
+          "options": [
+            "Were",
+            "Are",
+            "Did",
+            "Do"
+          ],
+          "answer": 2,
+          "explain": "Вопрос с used to строится через Did … use to."
+        },
+        {
+          "q": "At first the spicy food was hard, but I soon got used to ___ it.",
+          "options": [
+            "eat",
+            "ate",
+            "eating"
+          ],
+          "answer": 2,
+          "explain": "После get used to — V-ing."
+        },
+        {
+          "q": "When I was a student, I ___ walk to the university every day.",
+          "options": [
+            "would",
+            "am used to",
+            "was used",
+            "use"
+          ],
+          "answer": 0,
+          "explain": "Повторяющееся действие в прошлом — would + V."
+        },
+        {
+          "q": "She ___ like coffee, but now she drinks three cups a day.",
+          "options": [
+            "wouldn't",
+            "isn't used to",
+            "didn't used to",
+            "didn't use to"
+          ],
+          "answer": 3,
+          "explain": "После didn't — use без -d; would с like (состоянием) не используют."
+        },
+        {
+          "q": "Our new engineer isn't used to ___ in Spanish yet.",
+          "options": [
+            "work",
+            "working",
+            "worked",
+            "works"
+          ],
+          "answer": 1,
+          "explain": "be used to + V-ing."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "en": "Future: will, be going to, Present Continuous",
+      "ru": "Будущее: will, be going to, Present Continuous",
+      "summary": "will — решение в момент речи, обещание, мнение о будущем. be going to — заранее принятое решение или прогноз по признакам. Present Continuous — договорённость на конкретное время.",
+      "formula": [
+        "will + V",
+        "am / is / are going to + V",
+        "am / is / are + V-ing (договорённость)"
+      ],
+      "rules": [
+        {
+          "ru": "Решение прямо сейчас или предложение помощи — will.",
+          "en": "The printer is broken? I'll send the file by email.",
+          "tr": "Принтер сломан? Тогда отправлю файл по почте."
+        },
+        {
+          "ru": "Обещания и мнения (I think, probably) — will.",
+          "en": "I think the client will accept our offer.",
+          "tr": "Думаю, клиент примет наше предложение."
+        },
+        {
+          "ru": "Решение принято заранее, это план — be going to.",
+          "en": "We're going to open an office in Lima next year.",
+          "tr": "В следующем году мы собираемся открыть офис в Лиме."
+        },
+        {
+          "ru": "Прогноз по тому, что видно сейчас — be going to.",
+          "en": "Look at that line! We're going to miss our flight.",
+          "tr": "Посмотри на очередь! Мы опоздаем на рейс."
+        },
+        {
+          "ru": "Договорённость с датой и временем — Present Continuous.",
+          "en": "I'm meeting the chief doctor on Tuesday at ten.",
+          "tr": "Во вторник в десять у меня встреча с главврачом."
+        }
+      ],
+      "signals": [
+        "tomorrow",
+        "next week",
+        "tonight",
+        "soon",
+        "I think",
+        "probably"
+      ],
+      "mistake": {
+        "wrong": "Don't worry, I help you with the documents.",
+        "right": "Don't worry, I'll help you with the documents.",
+        "note": "Русское «я помогу» звучит как настоящее, но обещание и спонтанное решение в английском требуют will."
+      },
+      "exercises": [
+        {
+          "q": "A: The client needs the price list. B: OK, I ___ it right now.",
+          "options": [
+            "send",
+            "'ll send",
+            "am going to sending"
+          ],
+          "answer": 1,
+          "explain": "Решение принято в момент речи — will."
+        },
+        {
+          "q": "What ___ you ___ this weekend? — I'm flying to Osaka.",
+          "options": [
+            "are / doing",
+            "do / do",
+            "will / doing"
+          ],
+          "answer": 0,
+          "explain": "Вопрос о планах-договорённостях — Present Continuous."
+        },
+        {
+          "q": "Look at those black clouds. It ___ rain.",
+          "options": [
+            "is going to",
+            "will be",
+            "is raining to",
+            "goes to"
+          ],
+          "answer": 0,
+          "explain": "Прогноз по видимым признакам — be going to."
+        },
+        {
+          "q": "I ___ the chief doctor at 10 a.m. tomorrow. It's in my calendar.",
+          "options": [
+            "meet",
+            "am meeting",
+            "will meeting",
+            "meeting"
+          ],
+          "answer": 1,
+          "explain": "Договорённость с точным временем — Present Continuous."
+        },
+        {
+          "q": "I think prices ___ next year.",
+          "options": [
+            "rise",
+            "are rising to",
+            "will rise"
+          ],
+          "answer": 2,
+          "explain": "I think + мнение о будущем — will."
+        },
+        {
+          "q": "We've decided. We ___ hire a new sales manager for Chile.",
+          "options": [
+            "will to",
+            "are going to",
+            "go to",
+            "going"
+          ],
+          "answer": 1,
+          "explain": "Заранее принятое решение — be going to."
+        },
+        {
+          "q": "Don't worry, I ___ tell anyone about the discount.",
+          "options": [
+            "won't",
+            "don't",
+            "am not going"
+          ],
+          "answer": 0,
+          "explain": "Обещание — will not = won't."
+        },
+        {
+          "q": "Wait, I ___ you with that heavy box.",
+          "options": [
+            "help",
+            "'m helping",
+            "helped",
+            "'ll help"
+          ],
+          "answer": 3,
+          "explain": "Спонтанное предложение помощи — will."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "en": "First Conditional (if / unless / when / as soon as)",
+      "ru": "Первый тип условных предложений",
+      "summary": "Реальное условие в будущем. После if, unless, when, as soon as ставим Present Simple, хотя по-русски там будущее время.",
+      "formula": [
+        "If + Present Simple, will + V",
+        "unless = if … not",
+        "when / as soon as + Present Simple"
+      ],
+      "rules": [
+        {
+          "ru": "Реальная ситуация в будущем и её результат.",
+          "en": "If you sign today, we'll ship next week.",
+          "tr": "Если подпишете сегодня, отгрузим на следующей неделе."
+        },
+        {
+          "ru": "После if — Present Simple, а не will.",
+          "en": "If the price goes up, we'll lose the tender.",
+          "tr": "Если цена вырастет, мы проиграем тендер."
+        },
+        {
+          "ru": "unless = «если не».",
+          "en": "We won't ship unless you pay the deposit.",
+          "tr": "Мы не отгрузим, если вы не внесёте предоплату."
+        },
+        {
+          "ru": "when — уверены, что это случится; if — не уверены.",
+          "en": "When I land in Almaty, I'll call you.",
+          "tr": "Когда приземлюсь в Алматы, позвоню тебе."
+        },
+        {
+          "ru": "as soon as = «как только», тоже с Present Simple.",
+          "en": "I'll send the invoice as soon as I get back.",
+          "tr": "Пришлю счёт, как только вернусь."
+        }
+      ],
+      "signals": [
+        "if",
+        "unless",
+        "when",
+        "as soon as",
+        "before",
+        "after",
+        "until"
+      ],
+      "mistake": {
+        "wrong": "If you will pay today, we will ship tomorrow.",
+        "right": "If you pay today, we will ship tomorrow.",
+        "note": "По-русски «если заплатите» — будущее время, и его переносят в английский, но после if нужен Present Simple."
+      },
+      "exercises": [
+        {
+          "q": "If the shipment ___ late, the hospital will cancel the order.",
+          "options": [
+            "will be",
+            "is",
+            "be",
+            "was"
+          ],
+          "answer": 1,
+          "explain": "После if в реальном условии — Present Simple."
+        },
+        {
+          "q": "We ___ the tender unless we lower the price.",
+          "options": [
+            "lose",
+            "won't lose",
+            "will lose"
+          ],
+          "answer": 2,
+          "explain": "Главная часть — will; unless уже содержит «не»."
+        },
+        {
+          "q": "I'll call you as soon as I ___ at the hotel.",
+          "options": [
+            "arrive",
+            "will arrive",
+            "arrived"
+          ],
+          "answer": 0,
+          "explain": "После as soon as — Present Simple."
+        },
+        {
+          "q": "___ you send the documents, we can't start the installation.",
+          "options": [
+            "If",
+            "Unless",
+            "When",
+            "As soon as"
+          ],
+          "answer": 1,
+          "explain": "Смысл «если не пришлёте» — unless."
+        },
+        {
+          "q": "If it ___ tomorrow, we'll take a taxi to the clinic.",
+          "options": [
+            "will rain",
+            "rain",
+            "rained",
+            "rains"
+          ],
+          "answer": 3,
+          "explain": "После if — Present Simple; it → rains."
+        },
+        {
+          "q": "What ___ you do if the client says no?",
+          "options": [
+            "will",
+            "do",
+            "are"
+          ],
+          "answer": 0,
+          "explain": "В главной части реального условия — will."
+        },
+        {
+          "q": "When I ___ to Tokyo next month, I'll visit the Ghibli Museum.",
+          "options": [
+            "will go",
+            "went",
+            "go",
+            "going"
+          ],
+          "answer": 2,
+          "explain": "После when о будущем — Present Simple."
+        },
+        {
+          "q": "If you don't hurry, you ___ your train.",
+          "options": [
+            "miss",
+            "will miss",
+            "missed",
+            "would miss"
+          ],
+          "answer": 1,
+          "explain": "Реальное условие: if + Present, will + V."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "en": "Second Conditional and I wish",
+      "ru": "Второй тип условных предложений и I wish",
+      "summary": "Second Conditional — нереальная или маловероятная ситуация сейчас или в будущем. I wish + Past Simple — сожаление о том, что сейчас не так.",
+      "formula": [
+        "If + Past Simple, would + V",
+        "If I were you, I'd…",
+        "I wish + Past Simple / could + V"
+      ],
+      "rules": [
+        {
+          "ru": "Воображаемая ситуация в настоящем.",
+          "en": "If I had more time, I would learn Japanese.",
+          "tr": "Если бы у меня было больше времени, я бы выучил японский."
+        },
+        {
+          "ru": "Совет: If I were you… (were для всех лиц).",
+          "en": "If I were you, I'd ask for a discount.",
+          "tr": "На твоём месте я бы попросил скидку."
+        },
+        {
+          "ru": "Маловероятное будущее.",
+          "en": "If we lost this client, it would be a disaster.",
+          "tr": "Если бы мы потеряли этого клиента, это была бы катастрофа."
+        },
+        {
+          "ru": "I wish + Past Simple — хочется, чтобы сейчас было иначе.",
+          "en": "I wish I spoke better Spanish.",
+          "tr": "Жаль, что я не говорю по-испански лучше."
+        },
+        {
+          "ru": "I wish + could — жаль, что не могу.",
+          "en": "I wish I could stay in Kyoto longer.",
+          "tr": "Жаль, что я не могу остаться в Киото подольше."
+        }
+      ],
+      "signals": [
+        "if",
+        "I wish",
+        "if I were you",
+        "would",
+        "could"
+      ],
+      "mistake": {
+        "wrong": "If I would have money, I would buy a house in Japan.",
+        "right": "If I had money, I would buy a house in Japan.",
+        "note": "В русском «бы» стоит в обеих частях, а в английском would — только в главной; после if — Past Simple."
+      },
+      "exercises": [
+        {
+          "q": "If I ___ the CEO, I would open an office in Peru.",
+          "options": [
+            "am",
+            "were",
+            "will be",
+            "would be"
+          ],
+          "answer": 1,
+          "explain": "Нереальная ситуация: if + were."
+        },
+        {
+          "q": "If we had a bigger budget, we ___ more engineers.",
+          "options": [
+            "will hire",
+            "hire",
+            "would hire"
+          ],
+          "answer": 2,
+          "explain": "Главная часть второго типа — would + V."
+        },
+        {
+          "q": "I wish I ___ more time to see Tokyo.",
+          "options": [
+            "had",
+            "have",
+            "will have",
+            "would have"
+          ],
+          "answer": 0,
+          "explain": "I wish о настоящем — Past Simple."
+        },
+        {
+          "q": "If I ___ you, I'd check the contract again.",
+          "options": [
+            "am",
+            "be",
+            "were"
+          ],
+          "answer": 2,
+          "explain": "Устойчивый совет: If I were you."
+        },
+        {
+          "q": "What would you do if the flight ___ canceled?",
+          "options": [
+            "is",
+            "was",
+            "will be",
+            "would be"
+          ],
+          "answer": 1,
+          "explain": "После if во втором типе — прошедшая форма."
+        },
+        {
+          "q": "I wish I ___ speak Japanese. It would help me in Osaka.",
+          "options": [
+            "can",
+            "could",
+            "will"
+          ],
+          "answer": 1,
+          "explain": "Сожаление о неумении — I wish + could."
+        },
+        {
+          "q": "If the device ___ cheaper, more clinics would buy it.",
+          "options": [
+            "is",
+            "will be",
+            "would be",
+            "were"
+          ],
+          "answer": 3,
+          "explain": "Нереальное условие: if + were/Past Simple."
+        },
+        {
+          "q": "She would travel more if she ___ afraid of flying.",
+          "options": [
+            "isn't",
+            "wasn't",
+            "won't be",
+            "wouldn't be"
+          ],
+          "answer": 1,
+          "explain": "После if — Past Simple, would не ставим."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "en": "must / have to / should / don't have to",
+      "ru": "must, have to, should и don't have to",
+      "summary": "must и have to — обязанность, should — совет. Главная ловушка: don't have to — «не обязательно», а mustn't — «нельзя».",
+      "formula": [
+        "must / have to + V",
+        "should + V",
+        "don't have to ≠ mustn't"
+      ],
+      "rules": [
+        {
+          "ru": "must и have to — «надо, обязательно». В разговоре американцы чаще говорят have to.",
+          "en": "I have to renew my visa before the trip.",
+          "tr": "Мне нужно продлить визу перед поездкой."
+        },
+        {
+          "ru": "В прошлом и будущем — только had to / will have to.",
+          "en": "We had to wait six hours in Istanbul.",
+          "tr": "Нам пришлось ждать шесть часов в Стамбуле."
+        },
+        {
+          "ru": "don't have to — «не обязательно, можно не делать».",
+          "en": "You don't have to print the contract. We sign online.",
+          "tr": "Договор можно не распечатывать: подписываем онлайн."
+        },
+        {
+          "ru": "mustn't — запрет, «нельзя».",
+          "en": "You mustn't share our prices with other distributors.",
+          "tr": "Нельзя сообщать наши цены другим дистрибьюторам."
+        },
+        {
+          "ru": "should — совет, «стоит, следует».",
+          "en": "You should try the ramen near the station.",
+          "tr": "Тебе стоит попробовать рамен у вокзала."
+        }
+      ],
+      "signals": [],
+      "mistake": {
+        "wrong": "You mustn't come to the meeting. It's optional.",
+        "right": "You don't have to come to the meeting. It's optional.",
+        "note": "Русское «не должен» сбивает с толку: mustn't — это запрет, а «не обязательно» — don't have to."
+      },
+      "exercises": [
+        {
+          "q": "The meeting is online, so you ___ come to the office.",
+          "options": [
+            "mustn't",
+            "don't have to",
+            "have to",
+            "must"
+          ],
+          "answer": 1,
+          "explain": "Приходить не обязательно — don't have to."
+        },
+        {
+          "q": "Passengers ___ smoke on the plane.",
+          "options": [
+            "mustn't",
+            "don't have to",
+            "should"
+          ],
+          "answer": 0,
+          "explain": "Запрет — mustn't."
+        },
+        {
+          "q": "Yesterday I ___ stay late to finish the tender documents.",
+          "options": [
+            "must",
+            "have to",
+            "had to",
+            "should"
+          ],
+          "answer": 2,
+          "explain": "Обязанность в прошлом — только had to."
+        },
+        {
+          "q": "You look exhausted. You ___ take a day off.",
+          "options": [
+            "mustn't",
+            "should",
+            "don't have to"
+          ],
+          "answer": 1,
+          "explain": "Совет — should."
+        },
+        {
+          "q": "___ you have to work on Saturdays?",
+          "options": [
+            "Must",
+            "Are",
+            "Have",
+            "Do"
+          ],
+          "answer": 3,
+          "explain": "Вопрос с have to строится через do."
+        },
+        {
+          "q": "Next year we ___ get a new license for this device.",
+          "options": [
+            "will must",
+            "will have to",
+            "have to will",
+            "must to"
+          ],
+          "answer": 1,
+          "explain": "У must нет формы будущего — will have to."
+        },
+        {
+          "q": "In Japan you ___ tip in restaurants. It's not the custom.",
+          "options": [
+            "don't have to",
+            "must",
+            "have to",
+            "should"
+          ],
+          "answer": 0,
+          "explain": "Чаевые не обязательны — don't have to."
+        },
+        {
+          "q": "This is confidential. You ___ show it to anyone outside the company.",
+          "options": [
+            "should",
+            "don't have to",
+            "mustn't"
+          ],
+          "answer": 2,
+          "explain": "Показывать нельзя — запрет, mustn't."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "en": "Deduction and possibility: may / might / could / must / can't",
+      "ru": "Предположения: may, might, could, must, can't",
+      "summary": "С помощью этих модальных глаголов делаем выводы. must — почти уверены, что «да», can't — почти уверены, что «нет», may / might / could — «возможно».",
+      "formula": [
+        "must / can't + V — уверенность",
+        "may / might / could + V — возможно",
+        "must / can't / might + have + V3 — о прошлом"
+      ],
+      "rules": [
+        {
+          "ru": "must — «наверняка», вывод по фактам.",
+          "en": "She's been flying for 14 hours. She must be tired.",
+          "tr": "Она летела 14 часов. Наверняка устала."
+        },
+        {
+          "ru": "can't — «не может быть».",
+          "en": "That can't be the final price. It's too low.",
+          "tr": "Не может быть, чтобы это была окончательная цена. Слишком низкая."
+        },
+        {
+          "ru": "may / might / could — «возможно»; might звучит чуть менее уверенно.",
+          "en": "The shipment might arrive on Friday.",
+          "tr": "Груз, возможно, придёт в пятницу."
+        },
+        {
+          "ru": "«Возможно, не…» — may not / might not (не could not и не can't).",
+          "en": "He may not know about the new prices.",
+          "tr": "Возможно, он не знает о новых ценах."
+        },
+        {
+          "ru": "О прошлом: must / can't / might + have + V3.",
+          "en": "I can't find my passport. I must have left it at the hotel.",
+          "tr": "Не могу найти паспорт. Наверное, оставил его в отеле."
+        }
+      ],
+      "signals": [
+        "probably",
+        "maybe",
+        "perhaps",
+        "I'm sure",
+        "I'm not sure",
+        "it's impossible"
+      ],
+      "mistake": {
+        "wrong": "He mustn't be at the office. His car isn't here.",
+        "right": "He can't be at the office. His car isn't here.",
+        "note": "Для вывода «не может быть» нужен can't; mustn't означает запрет, а не уверенность — русскоговорящие часто их путают."
+      },
+      "exercises": [
+        {
+          "q": "He ___ be in Tokyo. I saw him in Almaty ten minutes ago.",
+          "options": [
+            "must",
+            "can't",
+            "might",
+            "may"
+          ],
+          "answer": 1,
+          "explain": "Это невозможно — can't."
+        },
+        {
+          "q": "You've been traveling all week. You ___ be exhausted.",
+          "options": [
+            "must",
+            "can't",
+            "mustn't"
+          ],
+          "answer": 0,
+          "explain": "Логичный вывод, почти уверены — must."
+        },
+        {
+          "q": "I'm not sure, but the client ___ call back today.",
+          "options": [
+            "must",
+            "can't",
+            "might",
+            "has to"
+          ],
+          "answer": 2,
+          "explain": "Не уверены — might."
+        },
+        {
+          "q": "That ___ be Maria's car. She sold it last year.",
+          "options": [
+            "must",
+            "may",
+            "can't"
+          ],
+          "answer": 2,
+          "explain": "Машину продали, значит не может быть — can't."
+        },
+        {
+          "q": "Kenji isn't answering. He ___ be in a meeting, but I'm not sure.",
+          "options": [
+            "could",
+            "must",
+            "can't",
+            "has to"
+          ],
+          "answer": 0,
+          "explain": "Одна из возможностей, без уверенности — could."
+        },
+        {
+          "q": "The box is empty. Someone ___ have taken the samples.",
+          "options": [
+            "can't",
+            "must",
+            "should",
+            "mustn't"
+          ],
+          "answer": 1,
+          "explain": "Уверенный вывод о прошлом — must have + V3."
+        },
+        {
+          "q": "Take an umbrella. It ___ rain later.",
+          "options": [
+            "may",
+            "must",
+            "can't"
+          ],
+          "answer": 0,
+          "explain": "Дождь возможен, но не точно — may."
+        },
+        {
+          "q": "She ___ have read my email carefully. She asked the same question again.",
+          "options": [
+            "must",
+            "mustn't",
+            "has to",
+            "can't"
+          ],
+          "answer": 3,
+          "explain": "Уверены, что не прочитала — can't have + V3."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "en": "Passive voice",
+      "ru": "Пассивный залог",
+      "summary": "Пассив нужен, когда важно действие или результат, а не тот, кто его выполнил. Форма: be в нужном времени + V3.",
+      "formula": [
+        "am / is / are + V3 · was / were + V3",
+        "has / have been + V3",
+        "modal + be + V3"
+      ],
+      "rules": [
+        {
+          "ru": "Present Simple: is / are + V3 — факты и процессы.",
+          "en": "The scanners are made in Korea.",
+          "tr": "Сканеры производят в Корее."
+        },
+        {
+          "ru": "Past Simple: was / were + V3.",
+          "en": "The contract was signed in March.",
+          "tr": "Контракт подписали в марте."
+        },
+        {
+          "ru": "Present Perfect: has / have been + V3 — результат к настоящему моменту.",
+          "en": "The equipment has been delivered to the hospital.",
+          "tr": "Оборудование уже доставили в больницу."
+        },
+        {
+          "ru": "С модальными: must / can / should + be + V3.",
+          "en": "The device must be calibrated every year.",
+          "tr": "Прибор нужно калибровать каждый год."
+        },
+        {
+          "ru": "by + исполнитель — только если это важно.",
+          "en": "The system was installed by our local partner.",
+          "tr": "Систему установил наш местный партнёр."
+        }
+      ],
+      "signals": [
+        "by",
+        "made in",
+        "was built",
+        "has been"
+      ],
+      "mistake": {
+        "wrong": "This device is producing in Germany.",
+        "right": "This device is produced in Germany.",
+        "note": "Русское «производится» — это пассив, поэтому нужно is produced; is producing значит, что прибор сам что-то производит."
+      },
+      "exercises": [
+        {
+          "q": "The contract ___ by both sides last week.",
+          "options": [
+            "signed",
+            "was signed",
+            "is signed",
+            "has signed"
+          ],
+          "answer": 1,
+          "explain": "Прошлое + пассив — was + V3."
+        },
+        {
+          "q": "English ___ at most international conferences.",
+          "options": [
+            "is spoken",
+            "speaks",
+            "is speaking"
+          ],
+          "answer": 0,
+          "explain": "Язык не говорит сам — пассив is + V3."
+        },
+        {
+          "q": "The new MRI machine ___ already ___ to the clinic.",
+          "options": [
+            "is / delivering",
+            "has / delivered",
+            "has / been delivered",
+            "was / deliver"
+          ],
+          "answer": 2,
+          "explain": "Результат к настоящему моменту — has been + V3."
+        },
+        {
+          "q": "All devices must ___ before shipment.",
+          "options": [
+            "test",
+            "be tested",
+            "been tested",
+            "tested"
+          ],
+          "answer": 1,
+          "explain": "После модального глагола — be + V3."
+        },
+        {
+          "q": "Where ___ these monitors made?",
+          "options": [
+            "is",
+            "do",
+            "does",
+            "are"
+          ],
+          "answer": 3,
+          "explain": "monitors — множественное число: are + V3."
+        },
+        {
+          "q": "Our booking ___ by the hotel, so we had to find another one.",
+          "options": [
+            "canceled",
+            "was canceled",
+            "has canceling"
+          ],
+          "answer": 1,
+          "explain": "Бронь отменили — пассив was + V3."
+        },
+        {
+          "q": "The meeting room ___ cleaned every morning.",
+          "options": [
+            "is",
+            "does",
+            "has"
+          ],
+          "answer": 0,
+          "explain": "Регулярное действие в пассиве — is + V3."
+        },
+        {
+          "q": "Two new distributors ___ in Colombia this year.",
+          "options": [
+            "have appointed",
+            "have been appointed",
+            "are appointing",
+            "appointed"
+          ],
+          "answer": 1,
+          "explain": "Дистрибьюторов назначили, this year — have been + V3."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "en": "Relative clauses: who / which / that / where / whose",
+      "ru": "Придаточные: who, which, that, where, whose",
+      "summary": "Эти слова присоединяют уточнение: о ком или о чём речь. who — люди, which — вещи, that — и люди, и вещи в разговорной речи, where — места, whose — «чей».",
+      "formula": [
+        "who / that — люди",
+        "which / that — вещи",
+        "where — место · whose — чей"
+      ],
+      "rules": [
+        {
+          "ru": "who — для людей.",
+          "en": "The doctor who tested our scanner liked it.",
+          "tr": "Врачу, который тестировал наш сканер, он понравился."
+        },
+        {
+          "ru": "which / that — для вещей.",
+          "en": "This is the model that sells best in Peru.",
+          "tr": "Это модель, которая лучше всего продаётся в Перу."
+        },
+        {
+          "ru": "where — для мест («где, в котором»).",
+          "en": "That's the hotel where we stayed in Osaka.",
+          "tr": "Вот отель, в котором мы жили в Осаке."
+        },
+        {
+          "ru": "whose — «чей, у которого».",
+          "en": "We met a distributor whose company works in five countries.",
+          "tr": "Мы познакомились с дистрибьютором, чья компания работает в пяти странах."
+        },
+        {
+          "ru": "Если who / which / that — дополнение, его можно опустить.",
+          "en": "The samples you sent arrived today.",
+          "tr": "Образцы, которые вы прислали, пришли сегодня."
+        }
+      ],
+      "signals": [
+        "who",
+        "which",
+        "that",
+        "where",
+        "whose"
+      ],
+      "mistake": {
+        "wrong": "The engineer which repaired the device is from Chile.",
+        "right": "The engineer who repaired the device is from Chile.",
+        "note": "Русское «который» подходит и для людей, и для вещей, а в английском для людей нужен who (или that)."
+      },
+      "exercises": [
+        {
+          "q": "The manager ___ called you is my colleague.",
+          "options": [
+            "which",
+            "who",
+            "where",
+            "whose"
+          ],
+          "answer": 1,
+          "explain": "Речь о человеке — who."
+        },
+        {
+          "q": "This is the city ___ I was born.",
+          "options": [
+            "where",
+            "which",
+            "who"
+          ],
+          "answer": 0,
+          "explain": "Место + «где» — where."
+        },
+        {
+          "q": "We need a supplier ___ prices are lower.",
+          "options": [
+            "who",
+            "which",
+            "whose",
+            "that"
+          ],
+          "answer": 2,
+          "explain": "«Чьи цены» — whose."
+        },
+        {
+          "q": "The device ___ we sold to the clinic has a two-year warranty.",
+          "options": [
+            "who",
+            "where",
+            "whose",
+            "which"
+          ],
+          "answer": 3,
+          "explain": "Речь о предмете — which."
+        },
+        {
+          "q": "I'd like to visit the temple ___ the famous garden is.",
+          "options": [
+            "where",
+            "which",
+            "who",
+            "whose"
+          ],
+          "answer": 0,
+          "explain": "«Где находится сад» — where."
+        },
+        {
+          "q": "The hotel ___ we booked is next to the station.",
+          "options": [
+            "where",
+            "who",
+            "which",
+            "whose"
+          ],
+          "answer": 2,
+          "explain": "Отель здесь — дополнение (we booked the hotel), поэтому which, а не where."
+        },
+        {
+          "q": "Do you know the woman ___ car is parked outside?",
+          "options": [
+            "who",
+            "whose",
+            "which"
+          ],
+          "answer": 1,
+          "explain": "«Чья машина» — whose."
+        },
+        {
+          "q": "She is the doctor ___ helped us with the clinical tests.",
+          "options": [
+            "that",
+            "which",
+            "where",
+            "whose"
+          ],
+          "answer": 0,
+          "explain": "О человеке можно сказать that (или who)."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "en": "Reported speech: statements, questions, requests",
+      "ru": "Косвенная речь: утверждения, вопросы, просьбы",
+      "summary": "Когда пересказываем чужие слова после said / told / asked, время обычно сдвигается на шаг в прошлое, меняются местоимения и слова времени. Вопросы получают прямой порядок слов, просьбы — to + V.",
+      "formula": [
+        "said (that) + сдвиг времени",
+        "asked if / where … + прямой порядок слов",
+        "told / asked + кого-то + (not) to + V"
+      ],
+      "rules": [
+        {
+          "ru": "Сдвиг времён: am → was, will → would, can → could.",
+          "en": "«I'm busy.» → She said she was busy.",
+          "tr": "Она сказала, что занята."
+        },
+        {
+          "ru": "said — без адресата, told — всегда с адресатом: told me / told the client.",
+          "en": "He told me the price had changed.",
+          "tr": "Он сказал мне, что цена изменилась."
+        },
+        {
+          "ru": "Общий вопрос → asked if / whether + прямой порядок слов.",
+          "en": "She asked if we could deliver in May.",
+          "tr": "Она спросила, сможем ли мы поставить в мае."
+        },
+        {
+          "ru": "Специальный вопрос → asked + where / when…, без do / did.",
+          "en": "He asked where the hotel was.",
+          "tr": "Он спросил, где находится отель."
+        },
+        {
+          "ru": "Просьбы и указания → asked / told + кого-то + (not) to + V.",
+          "en": "The doctor asked us not to call after six.",
+          "tr": "Врач попросил нас не звонить после шести."
+        }
+      ],
+      "signals": [
+        "said",
+        "told",
+        "asked",
+        "the next day",
+        "the day before",
+        "that day"
+      ],
+      "mistake": {
+        "wrong": "He asked me where did I live.",
+        "right": "He asked me where I lived.",
+        "note": "В косвенном вопросе нет do / did и инверсии — порядок слов как в обычном утверждении; это одна из самых частых ошибок русскоговорящих."
+      },
+      "exercises": [
+        {
+          "q": "She ___ me that the shipment was delayed.",
+          "options": [
+            "said",
+            "told",
+            "asked",
+            "spoke"
+          ],
+          "answer": 1,
+          "explain": "Есть адресат (me) — told."
+        },
+        {
+          "q": "«I will call you tomorrow.» → He said he ___ call me the next day.",
+          "options": [
+            "will",
+            "can",
+            "would"
+          ],
+          "answer": 2,
+          "explain": "will в косвенной речи становится would."
+        },
+        {
+          "q": "The client asked when ___.",
+          "options": [
+            "the device would arrive",
+            "would the device arrive",
+            "will arrive the device",
+            "did the device arrive"
+          ],
+          "answer": 0,
+          "explain": "Косвенный вопрос — прямой порядок слов."
+        },
+        {
+          "q": "Our manager told us ___ late for the meeting.",
+          "options": [
+            "not be",
+            "to not being",
+            "not to be",
+            "don't be"
+          ],
+          "answer": 2,
+          "explain": "Отрицательная просьба — not to + V."
+        },
+        {
+          "q": "She asked me ___ I had a business visa.",
+          "options": [
+            "that",
+            "if",
+            "what",
+            "do"
+          ],
+          "answer": 1,
+          "explain": "Общий вопрос в косвенной речи — if."
+        },
+        {
+          "q": "«I'm tired,» she said yesterday. → Yesterday she said she ___ tired.",
+          "options": [
+            "is",
+            "was",
+            "were",
+            "has been"
+          ],
+          "answer": 1,
+          "explain": "am сдвигается в was."
+        },
+        {
+          "q": "The receptionist asked us ___ our passports.",
+          "options": [
+            "show",
+            "showing",
+            "that we show",
+            "to show"
+          ],
+          "answer": 3,
+          "explain": "Просьба — asked + кого-то + to + V."
+        },
+        {
+          "q": "He ___ that he had already sent the invoice.",
+          "options": [
+            "said",
+            "told",
+            "asked"
+          ],
+          "answer": 0,
+          "explain": "Адресата нет — said."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "en": "Gerund vs infinitive",
+      "ru": "Герундий или инфинитив",
+      "summary": "Одни глаголы требуют после себя -ing (enjoy, avoid, finish), другие — to + V (want, decide, plan). У stop, remember и try смысл меняется в зависимости от формы.",
+      "formula": [
+        "enjoy / avoid / finish / mind / suggest + V-ing",
+        "want / decide / plan / hope / agree + to V",
+        "stop, remember, try — смысл меняется"
+      ],
+      "rules": [
+        {
+          "ru": "-ing после enjoy, avoid, finish, mind, suggest, keep.",
+          "en": "I enjoy visiting new markets.",
+          "tr": "Мне нравится осваивать новые рынки."
+        },
+        {
+          "ru": "to + V после want, decide, plan, hope, agree, need, promise.",
+          "en": "They agreed to sign the contract next week.",
+          "tr": "Они согласились подписать контракт на следующей неделе."
+        },
+        {
+          "ru": "После предлогов (in, for, about, before) — всегда -ing.",
+          "en": "I'm interested in working with your company.",
+          "tr": "Мне интересно сотрудничество с вашей компанией."
+        },
+        {
+          "ru": "stop doing — перестать; stop to do — остановиться, чтобы что-то сделать.",
+          "en": "We stopped to buy coffee on the way to the clinic.",
+          "tr": "По дороге в клинику мы остановились купить кофе."
+        },
+        {
+          "ru": "remember to do — не забыть сделать; remember doing — помнить, что делал. Так же try to do (стараться) / try doing (попробовать как способ).",
+          "en": "Remember to bring your passport tomorrow.",
+          "tr": "Не забудь завтра взять паспорт."
+        }
+      ],
+      "signals": [
+        "enjoy",
+        "avoid",
+        "finish",
+        "mind",
+        "decide",
+        "want",
+        "plan",
+        "stop",
+        "remember",
+        "try"
+      ],
+      "mistake": {
+        "wrong": "I'm looking forward to meet you in Almaty.",
+        "right": "I'm looking forward to meeting you in Almaty.",
+        "note": "В look forward to частица to — предлог, поэтому дальше -ing; русскоговорящие по привычке ставят инфинитив."
+      },
+      "exercises": [
+        {
+          "q": "We decided ___ a new office in Astana.",
+          "options": [
+            "opening",
+            "to open",
+            "open",
+            "opened"
+          ],
+          "answer": 1,
+          "explain": "После decide — to + V."
+        },
+        {
+          "q": "Do you mind ___ the window? It's hot in here.",
+          "options": [
+            "opening",
+            "to open",
+            "open"
+          ],
+          "answer": 0,
+          "explain": "После mind — V-ing."
+        },
+        {
+          "q": "I finished ___ the report at midnight.",
+          "options": [
+            "write",
+            "to write",
+            "writing",
+            "wrote"
+          ],
+          "answer": 2,
+          "explain": "После finish — V-ing."
+        },
+        {
+          "q": "On the way to Nara we stopped ___ some photos of the deer.",
+          "options": [
+            "to take",
+            "taking",
+            "take"
+          ],
+          "answer": 0,
+          "explain": "Остановились, чтобы сфотографировать — stop to do."
+        },
+        {
+          "q": "Please remember ___ out of the hotel before 11 a.m.",
+          "options": [
+            "checking",
+            "to check",
+            "check",
+            "checked"
+          ],
+          "answer": 1,
+          "explain": "Не забыть сделать в будущем — remember to do."
+        },
+        {
+          "q": "I really enjoy ___ to Japan.",
+          "options": [
+            "travel",
+            "to travel",
+            "traveling",
+            "travels"
+          ],
+          "answer": 2,
+          "explain": "После enjoy — V-ing."
+        },
+        {
+          "q": "I'm looking forward to ___ from you.",
+          "options": [
+            "hear",
+            "hearing",
+            "heard"
+          ],
+          "answer": 1,
+          "explain": "look forward to + V-ing."
+        },
+        {
+          "q": "She avoids ___ promises she can't keep.",
+          "options": [
+            "make",
+            "to make",
+            "made",
+            "making"
+          ],
+          "answer": 3,
+          "explain": "После avoid — V-ing."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "en": "Comparatives and superlatives; as…as; too / enough",
+      "ru": "Сравнения; as…as; too и enough",
+      "summary": "Сравнительная степень сравнивает два предмета (-er / more + than), превосходная выделяет один из группы (the -est / the most). as…as — «такой же», too — «слишком», enough — «достаточно».",
+      "formula": [
+        "cheap → cheaper → the cheapest",
+        "expensive → more expensive → the most expensive",
+        "as + adj + as · too + adj · adj + enough"
+      ],
+      "rules": [
+        {
+          "ru": "Короткие прилагательные: -er / the -est.",
+          "en": "Our scanner is lighter than theirs.",
+          "tr": "Наш сканер легче, чем у них."
+        },
+        {
+          "ru": "Длинные прилагательные: more / the most.",
+          "en": "This is the most reliable model on the market.",
+          "tr": "Это самая надёжная модель на рынке."
+        },
+        {
+          "ru": "Исключения: good — better — best, bad — worse — worst, far — farther — farthest.",
+          "en": "The service in Japan was the best I've ever seen.",
+          "tr": "Сервис в Японии был лучшим из всего, что я видел."
+        },
+        {
+          "ru": "as … as — «такой же, как»; not as … as — «не такой, как».",
+          "en": "Lima is not as cold as Almaty in winter.",
+          "tr": "Зимой в Лиме не так холодно, как в Алматы."
+        },
+        {
+          "ru": "too + прил. — «слишком»; прил. + enough — «достаточно» (enough стоит после прилагательного).",
+          "en": "The room isn't big enough for the demo.",
+          "tr": "Комната недостаточно большая для демонстрации."
+        }
+      ],
+      "signals": [
+        "than",
+        "the most",
+        "as … as",
+        "too",
+        "enough",
+        "ever"
+      ],
+      "mistake": {
+        "wrong": "This model is more cheaper than the old one.",
+        "right": "This model is cheaper than the old one.",
+        "note": "Нельзя совмещать more и -er: в русском есть и «более дешёвый», и «дешевле», а в английском — только одна форма."
+      },
+      "exercises": [
+        {
+          "q": "Flying is ___ than taking the train.",
+          "options": [
+            "fast",
+            "faster",
+            "more fast",
+            "fastest"
+          ],
+          "answer": 1,
+          "explain": "Короткое прилагательное + than — -er."
+        },
+        {
+          "q": "This is ___ hotel I've ever stayed in.",
+          "options": [
+            "the best",
+            "the better",
+            "best",
+            "the most good"
+          ],
+          "answer": 0,
+          "explain": "Превосходная степень от good — the best."
+        },
+        {
+          "q": "The new model is ___ than the old one.",
+          "options": [
+            "expensiver",
+            "most expensive",
+            "more expensive"
+          ],
+          "answer": 2,
+          "explain": "Длинное прилагательное — more + adj + than."
+        },
+        {
+          "q": "Our prices are as low ___ our competitors'.",
+          "options": [
+            "than",
+            "as",
+            "like",
+            "that"
+          ],
+          "answer": 1,
+          "explain": "Конструкция as … as."
+        },
+        {
+          "q": "The box is ___ heavy to carry alone.",
+          "options": [
+            "enough",
+            "very much",
+            "too",
+            "so much"
+          ],
+          "answer": 2,
+          "explain": "«Слишком тяжёлая, чтобы…» — too + adj + to."
+        },
+        {
+          "q": "Is the conference room ___ for 30 people?",
+          "options": [
+            "enough big",
+            "big enough",
+            "too big enough"
+          ],
+          "answer": 1,
+          "explain": "enough ставится после прилагательного."
+        },
+        {
+          "q": "This year's sales were ___ than last year's. We need a new strategy.",
+          "options": [
+            "worse",
+            "bad",
+            "worst",
+            "more bad"
+          ],
+          "answer": 0,
+          "explain": "Сравнительная степень от bad — worse."
+        },
+        {
+          "q": "Almaty is ___ city in Kazakhstan.",
+          "options": [
+            "larger",
+            "the most large",
+            "largest",
+            "the largest"
+          ],
+          "answer": 3,
+          "explain": "Один из группы — the + -est."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "en": "Quantifiers: much / many / a lot of / few / a few / little / a little",
+      "ru": "Количество: much, many, a lot of, few, a few, little, a little",
+      "summary": "many и few — с исчисляемыми, much и little — с неисчисляемыми, a lot of — с любыми. a few / a little — «немного, но есть», few / little — «мало, почти нет».",
+      "formula": [
+        "many / (a) few + сущ. во мн. ч.",
+        "much / (a) little + неисчисляемое",
+        "a lot of / lots of — для любых"
+      ],
+      "rules": [
+        {
+          "ru": "many — с исчисляемыми, much — с неисчисляемыми (чаще в вопросах и отрицаниях).",
+          "en": "How many units do you need?",
+          "tr": "Сколько единиц вам нужно?"
+        },
+        {
+          "ru": "В утверждениях американцы обычно говорят a lot of, а не much.",
+          "en": "We have a lot of work this week.",
+          "tr": "На этой неделе у нас много работы."
+        },
+        {
+          "ru": "a few / a little — «несколько, немного» (позитивно).",
+          "en": "I have a few questions about the contract.",
+          "tr": "У меня есть несколько вопросов по контракту."
+        },
+        {
+          "ru": "few / little — «мало, почти нет» (негативно).",
+          "en": "Few clinics can afford this system.",
+          "tr": "Мало какие клиники могут позволить себе эту систему."
+        },
+        {
+          "ru": "Неисчисляемые в английском: information, advice, equipment, luggage, news.",
+          "en": "We need more information about the equipment.",
+          "tr": "Нам нужно больше информации об оборудовании."
+        }
+      ],
+      "signals": [
+        "how much",
+        "how many",
+        "a lot of",
+        "few",
+        "little",
+        "a few",
+        "a little"
+      ],
+      "mistake": {
+        "wrong": "Can you send me some informations about the equipments?",
+        "right": "Can you send me some information about the equipment?",
+        "note": "information и equipment — неисчисляемые, у них нет -s, хотя по-русски «сведения» и «оборудование» звучат как множество."
+      },
+      "exercises": [
+        {
+          "q": "How ___ luggage do you have?",
+          "options": [
+            "many",
+            "much",
+            "few",
+            "a few"
+          ],
+          "answer": 1,
+          "explain": "luggage — неисчисляемое, значит much."
+        },
+        {
+          "q": "There are only ___ rooms left, so book early.",
+          "options": [
+            "a few",
+            "a little",
+            "much"
+          ],
+          "answer": 0,
+          "explain": "rooms — исчисляемое мн. ч.: only a few."
+        },
+        {
+          "q": "We have very ___ time before the flight. Hurry up!",
+          "options": [
+            "few",
+            "little",
+            "many",
+            "a lot"
+          ],
+          "answer": 1,
+          "explain": "time неисчисляемое, смысл «почти нет» — little."
+        },
+        {
+          "q": "I need ___ advice about the visa.",
+          "options": [
+            "many",
+            "a few",
+            "a little"
+          ],
+          "answer": 2,
+          "explain": "advice неисчисляемое — a little."
+        },
+        {
+          "q": "How ___ engineers will come to the installation?",
+          "options": [
+            "much",
+            "little",
+            "many",
+            "a little"
+          ],
+          "answer": 2,
+          "explain": "engineers — исчисляемое, значит many."
+        },
+        {
+          "q": "Unfortunately, ___ people came to our booth this year. Sales were bad.",
+          "options": [
+            "few",
+            "little",
+            "a little",
+            "much"
+          ],
+          "answer": 0,
+          "explain": "Исчисляемое + негативный смысл — few."
+        },
+        {
+          "q": "We don't have ___ money left in the budget.",
+          "options": [
+            "many",
+            "much",
+            "few"
+          ],
+          "answer": 1,
+          "explain": "money неисчисляемое, отрицание — much."
+        },
+        {
+          "q": "The doctor gave us ___ useful feedback.",
+          "options": [
+            "many",
+            "a few",
+            "few",
+            "a lot of"
+          ],
+          "answer": 3,
+          "explain": "feedback неисчисляемое — подходит только a lot of."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "en": "Articles: a / an / the / no article",
+      "ru": "Артикли: a, an, the и без артикля",
+      "summary": "a / an — «один, какой-то», впервые упоминаем. the — конкретный, уже известный или единственный. Без артикля — о вещах в целом и с большинством названий стран и городов.",
+      "formula": [
+        "a + согласный звук · an + гласный звук",
+        "the — известный, конкретный, единственный",
+        "Ø — в общем: Doctors…, Coffee…"
+      ],
+      "rules": [
+        {
+          "ru": "a / an — первое упоминание и профессия.",
+          "en": "She's an engineer at a big hospital.",
+          "tr": "Она инженер в большой больнице."
+        },
+        {
+          "ru": "the — уже упоминали или и так понятно, о чём речь.",
+          "en": "We sent a sample. The sample arrived damaged.",
+          "tr": "Мы отправили образец. Образец пришёл повреждённым."
+        },
+        {
+          "ru": "the — единственное в своём роде и превосходная степень.",
+          "en": "The CEO wants the best offer.",
+          "tr": "Генеральный директор хочет лучшее предложение."
+        },
+        {
+          "ru": "Без артикля — общие понятия: мн. число и неисчисляемые.",
+          "en": "Hospitals need reliable equipment.",
+          "tr": "Больницам нужно надёжное оборудование."
+        },
+        {
+          "ru": "Страны и города — без артикля, но the USA, the UK, the Philippines.",
+          "en": "Next week I'm flying to Japan, then to the USA.",
+          "tr": "На следующей неделе я лечу в Японию, потом в США."
+        }
+      ],
+      "signals": [],
+      "mistake": {
+        "wrong": "I am sales manager in medical company.",
+        "right": "I'm a sales manager at a medical company.",
+        "note": "В русском артиклей нет, поэтому их часто пропускают; перед профессией и исчисляемым словом в ед. числе нужен a / an."
+      },
+      "exercises": [
+        {
+          "q": "She is ___ engineer from Osaka.",
+          "options": [
+            "a",
+            "the",
+            "an",
+            "—"
+          ],
+          "answer": 2,
+          "explain": "engineer начинается с гласного звука — an."
+        },
+        {
+          "q": "I bought a new laptop. ___ laptop is very light.",
+          "options": [
+            "The",
+            "A",
+            "—"
+          ],
+          "answer": 0,
+          "explain": "Второе упоминание — the."
+        },
+        {
+          "q": "I love ___ Japanese food.",
+          "options": [
+            "a",
+            "the",
+            "—",
+            "an"
+          ],
+          "answer": 2,
+          "explain": "Еда в целом, неисчисляемое — без артикля."
+        },
+        {
+          "q": "Could you close ___ door, please? It's cold.",
+          "options": [
+            "a",
+            "the",
+            "—"
+          ],
+          "answer": 1,
+          "explain": "Понятно, о какой двери речь — the."
+        },
+        {
+          "q": "He works for ___ Korean company in Almaty.",
+          "options": [
+            "an",
+            "a",
+            "—"
+          ],
+          "answer": 1,
+          "explain": "Одна из многих компаний, Korean начинается с согласного — a."
+        },
+        {
+          "q": "We're flying to ___ United States next month.",
+          "options": [
+            "—",
+            "a",
+            "the"
+          ],
+          "answer": 2,
+          "explain": "the United States — исключение среди стран."
+        },
+        {
+          "q": "It was ___ best presentation of the conference.",
+          "options": [
+            "the",
+            "a",
+            "—",
+            "an"
+          ],
+          "answer": 0,
+          "explain": "Превосходная степень — the."
+        },
+        {
+          "q": "I usually go to ___ work by ___ subway.",
+          "options": [
+            "the / the",
+            "a / the",
+            "the / —",
+            "— / —"
+          ],
+          "answer": 3,
+          "explain": "Устойчивые выражения go to work и by subway — без артикля."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "en": "Question tags and indirect questions",
+      "ru": "Разделительные и косвенные вопросы",
+      "summary": "Question tag (…, isn't it?) — короткий вопрос в конце, чтобы получить подтверждение: утверждение + отрицательный хвост и наоборот. Косвенный вопрос (Could you tell me…?) — вежливая форма с прямым порядком слов.",
+      "formula": [
+        "It's late, isn't it? · It isn't late, is it?",
+        "Could you tell me + where / when / if + подлежащее + глагол",
+        "Do you know…? · I wonder…"
+      ],
+      "rules": [
+        {
+          "ru": "Утверждение → отрицательный хвост, отрицание → положительный.",
+          "en": "The meeting is at three, isn't it?",
+          "tr": "Встреча ведь в три?"
+        },
+        {
+          "ru": "В хвосте — вспомогательный глагол из предложения или do / does / did.",
+          "en": "You signed the contract, didn't you?",
+          "tr": "Вы ведь подписали контракт?"
+        },
+        {
+          "ru": "Особые случаи: I am → aren't I?, Let's → shall we?",
+          "en": "Let's start, shall we?",
+          "tr": "Ну что, начнём?"
+        },
+        {
+          "ru": "Косвенный вопрос: прямой порядок слов, без do / does / did.",
+          "en": "Could you tell me where the conference room is?",
+          "tr": "Не подскажете, где конференц-зал?"
+        },
+        {
+          "ru": "Вопрос «да / нет» в косвенной форме — через if или whether.",
+          "en": "Do you know if the flight is on time?",
+          "tr": "Не знаете, рейс вылетает вовремя?"
+        }
+      ],
+      "signals": [
+        "isn't it?",
+        "don't you?",
+        "Could you tell me…",
+        "Do you know…",
+        "I wonder…"
+      ],
+      "mistake": {
+        "wrong": "Could you tell me where is the station?",
+        "right": "Could you tell me where the station is?",
+        "note": "В косвенном вопросе глагол уходит после подлежащего; русскоговорящие часто оставляют вопросительный порядок слов."
+      },
+      "exercises": [
+        {
+          "q": "You work with Mr. López, ___?",
+          "options": [
+            "don't you",
+            "aren't you",
+            "do you",
+            "doesn't he"
+          ],
+          "answer": 0,
+          "explain": "Утверждение в Present Simple → don't you?"
+        },
+        {
+          "q": "The shipment hasn't arrived yet, ___?",
+          "options": [
+            "hasn't it",
+            "has it",
+            "is it"
+          ],
+          "answer": 1,
+          "explain": "Отрицание → положительный хвост с тем же has."
+        },
+        {
+          "q": "Could you tell me what time ___?",
+          "options": [
+            "does the bank open",
+            "the bank opens",
+            "opens the bank",
+            "is the bank open"
+          ],
+          "answer": 1,
+          "explain": "Косвенный вопрос — прямой порядок слов, без does."
+        },
+        {
+          "q": "Do you know ___ the hotel has a gym?",
+          "options": [
+            "that",
+            "what",
+            "if",
+            "does"
+          ],
+          "answer": 2,
+          "explain": "Вопрос «да / нет» в косвенной форме — if."
+        },
+        {
+          "q": "She didn't call the clinic, ___?",
+          "options": [
+            "does she",
+            "didn't she",
+            "did she"
+          ],
+          "answer": 2,
+          "explain": "Отрицание в прошлом → did she?"
+        },
+        {
+          "q": "Let's take a break, ___?",
+          "options": [
+            "shall we",
+            "don't we",
+            "let we",
+            "will us"
+          ],
+          "answer": 0,
+          "explain": "После Let's — shall we?"
+        },
+        {
+          "q": "I wonder ___ the contract.",
+          "options": [
+            "when will they sign",
+            "when do they sign",
+            "when they will sign"
+          ],
+          "answer": 2,
+          "explain": "После I wonder — прямой порядок слов."
+        },
+        {
+          "q": "Can you tell me how much ___?",
+          "options": [
+            "does this cost",
+            "costs this",
+            "is cost this",
+            "this costs"
+          ],
+          "answer": 3,
+          "explain": "Косвенный вопрос — подлежащее + глагол, без does."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "en": "Phrasal verbs for work and travel",
+      "ru": "Фразовые глаголы для работы и поездок",
+      "summary": "Фразовый глагол — это глагол + частица, и смысл у него часто новый. Разделяемые (separable) можно «разорвать» объектом, а местоимение ставится только в середину; неразделяемые (inseparable) не разрываются.",
+      "formula": [
+        "separable: fill out the form = fill the form out = fill it out",
+        "inseparable: deal with the problem (не deal the problem with)",
+        "без объекта: check in, take off, break down"
+      ],
+      "rules": [
+        {
+          "ru": "Разделяемые: существительное можно поставить после частицы или в середину.",
+          "en": "Please fill out the form. / Please fill the form out.",
+          "tr": "Пожалуйста, заполните форму."
+        },
+        {
+          "ru": "Местоимение (it, them, him) — только в середину.",
+          "en": "The contract? I'll print it out now.",
+          "tr": "Договор? Сейчас распечатаю."
+        },
+        {
+          "ru": "Неразделяемые (deal with, look after, look into, get on): объект всегда после частицы.",
+          "en": "Our engineer will deal with the problem.",
+          "tr": "Наш инженер разберётся с проблемой."
+        },
+        {
+          "ru": "Некоторые глаголы без объекта: check in, take off, show up, break down.",
+          "en": "The X-ray machine broke down again.",
+          "tr": "Рентген-аппарат опять сломался."
+        },
+        {
+          "ru": "Полезные: set up — организовать, call off — отменить, put off — отложить, pick up — забрать, follow up — связаться повторно.",
+          "en": "Can you pick me up at the airport?",
+          "tr": "Можешь забрать меня из аэропорта?"
+        }
+      ],
+      "signals": [
+        "up",
+        "out",
+        "off",
+        "in",
+        "on",
+        "after",
+        "with"
+      ],
+      "mistake": {
+        "wrong": "The meeting is important. Don't put off it.",
+        "right": "The meeting is important. Don't put it off.",
+        "note": "С разделяемыми глаголами местоимение стоит между глаголом и частицей; русский порядок «отложить её» переносят дословно — и ошибаются."
+      },
+      "exercises": [
+        {
+          "q": "The meeting was canceled. They ___ because the director was sick.",
+          "options": [
+            "called off it",
+            "called it off",
+            "called it out",
+            "off called it"
+          ],
+          "answer": 1,
+          "explain": "call off — разделяемый, местоимение в середине."
+        },
+        {
+          "q": "We need to ___ a meeting with the new distributor.",
+          "options": [
+            "set up",
+            "set off",
+            "set out"
+          ],
+          "answer": 0,
+          "explain": "set up a meeting — организовать встречу."
+        },
+        {
+          "q": "Our flight ___ two hours late because of the snow.",
+          "options": [
+            "took up",
+            "took out",
+            "took off",
+            "took over"
+          ],
+          "answer": 2,
+          "explain": "take off — взлетать."
+        },
+        {
+          "q": "Who will ___ the client's complaint while I'm away?",
+          "options": [
+            "take off",
+            "deal with",
+            "set up"
+          ],
+          "answer": 1,
+          "explain": "deal with — разбираться с чем-то."
+        },
+        {
+          "q": "Here's the visa form. Please ___ and bring it back tomorrow.",
+          "options": [
+            "fill out it",
+            "out fill it",
+            "fill out",
+            "fill it out"
+          ],
+          "answer": 3,
+          "explain": "Местоимение it ставится между fill и out."
+        },
+        {
+          "q": "We can't sign today. Let's ___ the decision until Monday.",
+          "options": [
+            "put off",
+            "put on",
+            "put up with",
+            "put down"
+          ],
+          "answer": 0,
+          "explain": "put off — откладывать."
+        },
+        {
+          "q": "I'll ___ you ___ at the hotel at 8 a.m.",
+          "options": [
+            "take / off",
+            "pick / out",
+            "pick / up",
+            "set / up"
+          ],
+          "answer": 2,
+          "explain": "pick someone up — заехать за кем-то."
+        },
+        {
+          "q": "I sent the quote last week. I'll ___ with the clinic tomorrow.",
+          "options": [
+            "follow up",
+            "follow on",
+            "follow out",
+            "follow off"
+          ],
+          "answer": 0,
+          "explain": "follow up with — повторно связаться, уточнить."
+        }
+      ]
+    }
+  ]
+}
