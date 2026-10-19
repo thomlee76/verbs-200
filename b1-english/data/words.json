@@ -10,7 +10,7 @@
   {
    "id": 2,
    "ru": "Жильё и район",
-   "en": "Housing & neighbourhood"
+   "en": "Housing & neighborhood"
   },
   {
    "id": 3,
@@ -271,7 +271,7 @@
    "pos": "v",
    "ipa": "fəʊld",
    "ru": "складывать (сгибать)",
-   "ex": "Fold the towels and put them in the cupboard.",
+   "ex": "Fold the towels and put them in the closet.",
    "exRu": "Сложи полотенца и убери их в шкаф.",
    "col": "fold clothes",
    "img": {
@@ -311,6 +311,126 @@
   },
   {
    "id": 13,
+   "unit": 1,
+   "en": "remind",
+   "pos": "v",
+   "ipa": "rɪˈmaɪnd",
+   "ru": "напоминать",
+   "ex": "Can you remind me to call my mother?",
+   "exRu": "Напомнишь мне позвонить маме?",
+   "col": "remind sb to do sth",
+   "img": {
+    "sheet": 3,
+    "cell": 1
+   }
+  },
+  {
+   "id": 14,
+   "unit": 1,
+   "en": "appointment",
+   "pos": "n",
+   "ipa": "əˈpɔɪntmənt",
+   "ru": "запись, приём (у врача и т. п.)",
+   "ex": "I have a dentist appointment at 3 p.m.",
+   "exRu": "У меня запись к стоматологу на 15:00.",
+   "col": "make an appointment",
+   "img": {
+    "sheet": 3,
+    "cell": 2
+   }
+  },
+  {
+   "id": 15,
+   "unit": 1,
+   "en": "empty",
+   "pos": "v",
+   "ipa": "ˈempti",
+   "ru": "опустошать, выносить",
+   "ex": "Can you empty the trash, please?",
+   "exRu": "Вынеси, пожалуйста, мусор.",
+   "col": "empty the trash",
+   "img": {
+    "sheet": 3,
+    "cell": 3
+   }
+  },
+  {
+   "id": 16,
+   "unit": 1,
+   "en": "store",
+   "pos": "v",
+   "ipa": "stɔːr",
+   "ru": "хранить",
+   "ex": "We store the winter clothes in the basement.",
+   "exRu": "Мы храним зимнюю одежду в подвале.",
+   "col": "store food",
+   "img": {
+    "sheet": 3,
+    "cell": 4
+   }
+  },
+  {
+   "id": 17,
+   "unit": 1,
+   "en": "clear",
+   "pos": "v",
+   "ipa": "klɪr",
+   "ru": "убирать, освобождать",
+   "ex": "Let me clear the table after dinner.",
+   "exRu": "Давай я уберу со стола после ужина.",
+   "col": "clear the table",
+   "img": {
+    "sheet": 3,
+    "cell": 5
+   }
+  },
+  {
+   "id": 18,
+   "unit": 1,
+   "en": "warm",
+   "pos": "v",
+   "ipa": "wɔːrm",
+   "ru": "греть, подогревать",
+   "ex": "I'll warm up the soup for you.",
+   "exRu": "Я подогрею тебе суп.",
+   "col": "warm up",
+   "img": {
+    "sheet": 3,
+    "cell": 6
+   }
+  },
+  {
+   "id": 19,
+   "unit": 1,
+   "en": "stuff",
+   "pos": "n",
+   "ipa": "stʌf",
+   "ru": "вещи, всякое (разг.)",
+   "ex": "There's too much stuff in this room.",
+   "exRu": "В этой комнате слишком много вещей.",
+   "col": "all your stuff",
+   "img": {
+    "sheet": 4,
+    "cell": 1
+   }
+  },
+  {
+   "id": 20,
+   "unit": 1,
+   "en": "cloth",
+   "pos": "n",
+   "ipa": "klɔːθ",
+   "ru": "ткань; тряпка",
+   "ex": "Wipe the table with a wet cloth.",
+   "exRu": "Протри стол влажной тряпкой.",
+   "col": "a clean cloth",
+   "img": {
+    "sheet": 4,
+    "cell": 2
+   }
+  },
+  {
+   "id": 21,
    "unit": 2,
    "en": "rent",
    "pos": "n",
@@ -320,12 +440,12 @@
    "exRu": "Арендную плату нужно внести первого числа.",
    "col": "pay the rent",
    "img": {
-    "sheet": 3,
-    "cell": 1
+    "sheet": 4,
+    "cell": 3
    }
   },
   {
-   "id": 14,
+   "id": 22,
    "unit": 2,
    "en": "repair",
    "pos": "n",
@@ -335,27 +455,27 @@
    "exRu": "Машина в сервисе на ремонте.",
    "col": "do repairs",
    "img": {
-    "sheet": 3,
-    "cell": 2
+    "sheet": 4,
+    "cell": 4
    }
   },
   {
-   "id": 15,
+   "id": 23,
    "unit": 2,
    "en": "decorate",
    "pos": "v",
    "ipa": "ˈdekəreɪt",
    "ru": "украшать; делать отделку",
-   "ex": "We decorated the bedroom in light colours.",
+   "ex": "We decorated the bedroom in light colors.",
    "exRu": "Мы оформили спальню в светлых тонах.",
    "col": "decorate a room",
    "img": {
-    "sheet": 3,
-    "cell": 3
+    "sheet": 4,
+    "cell": 5
    }
   },
   {
-   "id": 16,
+   "id": 24,
    "unit": 2,
    "en": "garage",
    "pos": "n",
@@ -365,12 +485,12 @@
    "exRu": "Он держит велосипед в гараже.",
    "col": "park in the garage",
    "img": {
-    "sheet": 3,
-    "cell": 4
+    "sheet": 4,
+    "cell": 6
    }
   },
   {
-   "id": 17,
+   "id": 25,
    "unit": 2,
    "en": "cottage",
    "pos": "n",
@@ -380,12 +500,12 @@
    "exRu": "Мы сняли маленький домик у озера.",
    "col": "a country cottage",
    "img": {
-    "sheet": 3,
-    "cell": 5
+    "sheet": 5,
+    "cell": 1
    }
   },
   {
-   "id": 18,
+   "id": 26,
    "unit": 2,
    "en": "yard",
    "pos": "n",
@@ -395,12 +515,12 @@
    "exRu": "Дети играют во дворе.",
    "col": "in the back yard",
    "img": {
-    "sheet": 3,
-    "cell": 6
+    "sheet": 5,
+    "cell": 2
    }
   },
   {
-   "id": 19,
+   "id": 27,
    "unit": 2,
    "en": "fence",
    "pos": "n",
@@ -410,27 +530,27 @@
    "exRu": "Собака перепрыгнула через забор.",
    "col": "a wooden fence",
    "img": {
-    "sheet": 4,
-    "cell": 1
+    "sheet": 5,
+    "cell": 3
    }
   },
   {
-   "id": 20,
+   "id": 28,
    "unit": 2,
-   "en": "neighbourhood",
+   "en": "neighborhood",
    "pos": "n",
    "ipa": "ˈneɪbərhʊd",
    "ru": "район, округа",
-   "ex": "It's a quiet neighbourhood with lots of parks.",
+   "ex": "It's a quiet neighborhood with lots of parks.",
    "exRu": "Это тихий район с множеством парков.",
-   "col": "a quiet neighbourhood",
+   "col": "a quiet neighborhood",
    "img": {
-    "sheet": 4,
-    "cell": 2
+    "sheet": 5,
+    "cell": 4
    }
   },
   {
-   "id": 21,
+   "id": 29,
    "unit": 2,
    "en": "property",
    "pos": "n",
@@ -440,12 +560,12 @@
    "exRu": "Цены на недвижимость в городе очень высокие.",
    "col": "buy property",
    "img": {
-    "sheet": 4,
-    "cell": 3
+    "sheet": 5,
+    "cell": 5
    }
   },
   {
-   "id": 22,
+   "id": 30,
    "unit": 2,
    "en": "located",
    "pos": "adj",
@@ -455,12 +575,12 @@
    "exRu": "Отель расположен рядом с вокзалом.",
    "col": "be located in/near",
    "img": {
-    "sheet": 4,
-    "cell": 4
+    "sheet": 5,
+    "cell": 6
    }
   },
   {
-   "id": 23,
+   "id": 31,
    "unit": 2,
    "en": "remote",
    "pos": "adj",
@@ -470,12 +590,12 @@
    "exRu": "Они живут в отдалённой деревне в горах.",
    "col": "a remote area",
    "img": {
-    "sheet": 4,
-    "cell": 5
+    "sheet": 6,
+    "cell": 1
    }
   },
   {
-   "id": 24,
+   "id": 32,
    "unit": 2,
    "en": "countryside",
    "pos": "n",
@@ -485,12 +605,132 @@
    "exRu": "Мы провели выходные за городом.",
    "col": "in the countryside",
    "img": {
-    "sheet": 4,
+    "sheet": 6,
+    "cell": 2
+   }
+  },
+  {
+   "id": 33,
+   "unit": 2,
+   "en": "pipe",
+   "pos": "n",
+   "ipa": "paɪp",
+   "ru": "труба",
+   "ex": "A water pipe broke in the kitchen.",
+   "exRu": "На кухне прорвало водопроводную трубу.",
+   "col": "a water pipe",
+   "img": {
+    "sheet": 6,
+    "cell": 3
+   }
+  },
+  {
+   "id": 34,
+   "unit": 2,
+   "en": "block",
+   "pos": "n",
+   "ipa": "blɑːk",
+   "ru": "квартал; многоэтажный дом",
+   "ex": "We live in a large apartment block.",
+   "exRu": "Мы живём в большом многоквартирном доме.",
+   "col": "an apartment block",
+   "img": {
+    "sheet": 6,
+    "cell": 4
+   }
+  },
+  {
+   "id": 35,
+   "unit": 2,
+   "en": "private",
+   "pos": "adj",
+   "ipa": "ˈpraɪvət",
+   "ru": "частный, личный",
+   "ex": "The house has a private garden.",
+   "exRu": "У дома есть собственный сад.",
+   "col": "a private room",
+   "img": {
+    "sheet": 6,
+    "cell": 5
+   }
+  },
+  {
+   "id": 36,
+   "unit": 2,
+   "en": "peaceful",
+   "pos": "adj",
+   "ipa": "ˈpiːsfl",
+   "ru": "мирный, спокойный",
+   "ex": "It's a peaceful place to live.",
+   "exRu": "Это спокойное место для жизни.",
+   "col": "a peaceful village",
+   "img": {
+    "sheet": 6,
     "cell": 6
    }
   },
   {
-   "id": 25,
+   "id": 37,
+   "unit": 2,
+   "en": "pleasant",
+   "pos": "adj",
+   "ipa": "ˈpleznt",
+   "ru": "приятный",
+   "ex": "We had a pleasant evening with our neighbors.",
+   "exRu": "Мы приятно провели вечер с соседями.",
+   "col": "a pleasant surprise",
+   "img": {
+    "sheet": 7,
+    "cell": 1
+   }
+  },
+  {
+   "id": 38,
+   "unit": 2,
+   "en": "nail",
+   "pos": "n",
+   "ipa": "neɪl",
+   "ru": "гвоздь; ноготь",
+   "ex": "Hang the picture on this nail.",
+   "exRu": "Повесь картину на этот гвоздь.",
+   "col": "hit a nail",
+   "img": {
+    "sheet": 7,
+    "cell": 2
+   }
+  },
+  {
+   "id": 39,
+   "unit": 2,
+   "en": "tiny",
+   "pos": "adj",
+   "ipa": "ˈtaɪni",
+   "ru": "крошечный",
+   "ex": "They live in a tiny apartment downtown.",
+   "exRu": "Они живут в крошечной квартире в центре.",
+   "col": "a tiny room",
+   "img": {
+    "sheet": 7,
+    "cell": 3
+   }
+  },
+  {
+   "id": 40,
+   "unit": 2,
+   "en": "edge",
+   "pos": "n",
+   "ipa": "edʒ",
+   "ru": "край",
+   "ex": "Our house is on the edge of the town.",
+   "exRu": "Наш дом на окраине города.",
+   "col": "on the edge of sth",
+   "img": {
+    "sheet": 7,
+    "cell": 4
+   }
+  },
+  {
+   "id": 41,
    "unit": 3,
    "en": "bake",
    "pos": "v",
@@ -500,12 +740,12 @@
    "exRu": "Мы испекли хлеб дома.",
    "col": "bake a cake",
    "img": {
-    "sheet": 5,
-    "cell": 1
+    "sheet": 7,
+    "cell": 5
    }
   },
   {
-   "id": 26,
+   "id": 42,
    "unit": 3,
    "en": "fry",
    "pos": "v",
@@ -515,12 +755,12 @@
    "exRu": "Она пожарила рыбу на оливковом масле.",
    "col": "fried chicken",
    "img": {
-    "sheet": 5,
-    "cell": 2
+    "sheet": 7,
+    "cell": 6
    }
   },
   {
-   "id": 27,
+   "id": 43,
    "unit": 3,
    "en": "slice",
    "pos": "n",
@@ -530,12 +770,12 @@
    "exRu": "Хочешь ещё кусочек пиццы?",
    "col": "a slice of bread",
    "img": {
-    "sheet": 5,
-    "cell": 3
+    "sheet": 8,
+    "cell": 1
    }
   },
   {
-   "id": 28,
+   "id": 44,
    "unit": 3,
    "en": "spicy",
    "pos": "adj",
@@ -545,12 +785,12 @@
    "exRu": "Корейская еда часто очень острая.",
    "col": "spicy food",
    "img": {
-    "sheet": 5,
-    "cell": 4
+    "sheet": 8,
+    "cell": 2
    }
   },
   {
-   "id": 29,
+   "id": 45,
    "unit": 3,
    "en": "frozen",
    "pos": "adj",
@@ -560,12 +800,12 @@
    "exRu": "Я держу замороженные овощи на загруженные дни.",
    "col": "frozen food",
    "img": {
-    "sheet": 5,
-    "cell": 5
+    "sheet": 8,
+    "cell": 3
    }
   },
   {
-   "id": 30,
+   "id": 46,
    "unit": 3,
    "en": "ingredient",
    "pos": "n",
@@ -575,12 +815,12 @@
    "exRu": "Для этого торта нужно всего четыре ингредиента.",
    "col": "the main ingredient",
    "img": {
-    "sheet": 5,
-    "cell": 6
+    "sheet": 8,
+    "cell": 4
    }
   },
   {
-   "id": 31,
+   "id": 47,
    "unit": 3,
    "en": "flour",
    "pos": "n",
@@ -590,12 +830,12 @@
    "exRu": "Смешайте муку с двумя яйцами.",
    "col": "a bag of flour",
    "img": {
-    "sheet": 6,
-    "cell": 1
+    "sheet": 8,
+    "cell": 5
    }
   },
   {
-   "id": 32,
+   "id": 48,
    "unit": 3,
    "en": "pan",
    "pos": "n",
@@ -605,12 +845,12 @@
    "exRu": "Разогрейте немного масла на сковороде.",
    "col": "a frying pan",
    "img": {
-    "sheet": 6,
-    "cell": 2
+    "sheet": 8,
+    "cell": 6
    }
   },
   {
-   "id": 33,
+   "id": 49,
    "unit": 3,
    "en": "pot",
    "pos": "n",
@@ -620,12 +860,12 @@
    "exRu": "В кастрюле суп.",
    "col": "a pot of tea",
    "img": {
-    "sheet": 6,
-    "cell": 3
+    "sheet": 9,
+    "cell": 1
    }
   },
   {
-   "id": 34,
+   "id": 50,
    "unit": 3,
    "en": "pour",
    "pos": "v",
@@ -635,12 +875,12 @@
    "exRu": "Можешь налить мне стакан воды?",
    "col": "pour a drink",
    "img": {
-    "sheet": 6,
-    "cell": 4
+    "sheet": 9,
+    "cell": 2
    }
   },
   {
-   "id": 35,
+   "id": 51,
    "unit": 3,
    "en": "mix",
    "pos": "v",
@@ -650,12 +890,12 @@
    "exRu": "Смешайте сахар со сливочным маслом.",
    "col": "mix A with B",
    "img": {
-    "sheet": 6,
-    "cell": 5
+    "sheet": 9,
+    "cell": 3
    }
   },
   {
-   "id": 36,
+   "id": 52,
    "unit": 3,
    "en": "freeze",
    "pos": "v",
@@ -665,12 +905,132 @@
    "exRu": "Суп можно заморозить на потом.",
    "col": "freeze food",
    "img": {
-    "sheet": 6,
+    "sheet": 9,
+    "cell": 4
+   }
+  },
+  {
+   "id": 53,
+   "unit": 3,
+   "en": "grain",
+   "pos": "n",
+   "ipa": "ɡreɪn",
+   "ru": "зерно; крупа",
+   "ex": "Rice is the main grain in Asia.",
+   "exRu": "Рис — основная зерновая культура в Азии.",
+   "col": "whole grain",
+   "img": {
+    "sheet": 9,
+    "cell": 5
+   }
+  },
+  {
+   "id": 54,
+   "unit": 3,
+   "en": "liquid",
+   "pos": "n",
+   "ipa": "ˈlɪkwɪd",
+   "ru": "жидкость",
+   "ex": "You can't take liquids on the plane.",
+   "exRu": "В самолёт нельзя брать жидкости.",
+   "col": "drink plenty of liquids",
+   "img": {
+    "sheet": 9,
     "cell": 6
    }
   },
   {
-   "id": 37,
+   "id": 55,
+   "unit": 3,
+   "en": "container",
+   "pos": "n",
+   "ipa": "kənˈteɪnər",
+   "ru": "контейнер, ёмкость",
+   "ex": "Keep the salad in a plastic container.",
+   "exRu": "Храни салат в пластиковом контейнере.",
+   "col": "a food container",
+   "img": {
+    "sheet": 10,
+    "cell": 1
+   }
+  },
+  {
+   "id": 56,
+   "unit": 3,
+   "en": "tin",
+   "pos": "n",
+   "ipa": "tɪn",
+   "ru": "жестяная банка",
+   "ex": "Open a tin of tomatoes.",
+   "exRu": "Открой банку помидоров.",
+   "col": "a tin of beans",
+   "img": {
+    "sheet": 10,
+    "cell": 2
+   }
+  },
+  {
+   "id": 57,
+   "unit": 3,
+   "en": "mixture",
+   "pos": "n",
+   "ipa": "ˈmɪkstʃər",
+   "ru": "смесь",
+   "ex": "Pour the mixture into the pan.",
+   "exRu": "Вылейте смесь в форму.",
+   "col": "a mixture of sth",
+   "img": {
+    "sheet": 10,
+    "cell": 3
+   }
+  },
+  {
+   "id": 58,
+   "unit": 3,
+   "en": "sharp",
+   "pos": "adj",
+   "ipa": "ʃɑːrp",
+   "ru": "острый (о ноже)",
+   "ex": "Be careful — this knife is very sharp.",
+   "exRu": "Осторожно — этот нож очень острый.",
+   "col": "a sharp knife",
+   "img": {
+    "sheet": 10,
+    "cell": 4
+   }
+  },
+  {
+   "id": 59,
+   "unit": 3,
+   "en": "roll",
+   "pos": "n",
+   "ipa": "rəʊl",
+   "ru": "булочка",
+   "ex": "I had a bread roll and coffee for breakfast.",
+   "exRu": "На завтрак у меня была булочка и кофе.",
+   "col": "a bread roll",
+   "img": {
+    "sheet": 10,
+    "cell": 5
+   }
+  },
+  {
+   "id": 60,
+   "unit": 3,
+   "en": "alcohol",
+   "pos": "n",
+   "ipa": "ˈælkəhɔːl",
+   "ru": "алкоголь",
+   "ex": "I don't drink alcohol at business lunches.",
+   "exRu": "Я не пью алкоголь на деловых обедах.",
+   "col": "drink alcohol",
+   "img": {
+    "sheet": 10,
+    "cell": 6
+   }
+  },
+  {
+   "id": 61,
    "unit": 4,
    "en": "afford",
    "pos": "v",
@@ -680,12 +1040,12 @@
    "exRu": "В этом году мы не можем позволить себе новую машину.",
    "col": "can't afford to do sth",
    "img": {
-    "sheet": 7,
+    "sheet": 11,
     "cell": 1
    }
   },
   {
-   "id": 38,
+   "id": 62,
    "unit": 4,
    "en": "discount",
    "pos": "n",
@@ -695,12 +1055,12 @@
    "exRu": "Студенты получают скидку 10%.",
    "col": "get a discount",
    "img": {
-    "sheet": 7,
+    "sheet": 11,
     "cell": 2
    }
   },
   {
-   "id": 39,
+   "id": 63,
    "unit": 4,
    "en": "receipt",
    "pos": "n",
@@ -710,27 +1070,12 @@
    "exRu": "Сохрани чек на случай, если захочешь вернуть товар.",
    "col": "ask for a receipt",
    "img": {
-    "sheet": 7,
+    "sheet": 11,
     "cell": 3
    }
   },
   {
-   "id": 40,
-   "unit": 4,
-   "en": "queue",
-   "pos": "n",
-   "ipa": "kjuː",
-   "ru": "очередь",
-   "ex": "There was a long queue at the checkout.",
-   "exRu": "На кассе была длинная очередь.",
-   "col": "wait in a queue",
-   "img": {
-    "sheet": 7,
-    "cell": 4
-   }
-  },
-  {
-   "id": 41,
+   "id": 64,
    "unit": 4,
    "en": "mall",
    "pos": "n",
@@ -740,12 +1085,12 @@
    "exRu": "Давай встретимся в торговом центре в пять.",
    "col": "a shopping mall",
    "img": {
-    "sheet": 7,
-    "cell": 5
+    "sheet": 11,
+    "cell": 4
    }
   },
   {
-   "id": 42,
+   "id": 65,
    "unit": 4,
    "en": "payment",
    "pos": "n",
@@ -755,12 +1100,12 @@
    "exRu": "Мы принимаем оплату картой.",
    "col": "make a payment",
    "img": {
-    "sheet": 7,
-    "cell": 6
+    "sheet": 11,
+    "cell": 5
    }
   },
   {
-   "id": 43,
+   "id": 66,
    "unit": 4,
    "en": "luxury",
    "pos": "n",
@@ -770,12 +1115,12 @@
    "exRu": "Они остановились в роскошном отеле.",
    "col": "a luxury hotel",
    "img": {
-    "sheet": 8,
-    "cell": 1
+    "sheet": 11,
+    "cell": 6
    }
   },
   {
-   "id": 44,
+   "id": 67,
    "unit": 4,
    "en": "valuable",
    "pos": "adj",
@@ -785,12 +1130,12 @@
    "exRu": "Не оставляйте ценные вещи в машине.",
    "col": "valuable information",
    "img": {
-    "sheet": 8,
-    "cell": 2
+    "sheet": 12,
+    "cell": 1
    }
   },
   {
-   "id": 45,
+   "id": 68,
    "unit": 4,
    "en": "coin",
    "pos": "n",
@@ -798,14 +1143,14 @@
    "ru": "монета",
    "ex": "I need some coins for the machine.",
    "exRu": "Мне нужно несколько монет для автомата.",
-   "col": "a two-euro coin",
+   "col": "a 25-cent coin",
    "img": {
-    "sheet": 8,
-    "cell": 3
+    "sheet": 12,
+    "cell": 2
    }
   },
   {
-   "id": 46,
+   "id": 69,
    "unit": 4,
    "en": "label",
    "pos": "n",
@@ -815,12 +1160,12 @@
    "exRu": "Прочитайте этикетку перед покупкой.",
    "col": "a price label",
    "img": {
-    "sheet": 8,
-    "cell": 4
+    "sheet": 12,
+    "cell": 3
    }
   },
   {
-   "id": 47,
+   "id": 70,
    "unit": 4,
    "en": "package",
    "pos": "n",
@@ -830,27 +1175,162 @@
    "exRu": "Сегодня утром для тебя пришла посылка.",
    "col": "send a package",
    "img": {
-    "sheet": 8,
-    "cell": 5
+    "sheet": 12,
+    "cell": 4
    }
   },
   {
-   "id": 48,
+   "id": 71,
    "unit": 4,
    "en": "worth",
    "pos": "adj",
    "ipa": "wɜːrθ",
    "ru": "стоящий; стоимостью",
-   "ex": "This film is worth watching.",
+   "ex": "This movie is worth watching.",
    "exRu": "Этот фильм стоит посмотреть.",
    "col": "be worth doing sth",
    "img": {
-    "sheet": 8,
+    "sheet": 12,
+    "cell": 5
+   }
+  },
+  {
+   "id": 72,
+   "unit": 4,
+   "en": "exchange",
+   "pos": "v",
+   "ipa": "ɪksˈtʃeɪndʒ",
+   "ru": "обменивать",
+   "ex": "Can I exchange this shirt for a bigger size?",
+   "exRu": "Можно обменять эту рубашку на размер побольше?",
+   "col": "exchange sth for sth",
+   "img": {
+    "sheet": 12,
     "cell": 6
    }
   },
   {
-   "id": 49,
+   "id": 73,
+   "unit": 4,
+   "en": "spending",
+   "pos": "n",
+   "ipa": "ˈspendɪŋ",
+   "ru": "расходы, траты",
+   "ex": "We need to reduce our spending.",
+   "exRu": "Нам нужно сократить расходы.",
+   "col": "spending on sth",
+   "img": {
+    "sheet": 13,
+    "cell": 1
+   }
+  },
+  {
+   "id": 74,
+   "unit": 4,
+   "en": "value",
+   "pos": "n",
+   "ipa": "ˈvæljuː",
+   "ru": "ценность, стоимость",
+   "ex": "This watch has a high value.",
+   "exRu": "Эти часы стоят очень дорого.",
+   "col": "good value for money",
+   "img": {
+    "sheet": 13,
+    "cell": 2
+   }
+  },
+  {
+   "id": 75,
+   "unit": 4,
+   "en": "fashionable",
+   "pos": "adj",
+   "ipa": "ˈfæʃnəbl",
+   "ru": "модный",
+   "ex": "She always wears fashionable clothes.",
+   "exRu": "Она всегда носит модную одежду.",
+   "col": "a fashionable restaurant",
+   "img": {
+    "sheet": 13,
+    "cell": 3
+   }
+  },
+  {
+   "id": 76,
+   "unit": 4,
+   "en": "leather",
+   "pos": "n",
+   "ipa": "ˈleðər",
+   "ru": "кожа (материал)",
+   "ex": "He bought a leather jacket.",
+   "exRu": "Он купил кожаную куртку.",
+   "col": "a leather bag",
+   "img": {
+    "sheet": 13,
+    "cell": 4
+   }
+  },
+  {
+   "id": 77,
+   "unit": 4,
+   "en": "cotton",
+   "pos": "n",
+   "ipa": "ˈkɑːtn",
+   "ru": "хлопок",
+   "ex": "This shirt is 100% cotton.",
+   "exRu": "Эта рубашка из 100% хлопка.",
+   "col": "a cotton T-shirt",
+   "img": {
+    "sheet": 13,
+    "cell": 5
+   }
+  },
+  {
+   "id": 78,
+   "unit": 4,
+   "en": "wool",
+   "pos": "n",
+   "ipa": "wʊl",
+   "ru": "шерсть",
+   "ex": "This sweater is made of wool.",
+   "exRu": "Этот свитер из шерсти.",
+   "col": "a wool scarf",
+   "img": {
+    "sheet": 13,
+    "cell": 6
+   }
+  },
+  {
+   "id": 79,
+   "unit": 4,
+   "en": "glove",
+   "pos": "n",
+   "ipa": "ɡlʌv",
+   "ru": "перчатка",
+   "ex": "I lost one of my gloves.",
+   "exRu": "Я потерял одну перчатку.",
+   "col": "a pair of gloves",
+   "img": {
+    "sheet": 14,
+    "cell": 1
+   }
+  },
+  {
+   "id": 80,
+   "unit": 4,
+   "en": "fancy",
+   "pos": "adj",
+   "ipa": "ˈfænsi",
+   "ru": "шикарный, изысканный",
+   "ex": "We had dinner at a fancy restaurant.",
+   "exRu": "Мы поужинали в шикарном ресторане.",
+   "col": "a fancy hotel",
+   "img": {
+    "sheet": 14,
+    "cell": 2
+   }
+  },
+  {
+   "id": 81,
    "unit": 5,
    "en": "staff",
    "pos": "n",
@@ -860,12 +1340,12 @@
    "exRu": "Все сотрудники должны присутствовать на собрании.",
    "col": "hotel staff",
    "img": {
-    "sheet": 9,
-    "cell": 1
+    "sheet": 14,
+    "cell": 3
    }
   },
   {
-   "id": 50,
+   "id": 82,
    "unit": 5,
    "en": "retire",
    "pos": "v",
@@ -875,12 +1355,12 @@
    "exRu": "Мой отец вышел на пенсию в прошлом году.",
    "col": "retire early",
    "img": {
-    "sheet": 9,
-    "cell": 2
+    "sheet": 14,
+    "cell": 4
    }
   },
   {
-   "id": 51,
+   "id": 83,
    "unit": 5,
    "en": "qualification",
    "pos": "n",
@@ -890,12 +1370,12 @@
    "exRu": "Какая квалификация нужна для этой работы?",
    "col": "professional qualifications",
    "img": {
-    "sheet": 9,
-    "cell": 3
+    "sheet": 14,
+    "cell": 5
    }
   },
   {
-   "id": 52,
+   "id": 84,
    "unit": 5,
    "en": "qualified",
    "pos": "adj",
@@ -905,12 +1385,12 @@
    "exRu": "Нам нужен квалифицированный инженер.",
    "col": "highly qualified",
    "img": {
-    "sheet": 9,
-    "cell": 4
+    "sheet": 14,
+    "cell": 6
    }
   },
   {
-   "id": 53,
+   "id": 85,
    "unit": 5,
    "en": "unemployed",
    "pos": "adj",
@@ -920,12 +1400,12 @@
    "exRu": "Он был без работы полгода.",
    "col": "be unemployed",
    "img": {
-    "sheet": 9,
-    "cell": 5
+    "sheet": 15,
+    "cell": 1
    }
   },
   {
-   "id": 54,
+   "id": 86,
    "unit": 5,
    "en": "profession",
    "pos": "n",
@@ -935,12 +1415,12 @@
    "exRu": "Медицина — трудная профессия.",
    "col": "the medical profession",
    "img": {
-    "sheet": 9,
-    "cell": 6
+    "sheet": 15,
+    "cell": 2
    }
   },
   {
-   "id": 55,
+   "id": 87,
    "unit": 5,
    "en": "responsibility",
    "pos": "n",
@@ -950,12 +1430,12 @@
    "exRu": "Проверять документы — моя обязанность.",
    "col": "take responsibility for sth",
    "img": {
-    "sheet": 10,
-    "cell": 1
+    "sheet": 15,
+    "cell": 3
    }
   },
   {
-   "id": 56,
+   "id": 88,
    "unit": 5,
    "en": "shift",
    "pos": "n",
@@ -965,12 +1445,12 @@
    "exRu": "Медсёстры часто работают в ночную смену.",
    "col": "a night shift",
    "img": {
-    "sheet": 10,
-    "cell": 2
+    "sheet": 15,
+    "cell": 4
    }
   },
   {
-   "id": 57,
+   "id": 89,
    "unit": 5,
    "en": "hire",
    "pos": "v",
@@ -980,12 +1460,12 @@
    "exRu": "Мы нанимаем двух новых менеджеров по продажам.",
    "col": "hire staff",
    "img": {
-    "sheet": 10,
-    "cell": 3
+    "sheet": 15,
+    "cell": 5
    }
   },
   {
-   "id": 58,
+   "id": 90,
    "unit": 5,
    "en": "quit",
    "pos": "v",
@@ -995,12 +1475,12 @@
    "exRu": "Она уволилась, чтобы открыть своё дело.",
    "col": "quit a job",
    "img": {
-    "sheet": 10,
-    "cell": 4
+    "sheet": 15,
+    "cell": 6
    }
   },
   {
-   "id": 59,
+   "id": 91,
    "unit": 5,
    "en": "candidate",
    "pos": "n",
@@ -1010,12 +1490,12 @@
    "exRu": "Мы провели собеседование с пятью кандидатами.",
    "col": "a strong candidate",
    "img": {
-    "sheet": 10,
-    "cell": 5
+    "sheet": 16,
+    "cell": 1
    }
   },
   {
-   "id": 60,
+   "id": 92,
    "unit": 5,
    "en": "experienced",
    "pos": "adj",
@@ -1025,12 +1505,132 @@
    "exRu": "Она опытная медсестра.",
    "col": "experienced in sth",
    "img": {
-    "sheet": 10,
+    "sheet": 16,
+    "cell": 2
+   }
+  },
+  {
+   "id": 93,
+   "unit": 5,
+   "en": "application",
+   "pos": "n",
+   "ipa": "ˌæplɪˈkeɪʃn",
+   "ru": "заявление, заявка",
+   "ex": "Send your application by June 1.",
+   "exRu": "Отправьте заявку до 1 июня.",
+   "col": "a job application",
+   "img": {
+    "sheet": 16,
+    "cell": 3
+   }
+  },
+  {
+   "id": 94,
+   "unit": 5,
+   "en": "employment",
+   "pos": "n",
+   "ipa": "ɪmˈplɔɪmənt",
+   "ru": "работа, трудоустройство",
+   "ex": "The new factory will create employment for 500 people.",
+   "exRu": "Новый завод даст работу 500 людям.",
+   "col": "full-time employment",
+   "img": {
+    "sheet": 16,
+    "cell": 4
+   }
+  },
+  {
+   "id": 95,
+   "unit": 5,
+   "en": "responsible",
+   "pos": "adj",
+   "ipa": "rɪˈspɑːnsəbl",
+   "ru": "ответственный",
+   "ex": "Who is responsible for this project?",
+   "exRu": "Кто отвечает за этот проект?",
+   "col": "responsible for sth",
+   "img": {
+    "sheet": 16,
+    "cell": 5
+   }
+  },
+  {
+   "id": 96,
+   "unit": 5,
+   "en": "duty",
+   "pos": "n",
+   "ipa": "ˈduːti",
+   "ru": "обязанность, долг",
+   "ex": "Checking the equipment is part of my duties.",
+   "exRu": "Проверка оборудования входит в мои обязанности.",
+   "col": "on duty",
+   "img": {
+    "sheet": 16,
     "cell": 6
    }
   },
   {
-   "id": 61,
+   "id": 97,
+   "unit": 5,
+   "en": "achievement",
+   "pos": "n",
+   "ipa": "əˈtʃiːvmənt",
+   "ru": "достижение",
+   "ex": "Opening the clinic was a big achievement.",
+   "exRu": "Открытие клиники стало большим достижением.",
+   "col": "a great achievement",
+   "img": {
+    "sheet": 17,
+    "cell": 1
+   }
+  },
+  {
+   "id": 98,
+   "unit": 5,
+   "en": "ambition",
+   "pos": "n",
+   "ipa": "æmˈbɪʃn",
+   "ru": "амбиция, стремление",
+   "ex": "Her ambition is to become a director.",
+   "exRu": "Она стремится стать директором.",
+   "col": "a lifelong ambition",
+   "img": {
+    "sheet": 17,
+    "cell": 2
+   }
+  },
+  {
+   "id": 99,
+   "unit": 5,
+   "en": "qualify",
+   "pos": "v",
+   "ipa": "ˈkwɑːlɪfaɪ",
+   "ru": "получить квалификацию; иметь право",
+   "ex": "She qualified as a doctor in 2015.",
+   "exRu": "Она получила диплом врача в 2015 году.",
+   "col": "qualify as sth",
+   "img": {
+    "sheet": 17,
+    "cell": 3
+   }
+  },
+  {
+   "id": 100,
+   "unit": 5,
+   "en": "assist",
+   "pos": "v",
+   "ipa": "əˈsɪst",
+   "ru": "помогать, ассистировать",
+   "ex": "A nurse assisted the doctor during the operation.",
+   "exRu": "Медсестра ассистировала врачу во время операции.",
+   "col": "assist sb with sth",
+   "img": {
+    "sheet": 17,
+    "cell": 4
+   }
+  },
+  {
+   "id": 101,
    "unit": 6,
    "en": "persuade",
    "pos": "v",
@@ -1040,12 +1640,12 @@
    "exRu": "Она убедила врача попробовать новую рентген-систему.",
    "col": "persuade sb to do sth",
    "img": {
-    "sheet": 11,
-    "cell": 1
+    "sheet": 17,
+    "cell": 5
    }
   },
   {
-   "id": 62,
+   "id": 102,
    "unit": 6,
    "en": "convince",
    "pos": "v",
@@ -1055,12 +1655,12 @@
    "exRu": "Я убеждён, что это правильное решение.",
    "col": "convince sb of sth",
    "img": {
-    "sheet": 11,
-    "cell": 2
+    "sheet": 17,
+    "cell": 6
    }
   },
   {
-   "id": 63,
+   "id": 103,
    "unit": 6,
    "en": "profit",
    "pos": "n",
@@ -1070,12 +1670,12 @@
    "exRu": "В этом году компания получила большую прибыль.",
    "col": "make a profit",
    "img": {
-    "sheet": 11,
-    "cell": 3
+    "sheet": 18,
+    "cell": 1
    }
   },
   {
-   "id": 64,
+   "id": 104,
    "unit": 6,
    "en": "client",
    "pos": "n",
@@ -1085,12 +1685,12 @@
    "exRu": "Завтра у меня встреча с важным клиентом.",
    "col": "a regular client",
    "img": {
-    "sheet": 11,
-    "cell": 4
+    "sheet": 18,
+    "cell": 2
    }
   },
   {
-   "id": 65,
+   "id": 105,
    "unit": 6,
    "en": "competitor",
    "pos": "n",
@@ -1100,12 +1700,12 @@
    "exRu": "Наши цены ниже, чем у конкурентов.",
    "col": "a main competitor",
    "img": {
-    "sheet": 11,
-    "cell": 5
+    "sheet": 18,
+    "cell": 3
    }
   },
   {
-   "id": 66,
+   "id": 106,
    "unit": 6,
    "en": "export",
    "pos": "v",
@@ -1115,12 +1715,12 @@
    "exRu": "Мы экспортируем медицинское оборудование в 20 стран.",
    "col": "export goods",
    "img": {
-    "sheet": 11,
-    "cell": 6
+    "sheet": 18,
+    "cell": 4
    }
   },
   {
-   "id": 67,
+   "id": 107,
    "unit": 6,
    "en": "import",
    "pos": "v",
@@ -1130,12 +1730,12 @@
    "exRu": "Большая часть нашего кофе импортируется из Бразилии.",
    "col": "import from",
    "img": {
-    "sheet": 12,
-    "cell": 1
+    "sheet": 18,
+    "cell": 5
    }
   },
   {
-   "id": 68,
+   "id": 108,
    "unit": 6,
    "en": "invest",
    "pos": "v",
@@ -1145,12 +1745,12 @@
    "exRu": "Они вложили много денег в новую клинику.",
    "col": "invest in sth",
    "img": {
-    "sheet": 12,
-    "cell": 2
+    "sheet": 18,
+    "cell": 6
    }
   },
   {
-   "id": 69,
+   "id": 109,
    "unit": 6,
    "en": "marketing",
    "pos": "n",
@@ -1160,12 +1760,12 @@
    "exRu": "Она работает в маркетинге.",
    "col": "a marketing plan",
    "img": {
-    "sheet": 12,
-    "cell": 3
+    "sheet": 19,
+    "cell": 1
    }
   },
   {
-   "id": 70,
+   "id": 110,
    "unit": 6,
    "en": "deliver",
    "pos": "v",
@@ -1175,12 +1775,12 @@
    "exRu": "Мы можем доставить товар к пятнице.",
    "col": "deliver on time",
    "img": {
-    "sheet": 12,
-    "cell": 4
+    "sheet": 19,
+    "cell": 2
    }
   },
   {
-   "id": 71,
+   "id": 111,
    "unit": 6,
    "en": "agreement",
    "pos": "n",
@@ -1190,12 +1790,12 @@
    "exRu": "Две компании подписали соглашение.",
    "col": "reach an agreement",
    "img": {
-    "sheet": 12,
-    "cell": 5
+    "sheet": 19,
+    "cell": 3
    }
   },
   {
-   "id": 72,
+   "id": 112,
    "unit": 6,
    "en": "deal",
    "pos": "n",
@@ -1205,12 +1805,132 @@
    "exRu": "Мы наконец заключили сделку с дистрибьютором.",
    "col": "make a deal",
    "img": {
-    "sheet": 12,
+    "sheet": 19,
+    "cell": 4
+   }
+  },
+  {
+   "id": 113,
+   "unit": 6,
+   "en": "competitive",
+   "pos": "adj",
+   "ipa": "kəmˈpetətɪv",
+   "ru": "конкурентоспособный",
+   "ex": "We offer very competitive prices.",
+   "exRu": "Мы предлагаем очень конкурентные цены.",
+   "col": "a competitive price",
+   "img": {
+    "sheet": 19,
+    "cell": 5
+   }
+  },
+  {
+   "id": 114,
+   "unit": 6,
+   "en": "market",
+   "pos": "v",
+   "ipa": "ˈmɑːrkɪt",
+   "ru": "продвигать на рынке",
+   "ex": "The product is marketed in 15 countries.",
+   "exRu": "Продукт продвигается на рынках 15 стран.",
+   "col": "market a product",
+   "img": {
+    "sheet": 19,
     "cell": 6
    }
   },
   {
-   "id": 73,
+   "id": 115,
+   "unit": 6,
+   "en": "account",
+   "pos": "n",
+   "ipa": "əˈkaʊnt",
+   "ru": "клиент (ключевой); счёт",
+   "ex": "She manages our biggest accounts in Asia.",
+   "exRu": "Она ведёт наших крупнейших клиентов в Азии.",
+   "col": "a key account",
+   "img": {
+    "sheet": 20,
+    "cell": 1
+   }
+  },
+  {
+   "id": 116,
+   "unit": 6,
+   "en": "contact",
+   "pos": "v",
+   "ipa": "ˈkɑːntækt",
+   "ru": "связываться",
+   "ex": "Please contact me if you have any questions.",
+   "exRu": "Пожалуйста, свяжитесь со мной, если возникнут вопросы.",
+   "col": "contact sb",
+   "img": {
+    "sheet": 20,
+    "cell": 2
+   }
+  },
+  {
+   "id": 117,
+   "unit": 6,
+   "en": "standard",
+   "pos": "n",
+   "ipa": "ˈstændərd",
+   "ru": "стандарт, уровень",
+   "ex": "Our products meet international standards.",
+   "exRu": "Наша продукция соответствует международным стандартам.",
+   "col": "high standards",
+   "img": {
+    "sheet": 20,
+    "cell": 3
+   }
+  },
+  {
+   "id": 118,
+   "unit": 6,
+   "en": "range",
+   "pos": "n",
+   "ipa": "reɪndʒ",
+   "ru": "ассортимент, диапазон",
+   "ex": "We offer a wide range of products.",
+   "exRu": "Мы предлагаем широкий ассортимент продукции.",
+   "col": "a wide range of sth",
+   "img": {
+    "sheet": 20,
+    "cell": 4
+   }
+  },
+  {
+   "id": 119,
+   "unit": 6,
+   "en": "charge",
+   "pos": "n",
+   "ipa": "tʃɑːrdʒ",
+   "ru": "плата, сбор",
+   "ex": "There is no charge for delivery.",
+   "exRu": "Плата за доставку не взимается.",
+   "col": "free of charge",
+   "img": {
+    "sheet": 20,
+    "cell": 5
+   }
+  },
+  {
+   "id": 120,
+   "unit": 6,
+   "en": "require",
+   "pos": "v",
+   "ipa": "rɪˈkwaɪər",
+   "ru": "требовать, нуждаться",
+   "ex": "The contract requires a 30% prepayment.",
+   "exRu": "Контракт требует предоплаты 30%.",
+   "col": "be required to do sth",
+   "img": {
+    "sheet": 20,
+    "cell": 6
+   }
+  },
+  {
+   "id": 121,
    "unit": 7,
    "en": "promote",
    "pos": "v",
@@ -1220,12 +1940,12 @@
    "exRu": "Мы продвигаем нашу продукцию на выставках.",
    "col": "promote a product",
    "img": {
-    "sheet": 13,
+    "sheet": 21,
     "cell": 1
    }
   },
   {
-   "id": 74,
+   "id": 122,
    "unit": 7,
    "en": "brand",
    "pos": "n",
@@ -1235,12 +1955,12 @@
    "exRu": "Телефоном какой марки ты пользуешься?",
    "col": "a famous brand",
    "img": {
-    "sheet": 13,
+    "sheet": 21,
     "cell": 2
    }
   },
   {
-   "id": 75,
+   "id": 123,
    "unit": 7,
    "en": "goods",
    "pos": "n",
@@ -1250,12 +1970,12 @@
    "exRu": "Товар прибудет на следующей неделе.",
    "col": "deliver goods",
    "img": {
-    "sheet": 13,
+    "sheet": 21,
     "cell": 3
    }
   },
   {
-   "id": 76,
+   "id": 124,
    "unit": 7,
    "en": "supply",
    "pos": "v",
@@ -1265,12 +1985,12 @@
    "exRu": "Мы поставляем оборудование в больницы.",
    "col": "supply sb with sth",
    "img": {
-    "sheet": 13,
+    "sheet": 21,
     "cell": 4
    }
   },
   {
-   "id": 77,
+   "id": 125,
    "unit": 7,
    "en": "trade",
    "pos": "n",
@@ -1280,12 +2000,12 @@
    "exRu": "Торговля между двумя странами растёт.",
    "col": "international trade",
    "img": {
-    "sheet": 13,
+    "sheet": 21,
     "cell": 5
    }
   },
   {
-   "id": 78,
+   "id": 126,
    "unit": 7,
    "en": "growth",
    "pos": "n",
@@ -1295,12 +2015,12 @@
    "exRu": "В этом году компания показала сильный рост.",
    "col": "economic growth",
    "img": {
-    "sheet": 13,
+    "sheet": 21,
     "cell": 6
    }
   },
   {
-   "id": 79,
+   "id": 127,
    "unit": 7,
    "en": "economy",
    "pos": "n",
@@ -1310,12 +2030,12 @@
    "exRu": "Экономика становится сильнее.",
    "col": "the global economy",
    "img": {
-    "sheet": 14,
+    "sheet": 22,
     "cell": 1
    }
   },
   {
-   "id": 80,
+   "id": 128,
    "unit": 7,
    "en": "campaign",
    "pos": "n",
@@ -1325,12 +2045,12 @@
    "exRu": "Они запустили новую рекламную кампанию.",
    "col": "an advertising campaign",
    "img": {
-    "sheet": 14,
+    "sheet": 22,
     "cell": 2
    }
   },
   {
-   "id": 81,
+   "id": 129,
    "unit": 7,
    "en": "consumer",
    "pos": "n",
@@ -1340,12 +2060,12 @@
    "exRu": "Потребители хотят более дешёвой и быстрой доставки.",
    "col": "consumer demand",
    "img": {
-    "sheet": 14,
+    "sheet": 22,
     "cell": 3
    }
   },
   {
-   "id": 82,
+   "id": 130,
    "unit": 7,
    "en": "production",
    "pos": "n",
@@ -1355,12 +2075,12 @@
    "exRu": "Производство начнётся в марте.",
    "col": "mass production",
    "img": {
-    "sheet": 14,
+    "sheet": 22,
     "cell": 4
    }
   },
   {
-   "id": 83,
+   "id": 131,
    "unit": 7,
    "en": "financial",
    "pos": "adj",
@@ -1370,12 +2090,12 @@
    "exRu": "У компании финансовые проблемы.",
    "col": "a financial report",
    "img": {
-    "sheet": 14,
+    "sheet": 22,
     "cell": 5
    }
   },
   {
-   "id": 84,
+   "id": 132,
    "unit": 7,
    "en": "percentage",
    "pos": "n",
@@ -1385,12 +2105,132 @@
    "exRu": "Какой процент наших клиентов из-за рубежа?",
    "col": "a high percentage",
    "img": {
-    "sheet": 14,
+    "sheet": 22,
     "cell": 6
    }
   },
   {
-   "id": 85,
+   "id": 133,
+   "unit": 7,
+   "en": "economic",
+   "pos": "adj",
+   "ipa": "ˌiːkəˈnɑːmɪk",
+   "ru": "экономический",
+   "ex": "The country is going through an economic crisis.",
+   "exRu": "Страна переживает экономический кризис.",
+   "col": "economic growth",
+   "img": {
+    "sheet": 23,
+    "cell": 1
+   }
+  },
+  {
+   "id": 134,
+   "unit": 7,
+   "en": "global",
+   "pos": "adj",
+   "ipa": "ˈɡləʊbl",
+   "ru": "глобальный, мировой",
+   "ex": "We are a global company with offices in 12 countries.",
+   "exRu": "Мы глобальная компания с офисами в 12 странах.",
+   "col": "the global market",
+   "img": {
+    "sheet": 23,
+    "cell": 2
+   }
+  },
+  {
+   "id": 135,
+   "unit": 7,
+   "en": "expand",
+   "pos": "v",
+   "ipa": "ɪkˈspænd",
+   "ru": "расширять(ся)",
+   "ex": "The company plans to expand into Latin America.",
+   "exRu": "Компания планирует выйти на рынок Латинской Америки.",
+   "col": "expand a business",
+   "img": {
+    "sheet": 23,
+    "cell": 3
+   }
+  },
+  {
+   "id": 136,
+   "unit": 7,
+   "en": "trend",
+   "pos": "n",
+   "ipa": "trend",
+   "ru": "тенденция, тренд",
+   "ex": "There is a growing trend toward online shopping.",
+   "exRu": "Растёт тенденция к покупкам онлайн.",
+   "col": "the latest trend",
+   "img": {
+    "sheet": 23,
+    "cell": 4
+   }
+  },
+  {
+   "id": 137,
+   "unit": 7,
+   "en": "analysis",
+   "pos": "n",
+   "ipa": "əˈnæləsɪs",
+   "ru": "анализ",
+   "ex": "We need a detailed analysis of the market.",
+   "exRu": "Нам нужен детальный анализ рынка.",
+   "col": "market analysis",
+   "img": {
+    "sheet": 23,
+    "cell": 5
+   }
+  },
+  {
+   "id": 138,
+   "unit": 7,
+   "en": "loss",
+   "pos": "n",
+   "ipa": "lɔːs",
+   "ru": "убыток; потеря",
+   "ex": "The company made a loss last year.",
+   "exRu": "В прошлом году компания понесла убытки.",
+   "col": "make a loss",
+   "img": {
+    "sheet": 23,
+    "cell": 6
+   }
+  },
+  {
+   "id": 139,
+   "unit": 7,
+   "en": "rise",
+   "pos": "n",
+   "ipa": "raɪz",
+   "ru": "рост, повышение",
+   "ex": "There has been a rise in prices.",
+   "exRu": "Цены выросли.",
+   "col": "a rise in sth",
+   "img": {
+    "sheet": 24,
+    "cell": 1
+   }
+  },
+  {
+   "id": 140,
+   "unit": 7,
+   "en": "branch",
+   "pos": "n",
+   "ipa": "bræntʃ",
+   "ru": "филиал, отделение",
+   "ex": "The bank has a branch in every city.",
+   "exRu": "У банка есть отделение в каждом городе.",
+   "col": "a local branch",
+   "img": {
+    "sheet": 24,
+    "cell": 2
+   }
+  },
+  {
+   "id": 141,
    "unit": 8,
    "en": "announce",
    "pos": "v",
@@ -1400,12 +2240,12 @@
    "exRu": "Компания объявила о новом продукте.",
    "col": "announce a decision",
    "img": {
-    "sheet": 15,
-    "cell": 1
+    "sheet": 24,
+    "cell": 3
    }
   },
   {
-   "id": 86,
+   "id": 142,
    "unit": 8,
    "en": "admit",
    "pos": "v",
@@ -1415,12 +2255,12 @@
    "exRu": "Он признал, что ошибся.",
    "col": "admit a mistake",
    "img": {
-    "sheet": 15,
-    "cell": 2
+    "sheet": 24,
+    "cell": 4
    }
   },
   {
-   "id": 87,
+   "id": 143,
    "unit": 8,
    "en": "confirm",
    "pos": "v",
@@ -1430,12 +2270,12 @@
    "exRu": "Не могли бы вы подтвердить дату встречи?",
    "col": "confirm a booking",
    "img": {
-    "sheet": 15,
-    "cell": 3
+    "sheet": 24,
+    "cell": 5
    }
   },
   {
-   "id": 88,
+   "id": 144,
    "unit": 8,
    "en": "request",
    "pos": "v",
@@ -1445,12 +2285,12 @@
    "exRu": "Мы запросили дополнительную информацию о цене.",
    "col": "request information",
    "img": {
-    "sheet": 15,
-    "cell": 4
+    "sheet": 24,
+    "cell": 6
    }
   },
   {
-   "id": 89,
+   "id": 145,
    "unit": 8,
    "en": "presentation",
    "pos": "n",
@@ -1460,12 +2300,12 @@
    "exRu": "Завтра я делаю презентацию для руководства.",
    "col": "give a presentation",
    "img": {
-    "sheet": 15,
-    "cell": 5
+    "sheet": 25,
+    "cell": 1
    }
   },
   {
-   "id": 90,
+   "id": 146,
    "unit": 8,
    "en": "complaint",
    "pos": "n",
@@ -1475,12 +2315,12 @@
    "exRu": "Мы получили жалобу от клиента.",
    "col": "make a complaint",
    "img": {
-    "sheet": 15,
-    "cell": 6
+    "sheet": 25,
+    "cell": 2
    }
   },
   {
-   "id": 91,
+   "id": 147,
    "unit": 8,
    "en": "comment",
    "pos": "v",
@@ -1490,12 +2330,12 @@
    "exRu": "Он не захотел комментировать новость.",
    "col": "comment on sth",
    "img": {
-    "sheet": 16,
-    "cell": 1
+    "sheet": 25,
+    "cell": 3
    }
   },
   {
-   "id": 92,
+   "id": 148,
    "unit": 8,
    "en": "reject",
    "pos": "v",
@@ -1505,12 +2345,12 @@
    "exRu": "Клиент отклонил наше первое предложение.",
    "col": "reject an offer",
    "img": {
-    "sheet": 16,
-    "cell": 2
+    "sheet": 25,
+    "cell": 4
    }
   },
   {
-   "id": 93,
+   "id": 149,
    "unit": 8,
    "en": "conclude",
    "pos": "v",
@@ -1520,12 +2360,12 @@
    "exRu": "Позвольте завершить кратким резюме.",
    "col": "conclude that",
    "img": {
-    "sheet": 16,
-    "cell": 3
+    "sheet": 25,
+    "cell": 5
    }
   },
   {
-   "id": 94,
+   "id": 150,
    "unit": 8,
    "en": "summarize",
    "pos": "v",
@@ -1535,12 +2375,12 @@
    "exRu": "Можете подвести итог по главным пунктам?",
    "col": "summarize the results",
    "img": {
-    "sheet": 16,
-    "cell": 4
+    "sheet": 25,
+    "cell": 6
    }
   },
   {
-   "id": 95,
+   "id": 151,
    "unit": 8,
    "en": "attach",
    "pos": "v",
@@ -1550,12 +2390,12 @@
    "exRu": "Я прикрепил прайс-лист к этому письму.",
    "col": "attach a file",
    "img": {
-    "sheet": 16,
-    "cell": 5
+    "sheet": 26,
+    "cell": 1
    }
   },
   {
-   "id": 96,
+   "id": 152,
    "unit": 8,
    "en": "appreciate",
    "pos": "v",
@@ -1565,12 +2405,132 @@
    "exRu": "Я очень ценю вашу помощь.",
    "col": "appreciate it",
    "img": {
-    "sheet": 16,
+    "sheet": 26,
+    "cell": 2
+   }
+  },
+  {
+   "id": 153,
+   "unit": 8,
+   "en": "announcement",
+   "pos": "n",
+   "ipa": "əˈnaʊnsmənt",
+   "ru": "объявление",
+   "ex": "The CEO made an important announcement.",
+   "exRu": "Генеральный директор сделал важное объявление.",
+   "col": "make an announcement",
+   "img": {
+    "sheet": 26,
+    "cell": 3
+   }
+  },
+  {
+   "id": 154,
+   "unit": 8,
+   "en": "communication",
+   "pos": "n",
+   "ipa": "kəˌmjuːnɪˈkeɪʃn",
+   "ru": "общение, коммуникация",
+   "ex": "Good communication is the key to success.",
+   "exRu": "Хорошая коммуникация — ключ к успеху.",
+   "col": "communication skills",
+   "img": {
+    "sheet": 26,
+    "cell": 4
+   }
+  },
+  {
+   "id": 155,
+   "unit": 8,
+   "en": "conclusion",
+   "pos": "n",
+   "ipa": "kənˈkluːʒn",
+   "ru": "вывод, заключение",
+   "ex": "What conclusion did you come to?",
+   "exRu": "К какому выводу вы пришли?",
+   "col": "come to a conclusion",
+   "img": {
+    "sheet": 26,
+    "cell": 5
+   }
+  },
+  {
+   "id": 156,
+   "unit": 8,
+   "en": "summary",
+   "pos": "n",
+   "ipa": "ˈsʌməri",
+   "ru": "краткое изложение, резюме",
+   "ex": "Please send me a short summary of the meeting.",
+   "exRu": "Пожалуйста, пришлите мне краткое резюме встречи.",
+   "col": "a brief summary",
+   "img": {
+    "sheet": 26,
     "cell": 6
    }
   },
   {
-   "id": 97,
+   "id": 157,
+   "unit": 8,
+   "en": "highlight",
+   "pos": "v",
+   "ipa": "ˈhaɪlaɪt",
+   "ru": "выделять, подчёркивать",
+   "ex": "I want to highlight three main points.",
+   "exRu": "Я хочу выделить три главных момента.",
+   "col": "highlight a problem",
+   "img": {
+    "sheet": 27,
+    "cell": 1
+   }
+  },
+  {
+   "id": 158,
+   "unit": 8,
+   "en": "indicate",
+   "pos": "v",
+   "ipa": "ˈɪndɪkeɪt",
+   "ru": "указывать, показывать",
+   "ex": "The results indicate strong demand.",
+   "exRu": "Результаты указывают на высокий спрос.",
+   "col": "indicate that",
+   "img": {
+    "sheet": 27,
+    "cell": 2
+   }
+  },
+  {
+   "id": 159,
+   "unit": 8,
+   "en": "represent",
+   "pos": "v",
+   "ipa": "ˌreprɪˈzent",
+   "ru": "представлять (интересы)",
+   "ex": "I represent SG Healthcare in Central Asia.",
+   "exRu": "Я представляю SG Healthcare в Центральной Азии.",
+   "col": "represent a company",
+   "img": {
+    "sheet": 27,
+    "cell": 3
+   }
+  },
+  {
+   "id": 160,
+   "unit": 8,
+   "en": "issue",
+   "pos": "n",
+   "ipa": "ˈɪʃuː",
+   "ru": "вопрос, проблема",
+   "ex": "We need to discuss the delivery issue.",
+   "exRu": "Нам нужно обсудить вопрос с доставкой.",
+   "col": "raise an issue",
+   "img": {
+    "sheet": 27,
+    "cell": 4
+   }
+  },
+  {
+   "id": 161,
    "unit": 9,
    "en": "departure",
    "pos": "n",
@@ -1580,12 +2540,12 @@
    "exRu": "Пожалуйста, приезжайте за два часа до вылета.",
    "col": "departure time",
    "img": {
-    "sheet": 17,
-    "cell": 1
+    "sheet": 27,
+    "cell": 5
    }
   },
   {
-   "id": 98,
+   "id": 162,
    "unit": 9,
    "en": "arrival",
    "pos": "n",
@@ -1595,27 +2555,27 @@
    "exRu": "Время нашего прибытия — 18:45.",
    "col": "the arrivals hall",
    "img": {
-    "sheet": 17,
-    "cell": 2
+    "sheet": 27,
+    "cell": 6
    }
   },
   {
-   "id": 99,
+   "id": 163,
    "unit": 9,
    "en": "destination",
    "pos": "n",
    "ipa": "ˌdestɪˈneɪʃn",
    "ru": "пункт назначения",
-   "ex": "Japan is my favourite travel destination.",
+   "ex": "Japan is my favorite travel destination.",
    "exRu": "Япония — моё любимое направление для путешествий.",
    "col": "a popular destination",
    "img": {
-    "sheet": 17,
-    "cell": 3
+    "sheet": 28,
+    "cell": 1
    }
   },
   {
-   "id": 100,
+   "id": 164,
    "unit": 9,
    "en": "board",
    "pos": "v",
@@ -1625,12 +2585,12 @@
    "exRu": "Пассажиры могут проходить на посадку.",
    "col": "board a plane",
    "img": {
-    "sheet": 17,
-    "cell": 4
+    "sheet": 28,
+    "cell": 2
    }
   },
   {
-   "id": 101,
+   "id": 165,
    "unit": 9,
    "en": "currency",
    "pos": "n",
@@ -1640,12 +2600,12 @@
    "exRu": "Валюту можно обменять в аэропорту.",
    "col": "foreign currency",
    "img": {
-    "sheet": 17,
-    "cell": 5
+    "sheet": 28,
+    "cell": 3
    }
   },
   {
-   "id": 102,
+   "id": 166,
    "unit": 9,
    "en": "accommodation",
    "pos": "n",
@@ -1655,12 +2615,12 @@
    "exRu": "В стоимость входят перелёт и проживание.",
    "col": "find accommodation",
    "img": {
-    "sheet": 17,
-    "cell": 6
+    "sheet": 28,
+    "cell": 4
    }
   },
   {
-   "id": 103,
+   "id": 167,
    "unit": 9,
    "en": "reservation",
    "pos": "n",
@@ -1670,12 +2630,12 @@
    "exRu": "У меня бронь на две ночи.",
    "col": "make a reservation",
    "img": {
-    "sheet": 18,
-    "cell": 1
+    "sheet": 28,
+    "cell": 5
    }
   },
   {
-   "id": 104,
+   "id": 168,
    "unit": 9,
    "en": "explore",
    "pos": "v",
@@ -1685,12 +2645,12 @@
    "exRu": "Мы провели день, гуляя по старому городу.",
    "col": "explore the city",
    "img": {
-    "sheet": 18,
-    "cell": 2
+    "sheet": 28,
+    "cell": 6
    }
   },
   {
-   "id": 105,
+   "id": 169,
    "unit": 9,
    "en": "border",
    "pos": "n",
@@ -1700,12 +2660,12 @@
    "exRu": "Мы пересекли границу ночью.",
    "col": "cross the border",
    "img": {
-    "sheet": 18,
-    "cell": 3
+    "sheet": 29,
+    "cell": 1
    }
   },
   {
-   "id": 106,
+   "id": 170,
    "unit": 9,
    "en": "attraction",
    "pos": "n",
@@ -1715,12 +2675,12 @@
    "exRu": "Замок — главная туристическая достопримечательность.",
    "col": "a tourist attraction",
    "img": {
-    "sheet": 18,
-    "cell": 4
+    "sheet": 29,
+    "cell": 2
    }
   },
   {
-   "id": 107,
+   "id": 171,
    "unit": 9,
    "en": "tour",
    "pos": "v",
@@ -1730,12 +2690,12 @@
    "exRu": "Мы две недели путешествовали по Японии.",
    "col": "tour a country",
    "img": {
-    "sheet": 18,
-    "cell": 5
+    "sheet": 29,
+    "cell": 3
    }
   },
   {
-   "id": 108,
+   "id": 172,
    "unit": 9,
    "en": "port",
    "pos": "n",
@@ -1745,12 +2705,132 @@
    "exRu": "Корабль прибыл в порт утром.",
    "col": "a busy port",
    "img": {
-    "sheet": 18,
+    "sheet": 29,
+    "cell": 4
+   }
+  },
+  {
+   "id": 173,
+   "unit": 9,
+   "en": "expedition",
+   "pos": "n",
+   "ipa": "ˌekspəˈdɪʃn",
+   "ru": "экспедиция",
+   "ex": "They went on an expedition to the mountains.",
+   "exRu": "Они отправились в экспедицию в горы.",
+   "col": "go on an expedition",
+   "img": {
+    "sheet": 29,
+    "cell": 5
+   }
+  },
+  {
+   "id": 174,
+   "unit": 9,
+   "en": "sight",
+   "pos": "n",
+   "ipa": "saɪt",
+   "ru": "вид; достопримечательность (мн.)",
+   "ex": "We saw all the sights of Tokyo in two days.",
+   "exRu": "За два дня мы осмотрели все достопримечательности Токио.",
+   "col": "see the sights",
+   "img": {
+    "sheet": 29,
     "cell": 6
    }
   },
   {
-   "id": 109,
+   "id": 175,
+   "unit": 9,
+   "en": "entry",
+   "pos": "n",
+   "ipa": "ˈentri",
+   "ru": "въезд, вход",
+   "ex": "You need a visa for entry into the country.",
+   "exRu": "Для въезда в страну нужна виза.",
+   "col": "entry visa",
+   "img": {
+    "sheet": 30,
+    "cell": 1
+   }
+  },
+  {
+   "id": 176,
+   "unit": 9,
+   "en": "host",
+   "pos": "n",
+   "ipa": "həʊst",
+   "ru": "хозяин, принимающая сторона",
+   "ex": "Our hosts showed us around the city.",
+   "exRu": "Принимающая сторона показала нам город.",
+   "col": "a good host",
+   "img": {
+    "sheet": 30,
+    "cell": 2
+   }
+  },
+  {
+   "id": 177,
+   "unit": 9,
+   "en": "local",
+   "pos": "n",
+   "ipa": "ˈləʊkl",
+   "ru": "местный житель",
+   "ex": "Ask a local for the best restaurant.",
+   "exRu": "Спроси у местного, где лучший ресторан.",
+   "col": "the locals",
+   "img": {
+    "sheet": 30,
+    "cell": 3
+   }
+  },
+  {
+   "id": 178,
+   "unit": 9,
+   "en": "atmosphere",
+   "pos": "n",
+   "ipa": "ˈætməsfɪr",
+   "ru": "атмосфера",
+   "ex": "The café has a cozy atmosphere.",
+   "exRu": "В кафе уютная атмосфера.",
+   "col": "a relaxed atmosphere",
+   "img": {
+    "sheet": 30,
+    "cell": 4
+   }
+  },
+  {
+   "id": 179,
+   "unit": 9,
+   "en": "historic",
+   "pos": "adj",
+   "ipa": "hɪˈstɔːrɪk",
+   "ru": "исторический (значимый)",
+   "ex": "We walked around the historic center.",
+   "exRu": "Мы погуляли по историческому центру.",
+   "col": "a historic building",
+   "img": {
+    "sheet": 30,
+    "cell": 5
+   }
+  },
+  {
+   "id": 180,
+   "unit": 9,
+   "en": "convenient",
+   "pos": "adj",
+   "ipa": "kənˈviːniənt",
+   "ru": "удобный",
+   "ex": "Is 10 a.m. convenient for you?",
+   "exRu": "Вам удобно в 10 утра?",
+   "col": "a convenient time",
+   "img": {
+    "sheet": 30,
+    "cell": 6
+   }
+  },
+  {
+   "id": 181,
    "unit": 10,
    "en": "fuel",
    "pos": "n",
@@ -1760,27 +2840,27 @@
    "exRu": "Эта машина расходует очень мало топлива.",
    "col": "run out of fuel",
    "img": {
-    "sheet": 19,
+    "sheet": 31,
     "cell": 1
    }
   },
   {
-   "id": 110,
+   "id": 182,
    "unit": 10,
-   "en": "tyre",
+   "en": "tire",
    "pos": "n",
    "ipa": "ˈtaɪər",
    "ru": "шина",
-   "ex": "We had a flat tyre on the way.",
+   "ex": "We had a flat tire on the way.",
    "exRu": "По дороге у нас спустило колесо.",
-   "col": "a flat tyre",
+   "col": "a flat tire",
    "img": {
-    "sheet": 19,
+    "sheet": 31,
     "cell": 2
    }
   },
   {
-   "id": 111,
+   "id": 183,
    "unit": 10,
    "en": "helicopter",
    "pos": "n",
@@ -1790,12 +2870,12 @@
    "exRu": "Пациента доставили в больницу на вертолёте.",
    "col": "by helicopter",
    "img": {
-    "sheet": 19,
+    "sheet": 31,
     "cell": 3
    }
   },
   {
-   "id": 112,
+   "id": 184,
    "unit": 10,
    "en": "transport",
    "pos": "v",
@@ -1805,12 +2885,12 @@
    "exRu": "Оборудование перевезли на грузовике.",
    "col": "transport goods",
    "img": {
-    "sheet": 19,
+    "sheet": 31,
     "cell": 4
    }
   },
   {
-   "id": 113,
+   "id": 185,
    "unit": 10,
    "en": "path",
    "pos": "n",
@@ -1820,27 +2900,27 @@
    "exRu": "Идите по тропинке вдоль реки.",
    "col": "a narrow path",
    "img": {
-    "sheet": 19,
+    "sheet": 31,
     "cell": 5
    }
   },
   {
-   "id": 114,
+   "id": 186,
    "unit": 10,
    "en": "signal",
    "pos": "n",
    "ipa": "ˈsɪɡnəl",
    "ru": "сигнал",
-   "ex": "There's no mobile signal here.",
+   "ex": "There's no cell phone signal here.",
    "exRu": "Здесь нет мобильной связи.",
    "col": "a weak signal",
    "img": {
-    "sheet": 19,
+    "sheet": 31,
     "cell": 6
    }
   },
   {
-   "id": 115,
+   "id": 187,
    "unit": 10,
    "en": "entrance",
    "pos": "n",
@@ -1850,12 +2930,12 @@
    "exRu": "Давай встретимся у главного входа.",
    "col": "the main entrance",
    "img": {
-    "sheet": 20,
+    "sheet": 32,
     "cell": 1
    }
   },
   {
-   "id": 116,
+   "id": 188,
    "unit": 10,
    "en": "location",
    "pos": "n",
@@ -1865,12 +2945,12 @@
    "exRu": "У отеля отличное расположение.",
    "col": "a central location",
    "img": {
-    "sheet": 20,
+    "sheet": 32,
     "cell": 2
    }
   },
   {
-   "id": 117,
+   "id": 189,
    "unit": 10,
    "en": "central",
    "pos": "adj",
@@ -1880,12 +2960,12 @@
    "exRu": "Наш офис в центре Алматы.",
    "col": "central heating",
    "img": {
-    "sheet": 20,
+    "sheet": 32,
     "cell": 3
    }
   },
   {
-   "id": 118,
+   "id": 190,
    "unit": 10,
    "en": "statue",
    "pos": "n",
@@ -1895,12 +2975,12 @@
    "exRu": "На площади стоит статуя поэта.",
    "col": "a bronze statue",
    "img": {
-    "sheet": 20,
+    "sheet": 32,
     "cell": 4
    }
   },
   {
-   "id": 119,
+   "id": 191,
    "unit": 10,
    "en": "sail",
    "pos": "n",
@@ -1910,12 +2990,12 @@
    "exRu": "У лодки были белые паруса.",
    "col": "set sail",
    "img": {
-    "sheet": 20,
+    "sheet": 32,
     "cell": 5
    }
   },
   {
-   "id": 120,
+   "id": 192,
    "unit": 10,
    "en": "slow",
    "pos": "v",
@@ -1925,12 +3005,132 @@
    "exRu": "Сбавь скорость — здесь школа.",
    "col": "slow down",
    "img": {
-    "sheet": 20,
+    "sheet": 32,
     "cell": 6
    }
   },
   {
-   "id": 121,
+   "id": 193,
+   "unit": 10,
+   "en": "direct",
+   "pos": "v",
+   "ipa": "dəˈrekt",
+   "ru": "показать дорогу; направлять",
+   "ex": "Could you direct me to the station?",
+   "exRu": "Не подскажете, как пройти к вокзалу?",
+   "col": "direct sb to sth",
+   "img": {
+    "sheet": 33,
+    "cell": 1
+   }
+  },
+  {
+   "id": 194,
+   "unit": 10,
+   "en": "fasten",
+   "pos": "v",
+   "ipa": "ˈfæsn",
+   "ru": "пристёгивать, застёгивать",
+   "ex": "Please fasten your seat belt.",
+   "exRu": "Пожалуйста, пристегните ремень безопасности.",
+   "col": "fasten your seat belt",
+   "img": {
+    "sheet": 33,
+    "cell": 2
+   }
+  },
+  {
+   "id": 195,
+   "unit": 10,
+   "en": "safety",
+   "pos": "n",
+   "ipa": "ˈseɪfti",
+   "ru": "безопасность",
+   "ex": "Safety is our top priority.",
+   "exRu": "Безопасность — наш главный приоритет.",
+   "col": "road safety",
+   "img": {
+    "sheet": 33,
+    "cell": 3
+   }
+  },
+  {
+   "id": 196,
+   "unit": 10,
+   "en": "security",
+   "pos": "n",
+   "ipa": "sɪˈkjʊrəti",
+   "ru": "безопасность; охрана, досмотр",
+   "ex": "We went through airport security.",
+   "exRu": "Мы прошли досмотр в аэропорту.",
+   "col": "airport security",
+   "img": {
+    "sheet": 33,
+    "cell": 4
+   }
+  },
+  {
+   "id": 197,
+   "unit": 10,
+   "en": "wing",
+   "pos": "n",
+   "ipa": "wɪŋ",
+   "ru": "крыло",
+   "ex": "I had a seat over the wing.",
+   "exRu": "У меня было место над крылом.",
+   "col": "the wing of a plane",
+   "img": {
+    "sheet": 33,
+    "cell": 5
+   }
+  },
+  {
+   "id": 198,
+   "unit": 10,
+   "en": "approximately",
+   "pos": "adv",
+   "ipa": "əˈprɑːksɪmətli",
+   "ru": "приблизительно",
+   "ex": "The trip takes approximately two hours.",
+   "exRu": "Поездка занимает примерно два часа.",
+   "col": "approximately 50%",
+   "img": {
+    "sheet": 33,
+    "cell": 6
+   }
+  },
+  {
+   "id": 199,
+   "unit": 10,
+   "en": "sailor",
+   "pos": "n",
+   "ipa": "ˈseɪlər",
+   "ru": "моряк",
+   "ex": "The sailors got the ship ready.",
+   "exRu": "Моряки подготовили корабль.",
+   "col": "an experienced sailor",
+   "img": {
+    "sheet": 34,
+    "cell": 1
+   }
+  },
+  {
+   "id": 200,
+   "unit": 10,
+   "en": "flag",
+   "pos": "n",
+   "ipa": "flæɡ",
+   "ru": "флаг",
+   "ex": "The ship was flying a Korean flag.",
+   "exRu": "Корабль шёл под корейским флагом.",
+   "col": "a national flag",
+   "img": {
+    "sheet": 34,
+    "cell": 2
+   }
+  },
+  {
+   "id": 201,
    "unit": 11,
    "en": "breathe",
    "pos": "v",
@@ -1940,12 +3140,12 @@
    "exRu": "Медленно вдохните через нос.",
    "col": "breathe deeply",
    "img": {
-    "sheet": 21,
-    "cell": 1
+    "sheet": 34,
+    "cell": 3
    }
   },
   {
-   "id": 122,
+   "id": 202,
    "unit": 11,
    "en": "muscle",
    "pos": "n",
@@ -1955,12 +3155,12 @@
    "exRu": "После спортзала у меня болят мышцы.",
    "col": "build muscle",
    "img": {
-    "sheet": 21,
-    "cell": 2
+    "sheet": 34,
+    "cell": 4
    }
   },
   {
-   "id": 123,
+   "id": 203,
    "unit": 11,
    "en": "chest",
    "pos": "n",
@@ -1970,12 +3170,12 @@
    "exRu": "Он почувствовал боль в груди.",
    "col": "chest pain",
    "img": {
-    "sheet": 21,
-    "cell": 3
+    "sheet": 34,
+    "cell": 5
    }
   },
   {
-   "id": 124,
+   "id": 204,
    "unit": 11,
    "en": "throat",
    "pos": "n",
@@ -1985,12 +3185,12 @@
    "exRu": "У меня болит горло.",
    "col": "a sore throat",
    "img": {
-    "sheet": 21,
-    "cell": 4
+    "sheet": 34,
+    "cell": 6
    }
   },
   {
-   "id": 125,
+   "id": 205,
    "unit": 11,
    "en": "toe",
    "pos": "n",
@@ -2000,12 +3200,12 @@
    "exRu": "Я ударил палец ноги о дверь.",
    "col": "big toe",
    "img": {
-    "sheet": 21,
-    "cell": 5
+    "sheet": 35,
+    "cell": 1
    }
   },
   {
-   "id": 126,
+   "id": 206,
    "unit": 11,
    "en": "tongue",
    "pos": "n",
@@ -2015,12 +3215,12 @@
    "exRu": "Пожалуйста, высуньте язык и скажите «а».",
    "col": "bite your tongue",
    "img": {
-    "sheet": 21,
-    "cell": 6
+    "sheet": 35,
+    "cell": 2
    }
   },
   {
-   "id": 127,
+   "id": 207,
    "unit": 11,
    "en": "lip",
    "pos": "n",
@@ -2030,12 +3230,12 @@
    "exRu": "Зимой у меня сохнут губы.",
    "col": "dry lips",
    "img": {
-    "sheet": 22,
-    "cell": 1
+    "sheet": 35,
+    "cell": 3
    }
   },
   {
-   "id": 128,
+   "id": 208,
    "unit": 11,
    "en": "injured",
    "pos": "adj",
@@ -2045,12 +3245,12 @@
    "exRu": "В аварии пострадали два человека.",
    "col": "badly injured",
    "img": {
-    "sheet": 22,
-    "cell": 2
+    "sheet": 35,
+    "cell": 4
    }
   },
   {
-   "id": 129,
+   "id": 209,
    "unit": 11,
    "en": "painful",
    "pos": "adj",
@@ -2060,12 +3260,12 @@
    "exRu": "Колено всё ещё болит.",
    "col": "a painful injury",
    "img": {
-    "sheet": 22,
-    "cell": 3
+    "sheet": 35,
+    "cell": 5
    }
   },
   {
-   "id": 130,
+   "id": 210,
    "unit": 11,
    "en": "fitness",
    "pos": "n",
@@ -2073,14 +3273,14 @@
    "ru": "физическая форма, фитнес",
    "ex": "She goes to a fitness class twice a week.",
    "exRu": "Она ходит на фитнес два раза в неделю.",
-   "col": "a fitness centre",
+   "col": "a fitness center",
    "img": {
-    "sheet": 22,
-    "cell": 4
+    "sheet": 35,
+    "cell": 6
    }
   },
   {
-   "id": 131,
+   "id": 211,
    "unit": 11,
    "en": "weigh",
    "pos": "v",
@@ -2090,12 +3290,12 @@
    "exRu": "Сколько ты весишь?",
    "col": "weigh 70 kilos",
    "img": {
-    "sheet": 22,
-    "cell": 5
+    "sheet": 36,
+    "cell": 1
    }
   },
   {
-   "id": 132,
+   "id": 212,
    "unit": 11,
    "en": "pale",
    "pos": "adj",
@@ -2105,12 +3305,132 @@
    "exRu": "Ты бледный. Всё в порядке?",
    "col": "go pale",
    "img": {
-    "sheet": 22,
+    "sheet": 36,
+    "cell": 2
+   }
+  },
+  {
+   "id": 213,
+   "unit": 11,
+   "en": "breath",
+   "pos": "n",
+   "ipa": "breθ",
+   "ru": "дыхание, вдох",
+   "ex": "Take a deep breath.",
+   "exRu": "Сделай глубокий вдох.",
+   "col": "take a deep breath",
+   "img": {
+    "sheet": 36,
+    "cell": 3
+   }
+  },
+  {
+   "id": 214,
+   "unit": 11,
+   "en": "bite",
+   "pos": "n",
+   "ipa": "baɪt",
+   "ru": "укус",
+   "ex": "I have a mosquito bite on my arm.",
+   "exRu": "У меня на руке укус комара.",
+   "col": "an insect bite",
+   "img": {
+    "sheet": 36,
+    "cell": 4
+   }
+  },
+  {
+   "id": 215,
+   "unit": 11,
+   "en": "injure",
+   "pos": "v",
+   "ipa": "ˈɪndʒər",
+   "ru": "ранить, травмировать",
+   "ex": "He injured his back at the gym.",
+   "exRu": "Он повредил спину в спортзале.",
+   "col": "injure your knee",
+   "img": {
+    "sheet": 36,
+    "cell": 5
+   }
+  },
+  {
+   "id": 216,
+   "unit": 11,
+   "en": "strength",
+   "pos": "n",
+   "ipa": "streŋkθ",
+   "ru": "сила",
+   "ex": "You need strength for this sport.",
+   "exRu": "Для этого спорта нужна сила.",
+   "col": "physical strength",
+   "img": {
+    "sheet": 36,
     "cell": 6
    }
   },
   {
-   "id": 133,
+   "id": 217,
+   "unit": 11,
+   "en": "bend",
+   "pos": "v",
+   "ipa": "bend",
+   "ru": "сгибать(ся), наклоняться",
+   "ex": "Bend your knees when you lift something heavy.",
+   "exRu": "Сгибайте колени, когда поднимаете тяжёлое.",
+   "col": "bend down",
+   "img": {
+    "sheet": 37,
+    "cell": 1
+   }
+  },
+  {
+   "id": 218,
+   "unit": 11,
+   "en": "touch",
+   "pos": "n",
+   "ipa": "tʌtʃ",
+   "ru": "прикосновение; связь",
+   "ex": "I felt a light touch on my shoulder.",
+   "exRu": "Я почувствовал лёгкое прикосновение к плечу.",
+   "col": "keep in touch",
+   "img": {
+    "sheet": 37,
+    "cell": 2
+   }
+  },
+  {
+   "id": 219,
+   "unit": 11,
+   "en": "uncomfortable",
+   "pos": "adj",
+   "ipa": "ʌnˈkʌmftəbl",
+   "ru": "неудобный",
+   "ex": "These shoes are really uncomfortable.",
+   "exRu": "Эти туфли очень неудобные.",
+   "col": "feel uncomfortable",
+   "img": {
+    "sheet": 37,
+    "cell": 3
+   }
+  },
+  {
+   "id": 220,
+   "unit": 11,
+   "en": "mild",
+   "pos": "adj",
+   "ipa": "maɪld",
+   "ru": "лёгкий, слабый; мягкий",
+   "ex": "I have a mild headache.",
+   "exRu": "У меня лёгкая головная боль.",
+   "col": "a mild winter",
+   "img": {
+    "sheet": 37,
+    "cell": 4
+   }
+  },
+  {
+   "id": 221,
    "unit": 12,
    "en": "treatment",
    "pos": "n",
@@ -2120,12 +3440,12 @@
    "exRu": "Новое лечение очень эффективно.",
    "col": "receive treatment",
    "img": {
-    "sheet": 23,
-    "cell": 1
+    "sheet": 37,
+    "cell": 5
    }
   },
   {
-   "id": 134,
+   "id": 222,
    "unit": 12,
    "en": "operation",
    "pos": "n",
@@ -2135,27 +3455,27 @@
    "exRu": "Ему нужна операция на колене.",
    "col": "have an operation",
    "img": {
-    "sheet": 23,
-    "cell": 2
+    "sheet": 37,
+    "cell": 6
    }
   },
   {
-   "id": 135,
+   "id": 223,
    "unit": 12,
    "en": "emergency",
    "pos": "n",
    "ipa": "ɪˈmɜːrdʒənsi",
    "ru": "экстренная ситуация",
-   "ex": "In an emergency, call 112.",
-   "exRu": "В экстренной ситуации звоните 112.",
+   "ex": "In an emergency, call 911.",
+   "exRu": "В экстренной ситуации звоните 911 (в США).",
    "col": "an emergency room",
    "img": {
-    "sheet": 23,
-    "cell": 3
+    "sheet": 38,
+    "cell": 1
    }
   },
   {
-   "id": 136,
+   "id": 224,
    "unit": 12,
    "en": "examine",
    "pos": "v",
@@ -2165,12 +3485,12 @@
    "exRu": "Врач осмотрел моё горло.",
    "col": "examine a patient",
    "img": {
-    "sheet": 23,
-    "cell": 4
+    "sheet": 38,
+    "cell": 2
    }
   },
   {
-   "id": 137,
+   "id": 225,
    "unit": 12,
    "en": "symptom",
    "pos": "n",
@@ -2180,12 +3500,12 @@
    "exRu": "Какие симптомы у гриппа?",
    "col": "have symptoms",
    "img": {
-    "sheet": 23,
-    "cell": 5
+    "sheet": 38,
+    "cell": 3
    }
   },
   {
-   "id": 138,
+   "id": 226,
    "unit": 12,
    "en": "treat",
    "pos": "v",
@@ -2195,12 +3515,12 @@
    "exRu": "Врач лечил её от травмы спины.",
    "col": "treat a patient",
    "img": {
-    "sheet": 23,
-    "cell": 6
+    "sheet": 38,
+    "cell": 4
    }
   },
   {
-   "id": 139,
+   "id": 227,
    "unit": 12,
    "en": "suffer",
    "pos": "v",
@@ -2210,12 +3530,12 @@
    "exRu": "Он страдает от головных болей.",
    "col": "suffer from sth",
    "img": {
-    "sheet": 24,
-    "cell": 1
+    "sheet": 38,
+    "cell": 5
    }
   },
   {
-   "id": 140,
+   "id": 228,
    "unit": 12,
    "en": "survive",
    "pos": "v",
@@ -2225,12 +3545,12 @@
    "exRu": "Все выжили в катастрофе.",
    "col": "survive an accident",
    "img": {
-    "sheet": 24,
-    "cell": 2
+    "sheet": 38,
+    "cell": 6
    }
   },
   {
-   "id": 141,
+   "id": 229,
    "unit": 12,
    "en": "laboratory",
    "pos": "n",
@@ -2240,12 +3560,12 @@
    "exRu": "Образцы крови отправили в лабораторию.",
    "col": "a research laboratory",
    "img": {
-    "sheet": 24,
-    "cell": 3
+    "sheet": 39,
+    "cell": 1
    }
   },
   {
-   "id": 142,
+   "id": 230,
    "unit": 12,
    "en": "mental",
    "pos": "adj",
@@ -2255,12 +3575,12 @@
    "exRu": "Спорт полезен для психического здоровья.",
    "col": "mental health",
    "img": {
-    "sheet": 24,
-    "cell": 4
+    "sheet": 39,
+    "cell": 2
    }
   },
   {
-   "id": 143,
+   "id": 231,
    "unit": 12,
    "en": "needle",
    "pos": "n",
@@ -2270,12 +3590,12 @@
    "exRu": "Я боюсь уколов.",
    "col": "a needle and thread",
    "img": {
-    "sheet": 24,
-    "cell": 5
+    "sheet": 39,
+    "cell": 3
    }
   },
   {
-   "id": 144,
+   "id": 232,
    "unit": 12,
    "en": "poison",
    "pos": "n",
@@ -2285,12 +3605,132 @@
    "exRu": "В этом растении содержится яд.",
    "col": "rat poison",
    "img": {
-    "sheet": 24,
+    "sheet": 39,
+    "cell": 4
+   }
+  },
+  {
+   "id": 233,
+   "unit": 12,
+   "en": "sample",
+   "pos": "n",
+   "ipa": "ˈsæmpl",
+   "ru": "образец, проба",
+   "ex": "The nurse took a blood sample.",
+   "exRu": "Медсестра взяла кровь на анализ.",
+   "col": "a blood sample",
+   "img": {
+    "sheet": 39,
+    "cell": 5
+   }
+  },
+  {
+   "id": 234,
+   "unit": 12,
+   "en": "chemical",
+   "pos": "n",
+   "ipa": "ˈkemɪkl",
+   "ru": "химическое вещество",
+   "ex": "Some cleaning products contain dangerous chemicals.",
+   "exRu": "Некоторые чистящие средства содержат опасные химические вещества.",
+   "col": "harmful chemicals",
+   "img": {
+    "sheet": 39,
     "cell": 6
    }
   },
   {
-   "id": 145,
+   "id": 235,
+   "unit": 12,
+   "en": "substance",
+   "pos": "n",
+   "ipa": "ˈsʌbstəns",
+   "ru": "вещество",
+   "ex": "This substance is dangerous for children.",
+   "exRu": "Это вещество опасно для детей.",
+   "col": "a toxic substance",
+   "img": {
+    "sheet": 40,
+    "cell": 1
+   }
+  },
+  {
+   "id": 236,
+   "unit": 12,
+   "en": "poisonous",
+   "pos": "adj",
+   "ipa": "ˈpɔɪzənəs",
+   "ru": "ядовитый",
+   "ex": "Some mushrooms are poisonous.",
+   "exRu": "Некоторые грибы ядовиты.",
+   "col": "a poisonous snake",
+   "img": {
+    "sheet": 40,
+    "cell": 2
+   }
+  },
+  {
+   "id": 237,
+   "unit": 12,
+   "en": "scientific",
+   "pos": "adj",
+   "ipa": "ˌsaɪənˈtɪfɪk",
+   "ru": "научный",
+   "ex": "There is no scientific proof.",
+   "exRu": "Научных доказательств нет.",
+   "col": "scientific research",
+   "img": {
+    "sheet": 40,
+    "cell": 3
+   }
+  },
+  {
+   "id": 238,
+   "unit": 12,
+   "en": "effective",
+   "pos": "adj",
+   "ipa": "ɪˈfektɪv",
+   "ru": "эффективный",
+   "ex": "This medicine is very effective.",
+   "exRu": "Это лекарство очень эффективно.",
+   "col": "an effective treatment",
+   "img": {
+    "sheet": 40,
+    "cell": 4
+   }
+  },
+  {
+   "id": 239,
+   "unit": 12,
+   "en": "investigate",
+   "pos": "v",
+   "ipa": "ɪnˈvestɪɡeɪt",
+   "ru": "исследовать, расследовать",
+   "ex": "Doctors are investigating the cause of the illness.",
+   "exRu": "Врачи выясняют причину болезни.",
+   "col": "investigate a problem",
+   "img": {
+    "sheet": 40,
+    "cell": 5
+   }
+  },
+  {
+   "id": 240,
+   "unit": 12,
+   "en": "reaction",
+   "pos": "n",
+   "ipa": "riˈækʃn",
+   "ru": "реакция",
+   "ex": "She had an allergic reaction to the medicine.",
+   "exRu": "У неё была аллергическая реакция на лекарство.",
+   "col": "an allergic reaction",
+   "img": {
+    "sheet": 40,
+    "cell": 6
+   }
+  },
+  {
+   "id": 241,
    "unit": 13,
    "en": "annoyed",
    "pos": "adj",
@@ -2300,12 +3740,12 @@
    "exRu": "Меня раздражает, что поезд опять опаздывает.",
    "col": "annoyed with sb",
    "img": {
-    "sheet": 25,
+    "sheet": 41,
     "cell": 1
    }
   },
   {
-   "id": 146,
+   "id": 242,
    "unit": 13,
    "en": "disappointed",
    "pos": "adj",
@@ -2315,12 +3755,12 @@
    "exRu": "Отель нас разочаровал.",
    "col": "disappointed with sth",
    "img": {
-    "sheet": 25,
+    "sheet": 41,
     "cell": 2
    }
   },
   {
-   "id": 147,
+   "id": 243,
    "unit": 13,
    "en": "embarrassed",
    "pos": "adj",
@@ -2330,12 +3770,12 @@
    "exRu": "Мне было неловко, когда я забыл его имя.",
    "col": "feel embarrassed",
    "img": {
-    "sheet": 25,
+    "sheet": 41,
     "cell": 3
    }
   },
   {
-   "id": 148,
+   "id": 244,
    "unit": 13,
    "en": "upset",
    "pos": "adj",
@@ -2345,12 +3785,12 @@
    "exRu": "Она расстроилась, потому что никто ей не позвонил.",
    "col": "get upset",
    "img": {
-    "sheet": 25,
+    "sheet": 41,
     "cell": 4
    }
   },
   {
-   "id": 149,
+   "id": 245,
    "unit": 13,
    "en": "lonely",
    "pos": "adj",
@@ -2360,12 +3800,12 @@
    "exRu": "В новом городе ему было одиноко.",
    "col": "feel lonely",
    "img": {
-    "sheet": 25,
+    "sheet": 41,
     "cell": 5
    }
   },
   {
-   "id": 150,
+   "id": 246,
    "unit": 13,
    "en": "proud",
    "pos": "adj",
@@ -2375,12 +3815,12 @@
    "exRu": "Я очень горжусь своей командой.",
    "col": "proud of sb",
    "img": {
-    "sheet": 25,
+    "sheet": 41,
     "cell": 6
    }
   },
   {
-   "id": 151,
+   "id": 247,
    "unit": 13,
    "en": "confused",
    "pos": "adj",
@@ -2390,12 +3830,12 @@
    "exRu": "Я запутался — какая форма мне нужна?",
    "col": "get confused",
    "img": {
-    "sheet": 26,
+    "sheet": 42,
     "cell": 1
    }
   },
   {
-   "id": 152,
+   "id": 248,
    "unit": 13,
    "en": "frightened",
    "pos": "adj",
@@ -2405,12 +3845,12 @@
    "exRu": "Ребёнок испугался собаки.",
    "col": "frightened of sth",
    "img": {
-    "sheet": 26,
+    "sheet": 42,
     "cell": 2
    }
   },
   {
-   "id": 153,
+   "id": 249,
    "unit": 13,
    "en": "amazed",
    "pos": "adj",
@@ -2420,27 +3860,27 @@
    "exRu": "Меня поразил вид.",
    "col": "amazed at/by sth",
    "img": {
-    "sheet": 26,
+    "sheet": 42,
     "cell": 3
    }
   },
   {
-   "id": 154,
+   "id": 250,
    "unit": 13,
    "en": "relaxed",
    "pos": "adj",
    "ipa": "rɪˈlækst",
    "ru": "расслабленный",
-   "ex": "I feel relaxed after a holiday.",
+   "ex": "I feel relaxed after a vacation.",
    "exRu": "После отпуска я чувствую себя отдохнувшим.",
    "col": "feel relaxed",
    "img": {
-    "sheet": 26,
+    "sheet": 42,
     "cell": 4
    }
   },
   {
-   "id": 155,
+   "id": 251,
    "unit": 13,
    "en": "grateful",
    "pos": "adj",
@@ -2450,12 +3890,12 @@
    "exRu": "Я благодарен за вашу поддержку.",
    "col": "grateful for sth",
    "img": {
-    "sheet": 26,
+    "sheet": 42,
     "cell": 5
    }
   },
   {
-   "id": 156,
+   "id": 252,
    "unit": 13,
    "en": "mood",
    "pos": "n",
@@ -2465,12 +3905,132 @@
    "exRu": "У тебя сегодня хорошее настроение!",
    "col": "in a good mood",
    "img": {
-    "sheet": 26,
+    "sheet": 42,
     "cell": 6
    }
   },
   {
-   "id": 157,
+   "id": 253,
+   "unit": 13,
+   "en": "emotion",
+   "pos": "n",
+   "ipa": "ɪˈməʊʃn",
+   "ru": "эмоция, чувство",
+   "ex": "He doesn't show his emotions.",
+   "exRu": "Он не показывает своих эмоций.",
+   "col": "show emotion",
+   "img": {
+    "sheet": 43,
+    "cell": 1
+   }
+  },
+  {
+   "id": 254,
+   "unit": 13,
+   "en": "excitement",
+   "pos": "n",
+   "ipa": "ɪkˈsaɪtmənt",
+   "ru": "волнение, радостное возбуждение",
+   "ex": "The children couldn't sleep from excitement.",
+   "exRu": "Дети не могли уснуть от волнения.",
+   "col": "full of excitement",
+   "img": {
+    "sheet": 43,
+    "cell": 2
+   }
+  },
+  {
+   "id": 255,
+   "unit": 13,
+   "en": "happiness",
+   "pos": "n",
+   "ipa": "ˈhæpinəs",
+   "ru": "счастье",
+   "ex": "Money doesn't always bring happiness.",
+   "exRu": "Деньги не всегда приносят счастье.",
+   "col": "true happiness",
+   "img": {
+    "sheet": 43,
+    "cell": 3
+   }
+  },
+  {
+   "id": 256,
+   "unit": 13,
+   "en": "glad",
+   "pos": "adj",
+   "ipa": "ɡlæd",
+   "ru": "довольный, рад",
+   "ex": "I'm glad you could come.",
+   "exRu": "Я рад, что ты смог прийти.",
+   "col": "glad to do sth",
+   "img": {
+    "sheet": 43,
+    "cell": 4
+   }
+  },
+  {
+   "id": 257,
+   "unit": 13,
+   "en": "keen",
+   "pos": "adj",
+   "ipa": "kiːn",
+   "ru": "увлечённый, горящий желанием",
+   "ex": "She's keen to learn Korean.",
+   "exRu": "Она очень хочет выучить корейский.",
+   "col": "keen on sth",
+   "img": {
+    "sheet": 43,
+    "cell": 5
+   }
+  },
+  {
+   "id": 258,
+   "unit": 13,
+   "en": "pleasure",
+   "pos": "n",
+   "ipa": "ˈpleʒər",
+   "ru": "удовольствие",
+   "ex": "It was a pleasure to work with you.",
+   "exRu": "Было приятно с вами работать.",
+   "col": "my pleasure",
+   "img": {
+    "sheet": 43,
+    "cell": 6
+   }
+  },
+  {
+   "id": 259,
+   "unit": 13,
+   "en": "worry",
+   "pos": "n",
+   "ipa": "ˈwɜːri",
+   "ru": "беспокойство, забота",
+   "ex": "My biggest worry is the deadline.",
+   "exRu": "Больше всего меня беспокоит срок.",
+   "col": "no worries",
+   "img": {
+    "sheet": 44,
+    "cell": 1
+   }
+  },
+  {
+   "id": 260,
+   "unit": 13,
+   "en": "embarrassing",
+   "pos": "adj",
+   "ipa": "ɪmˈbærəsɪŋ",
+   "ru": "неловкий, смущающий",
+   "ex": "It was an embarrassing mistake.",
+   "exRu": "Это была неловкая ошибка.",
+   "col": "an embarrassing moment",
+   "img": {
+    "sheet": 44,
+    "cell": 2
+   }
+  },
+  {
+   "id": 261,
    "unit": 14,
    "en": "brave",
    "pos": "adj",
@@ -2480,12 +4040,12 @@
    "exRu": "С её стороны было смело выступить первой.",
    "col": "a brave decision",
    "img": {
-    "sheet": 27,
-    "cell": 1
+    "sheet": 44,
+    "cell": 3
    }
   },
   {
-   "id": 158,
+   "id": 262,
    "unit": 14,
    "en": "calm",
    "pos": "adj",
@@ -2495,12 +4055,12 @@
    "exRu": "Сохраняй спокойствие и внимательно слушай.",
    "col": "stay calm",
    "img": {
-    "sheet": 27,
-    "cell": 2
+    "sheet": 44,
+    "cell": 4
    }
   },
   {
-   "id": 159,
+   "id": 263,
    "unit": 14,
    "en": "cheerful",
    "pos": "adj",
@@ -2510,27 +4070,27 @@
    "exRu": "Наш администратор всегда жизнерадостный.",
    "col": "a cheerful smile",
    "img": {
-    "sheet": 27,
-    "cell": 3
+    "sheet": 44,
+    "cell": 5
    }
   },
   {
-   "id": 160,
+   "id": 264,
    "unit": 14,
    "en": "honest",
    "pos": "adj",
    "ipa": "ˈɑːnɪst",
    "ru": "честный",
-   "ex": "To be honest, I didn't like the film.",
+   "ex": "To be honest, I didn't like the movie.",
    "exRu": "Честно говоря, фильм мне не понравился.",
    "col": "to be honest",
    "img": {
-    "sheet": 27,
-    "cell": 4
+    "sheet": 44,
+    "cell": 6
    }
   },
   {
-   "id": 161,
+   "id": 265,
    "unit": 14,
    "en": "generous",
    "pos": "adj",
@@ -2540,12 +4100,12 @@
    "exRu": "Очень щедро с твоей стороны заплатить за ужин.",
    "col": "generous with sth",
    "img": {
-    "sheet": 27,
-    "cell": 5
+    "sheet": 45,
+    "cell": 1
    }
   },
   {
-   "id": 162,
+   "id": 266,
    "unit": 14,
    "en": "reliable",
    "pos": "adj",
@@ -2555,12 +4115,12 @@
    "exRu": "Нам нужен надёжный поставщик.",
    "col": "a reliable partner",
    "img": {
-    "sheet": 27,
-    "cell": 6
+    "sheet": 45,
+    "cell": 2
    }
   },
   {
-   "id": 163,
+   "id": 267,
    "unit": 14,
    "en": "sensible",
    "pos": "adj",
@@ -2570,12 +4130,12 @@
    "exRu": "Это разумная идея.",
    "col": "a sensible decision",
    "img": {
-    "sheet": 28,
-    "cell": 1
+    "sheet": 45,
+    "cell": 3
    }
   },
   {
-   "id": 164,
+   "id": 268,
    "unit": 14,
    "en": "shy",
    "pos": "adj",
@@ -2585,12 +4145,12 @@
    "exRu": "Он слишком застенчив, чтобы выступать на публике.",
    "col": "shy of people",
    "img": {
-    "sheet": 28,
-    "cell": 2
+    "sheet": 45,
+    "cell": 4
    }
   },
   {
-   "id": 165,
+   "id": 269,
    "unit": 14,
    "en": "careless",
    "pos": "adj",
@@ -2600,12 +4160,12 @@
    "exRu": "Это была ошибка по невнимательности.",
    "col": "a careless mistake",
    "img": {
-    "sheet": 28,
-    "cell": 3
+    "sheet": 45,
+    "cell": 5
    }
   },
   {
-   "id": 166,
+   "id": 270,
    "unit": 14,
    "en": "gentle",
    "pos": "adj",
@@ -2615,12 +4175,12 @@
    "exRu": "Она очень ласкова с детьми.",
    "col": "a gentle voice",
    "img": {
-    "sheet": 28,
-    "cell": 4
+    "sheet": 45,
+    "cell": 6
    }
   },
   {
-   "id": 167,
+   "id": 271,
    "unit": 14,
    "en": "ambitious",
    "pos": "adj",
@@ -2630,12 +4190,12 @@
    "exRu": "Он молод и очень амбициозен.",
    "col": "an ambitious plan",
    "img": {
-    "sheet": 28,
-    "cell": 5
+    "sheet": 46,
+    "cell": 1
    }
   },
   {
-   "id": 168,
+   "id": 272,
    "unit": 14,
    "en": "determined",
    "pos": "adj",
@@ -2645,12 +4205,132 @@
    "exRu": "Она была настроена победить.",
    "col": "determined to do sth",
    "img": {
-    "sheet": 28,
+    "sheet": 46,
+    "cell": 2
+   }
+  },
+  {
+   "id": 273,
+   "unit": 14,
+   "en": "confident",
+   "pos": "adj",
+   "ipa": "ˈkɑːnfɪdənt",
+   "ru": "уверенный",
+   "ex": "She feels confident about the interview.",
+   "exRu": "Она уверена в себе перед собеседованием.",
+   "col": "confident about sth",
+   "img": {
+    "sheet": 46,
+    "cell": 3
+   }
+  },
+  {
+   "id": 274,
+   "unit": 14,
+   "en": "kind",
+   "pos": "adj",
+   "ipa": "kaɪnd",
+   "ru": "добрый",
+   "ex": "It's very kind of you to help.",
+   "exRu": "Очень любезно с вашей стороны помочь.",
+   "col": "kind to sb",
+   "img": {
+    "sheet": 46,
+    "cell": 4
+   }
+  },
+  {
+   "id": 275,
+   "unit": 14,
+   "en": "smart",
+   "pos": "adj",
+   "ipa": "smɑːrt",
+   "ru": "умный; нарядный",
+   "ex": "She's a smart student.",
+   "exRu": "Она умная студентка.",
+   "col": "a smart idea",
+   "img": {
+    "sheet": 46,
+    "cell": 5
+   }
+  },
+  {
+   "id": 276,
+   "unit": 14,
+   "en": "silly",
+   "pos": "adj",
+   "ipa": "ˈsɪli",
+   "ru": "глупый",
+   "ex": "Don't be silly!",
+   "exRu": "Не говори глупостей!",
+   "col": "a silly mistake",
+   "img": {
+    "sheet": 46,
     "cell": 6
    }
   },
   {
-   "id": 169,
+   "id": 277,
+   "unit": 14,
+   "en": "cruel",
+   "pos": "adj",
+   "ipa": "ˈkruːəl",
+   "ru": "жестокий",
+   "ex": "It's cruel to keep a dog in a small cage.",
+   "exRu": "Держать собаку в маленькой клетке — жестоко.",
+   "col": "cruel to animals",
+   "img": {
+    "sheet": 47,
+    "cell": 1
+   }
+  },
+  {
+   "id": 278,
+   "unit": 14,
+   "en": "talented",
+   "pos": "adj",
+   "ipa": "ˈtæləntɪd",
+   "ru": "талантливый",
+   "ex": "He's a very talented musician.",
+   "exRu": "Он очень талантливый музыкант.",
+   "col": "a talented artist",
+   "img": {
+    "sheet": 47,
+    "cell": 2
+   }
+  },
+  {
+   "id": 279,
+   "unit": 14,
+   "en": "practical",
+   "pos": "adj",
+   "ipa": "ˈpræktɪkl",
+   "ru": "практичный, практический",
+   "ex": "She always finds practical solutions.",
+   "exRu": "Она всегда находит практичные решения.",
+   "col": "practical advice",
+   "img": {
+    "sheet": 47,
+    "cell": 3
+   }
+  },
+  {
+   "id": 280,
+   "unit": 14,
+   "en": "organized",
+   "pos": "adj",
+   "ipa": "ˈɔːrɡənaɪzd",
+   "ru": "организованный",
+   "ex": "He's very organized and never misses a deadline.",
+   "exRu": "Он очень организован и никогда не срывает сроки.",
+   "col": "well organized",
+   "img": {
+    "sheet": 47,
+    "cell": 4
+   }
+  },
+  {
+   "id": 281,
    "unit": 15,
    "en": "relative",
    "pos": "n",
@@ -2660,12 +4340,12 @@
    "exRu": "Мы навещаем родственников каждый Новый год.",
    "col": "a close relative",
    "img": {
-    "sheet": 29,
-    "cell": 1
+    "sheet": 47,
+    "cell": 5
    }
   },
   {
-   "id": 170,
+   "id": 282,
    "unit": 15,
    "en": "childhood",
    "pos": "n",
@@ -2675,12 +4355,12 @@
    "exRu": "Я провёл детство в маленьком городе.",
    "col": "a happy childhood",
    "img": {
-    "sheet": 29,
-    "cell": 2
+    "sheet": 47,
+    "cell": 6
    }
   },
   {
-   "id": 171,
+   "id": 283,
    "unit": 15,
    "en": "generation",
    "pos": "n",
@@ -2690,12 +4370,12 @@
    "exRu": "В этом доме живут три поколения.",
    "col": "the younger generation",
    "img": {
-    "sheet": 29,
-    "cell": 3
+    "sheet": 48,
+    "cell": 1
    }
   },
   {
-   "id": 172,
+   "id": 284,
    "unit": 15,
    "en": "friendship",
    "pos": "n",
@@ -2705,12 +4385,12 @@
    "exRu": "Их дружба началась в школе.",
    "col": "a long friendship",
    "img": {
-    "sheet": 29,
-    "cell": 4
+    "sheet": 48,
+    "cell": 2
    }
   },
   {
-   "id": 173,
+   "id": 285,
    "unit": 15,
    "en": "marriage",
    "pos": "n",
@@ -2720,12 +4400,12 @@
    "exRu": "У них счастливый брак.",
    "col": "a happy marriage",
    "img": {
-    "sheet": 29,
-    "cell": 5
+    "sheet": 48,
+    "cell": 3
    }
   },
   {
-   "id": 174,
+   "id": 286,
    "unit": 15,
    "en": "bride",
    "pos": "n",
@@ -2735,12 +4415,12 @@
    "exRu": "Невеста была в белом платье.",
    "col": "the bride and groom",
    "img": {
-    "sheet": 29,
-    "cell": 6
+    "sheet": 48,
+    "cell": 4
    }
   },
   {
-   "id": 175,
+   "id": 287,
    "unit": 15,
    "en": "engaged",
    "pos": "adj",
@@ -2750,12 +4430,12 @@
    "exRu": "Они обручились прошлым летом.",
    "col": "get engaged",
    "img": {
-    "sheet": 30,
-    "cell": 1
+    "sheet": 48,
+    "cell": 5
    }
   },
   {
-   "id": 176,
+   "id": 288,
    "unit": 15,
    "en": "respect",
    "pos": "v",
@@ -2765,12 +4445,12 @@
    "exRu": "Мы уважаем мнения друг друга.",
    "col": "respect sb for sth",
    "img": {
-    "sheet": 30,
-    "cell": 2
+    "sheet": 48,
+    "cell": 6
    }
   },
   {
-   "id": 177,
+   "id": 289,
    "unit": 15,
    "en": "apologize",
    "pos": "v",
@@ -2780,12 +4460,12 @@
    "exRu": "Прошу прощения за опоздание.",
    "col": "apologize for sth",
    "img": {
-    "sheet": 30,
-    "cell": 3
+    "sheet": 49,
+    "cell": 1
    }
   },
   {
-   "id": 178,
+   "id": 290,
    "unit": 15,
    "en": "admire",
    "pos": "v",
@@ -2795,12 +4475,12 @@
    "exRu": "Я восхищаюсь терпением своей мамы.",
    "col": "admire sb for sth",
    "img": {
-    "sheet": 30,
-    "cell": 4
+    "sheet": 49,
+    "cell": 2
    }
   },
   {
-   "id": 179,
+   "id": 291,
    "unit": 15,
    "en": "stranger",
    "pos": "n",
@@ -2810,12 +4490,12 @@
    "exRu": "Не открывай дверь незнакомым людям.",
    "col": "a complete stranger",
    "img": {
-    "sheet": 30,
-    "cell": 5
+    "sheet": 49,
+    "cell": 3
    }
   },
   {
-   "id": 180,
+   "id": 292,
    "unit": 15,
    "en": "encourage",
    "pos": "v",
@@ -2825,12 +4505,132 @@
    "exRu": "Родители поддержали меня в учёбе за границей.",
    "col": "encourage sb to do sth",
    "img": {
-    "sheet": 30,
+    "sheet": 49,
+    "cell": 4
+   }
+  },
+  {
+   "id": 293,
+   "unit": 15,
+   "en": "celebration",
+   "pos": "n",
+   "ipa": "ˌselɪˈbreɪʃn",
+   "ru": "празднование",
+   "ex": "We had a big celebration for her birthday.",
+   "exRu": "Мы устроили большое празднование её дня рождения.",
+   "col": "a birthday celebration",
+   "img": {
+    "sheet": 49,
+    "cell": 5
+   }
+  },
+  {
+   "id": 294,
+   "unit": 15,
+   "en": "ceremony",
+   "pos": "n",
+   "ipa": "ˈserəməʊni",
+   "ru": "церемония",
+   "ex": "The wedding ceremony starts at noon.",
+   "exRu": "Свадебная церемония начинается в полдень.",
+   "col": "a wedding ceremony",
+   "img": {
+    "sheet": 49,
     "cell": 6
    }
   },
   {
-   "id": 181,
+   "id": 295,
+   "unit": 15,
+   "en": "kiss",
+   "pos": "v",
+   "ipa": "kɪs",
+   "ru": "целовать",
+   "ex": "She kissed her son goodbye.",
+   "exRu": "Она поцеловала сына на прощание.",
+   "col": "kiss sb goodbye",
+   "img": {
+    "sheet": 50,
+    "cell": 1
+   }
+  },
+  {
+   "id": 296,
+   "unit": 15,
+   "en": "youth",
+   "pos": "n",
+   "ipa": "juːθ",
+   "ru": "молодость, юность",
+   "ex": "In his youth, he played football.",
+   "exRu": "В молодости он играл в футбол.",
+   "col": "in my youth",
+   "img": {
+    "sheet": 50,
+    "cell": 2
+   }
+  },
+  {
+   "id": 297,
+   "unit": 15,
+   "en": "relation",
+   "pos": "n",
+   "ipa": "rɪˈleɪʃn",
+   "ru": "связь; отношения",
+   "ex": "Our two countries have good relations.",
+   "exRu": "У наших двух стран хорошие отношения.",
+   "col": "business relations",
+   "img": {
+    "sheet": 50,
+    "cell": 3
+   }
+  },
+  {
+   "id": 298,
+   "unit": 15,
+   "en": "related",
+   "pos": "adj",
+   "ipa": "rɪˈleɪtɪd",
+   "ru": "родственный, связанный",
+   "ex": "Are you two related?",
+   "exRu": "Вы родственники?",
+   "col": "related to sb",
+   "img": {
+    "sheet": 50,
+    "cell": 4
+   }
+  },
+  {
+   "id": 299,
+   "unit": 15,
+   "en": "age",
+   "pos": "v",
+   "ipa": "eɪdʒ",
+   "ru": "стареть",
+   "ex": "My parents are aging well.",
+   "exRu": "Мои родители хорошо выглядят для своих лет.",
+   "col": "age quickly",
+   "img": {
+    "sheet": 50,
+    "cell": 5
+   }
+  },
+  {
+   "id": 300,
+   "unit": 15,
+   "en": "gentleman",
+   "pos": "n",
+   "ipa": "ˈdʒentlmən",
+   "ru": "джентльмен, господин",
+   "ex": "Ladies and gentlemen, welcome!",
+   "exRu": "Дамы и господа, добро пожаловать!",
+   "col": "a real gentleman",
+   "img": {
+    "sheet": 50,
+    "cell": 6
+   }
+  },
+  {
+   "id": 301,
    "unit": 16,
    "en": "graduate",
    "pos": "v",
@@ -2840,42 +4640,27 @@
    "exRu": "Он окончил университет в 2012 году.",
    "col": "graduate from university",
    "img": {
-    "sheet": 31,
+    "sheet": 51,
     "cell": 1
    }
   },
   {
-   "id": 182,
+   "id": 302,
    "unit": 16,
    "en": "grade",
    "pos": "n",
    "ipa": "ɡreɪd",
    "ru": "оценка",
-   "ex": "She got good grades in maths.",
+   "ex": "She got good grades in math.",
    "exRu": "У неё хорошие оценки по математике.",
    "col": "get a good grade",
    "img": {
-    "sheet": 31,
+    "sheet": 51,
     "cell": 2
    }
   },
   {
-   "id": 183,
-   "unit": 16,
-   "en": "revise",
-   "pos": "v",
-   "ipa": "rɪˈvaɪz",
-   "ru": "повторять (к экзамену); исправлять",
-   "ex": "I need to revise for my English exam.",
-   "exRu": "Мне нужно повторить материал к экзамену по английскому.",
-   "col": "revise for an exam",
-   "img": {
-    "sheet": 31,
-    "cell": 3
-   }
-  },
-  {
-   "id": 184,
+   "id": 303,
    "unit": 16,
    "en": "concentrate",
    "pos": "v",
@@ -2885,12 +4670,12 @@
    "exRu": "Я не могу сосредоточиться при таком шуме.",
    "col": "concentrate on sth",
    "img": {
-    "sheet": 31,
-    "cell": 4
+    "sheet": 51,
+    "cell": 3
    }
   },
   {
-   "id": 185,
+   "id": 304,
    "unit": 16,
    "en": "academic",
    "pos": "adj",
@@ -2900,12 +4685,12 @@
    "exRu": "Учебный год начинается в сентябре.",
    "col": "academic year",
    "img": {
-    "sheet": 31,
-    "cell": 5
+    "sheet": 51,
+    "cell": 4
    }
   },
   {
-   "id": 186,
+   "id": 305,
    "unit": 16,
    "en": "assignment",
    "pos": "n",
@@ -2915,27 +4700,27 @@
    "exRu": "Задание нужно сдать в понедельник.",
    "col": "hand in an assignment",
    "img": {
-    "sheet": 31,
-    "cell": 6
+    "sheet": 51,
+    "cell": 5
    }
   },
   {
-   "id": 187,
+   "id": 306,
    "unit": 16,
    "en": "campus",
    "pos": "n",
    "ipa": "ˈkæmpəs",
    "ru": "кампус, территория вуза",
-   "ex": "The library is in the centre of the campus.",
+   "ex": "The library is in the center of the campus.",
    "exRu": "Библиотека находится в центре кампуса.",
    "col": "on campus",
    "img": {
-    "sheet": 32,
-    "cell": 1
+    "sheet": 51,
+    "cell": 6
    }
   },
   {
-   "id": 188,
+   "id": 307,
    "unit": 16,
    "en": "chapter",
    "pos": "n",
@@ -2945,12 +4730,12 @@
    "exRu": "Прочитайте третью главу к завтрашнему дню.",
    "col": "the first chapter",
    "img": {
-    "sheet": 32,
-    "cell": 2
+    "sheet": 52,
+    "cell": 1
    }
   },
   {
-   "id": 189,
+   "id": 308,
    "unit": 16,
    "en": "translate",
    "pos": "v",
@@ -2960,12 +4745,12 @@
    "exRu": "Можешь перевести это письмо на русский?",
    "col": "translate into Russian",
    "img": {
-    "sheet": 32,
-    "cell": 3
+    "sheet": 52,
+    "cell": 2
    }
   },
   {
-   "id": 190,
+   "id": 309,
    "unit": 16,
    "en": "theory",
    "pos": "n",
@@ -2975,12 +4760,12 @@
    "exRu": "Теоретически план должен сработать.",
    "col": "in theory",
    "img": {
-    "sheet": 32,
-    "cell": 4
+    "sheet": 52,
+    "cell": 3
    }
   },
   {
-   "id": 191,
+   "id": 310,
    "unit": 16,
    "en": "experiment",
    "pos": "v",
@@ -2990,12 +4775,12 @@
    "exRu": "Учёные экспериментируют с новыми материалами.",
    "col": "experiment with sth",
    "img": {
-    "sheet": 32,
-    "cell": 5
+    "sheet": 52,
+    "cell": 4
    }
   },
   {
-   "id": 192,
+   "id": 311,
    "unit": 16,
    "en": "definition",
    "pos": "n",
@@ -3005,12 +4790,147 @@
    "exRu": "Найди определение в словаре.",
    "col": "a clear definition",
    "img": {
-    "sheet": 32,
+    "sheet": 52,
+    "cell": 5
+   }
+  },
+  {
+   "id": 312,
+   "unit": 16,
+   "en": "literature",
+   "pos": "n",
+   "ipa": "ˈlɪtrətʃər",
+   "ru": "литература",
+   "ex": "She studied English literature.",
+   "exRu": "Она изучала английскую литературу.",
+   "col": "modern literature",
+   "img": {
+    "sheet": 52,
     "cell": 6
    }
   },
   {
-   "id": 193,
+   "id": 313,
+   "unit": 16,
+   "en": "educational",
+   "pos": "adj",
+   "ipa": "ˌedʒuˈkeɪʃənl",
+   "ru": "образовательный",
+   "ex": "This is a very educational game for kids.",
+   "exRu": "Это очень познавательная игра для детей.",
+   "col": "an educational program",
+   "img": {
+    "sheet": 53,
+    "cell": 1
+   }
+  },
+  {
+   "id": 314,
+   "unit": 16,
+   "en": "primary",
+   "pos": "adj",
+   "ipa": "ˈpraɪmeri",
+   "ru": "начальный; основной",
+   "ex": "Our primary goal is quality.",
+   "exRu": "Наша главная цель — качество.",
+   "col": "primary school",
+   "img": {
+    "sheet": 53,
+    "cell": 2
+   }
+  },
+  {
+   "id": 315,
+   "unit": 16,
+   "en": "secondary",
+   "pos": "adj",
+   "ipa": "ˈsekənderi",
+   "ru": "средний (об образовании); второстепенный",
+   "ex": "She teaches at a secondary school.",
+   "exRu": "Она преподаёт в средней школе.",
+   "col": "secondary school",
+   "img": {
+    "sheet": 53,
+    "cell": 3
+   }
+  },
+  {
+   "id": 316,
+   "unit": 16,
+   "en": "translation",
+   "pos": "n",
+   "ipa": "trænzˈleɪʃn",
+   "ru": "перевод",
+   "ex": "Is this translation correct?",
+   "exRu": "Этот перевод правильный?",
+   "col": "a translation into Russian",
+   "img": {
+    "sheet": 53,
+    "cell": 4
+   }
+  },
+  {
+   "id": 317,
+   "unit": 16,
+   "en": "technique",
+   "pos": "n",
+   "ipa": "tekˈniːk",
+   "ru": "техника, метод",
+   "ex": "This technique helps you remember new words.",
+   "exRu": "Эта техника помогает запоминать новые слова.",
+   "col": "a new technique",
+   "img": {
+    "sheet": 53,
+    "cell": 5
+   }
+  },
+  {
+   "id": 318,
+   "unit": 16,
+   "en": "intelligence",
+   "pos": "n",
+   "ipa": "ɪnˈtelɪdʒəns",
+   "ru": "интеллект",
+   "ex": "Artificial intelligence is changing education.",
+   "exRu": "Искусственный интеллект меняет образование.",
+   "col": "artificial intelligence",
+   "img": {
+    "sheet": 53,
+    "cell": 6
+   }
+  },
+  {
+   "id": 319,
+   "unit": 16,
+   "en": "diagram",
+   "pos": "n",
+   "ipa": "ˈdaɪəɡræm",
+   "ru": "схема, диаграмма",
+   "ex": "The diagram shows how the machine works.",
+   "exRu": "Схема показывает, как работает аппарат.",
+   "col": "draw a diagram",
+   "img": {
+    "sheet": 54,
+    "cell": 1
+   }
+  },
+  {
+   "id": 320,
+   "unit": 16,
+   "en": "reference",
+   "pos": "n",
+   "ipa": "ˈrefrəns",
+   "ru": "ссылка; справка",
+   "ex": "Use this dictionary for reference.",
+   "exRu": "Используй этот словарь как справочник.",
+   "col": "for reference",
+   "img": {
+    "sheet": 54,
+    "cell": 2
+   }
+  },
+  {
+   "id": 321,
    "unit": 17,
    "en": "battery",
    "pos": "n",
@@ -3020,12 +4940,12 @@
    "exRu": "Аккумулятор телефона почти сел.",
    "col": "the battery is low",
    "img": {
-    "sheet": 33,
-    "cell": 1
+    "sheet": 54,
+    "cell": 3
    }
   },
   {
-   "id": 194,
+   "id": 322,
    "unit": 17,
    "en": "software",
    "pos": "n",
@@ -3035,12 +4955,12 @@
    "exRu": "Новая программа экономит нам много времени.",
    "col": "install software",
    "img": {
-    "sheet": 33,
-    "cell": 2
+    "sheet": 54,
+    "cell": 4
    }
   },
   {
-   "id": 195,
+   "id": 323,
    "unit": 17,
    "en": "update",
    "pos": "v",
@@ -3050,12 +4970,12 @@
    "exRu": "Обновите приложение до последней версии.",
    "col": "update software",
    "img": {
-    "sheet": 33,
-    "cell": 3
+    "sheet": 54,
+    "cell": 5
    }
   },
   {
-   "id": 196,
+   "id": 324,
    "unit": 17,
    "en": "click",
    "pos": "v",
@@ -3065,12 +4985,12 @@
    "exRu": "Нажмите на ссылку, чтобы скачать файл.",
    "col": "click on a link",
    "img": {
-    "sheet": 33,
-    "cell": 4
+    "sheet": 54,
+    "cell": 6
    }
   },
   {
-   "id": 197,
+   "id": 325,
    "unit": 17,
    "en": "keyboard",
    "pos": "n",
@@ -3080,12 +5000,12 @@
    "exRu": "На моём ноутбуке сломалась клавиатура.",
    "col": "a wireless keyboard",
    "img": {
-    "sheet": 33,
-    "cell": 5
+    "sheet": 55,
+    "cell": 1
    }
   },
   {
-   "id": 198,
+   "id": 326,
    "unit": 17,
    "en": "file",
    "pos": "n",
@@ -3095,12 +5015,12 @@
    "exRu": "Я сохранил файл на рабочем столе.",
    "col": "open a file",
    "img": {
-    "sheet": 33,
-    "cell": 6
+    "sheet": 55,
+    "cell": 2
    }
   },
   {
-   "id": 199,
+   "id": 327,
    "unit": 17,
    "en": "scan",
    "pos": "v",
@@ -3110,12 +5030,12 @@
    "exRu": "Пожалуйста, отсканируйте договор и пришлите мне.",
    "col": "scan a document",
    "img": {
-    "sheet": 34,
-    "cell": 1
+    "sheet": 55,
+    "cell": 3
    }
   },
   {
-   "id": 200,
+   "id": 328,
    "unit": 17,
    "en": "program",
    "pos": "v",
@@ -3125,12 +5045,12 @@
    "exRu": "Робот запрограммирован мыть пол.",
    "col": "program a computer",
    "img": {
-    "sheet": 34,
-    "cell": 2
+    "sheet": 55,
+    "cell": 4
    }
   },
   {
-   "id": 201,
+   "id": 329,
    "unit": 17,
    "en": "robot",
    "pos": "n",
@@ -3140,12 +5060,12 @@
    "exRu": "Сейчас роботы помогают хирургам на операциях.",
    "col": "a robot vacuum",
    "img": {
-    "sheet": 34,
-    "cell": 3
+    "sheet": 55,
+    "cell": 5
    }
   },
   {
-   "id": 202,
+   "id": 330,
    "unit": 17,
    "en": "access",
    "pos": "n",
@@ -3155,12 +5075,12 @@
    "exRu": "У тебя здесь есть доступ к интернету?",
    "col": "have access to sth",
    "img": {
-    "sheet": 34,
-    "cell": 4
+    "sheet": 55,
+    "cell": 6
    }
   },
   {
-   "id": 203,
+   "id": 331,
    "unit": 17,
    "en": "version",
    "pos": "n",
@@ -3170,12 +5090,12 @@
    "exRu": "Это последняя версия приложения?",
    "col": "the latest version",
    "img": {
-    "sheet": 34,
-    "cell": 5
+    "sheet": 56,
+    "cell": 1
    }
   },
   {
-   "id": 204,
+   "id": 332,
    "unit": 17,
    "en": "switch",
    "pos": "v",
@@ -3185,12 +5105,132 @@
    "exRu": "Переключи телевизор на пятый канал.",
    "col": "switch on/off",
    "img": {
-    "sheet": 34,
+    "sheet": 56,
+    "cell": 2
+   }
+  },
+  {
+   "id": 333,
+   "unit": 17,
+   "en": "IT",
+   "pos": "n",
+   "ipa": "ˌaɪ ˈtiː",
+   "ru": "информационные технологии, ИТ",
+   "ex": "Call the IT department if your computer doesn't work.",
+   "exRu": "Звони в ИТ-отдел, если не работает компьютер.",
+   "col": "the IT department",
+   "img": {
+    "sheet": 56,
+    "cell": 3
+   }
+  },
+  {
+   "id": 334,
+   "unit": 17,
+   "en": "type",
+   "pos": "v",
+   "ipa": "taɪp",
+   "ru": "печатать (на клавиатуре)",
+   "ex": "I can type very fast.",
+   "exRu": "Я умею печатать очень быстро.",
+   "col": "type a message",
+   "img": {
+    "sheet": 56,
+    "cell": 4
+   }
+  },
+  {
+   "id": 335,
+   "unit": 17,
+   "en": "connection",
+   "pos": "n",
+   "ipa": "kəˈnekʃn",
+   "ru": "соединение, подключение",
+   "ex": "The internet connection is very slow.",
+   "exRu": "Интернет-соединение очень медленное.",
+   "col": "an internet connection",
+   "img": {
+    "sheet": 56,
+    "cell": 5
+   }
+  },
+  {
+   "id": 336,
+   "unit": 17,
+   "en": "function",
+   "pos": "n",
+   "ipa": "ˈfʌŋkʃn",
+   "ru": "функция",
+   "ex": "This button has two functions.",
+   "exRu": "У этой кнопки две функции.",
+   "col": "a basic function",
+   "img": {
+    "sheet": 56,
     "cell": 6
    }
   },
   {
-   "id": 205,
+   "id": 337,
+   "unit": 17,
+   "en": "technical",
+   "pos": "adj",
+   "ipa": "ˈteknɪkl",
+   "ru": "технический",
+   "ex": "We have a technical problem with the website.",
+   "exRu": "У нас техническая проблема с сайтом.",
+   "col": "technical support",
+   "img": {
+    "sheet": 57,
+    "cell": 1
+   }
+  },
+  {
+   "id": 338,
+   "unit": 17,
+   "en": "advanced",
+   "pos": "adj",
+   "ipa": "ədˈvænst",
+   "ru": "продвинутый, передовой",
+   "ex": "This is the most advanced ultrasound system.",
+   "exRu": "Это самая передовая УЗИ-система.",
+   "col": "advanced technology",
+   "img": {
+    "sheet": 57,
+    "cell": 2
+   }
+  },
+  {
+   "id": 339,
+   "unit": 17,
+   "en": "content",
+   "pos": "n",
+   "ipa": "ˈkɑːntent",
+   "ru": "содержимое, контент",
+   "ex": "The website has a lot of useful content.",
+   "exRu": "На сайте много полезного контента.",
+   "col": "online content",
+   "img": {
+    "sheet": 57,
+    "cell": 3
+   }
+  },
+  {
+   "id": 340,
+   "unit": 17,
+   "en": "printing",
+   "pos": "n",
+   "ipa": "ˈprɪntɪŋ",
+   "ru": "печать",
+   "ex": "The printing costs are included.",
+   "exRu": "Стоимость печати включена.",
+   "col": "3D printing",
+   "img": {
+    "sheet": 57,
+    "cell": 4
+   }
+  },
+  {
+   "id": 341,
    "unit": 18,
    "en": "channel",
    "pos": "n",
@@ -3200,12 +5240,12 @@
    "exRu": "Что идёт по другому каналу?",
    "col": "a news channel",
    "img": {
-    "sheet": 35,
-    "cell": 1
+    "sheet": 57,
+    "cell": 5
    }
   },
   {
-   "id": 206,
+   "id": 342,
    "unit": 18,
    "en": "headline",
    "pos": "n",
@@ -3215,12 +5255,12 @@
    "exRu": "Эта новость была во всех заголовках.",
    "col": "hit the headlines",
    "img": {
-    "sheet": 35,
-    "cell": 2
+    "sheet": 57,
+    "cell": 6
    }
   },
   {
-   "id": 207,
+   "id": 343,
    "unit": 18,
    "en": "documentary",
    "pos": "n",
@@ -3230,12 +5270,12 @@
    "exRu": "Мы посмотрели документальный фильм об океане.",
    "col": "a nature documentary",
    "img": {
-    "sheet": 35,
-    "cell": 3
+    "sheet": 58,
+    "cell": 1
    }
   },
   {
-   "id": 208,
+   "id": 344,
    "unit": 18,
    "en": "episode",
    "pos": "n",
@@ -3245,12 +5285,12 @@
    "exRu": "Вчера вечером я посмотрел три серии.",
    "col": "the final episode",
    "img": {
-    "sheet": 35,
-    "cell": 4
+    "sheet": 58,
+    "cell": 2
    }
   },
   {
-   "id": 209,
+   "id": 345,
    "unit": 18,
    "en": "editor",
    "pos": "n",
@@ -3260,12 +5300,12 @@
    "exRu": "Редактор проверил статью перед публикацией.",
    "col": "a newspaper editor",
    "img": {
-    "sheet": 35,
-    "cell": 5
+    "sheet": 58,
+    "cell": 3
    }
   },
   {
-   "id": 210,
+   "id": 346,
    "unit": 18,
    "en": "press",
    "pos": "n",
@@ -3275,12 +5315,12 @@
    "exRu": "Министр выступил перед прессой.",
    "col": "a press conference",
    "img": {
-    "sheet": 35,
-    "cell": 6
+    "sheet": 58,
+    "cell": 4
    }
   },
   {
-   "id": 211,
+   "id": 347,
    "unit": 18,
    "en": "viewer",
    "pos": "n",
@@ -3290,12 +5330,12 @@
    "exRu": "У шоу миллионы зрителей.",
    "col": "TV viewers",
    "img": {
-    "sheet": 36,
-    "cell": 1
+    "sheet": 58,
+    "cell": 5
    }
   },
   {
-   "id": 212,
+   "id": 348,
    "unit": 18,
    "en": "photographer",
    "pos": "n",
@@ -3305,12 +5345,12 @@
    "exRu": "Фотограф снимал свадьбу.",
    "col": "a professional photographer",
    "img": {
-    "sheet": 36,
-    "cell": 2
+    "sheet": 58,
+    "cell": 6
    }
   },
   {
-   "id": 213,
+   "id": 349,
    "unit": 18,
    "en": "album",
    "pos": "n",
@@ -3320,12 +5360,12 @@
    "exRu": "Её новый альбом выйдет в следующем месяце.",
    "col": "a photo album",
    "img": {
-    "sheet": 36,
-    "cell": 3
+    "sheet": 59,
+    "cell": 1
    }
   },
   {
-   "id": 214,
+   "id": 350,
    "unit": 18,
    "en": "quote",
    "pos": "v",
@@ -3335,27 +5375,27 @@
    "exRu": "Он часто цитирует известных писателей.",
    "col": "quote sb",
    "img": {
-    "sheet": 36,
-    "cell": 4
+    "sheet": 59,
+    "cell": 2
    }
   },
   {
-   "id": 215,
+   "id": 351,
    "unit": 18,
    "en": "release",
    "pos": "v",
    "ipa": "rɪˈliːs",
    "ru": "выпускать (фильм, альбом)",
-   "ex": "The film will be released in May.",
+   "ex": "The movie will be released in May.",
    "exRu": "Фильм выйдет в мае.",
-   "col": "release a film",
+   "col": "release a movie",
    "img": {
-    "sheet": 36,
-    "cell": 5
+    "sheet": 59,
+    "cell": 3
    }
   },
   {
-   "id": 216,
+   "id": 352,
    "unit": 18,
    "en": "latest",
    "pos": "adj",
@@ -3365,12 +5405,132 @@
    "exRu": "Ты слышал последние новости?",
    "col": "the latest news",
    "img": {
-    "sheet": 36,
+    "sheet": 59,
+    "cell": 4
+   }
+  },
+  {
+   "id": 353,
+   "unit": 18,
+   "en": "ad",
+   "pos": "n",
+   "ipa": "æd",
+   "ru": "реклама, объявление",
+   "ex": "I saw an ad for a new phone.",
+   "exRu": "Я видел рекламу нового телефона.",
+   "col": "an online ad",
+   "img": {
+    "sheet": 59,
+    "cell": 5
+   }
+  },
+  {
+   "id": 354,
+   "unit": 18,
+   "en": "commercial",
+   "pos": "n",
+   "ipa": "kəˈmɜːrʃl",
+   "ru": "рекламный ролик",
+   "ex": "The commercial is shown before the movie.",
+   "exRu": "Рекламный ролик показывают перед фильмом.",
+   "col": "a TV commercial",
+   "img": {
+    "sheet": 59,
     "cell": 6
    }
   },
   {
-   "id": 217,
+   "id": 355,
+   "unit": 18,
+   "en": "journal",
+   "pos": "n",
+   "ipa": "ˈdʒɜːrnl",
+   "ru": "журнал (научный, проф.)",
+   "ex": "His article was published in a medical journal.",
+   "exRu": "Его статья вышла в медицинском журнале.",
+   "col": "a medical journal",
+   "img": {
+    "sheet": 60,
+    "cell": 1
+   }
+  },
+  {
+   "id": 356,
+   "unit": 18,
+   "en": "script",
+   "pos": "n",
+   "ipa": "skrɪpt",
+   "ru": "сценарий",
+   "ex": "The actors are reading the script.",
+   "exRu": "Актёры читают сценарий.",
+   "col": "write a script",
+   "img": {
+    "sheet": 60,
+    "cell": 2
+   }
+  },
+  {
+   "id": 357,
+   "unit": 18,
+   "en": "studio",
+   "pos": "n",
+   "ipa": "ˈstuːdiəʊ",
+   "ru": "студия",
+   "ex": "The show is filmed in a studio in Seoul.",
+   "exRu": "Шоу снимают в студии в Сеуле.",
+   "col": "a TV studio",
+   "img": {
+    "sheet": 60,
+    "cell": 3
+   }
+  },
+  {
+   "id": 358,
+   "unit": 18,
+   "en": "photography",
+   "pos": "n",
+   "ipa": "fəˈtɑːɡrəfi",
+   "ru": "фотография (как занятие)",
+   "ex": "Photography is my hobby.",
+   "exRu": "Фотография — моё хобби.",
+   "col": "digital photography",
+   "img": {
+    "sheet": 60,
+    "cell": 4
+   }
+  },
+  {
+   "id": 359,
+   "unit": 18,
+   "en": "producer",
+   "pos": "n",
+   "ipa": "prəˈduːsər",
+   "ru": "продюсер; производитель",
+   "ex": "She is a TV producer.",
+   "exRu": "Она телепродюсер.",
+   "col": "a movie producer",
+   "img": {
+    "sheet": 60,
+    "cell": 5
+   }
+  },
+  {
+   "id": 360,
+   "unit": 18,
+   "en": "live",
+   "pos": "adj",
+   "ipa": "laɪv",
+   "ru": "прямой (эфир), живой",
+   "ex": "The concert is shown live on TV.",
+   "exRu": "Концерт показывают в прямом эфире.",
+   "col": "live music",
+   "img": {
+    "sheet": 60,
+    "cell": 6
+   }
+  },
+  {
+   "id": 361,
    "unit": 19,
    "en": "flood",
    "pos": "n",
@@ -3380,12 +5540,12 @@
    "exRu": "Наводнение разрушило много домов.",
    "col": "a flood warning",
    "img": {
-    "sheet": 37,
+    "sheet": 61,
     "cell": 1
    }
   },
   {
-   "id": 218,
+   "id": 362,
    "unit": 19,
    "en": "earthquake",
    "pos": "n",
@@ -3395,12 +5555,12 @@
    "exRu": "Прошлой ночью было небольшое землетрясение.",
    "col": "a strong earthquake",
    "img": {
-    "sheet": 37,
+    "sheet": 61,
     "cell": 2
    }
   },
   {
-   "id": 219,
+   "id": 363,
    "unit": 19,
    "en": "hurricane",
    "pos": "n",
@@ -3410,12 +5570,12 @@
    "exRu": "Ураган обрушился на побережье в понедельник.",
    "col": "a hurricane warning",
    "img": {
-    "sheet": 37,
+    "sheet": 61,
     "cell": 3
    }
   },
   {
-   "id": 220,
+   "id": 364,
    "unit": 19,
    "en": "soil",
    "pos": "n",
@@ -3425,12 +5585,12 @@
    "exRu": "Помидоры хорошо растут на этой почве.",
    "col": "rich soil",
    "img": {
-    "sheet": 37,
+    "sheet": 61,
     "cell": 4
    }
   },
   {
-   "id": 221,
+   "id": 365,
    "unit": 19,
    "en": "seed",
    "pos": "n",
@@ -3440,12 +5600,12 @@
    "exRu": "Посадите семена весной.",
    "col": "plant seeds",
    "img": {
-    "sheet": 37,
+    "sheet": 61,
     "cell": 5
    }
   },
   {
-   "id": 222,
+   "id": 366,
    "unit": 19,
    "en": "leaf",
    "pos": "n",
@@ -3455,12 +5615,12 @@
    "exRu": "Осенью листья краснеют.",
    "col": "fallen leaves",
    "img": {
-    "sheet": 37,
+    "sheet": 61,
     "cell": 6
    }
   },
   {
-   "id": 223,
+   "id": 367,
    "unit": 19,
    "en": "sand",
    "pos": "n",
@@ -3470,12 +5630,12 @@
    "exRu": "Дети играют в песке.",
    "col": "white sand",
    "img": {
-    "sheet": 38,
+    "sheet": 62,
     "cell": 1
    }
   },
   {
-   "id": 224,
+   "id": 368,
    "unit": 19,
    "en": "mud",
    "pos": "n",
@@ -3485,12 +5645,12 @@
    "exRu": "Мои ботинки все в грязи.",
    "col": "covered in mud",
    "img": {
-    "sheet": 38,
+    "sheet": 62,
     "cell": 2
    }
   },
   {
-   "id": 225,
+   "id": 369,
    "unit": 19,
    "en": "shell",
    "pos": "n",
@@ -3500,12 +5660,12 @@
    "exRu": "Мы собирали ракушки на пляже.",
    "col": "a sea shell",
    "img": {
-    "sheet": 38,
+    "sheet": 62,
     "cell": 3
    }
   },
   {
-   "id": 226,
+   "id": 370,
    "unit": 19,
    "en": "bee",
    "pos": "n",
@@ -3515,12 +5675,12 @@
    "exRu": "Пчела села на цветок.",
    "col": "a bee sting",
    "img": {
-    "sheet": 38,
+    "sheet": 62,
     "cell": 4
    }
   },
   {
-   "id": 227,
+   "id": 371,
    "unit": 19,
    "en": "waste",
    "pos": "n",
@@ -3530,12 +5690,12 @@
    "exRu": "Нам нужно сократить пластиковые отходы.",
    "col": "a waste of time",
    "img": {
-    "sheet": 38,
+    "sheet": 62,
     "cell": 5
    }
   },
   {
-   "id": 228,
+   "id": 372,
    "unit": 19,
    "en": "damage",
    "pos": "n",
@@ -3545,12 +5705,132 @@
    "exRu": "Шторм нанёс большой ущерб.",
    "col": "cause damage",
    "img": {
-    "sheet": 38,
+    "sheet": 62,
     "cell": 6
    }
   },
   {
-   "id": 229,
+   "id": 373,
+   "unit": 19,
+   "en": "environmental",
+   "pos": "adj",
+   "ipa": "ɪnˌvaɪrənˈmentl",
+   "ru": "экологический",
+   "ex": "Plastic is a big environmental problem.",
+   "exRu": "Пластик — серьёзная экологическая проблема.",
+   "col": "environmental protection",
+   "img": {
+    "sheet": 63,
+    "cell": 1
+   }
+  },
+  {
+   "id": 374,
+   "unit": 19,
+   "en": "coal",
+   "pos": "n",
+   "ipa": "kəʊl",
+   "ru": "уголь",
+   "ex": "Kazakhstan produces a lot of coal.",
+   "exRu": "Казахстан добывает много угля.",
+   "col": "a coal mine",
+   "img": {
+    "sheet": 63,
+    "cell": 2
+   }
+  },
+  {
+   "id": 375,
+   "unit": 19,
+   "en": "fur",
+   "pos": "n",
+   "ipa": "fɜːr",
+   "ru": "мех, шерсть (животного)",
+   "ex": "The cat has soft white fur.",
+   "exRu": "У кошки мягкая белая шерсть.",
+   "col": "thick fur",
+   "img": {
+    "sheet": 63,
+    "cell": 3
+   }
+  },
+  {
+   "id": 376,
+   "unit": 19,
+   "en": "tail",
+   "pos": "n",
+   "ipa": "teɪl",
+   "ru": "хвост",
+   "ex": "The dog is wagging its tail.",
+   "exRu": "Собака виляет хвостом.",
+   "col": "a long tail",
+   "img": {
+    "sheet": 63,
+    "cell": 4
+   }
+  },
+  {
+   "id": 377,
+   "unit": 19,
+   "en": "surface",
+   "pos": "n",
+   "ipa": "ˈsɜːrfɪs",
+   "ru": "поверхность",
+   "ex": "The surface of the lake was frozen.",
+   "exRu": "Поверхность озера замёрзла.",
+   "col": "the surface of the water",
+   "img": {
+    "sheet": 63,
+    "cell": 5
+   }
+  },
+  {
+   "id": 378,
+   "unit": 19,
+   "en": "rare",
+   "pos": "adj",
+   "ipa": "rer",
+   "ru": "редкий",
+   "ex": "This is a very rare bird.",
+   "exRu": "Это очень редкая птица.",
+   "col": "a rare species",
+   "img": {
+    "sheet": 63,
+    "cell": 6
+   }
+  },
+  {
+   "id": 379,
+   "unit": 19,
+   "en": "hunt",
+   "pos": "v",
+   "ipa": "hʌnt",
+   "ru": "охотиться",
+   "ex": "Wolves hunt in groups.",
+   "exRu": "Волки охотятся стаями.",
+   "col": "hunt for food",
+   "img": {
+    "sheet": 64,
+    "cell": 1
+   }
+  },
+  {
+   "id": 380,
+   "unit": 19,
+   "en": "flow",
+   "pos": "v",
+   "ipa": "fləʊ",
+   "ru": "течь",
+   "ex": "The river flows into the sea.",
+   "exRu": "Река впадает в море.",
+   "col": "flow into sth",
+   "img": {
+    "sheet": 64,
+    "cell": 2
+   }
+  },
+  {
+   "id": 381,
    "unit": 20,
    "en": "stadium",
    "pos": "n",
@@ -3560,12 +5840,12 @@
    "exRu": "Стадион вмещает 50 000 человек.",
    "col": "a football stadium",
    "img": {
-    "sheet": 39,
-    "cell": 1
+    "sheet": 64,
+    "cell": 3
    }
   },
   {
-   "id": 230,
+   "id": 382,
    "unit": 20,
    "en": "champion",
    "pos": "n",
@@ -3575,12 +5855,12 @@
    "exRu": "Она чемпионка мира по теннису.",
    "col": "the world champion",
    "img": {
-    "sheet": 39,
-    "cell": 2
+    "sheet": 64,
+    "cell": 4
    }
   },
   {
-   "id": 231,
+   "id": 383,
    "unit": 20,
    "en": "captain",
    "pos": "n",
@@ -3590,12 +5870,12 @@
    "exRu": "Он капитан команды.",
    "col": "the team captain",
    "img": {
-    "sheet": 39,
-    "cell": 3
+    "sheet": 64,
+    "cell": 5
    }
   },
   {
-   "id": 232,
+   "id": 384,
    "unit": 20,
    "en": "coach",
    "pos": "v",
@@ -3605,12 +5885,12 @@
    "exRu": "Она тренирует детскую футбольную команду.",
    "col": "coach a team",
    "img": {
-    "sheet": 39,
-    "cell": 4
+    "sheet": 64,
+    "cell": 6
    }
   },
   {
-   "id": 233,
+   "id": 385,
    "unit": 20,
    "en": "kick",
    "pos": "v",
@@ -3620,12 +5900,12 @@
    "exRu": "Он забил мяч в ворота.",
    "col": "kick a ball",
    "img": {
-    "sheet": 39,
-    "cell": 5
+    "sheet": 65,
+    "cell": 1
    }
   },
   {
-   "id": 234,
+   "id": 386,
    "unit": 20,
    "en": "leisure",
    "pos": "n",
@@ -3635,12 +5915,12 @@
    "exRu": "Чем вы занимаетесь в свободное время?",
    "col": "leisure time",
    "img": {
-    "sheet": 39,
-    "cell": 6
+    "sheet": 65,
+    "cell": 2
    }
   },
   {
-   "id": 235,
+   "id": 387,
    "unit": 20,
    "en": "tent",
    "pos": "n",
@@ -3650,12 +5930,12 @@
    "exRu": "Мы поставили палатку у озера.",
    "col": "put up a tent",
    "img": {
-    "sheet": 40,
-    "cell": 1
+    "sheet": 65,
+    "cell": 3
    }
   },
   {
-   "id": 236,
+   "id": 388,
    "unit": 20,
    "en": "climb",
    "pos": "n",
@@ -3665,12 +5945,12 @@
    "exRu": "Подъём на вершину был долгим.",
    "col": "a steep climb",
    "img": {
-    "sheet": 40,
-    "cell": 2
+    "sheet": 65,
+    "cell": 4
    }
   },
   {
-   "id": 237,
+   "id": 389,
    "unit": 20,
    "en": "outdoor",
    "pos": "adj",
@@ -3680,12 +5960,12 @@
    "exRu": "В отеле есть открытый бассейн.",
    "col": "outdoor activities",
    "img": {
-    "sheet": 40,
-    "cell": 3
+    "sheet": 65,
+    "cell": 5
    }
   },
   {
-   "id": 238,
+   "id": 390,
    "unit": 20,
    "en": "indoor",
    "pos": "adj",
@@ -3695,12 +5975,12 @@
    "exRu": "Зимой мы играем в теннис на крытом корте.",
    "col": "an indoor pool",
    "img": {
-    "sheet": 40,
-    "cell": 4
+    "sheet": 65,
+    "cell": 6
    }
   },
   {
-   "id": 239,
+   "id": 391,
    "unit": 20,
    "en": "supporter",
    "pos": "n",
@@ -3710,12 +5990,12 @@
    "exRu": "На матч пришли тысячи болельщиков.",
    "col": "football supporters",
    "img": {
-    "sheet": 40,
-    "cell": 5
+    "sheet": 66,
+    "cell": 1
    }
   },
   {
-   "id": 240,
+   "id": 392,
    "unit": 20,
    "en": "challenge",
    "pos": "n",
@@ -3725,12 +6005,132 @@
    "exRu": "Выучить язык — серьёзный вызов.",
    "col": "face a challenge",
    "img": {
-    "sheet": 40,
+    "sheet": 66,
+    "cell": 2
+   }
+  },
+  {
+   "id": 393,
+   "unit": 20,
+   "en": "win",
+   "pos": "n",
+   "ipa": "wɪn",
+   "ru": "победа",
+   "ex": "It was our third win this season.",
+   "exRu": "Это была наша третья победа в сезоне.",
+   "col": "a big win",
+   "img": {
+    "sheet": 66,
+    "cell": 3
+   }
+  },
+  {
+   "id": 394,
+   "unit": 20,
+   "en": "racing",
+   "pos": "n",
+   "ipa": "ˈreɪsɪŋ",
+   "ru": "гонки",
+   "ex": "He loves car racing.",
+   "exRu": "Он обожает автогонки.",
+   "col": "horse racing",
+   "img": {
+    "sheet": 66,
+    "cell": 4
+   }
+  },
+  {
+   "id": 395,
+   "unit": 20,
+   "en": "rugby",
+   "pos": "n",
+   "ipa": "ˈrʌɡbi",
+   "ru": "регби",
+   "ex": "Rugby is very popular in New Zealand.",
+   "exRu": "Регби очень популярно в Новой Зеландии.",
+   "col": "play rugby",
+   "img": {
+    "sheet": 66,
+    "cell": 5
+   }
+  },
+  {
+   "id": 396,
+   "unit": 20,
+   "en": "swim",
+   "pos": "n",
+   "ipa": "swɪm",
+   "ru": "заплыв, купание",
+   "ex": "Let's go for a swim in the lake.",
+   "exRu": "Пойдём искупаемся в озере.",
+   "col": "go for a swim",
+   "img": {
+    "sheet": 66,
     "cell": 6
    }
   },
   {
-   "id": 241,
+   "id": 397,
+   "unit": 20,
+   "en": "award",
+   "pos": "v",
+   "ipa": "əˈwɔːrd",
+   "ru": "награждать, присуждать",
+   "ex": "She was awarded a gold medal.",
+   "exRu": "Ей вручили золотую медаль.",
+   "col": "award a prize",
+   "img": {
+    "sheet": 67,
+    "cell": 1
+   }
+  },
+  {
+   "id": 398,
+   "unit": 20,
+   "en": "participate",
+   "pos": "v",
+   "ipa": "pɑːrˈtɪsɪpeɪt",
+   "ru": "участвовать",
+   "ex": "Over 50 teams participated in the tournament.",
+   "exRu": "В турнире участвовали более 50 команд.",
+   "col": "participate in sth",
+   "img": {
+    "sheet": 67,
+    "cell": 2
+   }
+  },
+  {
+   "id": 399,
+   "unit": 20,
+   "en": "organizer",
+   "pos": "n",
+   "ipa": "ˈɔːrɡənaɪzər",
+   "ru": "организатор",
+   "ex": "The organizers canceled the race because of rain.",
+   "exRu": "Организаторы отменили забег из-за дождя.",
+   "col": "the event organizer",
+   "img": {
+    "sheet": 67,
+    "cell": 3
+   }
+  },
+  {
+   "id": 400,
+   "unit": 20,
+   "en": "net",
+   "pos": "n",
+   "ipa": "net",
+   "ru": "сетка",
+   "ex": "The ball hit the net.",
+   "exRu": "Мяч попал в сетку.",
+   "col": "a tennis net",
+   "img": {
+    "sheet": 67,
+    "cell": 4
+   }
+  },
+  {
+   "id": 401,
    "unit": 21,
    "en": "exhibition",
    "pos": "n",
@@ -3740,12 +6140,12 @@
    "exRu": "Мы сходили на фотовыставку.",
    "col": "an art exhibition",
    "img": {
-    "sheet": 41,
-    "cell": 1
+    "sheet": 67,
+    "cell": 5
    }
   },
   {
-   "id": 242,
+   "id": 402,
    "unit": 21,
    "en": "performance",
    "pos": "n",
@@ -3755,12 +6155,12 @@
    "exRu": "Спектакль начинается в 19:30.",
    "col": "a live performance",
    "img": {
-    "sheet": 41,
-    "cell": 2
+    "sheet": 67,
+    "cell": 6
    }
   },
   {
-   "id": 243,
+   "id": 403,
    "unit": 21,
    "en": "talent",
    "pos": "n",
@@ -3770,27 +6170,27 @@
    "exRu": "У неё настоящий талант к музыке.",
    "col": "a talent for sth",
    "img": {
-    "sheet": 41,
-    "cell": 3
+    "sheet": 68,
+    "cell": 1
    }
   },
   {
-   "id": 244,
+   "id": 404,
    "unit": 21,
    "en": "plot",
    "pos": "n",
    "ipa": "plɑːt",
    "ru": "сюжет",
-   "ex": "The plot of this film is hard to follow.",
+   "ex": "The plot of this movie is hard to follow.",
    "exRu": "За сюжетом этого фильма сложно следить.",
-   "col": "the plot of a film",
+   "col": "the plot of a movie",
    "img": {
-    "sheet": 41,
-    "cell": 4
+    "sheet": 68,
+    "cell": 2
    }
   },
   {
-   "id": 245,
+   "id": 405,
    "unit": 21,
    "en": "costume",
    "pos": "n",
@@ -3800,12 +6200,12 @@
    "exRu": "Танцоры были в национальных костюмах.",
    "col": "a national costume",
    "img": {
-    "sheet": 41,
-    "cell": 5
+    "sheet": 68,
+    "cell": 3
    }
   },
   {
-   "id": 246,
+   "id": 406,
    "unit": 21,
    "en": "sculpture",
    "pos": "n",
@@ -3815,12 +6215,12 @@
    "exRu": "Перед музеем стоит современная скульптура.",
    "col": "a stone sculpture",
    "img": {
-    "sheet": 41,
-    "cell": 6
+    "sheet": 68,
+    "cell": 4
    }
   },
   {
-   "id": 247,
+   "id": 407,
    "unit": 21,
    "en": "portrait",
    "pos": "n",
@@ -3830,12 +6230,12 @@
    "exRu": "Она нарисовала портрет своей бабушки.",
    "col": "paint a portrait",
    "img": {
-    "sheet": 42,
-    "cell": 1
+    "sheet": 68,
+    "cell": 5
    }
   },
   {
-   "id": 248,
+   "id": 408,
    "unit": 21,
    "en": "drum",
    "pos": "n",
@@ -3845,27 +6245,27 @@
    "exRu": "Он играет на барабанах в группе.",
    "col": "play the drums",
    "img": {
-    "sheet": 42,
-    "cell": 2
+    "sheet": 68,
+    "cell": 6
    }
   },
   {
-   "id": 249,
+   "id": 409,
    "unit": 21,
    "en": "musical",
    "pos": "n",
    "ipa": "ˈmjuːzɪkl",
    "ru": "мюзикл",
-   "ex": "We saw a musical in London.",
-   "exRu": "Мы посмотрели мюзикл в Лондоне.",
-   "col": "a West End musical",
+   "ex": "We saw a musical in New York.",
+   "exRu": "Мы посмотрели мюзикл в Нью-Йорке.",
+   "col": "a Broadway musical",
    "img": {
-    "sheet": 42,
-    "cell": 3
+    "sheet": 69,
+    "cell": 1
    }
   },
   {
-   "id": 250,
+   "id": 410,
    "unit": 21,
    "en": "poetry",
    "pos": "n",
@@ -3875,12 +6275,12 @@
    "exRu": "Она любит читать стихи.",
    "col": "a book of poetry",
    "img": {
-    "sheet": 42,
-    "cell": 4
+    "sheet": 69,
+    "cell": 2
    }
   },
   {
-   "id": 251,
+   "id": 411,
    "unit": 21,
    "en": "folk",
    "pos": "adj",
@@ -3890,12 +6290,12 @@
    "exRu": "Они играли казахскую народную музыку.",
    "col": "folk music",
    "img": {
-    "sheet": 42,
-    "cell": 5
+    "sheet": 69,
+    "cell": 3
    }
   },
   {
-   "id": 252,
+   "id": 412,
    "unit": 21,
    "en": "magic",
    "pos": "n",
@@ -3905,12 +6305,132 @@
    "exRu": "Детям очень понравилось шоу фокусов.",
    "col": "a magic trick",
    "img": {
-    "sheet": 42,
+    "sheet": 69,
+    "cell": 4
+   }
+  },
+  {
+   "id": 413,
+   "unit": 21,
+   "en": "entertainment",
+   "pos": "n",
+   "ipa": "ˌentərˈteɪnmənt",
+   "ru": "развлечения",
+   "ex": "The hotel offers evening entertainment.",
+   "exRu": "Отель предлагает вечернюю развлекательную программу.",
+   "col": "live entertainment",
+   "img": {
+    "sheet": 69,
+    "cell": 5
+   }
+  },
+  {
+   "id": 414,
+   "unit": 21,
+   "en": "horror",
+   "pos": "n",
+   "ipa": "ˈhɔːrər",
+   "ru": "ужас; ужасы (жанр)",
+   "ex": "I don't like horror movies.",
+   "exRu": "Я не люблю фильмы ужасов.",
+   "col": "a horror movie",
+   "img": {
+    "sheet": 69,
     "cell": 6
    }
   },
   {
-   "id": 253,
+   "id": 415,
+   "unit": 21,
+   "en": "mystery",
+   "pos": "n",
+   "ipa": "ˈmɪstəri",
+   "ru": "тайна, загадка",
+   "ex": "His disappearance is still a mystery.",
+   "exRu": "Его исчезновение до сих пор остаётся загадкой.",
+   "col": "a murder mystery",
+   "img": {
+    "sheet": 70,
+    "cell": 1
+   }
+  },
+  {
+   "id": 416,
+   "unit": 21,
+   "en": "ghost",
+   "pos": "n",
+   "ipa": "ɡəʊst",
+   "ru": "призрак",
+   "ex": "Do you believe in ghosts?",
+   "exRu": "Ты веришь в призраков?",
+   "col": "a ghost story",
+   "img": {
+    "sheet": 70,
+    "cell": 2
+   }
+  },
+  {
+   "id": 417,
+   "unit": 21,
+   "en": "poem",
+   "pos": "n",
+   "ipa": "ˈpəʊəm",
+   "ru": "стихотворение",
+   "ex": "He wrote a poem for his wife.",
+   "exRu": "Он написал стихотворение для жены.",
+   "col": "write a poem",
+   "img": {
+    "sheet": 70,
+    "cell": 3
+   }
+  },
+  {
+   "id": 418,
+   "unit": 21,
+   "en": "collection",
+   "pos": "n",
+   "ipa": "kəˈlekʃn",
+   "ru": "коллекция",
+   "ex": "The museum has a large collection of Korean art.",
+   "exRu": "В музее большая коллекция корейского искусства.",
+   "col": "a collection of sth",
+   "img": {
+    "sheet": 70,
+    "cell": 4
+   }
+  },
+  {
+   "id": 419,
+   "unit": 21,
+   "en": "cultural",
+   "pos": "adj",
+   "ipa": "ˈkʌltʃərəl",
+   "ru": "культурный",
+   "ex": "There are many cultural differences between our countries.",
+   "exRu": "Между нашими странами много культурных различий.",
+   "col": "cultural differences",
+   "img": {
+    "sheet": 70,
+    "cell": 5
+   }
+  },
+  {
+   "id": 420,
+   "unit": 21,
+   "en": "romantic",
+   "pos": "adj",
+   "ipa": "rəʊˈmæntɪk",
+   "ru": "романтичный, романтический",
+   "ex": "We had a romantic dinner by the sea.",
+   "exRu": "У нас был романтический ужин у моря.",
+   "col": "a romantic comedy",
+   "img": {
+    "sheet": 70,
+    "cell": 6
+   }
+  },
+  {
+   "id": 421,
    "unit": 22,
    "en": "arrest",
    "pos": "v",
@@ -3920,12 +6440,12 @@
    "exRu": "Полиция арестовала двух мужчин.",
    "col": "be arrested for sth",
    "img": {
-    "sheet": 43,
+    "sheet": 71,
     "cell": 1
    }
   },
   {
-   "id": 254,
+   "id": 422,
    "unit": 22,
    "en": "ban",
    "pos": "v",
@@ -3935,12 +6455,12 @@
    "exRu": "Курение запрещено во всех ресторанах.",
    "col": "ban sth",
    "img": {
-    "sheet": 43,
+    "sheet": 71,
     "cell": 2
    }
   },
   {
-   "id": 255,
+   "id": 423,
    "unit": 22,
    "en": "illegal",
    "pos": "adj",
@@ -3950,12 +6470,12 @@
    "exRu": "Парковаться здесь незаконно.",
    "col": "illegal parking",
    "img": {
-    "sheet": 43,
+    "sheet": 71,
     "cell": 3
    }
   },
   {
-   "id": 256,
+   "id": 424,
    "unit": 22,
    "en": "legal",
    "pos": "adj",
@@ -3965,12 +6485,12 @@
    "exRu": "Перед подписанием нам нужна юридическая консультация.",
    "col": "legal advice",
    "img": {
-    "sheet": 43,
+    "sheet": 71,
     "cell": 4
    }
   },
   {
-   "id": 257,
+   "id": 425,
    "unit": 22,
    "en": "prisoner",
    "pos": "n",
@@ -3980,12 +6500,12 @@
    "exRu": "Заключённый сбежал прошлой ночью.",
    "col": "a political prisoner",
    "img": {
-    "sheet": 43,
+    "sheet": 71,
     "cell": 5
    }
   },
   {
-   "id": 258,
+   "id": 426,
    "unit": 22,
    "en": "victim",
    "pos": "n",
@@ -3995,12 +6515,12 @@
    "exRu": "Полиция беседует с пострадавшими.",
    "col": "a victim of crime",
    "img": {
-    "sheet": 43,
+    "sheet": 71,
     "cell": 6
    }
   },
   {
-   "id": 259,
+   "id": 427,
    "unit": 22,
    "en": "guilty",
    "pos": "adj",
@@ -4010,12 +6530,12 @@
    "exRu": "Суд признал его виновным.",
    "col": "feel guilty",
    "img": {
-    "sheet": 44,
+    "sheet": 72,
     "cell": 1
    }
   },
   {
-   "id": 260,
+   "id": 428,
    "unit": 22,
    "en": "innocent",
    "pos": "adj",
@@ -4025,12 +6545,12 @@
    "exRu": "Она утверждает, что невиновна.",
    "col": "an innocent man",
    "img": {
-    "sheet": 44,
+    "sheet": 72,
     "cell": 2
    }
   },
   {
-   "id": 261,
+   "id": 429,
    "unit": 22,
    "en": "judge",
    "pos": "n",
@@ -4040,12 +6560,12 @@
    "exRu": "Судья выслушал обе стороны.",
    "col": "a judge in court",
    "img": {
-    "sheet": 44,
+    "sheet": 72,
     "cell": 3
    }
   },
   {
-   "id": 262,
+   "id": 430,
    "unit": 22,
    "en": "court",
    "pos": "n",
@@ -4055,12 +6575,12 @@
    "exRu": "Дело дошло до суда.",
    "col": "go to court",
    "img": {
-    "sheet": 44,
+    "sheet": 72,
     "cell": 4
    }
   },
   {
-   "id": 263,
+   "id": 431,
    "unit": 22,
    "en": "punish",
    "pos": "v",
@@ -4070,12 +6590,12 @@
    "exRu": "Водителей, превышающих скорость, накажут.",
    "col": "punish sb for sth",
    "img": {
-    "sheet": 44,
+    "sheet": 72,
     "cell": 5
    }
   },
   {
-   "id": 264,
+   "id": 432,
    "unit": 22,
    "en": "guard",
    "pos": "n",
@@ -4085,12 +6605,132 @@
    "exRu": "Охранник проверил наши сумки.",
    "col": "a security guard",
    "img": {
-    "sheet": 44,
+    "sheet": 72,
     "cell": 6
    }
   },
   {
-   "id": 265,
+   "id": 433,
+   "unit": 22,
+   "en": "punishment",
+   "pos": "n",
+   "ipa": "ˈpʌnɪʃmənt",
+   "ru": "наказание",
+   "ex": "The punishment was too strict.",
+   "exRu": "Наказание было слишком суровым.",
+   "col": "a fair punishment",
+   "img": {
+    "sheet": 73,
+    "cell": 1
+   }
+  },
+  {
+   "id": 434,
+   "unit": 22,
+   "en": "cheat",
+   "pos": "v",
+   "ipa": "tʃiːt",
+   "ru": "жульничать, списывать",
+   "ex": "He cheated on the exam.",
+   "exRu": "Он списывал на экзамене.",
+   "col": "cheat at cards",
+   "img": {
+    "sheet": 73,
+    "cell": 2
+   }
+  },
+  {
+   "id": 435,
+   "unit": 22,
+   "en": "commit",
+   "pos": "v",
+   "ipa": "kəˈmɪt",
+   "ru": "совершать (преступление)",
+   "ex": "He committed a serious crime.",
+   "exRu": "Он совершил тяжкое преступление.",
+   "col": "commit a crime",
+   "img": {
+    "sheet": 73,
+    "cell": 3
+   }
+  },
+  {
+   "id": 436,
+   "unit": 22,
+   "en": "prove",
+   "pos": "v",
+   "ipa": "pruːv",
+   "ru": "доказывать",
+   "ex": "Can you prove that you were at home?",
+   "exRu": "Вы можете доказать, что были дома?",
+   "col": "prove sth",
+   "img": {
+    "sheet": 73,
+    "cell": 4
+   }
+  },
+  {
+   "id": 437,
+   "unit": 22,
+   "en": "claim",
+   "pos": "v",
+   "ipa": "kleɪm",
+   "ru": "утверждать; заявлять права",
+   "ex": "He claims that he didn't see the car.",
+   "exRu": "Он утверждает, что не видел машину.",
+   "col": "claim that",
+   "img": {
+    "sheet": 73,
+    "cell": 5
+   }
+  },
+  {
+   "id": 438,
+   "unit": 22,
+   "en": "lie",
+   "pos": "v",
+   "ipa": "laɪ",
+   "ru": "лгать",
+   "ex": "Don't lie to me!",
+   "exRu": "Не лги мне!",
+   "col": "lie to sb",
+   "img": {
+    "sheet": 73,
+    "cell": 6
+   }
+  },
+  {
+   "id": 439,
+   "unit": 22,
+   "en": "unfair",
+   "pos": "adj",
+   "ipa": "ˌʌnˈfer",
+   "ru": "несправедливый",
+   "ex": "The decision was unfair.",
+   "exRu": "Решение было несправедливым.",
+   "col": "unfair treatment",
+   "img": {
+    "sheet": 74,
+    "cell": 1
+   }
+  },
+  {
+   "id": 440,
+   "unit": 22,
+   "en": "identity",
+   "pos": "n",
+   "ipa": "aɪˈdentəti",
+   "ru": "личность",
+   "ex": "The police checked his identity.",
+   "exRu": "Полиция проверила его личность.",
+   "col": "an identity card",
+   "img": {
+    "sheet": 74,
+    "cell": 2
+   }
+  },
+  {
+   "id": 441,
    "unit": 23,
    "en": "vote",
    "pos": "v",
@@ -4100,12 +6740,12 @@
    "exRu": "За кого ты голосовал?",
    "col": "vote for sb",
    "img": {
-    "sheet": 45,
-    "cell": 1
+    "sheet": 74,
+    "cell": 3
    }
   },
   {
-   "id": 266,
+   "id": 442,
    "unit": 23,
    "en": "election",
    "pos": "n",
@@ -4115,12 +6755,12 @@
    "exRu": "Выборы в следующем месяце.",
    "col": "win an election",
    "img": {
-    "sheet": 45,
-    "cell": 2
+    "sheet": 74,
+    "cell": 4
    }
   },
   {
-   "id": 267,
+   "id": 443,
    "unit": 23,
    "en": "politician",
    "pos": "n",
@@ -4130,12 +6770,12 @@
    "exRu": "Политик пообещал снизить налоги.",
    "col": "a famous politician",
    "img": {
-    "sheet": 45,
-    "cell": 3
+    "sheet": 74,
+    "cell": 5
    }
   },
   {
-   "id": 268,
+   "id": 444,
    "unit": 23,
    "en": "policy",
    "pos": "n",
@@ -4145,12 +6785,12 @@
    "exRu": "Какие у компании правила возврата?",
    "col": "company policy",
    "img": {
-    "sheet": 45,
-    "cell": 4
+    "sheet": 74,
+    "cell": 6
    }
   },
   {
-   "id": 269,
+   "id": 445,
    "unit": 23,
    "en": "nation",
    "pos": "n",
@@ -4160,12 +6800,12 @@
    "exRu": "Вся страна смотрела матч.",
    "col": "the whole nation",
    "img": {
-    "sheet": 45,
-    "cell": 5
+    "sheet": 75,
+    "cell": 1
    }
   },
   {
-   "id": 270,
+   "id": 446,
    "unit": 23,
    "en": "protest",
    "pos": "n",
@@ -4175,12 +6815,12 @@
    "exRu": "У завода прошёл протест.",
    "col": "a peaceful protest",
    "img": {
-    "sheet": 45,
-    "cell": 6
+    "sheet": 75,
+    "cell": 2
    }
   },
   {
-   "id": 271,
+   "id": 447,
    "unit": 23,
    "en": "authority",
    "pos": "n",
@@ -4190,12 +6830,12 @@
    "exRu": "Местные власти закрыли дорогу.",
    "col": "the local authorities",
    "img": {
-    "sheet": 46,
-    "cell": 1
+    "sheet": 75,
+    "cell": 3
    }
   },
   {
-   "id": 272,
+   "id": 448,
    "unit": 23,
    "en": "poverty",
    "pos": "n",
@@ -4205,12 +6845,12 @@
    "exRu": "Многие люди всё ещё живут в бедности.",
    "col": "live in poverty",
    "img": {
-    "sheet": 46,
-    "cell": 2
+    "sheet": 75,
+    "cell": 4
    }
   },
   {
-   "id": 273,
+   "id": 449,
    "unit": 23,
    "en": "immigrant",
    "pos": "n",
@@ -4220,12 +6860,12 @@
    "exRu": "В этом городе работает много иммигрантов.",
    "col": "a new immigrant",
    "img": {
-    "sheet": 46,
-    "cell": 3
+    "sheet": 75,
+    "cell": 5
    }
   },
   {
-   "id": 274,
+   "id": 450,
    "unit": 23,
    "en": "volunteer",
    "pos": "n",
@@ -4235,12 +6875,12 @@
    "exRu": "Волонтёры помогли убрать парк.",
    "col": "work as a volunteer",
    "img": {
-    "sheet": 46,
-    "cell": 4
+    "sheet": 75,
+    "cell": 6
    }
   },
   {
-   "id": 275,
+   "id": 451,
    "unit": 23,
    "en": "donate",
    "pos": "v",
@@ -4250,12 +6890,12 @@
    "exRu": "Мы отдали старую одежду на благотворительность.",
    "col": "donate money",
    "img": {
-    "sheet": 46,
-    "cell": 5
+    "sheet": 76,
+    "cell": 1
    }
   },
   {
-   "id": 276,
+   "id": 452,
    "unit": 23,
    "en": "tax",
    "pos": "n",
@@ -4265,12 +6905,132 @@
    "exRu": "Цены указаны с учётом налога.",
    "col": "pay tax",
    "img": {
-    "sheet": 46,
+    "sheet": 76,
+    "cell": 2
+   }
+  },
+  {
+   "id": 453,
+   "unit": 23,
+   "en": "politics",
+   "pos": "n",
+   "ipa": "ˈpɑːlətɪks",
+   "ru": "политика (сфера)",
+   "ex": "I'm not interested in politics.",
+   "exRu": "Я не интересуюсь политикой.",
+   "col": "be involved in politics",
+   "img": {
+    "sheet": 76,
+    "cell": 3
+   }
+  },
+  {
+   "id": 454,
+   "unit": 23,
+   "en": "political",
+   "pos": "adj",
+   "ipa": "pəˈlɪtɪkl",
+   "ru": "политический",
+   "ex": "The country has a stable political system.",
+   "exRu": "В стране стабильная политическая система.",
+   "col": "a political party",
+   "img": {
+    "sheet": 76,
+    "cell": 4
+   }
+  },
+  {
+   "id": 455,
+   "unit": 23,
+   "en": "religion",
+   "pos": "n",
+   "ipa": "rɪˈlɪdʒən",
+   "ru": "религия",
+   "ex": "People of all religions live in this city.",
+   "exRu": "В этом городе живут люди всех религий.",
+   "col": "freedom of religion",
+   "img": {
+    "sheet": 76,
+    "cell": 5
+   }
+  },
+  {
+   "id": 456,
+   "unit": 23,
+   "en": "union",
+   "pos": "n",
+   "ipa": "ˈjuːniən",
+   "ru": "союз; профсоюз",
+   "ex": "Kazakhstan is a member of the Eurasian Economic Union.",
+   "exRu": "Казахстан — член Евразийского экономического союза.",
+   "col": "a trade union",
+   "img": {
+    "sheet": 76,
     "cell": 6
    }
   },
   {
-   "id": 277,
+   "id": 457,
+   "unit": 23,
+   "en": "equal",
+   "pos": "adj",
+   "ipa": "ˈiːkwəl",
+   "ru": "равный",
+   "ex": "Men and women should get equal pay.",
+   "exRu": "Мужчины и женщины должны получать равную зарплату.",
+   "col": "equal rights",
+   "img": {
+    "sheet": 77,
+    "cell": 1
+   }
+  },
+  {
+   "id": 458,
+   "unit": 23,
+   "en": "royal",
+   "pos": "adj",
+   "ipa": "ˈrɔɪəl",
+   "ru": "королевский",
+   "ex": "We visited the royal palace in Bangkok.",
+   "exRu": "Мы побывали в королевском дворце в Бангкоке.",
+   "col": "the royal family",
+   "img": {
+    "sheet": 77,
+    "cell": 2
+   }
+  },
+  {
+   "id": 459,
+   "unit": 23,
+   "en": "unemployment",
+   "pos": "n",
+   "ipa": "ˌʌnɪmˈplɔɪmənt",
+   "ru": "безработица",
+   "ex": "Unemployment has fallen this year.",
+   "exRu": "В этом году безработица снизилась.",
+   "col": "high unemployment",
+   "img": {
+    "sheet": 77,
+    "cell": 3
+   }
+  },
+  {
+   "id": 460,
+   "unit": 23,
+   "en": "official",
+   "pos": "adj",
+   "ipa": "əˈfɪʃl",
+   "ru": "официальный",
+   "ex": "Kazakh and Russian are official languages.",
+   "exRu": "Казахский и русский — официальные языки.",
+   "col": "an official visit",
+   "img": {
+    "sheet": 77,
+    "cell": 4
+   }
+  },
+  {
+   "id": 461,
    "unit": 24,
    "en": "warn",
    "pos": "v",
@@ -4280,12 +7040,12 @@
    "exRu": "Я же предупреждал тебя о пробках!",
    "col": "warn sb about sth",
    "img": {
-    "sheet": 47,
-    "cell": 1
+    "sheet": 77,
+    "cell": 5
    }
   },
   {
-   "id": 278,
+   "id": 462,
    "unit": 24,
    "en": "warning",
    "pos": "n",
@@ -4295,12 +7055,12 @@
    "exRu": "На завтра объявлено штормовое предупреждение.",
    "col": "a warning sign",
    "img": {
-    "sheet": 47,
-    "cell": 2
+    "sheet": 77,
+    "cell": 6
    }
   },
   {
-   "id": 279,
+   "id": 463,
    "unit": 24,
    "en": "risk",
    "pos": "n",
@@ -4310,12 +7070,12 @@
    "exRu": "Курение повышает риск болезней сердца.",
    "col": "take a risk",
    "img": {
-    "sheet": 47,
-    "cell": 3
+    "sheet": 78,
+    "cell": 1
    }
   },
   {
-   "id": 280,
+   "id": 464,
    "unit": 24,
    "en": "lack",
    "pos": "n",
@@ -4325,12 +7085,12 @@
    "exRu": "Проект провалился из-за нехватки денег.",
    "col": "a lack of sth",
    "img": {
-    "sheet": 47,
-    "cell": 4
+    "sheet": 78,
+    "cell": 2
    }
   },
   {
-   "id": 281,
+   "id": 465,
    "unit": 24,
    "en": "difficulty",
    "pos": "n",
@@ -4340,12 +7100,12 @@
    "exRu": "Мы с трудом нашли отель.",
    "col": "have difficulty doing sth",
    "img": {
-    "sheet": 47,
-    "cell": 5
+    "sheet": 78,
+    "cell": 3
    }
   },
   {
-   "id": 282,
+   "id": 466,
    "unit": 24,
    "en": "pressure",
    "pos": "n",
@@ -4355,12 +7115,12 @@
    "exRu": "Я хорошо работаю в условиях давления.",
    "col": "under pressure",
    "img": {
-    "sheet": 47,
-    "cell": 6
+    "sheet": 78,
+    "cell": 4
    }
   },
   {
-   "id": 283,
+   "id": 467,
    "unit": 24,
    "en": "consequence",
    "pos": "n",
@@ -4370,12 +7130,12 @@
    "exRu": "Подумай о последствиях, прежде чем решать.",
    "col": "serious consequences",
    "img": {
-    "sheet": 48,
-    "cell": 1
+    "sheet": 78,
+    "cell": 5
    }
   },
   {
-   "id": 284,
+   "id": 468,
    "unit": 24,
    "en": "impact",
    "pos": "n",
@@ -4385,12 +7145,12 @@
    "exRu": "Новый закон сильно повлиял на цены.",
    "col": "have an impact on sth",
    "img": {
-    "sheet": 48,
-    "cell": 2
+    "sheet": 78,
+    "cell": 6
    }
   },
   {
-   "id": 285,
+   "id": 469,
    "unit": 24,
    "en": "influence",
    "pos": "v",
@@ -4400,12 +7160,12 @@
    "exRu": "Погода влияет на моё настроение.",
    "col": "influence sb's decision",
    "img": {
-    "sheet": 48,
-    "cell": 3
+    "sheet": 79,
+    "cell": 1
    }
   },
   {
-   "id": 286,
+   "id": 470,
    "unit": 24,
    "en": "effort",
    "pos": "n",
@@ -4415,12 +7175,12 @@
    "exRu": "Спасибо за все ваши старания.",
    "col": "make an effort",
    "img": {
-    "sheet": 48,
-    "cell": 4
+    "sheet": 79,
+    "cell": 2
    }
   },
   {
-   "id": 287,
+   "id": 471,
    "unit": 24,
    "en": "ignore",
    "pos": "v",
@@ -4430,12 +7190,12 @@
    "exRu": "Он проигнорировал мой совет.",
    "col": "ignore a problem",
    "img": {
-    "sheet": 48,
-    "cell": 5
+    "sheet": 79,
+    "cell": 3
    }
   },
   {
-   "id": 288,
+   "id": 472,
    "unit": 24,
    "en": "bother",
    "pos": "v",
@@ -4445,12 +7205,132 @@
    "exRu": "Извините за беспокойство, можно задать вопрос?",
    "col": "sorry to bother you",
    "img": {
-    "sheet": 48,
+    "sheet": 79,
+    "cell": 4
+   }
+  },
+  {
+   "id": 473,
+   "unit": 24,
+   "en": "improvement",
+   "pos": "n",
+   "ipa": "ɪmˈpruːvmənt",
+   "ru": "улучшение",
+   "ex": "There has been a big improvement in sales.",
+   "exRu": "Продажи заметно улучшились.",
+   "col": "an improvement in sth",
+   "img": {
+    "sheet": 79,
+    "cell": 5
+   }
+  },
+  {
+   "id": 474,
+   "unit": 24,
+   "en": "alternative",
+   "pos": "adj",
+   "ipa": "ɔːlˈtɜːrnətɪv",
+   "ru": "альтернативный, другой",
+   "ex": "We need an alternative plan.",
+   "exRu": "Нам нужен запасной план.",
+   "col": "an alternative solution",
+   "img": {
+    "sheet": 79,
     "cell": 6
    }
   },
   {
-   "id": 289,
+   "id": 475,
+   "unit": 24,
+   "en": "essential",
+   "pos": "adj",
+   "ipa": "ɪˈsenʃl",
+   "ru": "необходимый, важнейший",
+   "ex": "Good English is essential for this job.",
+   "exRu": "Хороший английский необходим для этой работы.",
+   "col": "essential for sth",
+   "img": {
+    "sheet": 80,
+    "cell": 1
+   }
+  },
+  {
+   "id": 476,
+   "unit": 24,
+   "en": "unnecessary",
+   "pos": "adj",
+   "ipa": "ʌnˈnesəseri",
+   "ru": "ненужный, излишний",
+   "ex": "Let's avoid unnecessary costs.",
+   "exRu": "Давайте избегать ненужных расходов.",
+   "col": "unnecessary risk",
+   "img": {
+    "sheet": 80,
+    "cell": 2
+   }
+  },
+  {
+   "id": 477,
+   "unit": 24,
+   "en": "limit",
+   "pos": "n",
+   "ipa": "ˈlɪmɪt",
+   "ru": "предел, ограничение",
+   "ex": "There is a limit of two bags per person.",
+   "exRu": "Есть ограничение — две сумки на человека.",
+   "col": "a time limit",
+   "img": {
+    "sheet": 80,
+    "cell": 3
+   }
+  },
+  {
+   "id": 478,
+   "unit": 24,
+   "en": "balance",
+   "pos": "n",
+   "ipa": "ˈbæləns",
+   "ru": "баланс, равновесие",
+   "ex": "It's hard to find a balance between work and family.",
+   "exRu": "Трудно найти баланс между работой и семьёй.",
+   "col": "work-life balance",
+   "img": {
+    "sheet": 80,
+    "cell": 4
+   }
+  },
+  {
+   "id": 479,
+   "unit": 24,
+   "en": "occur",
+   "pos": "v",
+   "ipa": "əˈkɜːr",
+   "ru": "случаться, происходить",
+   "ex": "The problem occurred during shipping.",
+   "exRu": "Проблема возникла во время перевозки.",
+   "col": "occur to sb",
+   "img": {
+    "sheet": 80,
+    "cell": 5
+   }
+  },
+  {
+   "id": 480,
+   "unit": 24,
+   "en": "escape",
+   "pos": "v",
+   "ipa": "ɪˈskeɪp",
+   "ru": "сбежать, избежать",
+   "ex": "Nobody can escape from this problem.",
+   "exRu": "От этой проблемы никуда не деться.",
+   "col": "escape from sth",
+   "img": {
+    "sheet": 80,
+    "cell": 6
+   }
+  },
+  {
+   "id": 481,
    "unit": 25,
    "en": "doubt",
    "pos": "v",
@@ -4460,12 +7340,12 @@
    "exRu": "Сомневаюсь, что он придёт вовремя.",
    "col": "no doubt",
    "img": {
-    "sheet": 49,
+    "sheet": 81,
     "cell": 1
    }
   },
   {
-   "id": 290,
+   "id": 482,
    "unit": 25,
    "en": "attitude",
    "pos": "n",
@@ -4475,12 +7355,12 @@
    "exRu": "У неё позитивное отношение к работе.",
    "col": "a positive attitude",
    "img": {
-    "sheet": 49,
+    "sheet": 81,
     "cell": 2
    }
   },
   {
-   "id": 291,
+   "id": 483,
    "unit": 25,
    "en": "obvious",
    "pos": "adj",
@@ -4490,12 +7370,12 @@
    "exRu": "Ответ очевиден.",
    "col": "it's obvious that",
    "img": {
-    "sheet": 49,
+    "sheet": 81,
     "cell": 3
    }
   },
   {
-   "id": 292,
+   "id": 484,
    "unit": 25,
    "en": "aware",
    "pos": "adj",
@@ -4505,12 +7385,12 @@
    "exRu": "Ты в курсе новых правил?",
    "col": "be aware of sth",
    "img": {
-    "sheet": 49,
+    "sheet": 81,
     "cell": 4
    }
   },
   {
-   "id": 293,
+   "id": 485,
    "unit": 25,
    "en": "belief",
    "pos": "n",
@@ -4520,12 +7400,12 @@
    "exRu": "Я убеждён, что упорный труд окупается.",
    "col": "a strong belief",
    "img": {
-    "sheet": 49,
+    "sheet": 81,
     "cell": 5
    }
   },
   {
-   "id": 294,
+   "id": 486,
    "unit": 25,
    "en": "impression",
    "pos": "n",
@@ -4535,12 +7415,12 @@
    "exRu": "Она произвела хорошее впечатление на собеседовании.",
    "col": "make a good impression",
    "img": {
-    "sheet": 49,
+    "sheet": 81,
     "cell": 6
    }
   },
   {
-   "id": 295,
+   "id": 487,
    "unit": 25,
    "en": "intend",
    "pos": "v",
@@ -4550,12 +7430,12 @@
    "exRu": "Я намерен закончить отчёт сегодня.",
    "col": "intend to do sth",
    "img": {
-    "sheet": 50,
+    "sheet": 82,
     "cell": 1
    }
   },
   {
-   "id": 296,
+   "id": 488,
    "unit": 25,
    "en": "pretend",
    "pos": "v",
@@ -4565,12 +7445,12 @@
    "exRu": "Он сделал вид, что не видит меня.",
    "col": "pretend to do sth",
    "img": {
-    "sheet": 50,
+    "sheet": 82,
     "cell": 2
    }
   },
   {
-   "id": 297,
+   "id": 489,
    "unit": 25,
    "en": "wonder",
    "pos": "v",
@@ -4580,12 +7460,12 @@
    "exRu": "Интересно, получила ли она моё сообщение.",
    "col": "I wonder if/why",
    "img": {
-    "sheet": 50,
+    "sheet": 82,
     "cell": 3
    }
   },
   {
-   "id": 298,
+   "id": 490,
    "unit": 25,
    "en": "prediction",
    "pos": "n",
@@ -4595,12 +7475,12 @@
    "exRu": "Его прогноз оказался верным.",
    "col": "make a prediction",
    "img": {
-    "sheet": 50,
+    "sheet": 82,
     "cell": 4
    }
   },
   {
-   "id": 299,
+   "id": 491,
    "unit": 25,
    "en": "disadvantage",
    "pos": "n",
@@ -4610,12 +7490,12 @@
    "exRu": "Главный недостаток — цена.",
    "col": "advantages and disadvantages",
    "img": {
-    "sheet": 50,
+    "sheet": 82,
     "cell": 5
    }
   },
   {
-   "id": 300,
+   "id": 492,
    "unit": 25,
    "en": "truth",
    "pos": "n",
@@ -4625,8 +7505,128 @@
    "exRu": "Скажи мне правду.",
    "col": "tell the truth",
    "img": {
-    "sheet": 50,
+    "sheet": 82,
     "cell": 6
+   }
+  },
+  {
+   "id": 493,
+   "unit": 25,
+   "en": "intention",
+   "pos": "n",
+   "ipa": "ɪnˈtenʃn",
+   "ru": "намерение",
+   "ex": "I have no intention of leaving the company.",
+   "exRu": "У меня нет намерения уходить из компании.",
+   "col": "have no intention of doing sth",
+   "img": {
+    "sheet": 83,
+    "cell": 1
+   }
+  },
+  {
+   "id": 494,
+   "unit": 25,
+   "en": "dislike",
+   "pos": "v",
+   "ipa": "dɪsˈlaɪk",
+   "ru": "не любить",
+   "ex": "I dislike long meetings.",
+   "exRu": "Я не люблю долгие совещания.",
+   "col": "dislike doing sth",
+   "img": {
+    "sheet": 83,
+    "cell": 2
+   }
+  },
+  {
+   "id": 495,
+   "unit": 25,
+   "en": "reality",
+   "pos": "n",
+   "ipa": "riˈæləti",
+   "ru": "реальность, действительность",
+   "ex": "In reality, the project will take longer.",
+   "exRu": "В действительности проект займёт больше времени.",
+   "col": "in reality",
+   "img": {
+    "sheet": 83,
+    "cell": 3
+   }
+  },
+  {
+   "id": 496,
+   "unit": 25,
+   "en": "comparison",
+   "pos": "n",
+   "ipa": "kəmˈpærɪsn",
+   "ru": "сравнение",
+   "ex": "Here is a price comparison of three suppliers.",
+   "exRu": "Вот сравнение цен трёх поставщиков.",
+   "col": "in comparison with",
+   "img": {
+    "sheet": 83,
+    "cell": 4
+   }
+  },
+  {
+   "id": 497,
+   "unit": 25,
+   "en": "contrast",
+   "pos": "n",
+   "ipa": "ˈkɑːntræst",
+   "ru": "контраст, противоположность",
+   "ex": "In contrast to last year, sales are growing.",
+   "exRu": "В отличие от прошлого года, продажи растут.",
+   "col": "in contrast to",
+   "img": {
+    "sheet": 83,
+    "cell": 5
+   }
+  },
+  {
+   "id": 498,
+   "unit": 25,
+   "en": "definite",
+   "pos": "adj",
+   "ipa": "ˈdefɪnət",
+   "ru": "определённый, точный",
+   "ex": "We need a definite answer by Friday.",
+   "exRu": "Нам нужен точный ответ к пятнице.",
+   "col": "a definite answer",
+   "img": {
+    "sheet": 83,
+    "cell": 6
+   }
+  },
+  {
+   "id": 499,
+   "unit": 25,
+   "en": "imaginary",
+   "pos": "adj",
+   "ipa": "ɪˈmædʒɪneri",
+   "ru": "воображаемый",
+   "ex": "The story takes place in an imaginary city.",
+   "exRu": "Действие истории происходит в вымышленном городе.",
+   "col": "an imaginary friend",
+   "img": {
+    "sheet": 84,
+    "cell": 1
+   }
+  },
+  {
+   "id": 500,
+   "unit": 25,
+   "en": "personally",
+   "pos": "adv",
+   "ipa": "ˈpɜːrsənəli",
+   "ru": "лично",
+   "ex": "Personally, I prefer the first option.",
+   "exRu": "Лично я предпочитаю первый вариант.",
+   "col": "personally responsible",
+   "img": {
+    "sheet": 84,
+    "cell": 2
    }
   }
  ]
