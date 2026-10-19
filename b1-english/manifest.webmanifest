@@ -1,0 +1,14 @@
+{
+ "name": "B1 English — 500 слов",
+ "short_name": "B1 English",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FBF7EC",
+ "theme_color": "#FBF7EC",
+ "lang": "ru",
+ "icons": [
+  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+  {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+ ]
+}
