@@ -1,0 +1,1554 @@
+{
+  "patterns": [
+    {
+      "id": 1,
+      "category": "Встречи и договорённости",
+      "pattern": "I'm looking forward to ~ing",
+      "ru": "С нетерпением жду…",
+      "levels": {
+        "casual": {
+          "en": "Can't wait to see you!",
+          "ru": "Не могу дождаться встречи!"
+        },
+        "neutral": {
+          "en": "I'm looking forward to seeing you.",
+          "ru": "С нетерпением жду встречи."
+        },
+        "formal": {
+          "en": "I look forward to meeting you on Monday.",
+          "ru": "С нетерпением жду встречи в понедельник."
+        }
+      },
+      "note": "Здесь to — предлог, поэтому дальше -ing: looking forward to seeing, а не to see. В официальных письмах — I look forward to (Present Simple).",
+      "more": [
+        {
+          "en": "We're looking forward to working with you.",
+          "ru": "Мы с нетерпением ждём начала сотрудничества."
+        },
+        {
+          "en": "I'm looking forward to visiting your clinic in Almaty.",
+          "ru": "Жду не дождусь визита в вашу клинику в Алматы."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Встречи и договорённости",
+      "pattern": "Does (day/time) work for you?",
+      "ru": "Вам удобно (в такой-то день/время)?",
+      "levels": {
+        "casual": {
+          "en": "Does Tuesday work?",
+          "ru": "Вторник подойдёт?"
+        },
+        "neutral": {
+          "en": "Does Tuesday at 10 work for you?",
+          "ru": "Вам удобно во вторник в 10?"
+        },
+        "formal": {
+          "en": "Would Tuesday at 10 a.m. be convenient for you?",
+          "ru": "Будет ли вам удобно во вторник в 10 утра?"
+        }
+      },
+      "note": "«Удобно» про время — work for you или convenient. Is it comfortable for you? — калька: comfortable значит физически удобно (кресло, обувь).",
+      "more": [
+        {
+          "en": "Does 3 p.m. Almaty time work for you?",
+          "ru": "Вам удобно в 15:00 по Алматы?"
+        },
+        {
+          "en": "If Friday doesn't work, just let me know.",
+          "ru": "Если пятница не подходит, просто дайте знать."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Встречи и договорённости",
+      "pattern": "Can we move ~ to (time)?",
+      "ru": "Можем перенести… на…?",
+      "levels": {
+        "casual": {
+          "en": "Can we push it to Thursday?",
+          "ru": "Давай перенесём на четверг?"
+        },
+        "neutral": {
+          "en": "Can we move our meeting to Thursday?",
+          "ru": "Можем перенести встречу на четверг?"
+        },
+        "formal": {
+          "en": "Would it be possible to reschedule our meeting to Thursday?",
+          "ru": "Можно ли перенести нашу встречу на четверг?"
+        }
+      },
+      "note": "«Перенести» — move или reschedule, не transfer. Push back — сдвинуть позже, move up — сдвинуть раньше.",
+      "more": [
+        {
+          "en": "Something came up. Can we push the call back an hour?",
+          "ru": "Кое-что случилось. Можем сдвинуть звонок на час позже?"
+        },
+        {
+          "en": "Could we move the demo up to Monday?",
+          "ru": "Можем перенести демонстрацию пораньше, на понедельник?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Встречи и договорённости",
+      "pattern": "I'd like to set up a meeting to ~",
+      "ru": "Я хотел бы договориться о встрече, чтобы…",
+      "levels": {
+        "casual": {
+          "en": "Let's grab some time to talk about the order.",
+          "ru": "Давай найдём время обсудить заказ."
+        },
+        "neutral": {
+          "en": "I'd like to set up a meeting to discuss the order.",
+          "ru": "Я бы хотел назначить встречу, чтобы обсудить заказ."
+        },
+        "formal": {
+          "en": "I would like to arrange a meeting to discuss the order.",
+          "ru": "Я хотел бы договориться о встрече для обсуждения заказа."
+        }
+      },
+      "note": "Встречу set up / arrange / schedule, но не make. Discuss без предлога: discuss the order, а не discuss about.",
+      "more": [
+        {
+          "en": "I'd like to set up a quick call to go over the specs.",
+          "ru": "Хочу назначить короткий звонок, чтобы пройтись по характеристикам."
+        },
+        {
+          "en": "Let's set up a meeting with your procurement team.",
+          "ru": "Давайте организуем встречу с вашим отделом закупок."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Встречи и договорённости",
+      "pattern": "I can't make it (to ~)",
+      "ru": "Я не смогу прийти / не успею (на…)",
+      "levels": {
+        "casual": {
+          "en": "Sorry, can't make it today.",
+          "ru": "Извини, сегодня не получится."
+        },
+        "neutral": {
+          "en": "I'm afraid I can't make it to the meeting on Friday.",
+          "ru": "Боюсь, я не смогу быть на встрече в пятницу."
+        },
+        "formal": {
+          "en": "Unfortunately, I will be unable to attend Friday's meeting.",
+          "ru": "К сожалению, я не смогу присутствовать на встрече в пятницу."
+        }
+      },
+      "note": "Make it — «успеть, смочь прийти». Звучит естественнее, чем I can't come. Make it by 3 — успеть к трём.",
+      "more": [
+        {
+          "en": "Can you make it by 3?",
+          "ru": "Успеешь к трём?"
+        },
+        {
+          "en": "I won't make it to dinner tonight, sorry.",
+          "ru": "Я не успею на ужин сегодня, извини."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Электронная почта",
+      "pattern": "I'm just following up on ~",
+      "ru": "Хотел уточнить насчёт… / Напоминаю о…",
+      "levels": {
+        "casual": {
+          "en": "Hi! Any news on the quote?",
+          "ru": "Привет! Есть новости по предложению?"
+        },
+        "neutral": {
+          "en": "I'm just following up on my email from last week.",
+          "ru": "Хотел уточнить по поводу моего письма на прошлой неделе."
+        },
+        "formal": {
+          "en": "I am writing to follow up on our quotation dated May 5.",
+          "ru": "Пишу в продолжение нашего коммерческого предложения от 5 мая."
+        }
+      },
+      "note": "Follow up on + существительное. Слово just смягчает напоминание: вы не давите, а «просто уточняете».",
+      "more": [
+        {
+          "en": "Just following up on the delivery schedule.",
+          "ru": "Хотел уточнить график поставки."
+        },
+        {
+          "en": "I'm following up on our call yesterday.",
+          "ru": "Пишу по итогам нашего вчерашнего звонка."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Электронная почта",
+      "pattern": "I've attached ~ / Please find attached ~",
+      "ru": "Прикладываю… / Во вложении…",
+      "levels": {
+        "casual": {
+          "en": "Here's the price list.",
+          "ru": "Вот прайс-лист."
+        },
+        "neutral": {
+          "en": "I've attached the updated price list.",
+          "ru": "Прикладываю обновлённый прайс-лист."
+        },
+        "formal": {
+          "en": "Please find attached our updated price list.",
+          "ru": "Во вложении — наш обновлённый прайс-лист."
+        }
+      },
+      "note": "В обычной переписке хватит I've attached (Present Perfect). Please find attached — официально и чуть старомодно; I attach так не говорят.",
+      "more": [
+        {
+          "en": "I've attached the spec sheet for the new ultrasound.",
+          "ru": "Прикладываю спецификацию нового УЗИ-аппарата."
+        },
+        {
+          "en": "Attached is the signed contract.",
+          "ru": "Подписанный договор — во вложении."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Электронная почта",
+      "pattern": "Just to confirm, ~",
+      "ru": "Просто чтобы уточнить / подтвердить…",
+      "levels": {
+        "casual": {
+          "en": "So we're on for Tuesday, right?",
+          "ru": "Значит, во вторник в силе, да?"
+        },
+        "neutral": {
+          "en": "Just to confirm, the meeting is on Tuesday at 10.",
+          "ru": "Просто уточняю: встреча во вторник в 10."
+        },
+        "formal": {
+          "en": "I would like to confirm our meeting on Tuesday at 10 a.m.",
+          "ru": "Хотел бы подтвердить нашу встречу во вторник в 10 утра."
+        }
+      },
+      "note": "После Just to confirm идёт обычное утвердительное предложение; вопрос можно добавить хвостиком: …, right?",
+      "more": [
+        {
+          "en": "Just to confirm, prices are in US dollars, right?",
+          "ru": "Уточняю: цены в долларах США, верно?"
+        },
+        {
+          "en": "Just to confirm, you need 20 units by March?",
+          "ru": "Уточню: вам нужно 20 единиц к марту?"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Электронная почта",
+      "pattern": "Let me know if ~",
+      "ru": "Дайте знать, если…",
+      "levels": {
+        "casual": {
+          "en": "Questions? Just ping me.",
+          "ru": "Есть вопросы — просто напиши."
+        },
+        "neutral": {
+          "en": "Let me know if you have any questions.",
+          "ru": "Дайте знать, если будут вопросы."
+        },
+        "formal": {
+          "en": "Please feel free to contact me if you have any questions.",
+          "ru": "Если возникнут вопросы, пожалуйста, обращайтесь."
+        }
+      },
+      "note": "После let — глагол без to: let me know, а не let me to know. Do not hesitate to contact me — уже штамп, feel free звучит живее.",
+      "more": [
+        {
+          "en": "Let me know if you need anything else.",
+          "ru": "Дайте знать, если нужно что-то ещё."
+        },
+        {
+          "en": "Let me know what you think of the proposal.",
+          "ru": "Напишите, что думаете о предложении."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Электронная почта",
+      "pattern": "Thanks for getting back to me",
+      "ru": "Спасибо за ответ",
+      "levels": {
+        "casual": {
+          "en": "Thanks for the quick reply!",
+          "ru": "Спасибо за быстрый ответ!"
+        },
+        "neutral": {
+          "en": "Thanks for getting back to me so quickly.",
+          "ru": "Спасибо, что так быстро ответили."
+        },
+        "formal": {
+          "en": "Thank you for your prompt response.",
+          "ru": "Благодарю за оперативный ответ."
+        }
+      },
+      "note": "Get back to sb — ответить, перезвонить. После thanks for — -ing или существительное.",
+      "more": [
+        {
+          "en": "I'll get back to you by Friday.",
+          "ru": "Я вам отвечу до пятницы."
+        },
+        {
+          "en": "Sorry it took me so long to get back to you.",
+          "ru": "Извините, что так долго не отвечал."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Телефон и видеозвонки",
+      "pattern": "Can you hear me OK?",
+      "ru": "Вам меня хорошо слышно?",
+      "levels": {
+        "casual": {
+          "en": "You there? Can you hear me?",
+          "ru": "Ты тут? Слышишь меня?"
+        },
+        "neutral": {
+          "en": "Can you hear me OK?",
+          "ru": "Вам меня нормально слышно?"
+        },
+        "formal": {
+          "en": "Is the audio coming through clearly on your end?",
+          "ru": "У вас звук нормально доходит?"
+        }
+      },
+      "note": "On your end — «у вас, с вашей стороны» (о связи). OK в американском английском — обычное «нормально».",
+      "more": [
+        {
+          "en": "Sorry, I was on mute.",
+          "ru": "Извините, у меня был выключен микрофон."
+        },
+        {
+          "en": "Could you turn on your camera?",
+          "ru": "Можете включить камеру?"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Телефон и видеозвонки",
+      "pattern": "Sorry, you're breaking up",
+      "ru": "Простите, связь прерывается / вас плохо слышно",
+      "levels": {
+        "casual": {
+          "en": "You're breaking up. I lost you there.",
+          "ru": "Ты пропадаешь. Я тебя потерял."
+        },
+        "neutral": {
+          "en": "Sorry, you're breaking up. Could you say that again?",
+          "ru": "Простите, вас плохо слышно. Можете повторить?"
+        },
+        "formal": {
+          "en": "I apologize, the connection is poor. Could you please repeat that?",
+          "ru": "Прошу прощения, плохая связь. Не могли бы вы повторить?"
+        }
+      },
+      "note": "Break up здесь — о связи, а не о расставании. Could you say that again? звучит естественнее, чем Repeat, please.",
+      "more": [
+        {
+          "en": "I think the call dropped. Let me call you back.",
+          "ru": "Кажется, звонок оборвался. Я перезвоню."
+        },
+        {
+          "en": "Your video froze for a second.",
+          "ru": "У вас на секунду зависло видео."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Телефон и видеозвонки",
+      "pattern": "Hi, this is (name) from ~",
+      "ru": "Здравствуйте, это… из…",
+      "levels": {
+        "casual": {
+          "en": "Hey, it's Alex.",
+          "ru": "Привет, это Алекс."
+        },
+        "neutral": {
+          "en": "Hi, this is Alex from the sales team.",
+          "ru": "Здравствуйте, это Алекс из отдела продаж."
+        },
+        "formal": {
+          "en": "Good morning, this is Alex Petrov calling from the export department.",
+          "ru": "Доброе утро, вас беспокоит Алексей Петров из экспортного отдела."
+        }
+      },
+      "note": "По телефону представляются this is…, а не I am… It's me / it's Alex — только для знакомых.",
+      "more": [
+        {
+          "en": "Hi, this is Alex returning your call.",
+          "ru": "Здравствуйте, это Алекс, перезваниваю вам."
+        },
+        {
+          "en": "Is this a good time to talk?",
+          "ru": "Вам удобно сейчас говорить?"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Телефон и видеозвонки",
+      "pattern": "Could I speak to ~?",
+      "ru": "Могу я поговорить с…?",
+      "levels": {
+        "casual": {
+          "en": "Hi, is Marat around?",
+          "ru": "Привет, Марат на месте?"
+        },
+        "neutral": {
+          "en": "Could I speak to Marat, please?",
+          "ru": "Могу я поговорить с Маратом?"
+        },
+        "formal": {
+          "en": "May I speak with Mr. Akhmetov, please?",
+          "ru": "Могу ли я поговорить с господином Ахметовым?"
+        }
+      },
+      "note": "Американцы часто говорят speak with. Ответ на звонок: Speaking — «Это я, слушаю».",
+      "more": [
+        {
+          "en": "Can I leave a message for her?",
+          "ru": "Могу я оставить ей сообщение?"
+        },
+        {
+          "en": "Could you ask him to call me back?",
+          "ru": "Попросите его, пожалуйста, перезвонить мне."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Телефон и видеозвонки",
+      "pattern": "Let me ~",
+      "ru": "Давайте я… / Сейчас я…",
+      "levels": {
+        "casual": {
+          "en": "Hang on, let me share my screen.",
+          "ru": "Секунду, сейчас покажу экран."
+        },
+        "neutral": {
+          "en": "Let me share my screen so you can see the specs.",
+          "ru": "Давайте я покажу экран, чтобы вы увидели характеристики."
+        },
+        "formal": {
+          "en": "Allow me to share my screen and walk you through the specifications.",
+          "ru": "Позвольте показать экран и пройтись с вами по характеристикам."
+        }
+      },
+      "note": "Let me + глагол без to = «давайте я сделаю». Let's — «давайте сделаем вместе».",
+      "more": [
+        {
+          "en": "Can everyone see my screen?",
+          "ru": "Всем виден мой экран?"
+        },
+        {
+          "en": "Let me check and get back to you.",
+          "ru": "Давайте я уточню и вернусь к вам."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Просьбы и вежливость",
+      "pattern": "Would you mind ~ing?",
+      "ru": "Вы не против…? / Не могли бы вы…?",
+      "levels": {
+        "casual": {
+          "en": "Mind sending me the file?",
+          "ru": "Скинешь файл?"
+        },
+        "neutral": {
+          "en": "Would you mind sending me the file?",
+          "ru": "Не могли бы вы прислать мне файл?"
+        },
+        "formal": {
+          "en": "Would you mind sending us the documents at your earliest convenience?",
+          "ru": "Не могли бы вы прислать документы при первой возможности?"
+        }
+      },
+      "note": "После mind — только -ing. Ответ «конечно» — No, not at all (дословно «не против»); Yes здесь значит «да, против».",
+      "more": [
+        {
+          "en": "Would you mind speaking a little slower?",
+          "ru": "Не могли бы вы говорить чуть медленнее?"
+        },
+        {
+          "en": "Would you mind if I joined the call late?",
+          "ru": "Вы не против, если я подключусь к звонку позже?"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Просьбы и вежливость",
+      "pattern": "Could you possibly ~?",
+      "ru": "Не могли бы вы…? (очень мягкая просьба)",
+      "levels": {
+        "casual": {
+          "en": "Any chance you could send it today?",
+          "ru": "Есть шанс, что пришлёшь сегодня?"
+        },
+        "neutral": {
+          "en": "Could you possibly send it today?",
+          "ru": "Не могли бы вы прислать это сегодня?"
+        },
+        "formal": {
+          "en": "Would it be possible for you to send the documents today?",
+          "ru": "Была бы у вас возможность прислать документы сегодня?"
+        }
+      },
+      "note": "Possibly смягчает просьбу, когда она неудобна для собеседника. После could — глагол без to.",
+      "more": [
+        {
+          "en": "Could you possibly pick me up at the airport?",
+          "ru": "Не могли бы вы встретить меня в аэропорту?"
+        },
+        {
+          "en": "Could you possibly speed up the customs paperwork?",
+          "ru": "Нельзя ли как-то ускорить таможенное оформление?"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Просьбы и вежливость",
+      "pattern": "I was wondering if ~",
+      "ru": "Я хотел узнать, не могли бы… / нельзя ли…",
+      "levels": {
+        "casual": {
+          "en": "Can we meet tomorrow instead?",
+          "ru": "Может, встретимся лучше завтра?"
+        },
+        "neutral": {
+          "en": "I was wondering if we could meet tomorrow.",
+          "ru": "Я хотел спросить, нельзя ли встретиться завтра."
+        },
+        "formal": {
+          "en": "I was wondering if it would be possible to meet tomorrow.",
+          "ru": "Хотел уточнить, будет ли возможность встретиться завтра."
+        }
+      },
+      "note": "Прошедшее время здесь — вежливость, а не прошлое. После if — прямой порядок слов: if we could, а не if could we.",
+      "more": [
+        {
+          "en": "I was wondering if you had a minute.",
+          "ru": "Хотел спросить, нет ли у вас минутки."
+        },
+        {
+          "en": "I was wondering if you could introduce me to your head of radiology.",
+          "ru": "Не могли бы вы познакомить меня с заведующим радиологией?"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Просьбы и вежливость",
+      "pattern": "I'd appreciate it if you could ~",
+      "ru": "Буду признателен, если вы…",
+      "levels": {
+        "casual": {
+          "en": "It'd be great if you could check.",
+          "ru": "Было бы здорово, если бы ты проверил."
+        },
+        "neutral": {
+          "en": "I'd appreciate it if you could check the shipment status.",
+          "ru": "Буду благодарен, если проверите статус отгрузки."
+        },
+        "formal": {
+          "en": "I would greatly appreciate it if you could confirm by Friday.",
+          "ru": "Буду весьма признателен за подтверждение до пятницы."
+        }
+      },
+      "note": "Не забывайте it: I'd appreciate it if…, а не I'd appreciate if… С существительным it не нужно: I'd appreciate your help.",
+      "more": [
+        {
+          "en": "I'd really appreciate your help with this.",
+          "ru": "Буду очень благодарен за помощь."
+        },
+        {
+          "en": "I'd appreciate it if you could keep this between us.",
+          "ru": "Буду признателен, если это останется между нами."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Просьбы и вежливость",
+      "pattern": "Sorry to bother you, but ~",
+      "ru": "Извините, что беспокою, но…",
+      "levels": {
+        "casual": {
+          "en": "Sorry to bug you. Quick question?",
+          "ru": "Извини, что дёргаю. Можно вопрос?"
+        },
+        "neutral": {
+          "en": "Sorry to bother you, but do you have a minute?",
+          "ru": "Извините, что беспокою, у вас есть минутка?"
+        },
+        "formal": {
+          "en": "I apologize for the interruption, but may I ask a quick question?",
+          "ru": "Прошу прощения, что отвлекаю, можно короткий вопрос?"
+        }
+      },
+      "note": "Sorry to + глагол — о том, что вы делаете прямо сейчас. Bug — разговорный синоним bother.",
+      "more": [
+        {
+          "en": "Sorry to bother you so late.",
+          "ru": "Извините, что беспокою так поздно."
+        },
+        {
+          "en": "Sorry to bother you again about the invoice.",
+          "ru": "Простите, что снова беспокою насчёт счёта."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Мнение и согласие/несогласие",
+      "pattern": "I think ~ / In my view, ~",
+      "ru": "Я думаю… / На мой взгляд…",
+      "levels": {
+        "casual": {
+          "en": "Honestly, I think it's too expensive.",
+          "ru": "Честно, по-моему, слишком дорого."
+        },
+        "neutral": {
+          "en": "I think the price is a bit high.",
+          "ru": "Я думаю, цена немного высоковата."
+        },
+        "formal": {
+          "en": "In my view, the price is somewhat above the market level.",
+          "ru": "На мой взгляд, цена несколько выше рыночной."
+        }
+      },
+      "note": "In my opinion звучит официально; в разговоре чаще I think / I feel like. Запятая перед that не нужна: I think that…",
+      "more": [
+        {
+          "en": "I feel like the clinic isn't ready to buy yet.",
+          "ru": "Мне кажется, клиника ещё не готова к покупке."
+        },
+        {
+          "en": "If you ask me, we should wait for the tender.",
+          "ru": "Если хочешь знать моё мнение, надо дождаться тендера."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Мнение и согласие/несогласие",
+      "pattern": "I (totally) agree with ~",
+      "ru": "Я (полностью) согласен с…",
+      "levels": {
+        "casual": {
+          "en": "Totally!",
+          "ru": "Абсолютно!"
+        },
+        "neutral": {
+          "en": "I agree with you.",
+          "ru": "Я с вами согласен."
+        },
+        "formal": {
+          "en": "I completely agree with your assessment.",
+          "ru": "Полностью согласен с вашей оценкой."
+        }
+      },
+      "note": "Agree — глагол: I agree, а не I am agree (типичная ошибка). Agree with sb, agree on sth.",
+      "more": [
+        {
+          "en": "I agree with you on the timeline.",
+          "ru": "Согласен с вами по срокам."
+        },
+        {
+          "en": "Exactly. That's what I was thinking.",
+          "ru": "Именно. Я тоже так подумал."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Мнение и согласие/несогласие",
+      "pattern": "I see your point, but ~",
+      "ru": "Я понимаю вашу мысль, но…",
+      "levels": {
+        "casual": {
+          "en": "Yeah, but what about the cost?",
+          "ru": "Да, но как же стоимость?"
+        },
+        "neutral": {
+          "en": "I see your point, but the deadline is too tight.",
+          "ru": "Понимаю, о чём вы, но сроки слишком сжатые."
+        },
+        "formal": {
+          "en": "I understand your position; however, we see things differently.",
+          "ru": "Я понимаю вашу позицию, однако мы видим ситуацию иначе."
+        }
+      },
+      "note": "Прямое You're wrong звучит грубо. Сначала признайте мнение собеседника, потом возражайте.",
+      "more": [
+        {
+          "en": "I see what you mean, but the clinic needs it sooner.",
+          "ru": "Понимаю, о чём вы, но клинике это нужно раньше."
+        },
+        {
+          "en": "That's a fair point, but shipping costs have gone up.",
+          "ru": "Справедливо, но стоимость доставки выросла."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Мнение и согласие/несогласие",
+      "pattern": "I'm not sure (that) ~",
+      "ru": "Я не уверен, что…",
+      "levels": {
+        "casual": {
+          "en": "Hmm, not so sure about that.",
+          "ru": "Хм, не уверен."
+        },
+        "neutral": {
+          "en": "I'm not sure that's the best option.",
+          "ru": "Не уверен, что это лучший вариант."
+        },
+        "formal": {
+          "en": "I'm not entirely convinced this is the best approach.",
+          "ru": "Я не вполне убеждён, что это лучший подход."
+        }
+      },
+      "note": "Американцы часто выражают несогласие именно так: мягче, чем I disagree. Sure about + существительное.",
+      "more": [
+        {
+          "en": "I'm not sure the distributor can handle the volume.",
+          "ru": "Не уверен, что дистрибьютор справится с таким объёмом."
+        },
+        {
+          "en": "I'm not sure about the delivery date.",
+          "ru": "Насчёт даты поставки я не уверен."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Мнение и согласие/несогласие",
+      "pattern": "What do you think about ~?",
+      "ru": "Что вы думаете о…? / Как вам…?",
+      "levels": {
+        "casual": {
+          "en": "What do you think?",
+          "ru": "Как тебе?"
+        },
+        "neutral": {
+          "en": "What do you think about the new design?",
+          "ru": "Что вы думаете о новом дизайне?"
+        },
+        "formal": {
+          "en": "I'd be interested to hear your thoughts on the proposal.",
+          "ru": "Было бы интересно услышать ваше мнение о предложении."
+        }
+      },
+      "note": "«Как вы думаете?» — What do you think?, а не How do you think? Также: How do you feel about ~ing?",
+      "more": [
+        {
+          "en": "How do you feel about a two-year contract?",
+          "ru": "Как вы смотрите на договор на два года?"
+        },
+        {
+          "en": "What do you think of Tokyo so far?",
+          "ru": "Как вам пока Токио?"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "category": "Переговоры и предложения",
+      "pattern": "What if we ~?",
+      "ru": "А что, если мы…?",
+      "levels": {
+        "casual": {
+          "en": "What if we split the shipping?",
+          "ru": "А давай поделим доставку пополам?"
+        },
+        "neutral": {
+          "en": "What if we extended the warranty to three years?",
+          "ru": "А что, если мы продлим гарантию до трёх лет?"
+        },
+        "formal": {
+          "en": "Would you consider extending the payment terms to 60 days?",
+          "ru": "Не рассмотрите ли вы отсрочку платежа до 60 дней?"
+        }
+      },
+      "note": "После What if можно Present (we split) или Past (we extended) — Past звучит мягче, как гипотеза.",
+      "more": [
+        {
+          "en": "What if we added free training for your staff?",
+          "ru": "А если мы добавим бесплатное обучение персонала?"
+        },
+        {
+          "en": "What if we delivered in two batches?",
+          "ru": "А что, если поставить двумя партиями?"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "category": "Переговоры и предложения",
+      "pattern": "The best we can do is ~",
+      "ru": "Лучшее, что мы можем предложить, — …",
+      "levels": {
+        "casual": {
+          "en": "That's as low as we can go.",
+          "ru": "Ниже уже никак."
+        },
+        "neutral": {
+          "en": "The best we can do is a 7% discount.",
+          "ru": "Максимум, что мы можем, — скидка 7%."
+        },
+        "formal": {
+          "en": "Our best possible offer is a 7% discount on the full order.",
+          "ru": "Наше лучшее предложение — скидка 7% на весь заказ."
+        }
+      },
+      "note": "Сигнал финальной позиции, но без резкости This is our final offer. Can do здесь — не «умеем», а «можем позволить».",
+      "more": [
+        {
+          "en": "The best we can do is delivery in eight weeks.",
+          "ru": "Самый ранний срок, который мы можем дать, — восемь недель."
+        },
+        {
+          "en": "That's really the best we can do on price.",
+          "ru": "По цене это действительно наш предел."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "category": "Переговоры и предложения",
+      "pattern": "I'm afraid we can't ~",
+      "ru": "К сожалению, мы не можем…",
+      "levels": {
+        "casual": {
+          "en": "Sorry, we can't do that.",
+          "ru": "Извини, так не получится."
+        },
+        "neutral": {
+          "en": "I'm afraid we can't go below this price.",
+          "ru": "Боюсь, ниже этой цены мы опуститься не можем."
+        },
+        "formal": {
+          "en": "I'm afraid we're not in a position to offer that.",
+          "ru": "К сожалению, мы не можем этого предложить."
+        }
+      },
+      "note": "I'm afraid — вежливое «к сожалению», а не страх. Not in a position to — дипломатичное «не можем».",
+      "more": [
+        {
+          "en": "I'm afraid we can't offer free shipping on this order.",
+          "ru": "К сожалению, бесплатную доставку на этот заказ дать не можем."
+        },
+        {
+          "en": "I'm afraid that's not possible this quarter.",
+          "ru": "Боюсь, в этом квартале это невозможно."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "category": "Переговоры и предложения",
+      "pattern": "We can ~ if you ~",
+      "ru": "Мы можем…, если вы…",
+      "levels": {
+        "casual": {
+          "en": "Order 20 and we'll knock off 5%.",
+          "ru": "Берёте 20 — скинем 5%."
+        },
+        "neutral": {
+          "en": "We can offer 5% off if you order 20 units.",
+          "ru": "Можем дать скидку 5%, если закажете 20 единиц."
+        },
+        "formal": {
+          "en": "We would be prepared to offer 5% if you commit to 20 units.",
+          "ru": "Мы готовы предоставить 5% при обязательстве закупить 20 единиц."
+        }
+      },
+      "note": "После if — Present, даже про будущее: if you order, а не if you will order.",
+      "more": [
+        {
+          "en": "We can ship next week if you pay in advance.",
+          "ru": "Можем отгрузить на следующей неделе при предоплате."
+        },
+        {
+          "en": "If you sign by Friday, we'll include training.",
+          "ru": "Если подпишете до пятницы, включим обучение."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Переговоры и предложения",
+      "pattern": "Would you be willing to ~?",
+      "ru": "Вы готовы были бы…?",
+      "levels": {
+        "casual": {
+          "en": "Can you meet us halfway?",
+          "ru": "Пойдёте нам навстречу?"
+        },
+        "neutral": {
+          "en": "Would you be willing to split the shipping cost?",
+          "ru": "Вы бы согласились разделить расходы на доставку?"
+        },
+        "formal": {
+          "en": "Would you be willing to consider a longer payment period?",
+          "ru": "Готовы ли вы рассмотреть более длительную отсрочку платежа?"
+        }
+      },
+      "note": "Willing to — «готов, согласен» (по желанию). Ready to — «готов» в смысле подготовлен; в переговорах здесь лучше willing.",
+      "more": [
+        {
+          "en": "Would you be willing to sign a two-year deal?",
+          "ru": "Вы готовы подписать договор на два года?"
+        },
+        {
+          "en": "We're willing to cover the installation costs.",
+          "ru": "Мы готовы взять на себя расходы на монтаж."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "category": "Извинения и проблемы",
+      "pattern": "I'm sorry for ~ing",
+      "ru": "Извините, что… / Простите за…",
+      "levels": {
+        "casual": {
+          "en": "Sorry I'm late!",
+          "ru": "Прости, опоздал!"
+        },
+        "neutral": {
+          "en": "Sorry for not getting back to you sooner.",
+          "ru": "Извините, что не ответил раньше."
+        },
+        "formal": {
+          "en": "I apologize for the delay in responding.",
+          "ru": "Приношу извинения за задержку с ответом."
+        }
+      },
+      "note": "Sorry for + -ing или существительное — о том, что уже случилось. Sorry to + глагол — о том, что делаете сейчас.",
+      "more": [
+        {
+          "en": "I'm sorry for keeping you waiting.",
+          "ru": "Извините, что заставил ждать."
+        },
+        {
+          "en": "Sorry for the confusion about the invoice.",
+          "ru": "Простите за путаницу со счётом."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "category": "Извинения и проблемы",
+      "pattern": "Unfortunately, ~",
+      "ru": "К сожалению, …",
+      "levels": {
+        "casual": {
+          "en": "Bad news: the shipment's delayed.",
+          "ru": "Плохие новости: отгрузка задерживается."
+        },
+        "neutral": {
+          "en": "Unfortunately, the shipment has been delayed.",
+          "ru": "К сожалению, отгрузка задерживается."
+        },
+        "formal": {
+          "en": "We regret to inform you that the shipment has been delayed.",
+          "ru": "С сожалением сообщаем, что отгрузка задерживается."
+        }
+      },
+      "note": "Unfortunately обычно ставят в начало и отделяют запятой. We regret to inform you — очень официально, только для писем.",
+      "more": [
+        {
+          "en": "Unfortunately, that model is out of stock.",
+          "ru": "К сожалению, этой модели нет на складе."
+        },
+        {
+          "en": "Unfortunately, I won't be able to join the call.",
+          "ru": "К сожалению, я не смогу подключиться к звонку."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "category": "Извинения и проблемы",
+      "pattern": "We're looking into it",
+      "ru": "Мы разбираемся / выясняем",
+      "levels": {
+        "casual": {
+          "en": "We're on it!",
+          "ru": "Уже занимаемся!"
+        },
+        "neutral": {
+          "en": "We're looking into it and will update you soon.",
+          "ru": "Мы разбираемся и скоро сообщим новости."
+        },
+        "formal": {
+          "en": "We are currently investigating the issue and will update you shortly.",
+          "ru": "Сейчас мы изучаем проблему и вскоре вам сообщим."
+        }
+      },
+      "note": "Look into — «разбираться, выяснять», не путать с look at («смотреть на»). Continuous показывает, что работа идёт прямо сейчас.",
+      "more": [
+        {
+          "en": "Our engineer is looking into the error code.",
+          "ru": "Наш инженер разбирается с кодом ошибки."
+        },
+        {
+          "en": "I'll look into it and call you back.",
+          "ru": "Я выясню и перезвоню."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "category": "Извинения и проблемы",
+      "pattern": "There seems to be a problem with ~",
+      "ru": "Похоже, есть проблема с…",
+      "levels": {
+        "casual": {
+          "en": "Something's wrong with the invoice.",
+          "ru": "Что-то не так со счётом."
+        },
+        "neutral": {
+          "en": "There seems to be a problem with the invoice.",
+          "ru": "Похоже, со счётом какая-то проблема."
+        },
+        "formal": {
+          "en": "There appears to be a discrepancy in the invoice.",
+          "ru": "По-видимому, в счёте есть расхождение."
+        }
+      },
+      "note": "Seems / appears смягчают: вы сообщаете о проблеме, но никого сразу не обвиняете.",
+      "more": [
+        {
+          "en": "There seems to be a problem with the power supply.",
+          "ru": "Похоже, проблема с блоком питания."
+        },
+        {
+          "en": "There seems to be a mistake in the serial numbers.",
+          "ru": "Кажется, в серийных номерах ошибка."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "category": "Извинения и проблемы",
+      "pattern": "We'll make sure (that) ~",
+      "ru": "Мы позаботимся о том, чтобы…",
+      "levels": {
+        "casual": {
+          "en": "Won't happen again, promise.",
+          "ru": "Больше не повторится, обещаю."
+        },
+        "neutral": {
+          "en": "We'll make sure it doesn't happen again.",
+          "ru": "Мы сделаем так, чтобы это не повторилось."
+        },
+        "formal": {
+          "en": "We will take steps to ensure this does not happen again.",
+          "ru": "Мы примем меры, чтобы это не повторилось."
+        }
+      },
+      "note": "После make sure — Present, а не will: make sure it doesn't happen. Ensure — официальный вариант.",
+      "more": [
+        {
+          "en": "We'll make sure the replacement part ships today.",
+          "ru": "Мы проследим, чтобы запчасть отправили сегодня."
+        },
+        {
+          "en": "I'll make sure the engineer is there by Monday.",
+          "ru": "Я позабочусь, чтобы инженер был на месте к понедельнику."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "category": "Путешествия: аэропорт и отель",
+      "pattern": "I have a reservation under (name)",
+      "ru": "У меня бронь на имя…",
+      "levels": {
+        "casual": {
+          "en": "Hi, checking in. It's under Petrov.",
+          "ru": "Привет, заселяюсь. Бронь на Петрова."
+        },
+        "neutral": {
+          "en": "Hi, I have a reservation under Petrov.",
+          "ru": "Здравствуйте, у меня бронь на имя Петров."
+        },
+        "formal": {
+          "en": "Good evening, I have a reservation under the name Petrov.",
+          "ru": "Добрый вечер, у меня забронирован номер на имя Петров."
+        }
+      },
+      "note": "«На имя» — under the name, а не on the name. В США чаще reservation, в Британии — booking.",
+      "more": [
+        {
+          "en": "It should be for three nights.",
+          "ru": "Должно быть на три ночи."
+        },
+        {
+          "en": "Is breakfast included?",
+          "ru": "Завтрак включён?"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "category": "Путешествия: аэропорт и отель",
+      "pattern": "Could I get ~?",
+      "ru": "Можно мне…?",
+      "levels": {
+        "casual": {
+          "en": "Can I get a window seat?",
+          "ru": "Можно место у окна?"
+        },
+        "neutral": {
+          "en": "Could I get a window seat, please?",
+          "ru": "Можно мне, пожалуйста, место у окна?"
+        },
+        "formal": {
+          "en": "Would it be possible to have a window seat?",
+          "ru": "Есть ли возможность получить место у окна?"
+        }
+      },
+      "note": "Американцы просят через Can / Could I get…, а не Give me… — это звучит грубо.",
+      "more": [
+        {
+          "en": "Could I get a late checkout?",
+          "ru": "Можно мне поздний выезд?"
+        },
+        {
+          "en": "Could I get a receipt, please?",
+          "ru": "Можно чек, пожалуйста?"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "category": "Путешествия: аэропорт и отель",
+      "pattern": "My flight was / got ~ (delayed, canceled)",
+      "ru": "Мой рейс задержали / отменили",
+      "levels": {
+        "casual": {
+          "en": "Ugh, my flight got canceled.",
+          "ru": "Блин, мой рейс отменили."
+        },
+        "neutral": {
+          "en": "My flight has been canceled. What are my options?",
+          "ru": "Мой рейс отменили. Какие у меня варианты?"
+        },
+        "formal": {
+          "en": "My flight was canceled. Could you rebook me on the next one?",
+          "ru": "Мой рейс отменён. Не могли бы вы пересадить меня на следующий?"
+        }
+      },
+      "note": "Got canceled — разговорный пассив. В американском написании canceled с одной l.",
+      "more": [
+        {
+          "en": "I missed my connection in Istanbul.",
+          "ru": "Я опоздал на стыковку в Стамбуле."
+        },
+        {
+          "en": "My luggage didn't arrive. Where do I report it?",
+          "ru": "Мой багаж не прилетел. Куда об этом сообщить?"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "category": "Путешествия: аэропорт и отель",
+      "pattern": "How do I get to ~?",
+      "ru": "Как мне добраться до…?",
+      "levels": {
+        "casual": {
+          "en": "Which way to the station?",
+          "ru": "Куда к вокзалу?"
+        },
+        "neutral": {
+          "en": "How do I get to Shinjuku Station?",
+          "ru": "Как добраться до станции Синдзюку?"
+        },
+        "formal": {
+          "en": "Excuse me, could you tell me how to get to Shinjuku Station?",
+          "ru": "Простите, не подскажете, как пройти к станции Синдзюку?"
+        }
+      },
+      "note": "После could you tell me — прямой порядок: how to get / how I get, а не how do I get.",
+      "more": [
+        {
+          "en": "What's the best way to get to Narita from here?",
+          "ru": "Как отсюда лучше добраться до Нариты?"
+        },
+        {
+          "en": "Is there a pharmacy nearby?",
+          "ru": "Здесь поблизости есть аптека?"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "category": "Путешествия: аэропорт и отель",
+      "pattern": "I'm here on business / for ~",
+      "ru": "Я здесь по делам / на…",
+      "levels": {
+        "casual": {
+          "en": "Just here for work.",
+          "ru": "Просто по работе."
+        },
+        "neutral": {
+          "en": "I'm here on business for a medical trade show.",
+          "ru": "Я здесь по делам, на медицинской выставке."
+        },
+        "formal": {
+          "en": "The purpose of my visit is business.",
+          "ru": "Цель визита — деловая."
+        }
+      },
+      "note": "On business — «по делам», но a business trip: I'm on a business trip. Сказать for business trip нельзя.",
+      "more": [
+        {
+          "en": "I'm staying for five days.",
+          "ru": "Я пробуду пять дней."
+        },
+        {
+          "en": "I'm staying at a hotel near the convention center.",
+          "ru": "Я живу в отеле возле выставочного центра."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "category": "Ресторан и small talk",
+      "pattern": "I'll have ~",
+      "ru": "Я возьму…",
+      "levels": {
+        "casual": {
+          "en": "Salmon for me, please.",
+          "ru": "Мне лосося, пожалуйста."
+        },
+        "neutral": {
+          "en": "I'll have the salmon, please.",
+          "ru": "Я возьму лосося, пожалуйста."
+        },
+        "formal": {
+          "en": "I'd like the grilled salmon, please.",
+          "ru": "Я бы хотел лосося на гриле."
+        }
+      },
+      "note": "I'll have — решение в момент речи, поэтому will. I want звучит по-детски резко.",
+      "more": [
+        {
+          "en": "I'll have what she's having.",
+          "ru": "Мне то же, что и ей."
+        },
+        {
+          "en": "Could we get the check, please?",
+          "ru": "Можно нам счёт, пожалуйста?"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "category": "Ресторан и small talk",
+      "pattern": "What would you recommend?",
+      "ru": "Что вы посоветуете?",
+      "levels": {
+        "casual": {
+          "en": "What's good here?",
+          "ru": "Что тут вкусного?"
+        },
+        "neutral": {
+          "en": "What would you recommend?",
+          "ru": "Что бы вы посоветовали?"
+        },
+        "formal": {
+          "en": "Is there anything you would particularly recommend?",
+          "ru": "Есть ли что-то, что вы особенно рекомендуете?"
+        }
+      },
+      "note": "Нельзя recommend me something; правильно recommend something (to me). Recommend + -ing: I'd recommend trying…",
+      "more": [
+        {
+          "en": "I'd recommend trying the beshbarmak.",
+          "ru": "Советую попробовать бешбармак."
+        },
+        {
+          "en": "Would you recommend the omakase?",
+          "ru": "Вы бы посоветовали омакасэ?"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "category": "Ресторан и small talk",
+      "pattern": "Have you ever been to ~?",
+      "ru": "Вы когда-нибудь бывали в…?",
+      "levels": {
+        "casual": {
+          "en": "Ever been to Japan?",
+          "ru": "В Японии бывал?"
+        },
+        "neutral": {
+          "en": "Have you ever been to Japan?",
+          "ru": "Вы когда-нибудь бывали в Японии?"
+        },
+        "formal": {
+          "en": "Have you had a chance to visit Japan?",
+          "ru": "Вам доводилось бывать в Японии?"
+        }
+      },
+      "note": "Been to — «побывать (и вернуться)»; gone to — «уехал туда» (и ещё там). Present Perfect — опыт без указания времени.",
+      "more": [
+        {
+          "en": "Have you ever tried kumis?",
+          "ru": "Ты когда-нибудь пробовал кумыс?"
+        },
+        {
+          "en": "Have you been to Almaty before?",
+          "ru": "Вы раньше бывали в Алматы?"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "category": "Ресторан и small talk",
+      "pattern": "How's ~ going?",
+      "ru": "Как идёт…? / Как…?",
+      "levels": {
+        "casual": {
+          "en": "How's it going?",
+          "ru": "Как дела?"
+        },
+        "neutral": {
+          "en": "How's your week going?",
+          "ru": "Как проходит неделя?"
+        },
+        "formal": {
+          "en": "I hope your week is going well.",
+          "ru": "Надеюсь, у вас хорошая неделя."
+        }
+      },
+      "note": "How's it going? — это приветствие, а не просьба рассказать о жизни. Отвечают коротко: Good, you?",
+      "more": [
+        {
+          "en": "How's the new office working out?",
+          "ru": "Как вам новый офис?"
+        },
+        {
+          "en": "How was your flight?",
+          "ru": "Как долетели?"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "category": "Ресторан и small talk",
+      "pattern": "It was great ~ing",
+      "ru": "Было здорово…",
+      "levels": {
+        "casual": {
+          "en": "Great meeting you!",
+          "ru": "Рад был познакомиться!"
+        },
+        "neutral": {
+          "en": "It was great meeting you.",
+          "ru": "Было очень приятно познакомиться."
+        },
+        "formal": {
+          "en": "It was a pleasure meeting you. I hope we stay in touch.",
+          "ru": "Было приятно познакомиться. Надеюсь, будем на связи."
+        }
+      },
+      "note": "Nice to meet you — при знакомстве, nice / great meeting you — при прощании.",
+      "more": [
+        {
+          "en": "It was great catching up with you.",
+          "ru": "Было здорово пообщаться и узнать твои новости."
+        },
+        {
+          "en": "Let's keep in touch.",
+          "ru": "Давайте будем на связи."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "category": "Планы, опыт и привычки",
+      "pattern": "I'm used to ~ing",
+      "ru": "Я привык…",
+      "levels": {
+        "casual": {
+          "en": "I'm used to it by now.",
+          "ru": "Я уже привык."
+        },
+        "neutral": {
+          "en": "I'm used to flying a lot for work.",
+          "ru": "Я привык много летать по работе."
+        },
+        "formal": {
+          "en": "I am accustomed to working across several time zones.",
+          "ru": "Я привык работать в нескольких часовых поясах."
+        }
+      },
+      "note": "Be used to + -ing = «привык». Used to + глагол = «раньше (делал)»: I used to live in Moscow. Не путайте!",
+      "more": [
+        {
+          "en": "I'm still getting used to the time difference.",
+          "ru": "Я всё ещё привыкаю к разнице во времени."
+        },
+        {
+          "en": "I used to travel less before this job.",
+          "ru": "Раньше, до этой работы, я ездил меньше."
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Планы, опыт и привычки",
+      "pattern": "I've never ~",
+      "ru": "Я никогда не…",
+      "levels": {
+        "casual": {
+          "en": "Natto? Never tried it.",
+          "ru": "Натто? Ни разу не пробовал."
+        },
+        "neutral": {
+          "en": "I've never tried natto.",
+          "ru": "Я никогда не пробовал натто."
+        },
+        "formal": {
+          "en": "I have never had the opportunity to visit Brazil.",
+          "ru": "Мне ни разу не доводилось бывать в Бразилии."
+        }
+      },
+      "note": "Опыт за всю жизнь — Present Perfect: I've never been, а не I never was. I never + Present Simple — о привычке.",
+      "more": [
+        {
+          "en": "I've never seen cherry blossoms in Kyoto.",
+          "ru": "Я никогда не видел цветение сакуры в Киото."
+        },
+        {
+          "en": "We've never had a complaint about this model.",
+          "ru": "На эту модель у нас ни разу не было жалоб."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Планы, опыт и привычки",
+      "pattern": "I'm thinking of ~ing",
+      "ru": "Я подумываю о том, чтобы…",
+      "levels": {
+        "casual": {
+          "en": "Thinking of heading to Osaka this weekend.",
+          "ru": "Думаю махнуть в Осаку на выходных."
+        },
+        "neutral": {
+          "en": "I'm thinking of taking a few days off in Japan.",
+          "ru": "Подумываю взять пару выходных в Японии."
+        },
+        "formal": {
+          "en": "We are considering expanding into the Peruvian market.",
+          "ru": "Мы рассматриваем выход на рынок Перу."
+        }
+      },
+      "note": "Think of / about + -ing — план, который ещё не решён окончательно. Consider + -ing — официальный вариант.",
+      "more": [
+        {
+          "en": "I'm thinking of switching to a different supplier.",
+          "ru": "Подумываю сменить поставщика."
+        },
+        {
+          "en": "We're thinking about opening an office in Bogotá.",
+          "ru": "Мы думаем открыть офис в Боготе."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "category": "Планы, опыт и привычки",
+      "pattern": "It's worth ~ing",
+      "ru": "Стоит…",
+      "levels": {
+        "casual": {
+          "en": "Totally worth it!",
+          "ru": "Оно того стоит!"
+        },
+        "neutral": {
+          "en": "It's worth visiting Kyoto in the fall.",
+          "ru": "Осенью стоит съездить в Киото."
+        },
+        "formal": {
+          "en": "It may be worth reviewing the contract before signing.",
+          "ru": "Возможно, стоит пересмотреть договор перед подписанием."
+        }
+      },
+      "note": "После worth — -ing, а не to: worth visiting. It's not worth it — «оно того не стоит».",
+      "more": [
+        {
+          "en": "The Shinkansen is worth trying at least once.",
+          "ru": "На синкансэне стоит прокатиться хотя бы раз."
+        },
+        {
+          "en": "It's worth checking the tender requirements early.",
+          "ru": "Требования тендера стоит проверить заранее."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "category": "Планы, опыт и привычки",
+      "pattern": "I usually ~ / I tend to ~",
+      "ru": "Я обычно… / Я склонен…",
+      "levels": {
+        "casual": {
+          "en": "I usually just grab a coffee at the airport.",
+          "ru": "Обычно просто беру кофе в аэропорту."
+        },
+        "neutral": {
+          "en": "I usually check my email first thing in the morning.",
+          "ru": "Обычно я первым делом с утра проверяю почту."
+        },
+        "formal": {
+          "en": "As a rule, I schedule client visits early in the week.",
+          "ru": "Как правило, я назначаю визиты к клиентам на начало недели."
+        }
+      },
+      "note": "Для привычек — Present Simple. Usually ставится перед смысловым глаголом, но после be: I'm usually…",
+      "more": [
+        {
+          "en": "I tend to sleep badly after long flights.",
+          "ru": "После долгих перелётов я обычно плохо сплю."
+        },
+        {
+          "en": "I'm usually in Almaty twice a month.",
+          "ru": "Обычно я бываю в Алматы два раза в месяц."
+        }
+      ]
+    }
+  ]
+}

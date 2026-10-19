@@ -1,0 +1,526 @@
+# unit	en	pos	ru	example	example_ru	collocation
+U	1	Дом и быт	Home & daily life
+1	alarm	n	будильник; сигнализация	I set the alarm for six o'clock.	Я поставил будильник на шесть часов.	set an alarm
+1	iron	v	гладить (утюгом)	He irons his shirts every Sunday evening.	Он гладит рубашки каждое воскресенье вечером.	iron a shirt
+1	hurry	v	спешить, торопиться	Hurry up — the taxi is waiting!	Поторопись — такси ждёт!	hurry up
+1	ceiling	n	потолок	There's a crack in the ceiling.	На потолке трещина.	a high ceiling
+1	curtain	n	штора, занавеска	Could you close the curtains, please?	Задёрни, пожалуйста, шторы.	open/close the curtains
+1	shelf	n	полка	Put the books back on the shelf.	Поставь книги обратно на полку.	on the top shelf
+1	heating	n	отопление	Can you turn on the heating? It's cold.	Можешь включить отопление? Холодно.	turn on the heating
+1	mess	n	беспорядок	Sorry about the mess — we've just moved in.	Извините за беспорядок — мы только переехали.	make a mess
+1	dust	n	пыль	The old books were covered in dust.	Старые книги были покрыты пылью.	covered in dust
+1	fold	v	складывать (сгибать)	Fold the towels and put them in the closet.	Сложи полотенца и убери их в шкаф.	fold clothes
+1	hang	v	вешать; висеть	Hang your coat on the hook.	Повесь пальто на крючок.	hang a picture
+1	water	v	поливать	Don't forget to water the plants.	Не забудь полить цветы.	water the plants
+1	remind	v	напоминать	Can you remind me to call my mother?	Напомнишь мне позвонить маме?	remind sb to do sth
+1	appointment	n	запись, приём (у врача и т. п.)	I have a dentist appointment at 3 p.m.	У меня запись к стоматологу на 15:00.	make an appointment
+1	empty	v	опустошать, выносить	Can you empty the trash, please?	Вынеси, пожалуйста, мусор.	empty the trash
+1	store	v	хранить	We store the winter clothes in the basement.	Мы храним зимнюю одежду в подвале.	store food
+1	clear	v	убирать, освобождать	Let me clear the table after dinner.	Давай я уберу со стола после ужина.	clear the table
+1	warm	v	греть, подогревать	I'll warm up the soup for you.	Я подогрею тебе суп.	warm up
+1	stuff	n	вещи, всякое (разг.)	There's too much stuff in this room.	В этой комнате слишком много вещей.	all your stuff
+1	cloth	n	ткань; тряпка	Wipe the table with a wet cloth.	Протри стол влажной тряпкой.	a clean cloth
+U	2	Жильё и район	Housing & neighborhood
+2	rent	n	арендная плата	The rent is due on the first of the month.	Арендную плату нужно внести первого числа.	pay the rent
+2	repair	n	ремонт	The car is in the garage for repairs.	Машина в сервисе на ремонте.	do repairs
+2	decorate	v	украшать; делать отделку	We decorated the bedroom in light colors.	Мы оформили спальню в светлых тонах.	decorate a room
+2	garage	n	гараж; автосервис	He keeps his bike in the garage.	Он держит велосипед в гараже.	park in the garage
+2	cottage	n	загородный домик, коттедж	We rented a small cottage by the lake.	Мы сняли маленький домик у озера.	a country cottage
+2	yard	n	двор	The children are playing in the yard.	Дети играют во дворе.	in the back yard
+2	fence	n	забор, ограда	The dog jumped over the fence.	Собака перепрыгнула через забор.	a wooden fence
+2	neighborhood	n	район, округа	It's a quiet neighborhood with lots of parks.	Это тихий район с множеством парков.	a quiet neighborhood
+2	property	n	недвижимость; собственность	Property prices in the city are very high.	Цены на недвижимость в городе очень высокие.	buy property
+2	located	adj	расположенный	The hotel is located near the station.	Отель расположен рядом с вокзалом.	be located in/near
+2	remote	adj	отдалённый	They live in a remote village in the mountains.	Они живут в отдалённой деревне в горах.	a remote area
+2	countryside	n	сельская местность	We spent the weekend in the countryside.	Мы провели выходные за городом.	in the countryside
+2	pipe	n	труба	A water pipe broke in the kitchen.	На кухне прорвало водопроводную трубу.	a water pipe
+2	block	n	квартал; многоэтажный дом	We live in a large apartment block.	Мы живём в большом многоквартирном доме.	an apartment block
+2	private	adj	частный, личный	The house has a private garden.	У дома есть собственный сад.	a private room
+2	peaceful	adj	мирный, спокойный	It's a peaceful place to live.	Это спокойное место для жизни.	a peaceful village
+2	pleasant	adj	приятный	We had a pleasant evening with our neighbors.	Мы приятно провели вечер с соседями.	a pleasant surprise
+2	nail	n	гвоздь; ноготь	Hang the picture on this nail.	Повесь картину на этот гвоздь.	hit a nail
+2	tiny	adj	крошечный	They live in a tiny apartment downtown.	Они живут в крошечной квартире в центре.	a tiny room
+2	edge	n	край	Our house is on the edge of the town.	Наш дом на окраине города.	on the edge of sth
+U	3	Еда и кухня	Food & kitchen
+3	bake	v	печь	We baked bread at home.	Мы испекли хлеб дома.	bake a cake
+3	fry	v	жарить	She fried the fish in olive oil.	Она пожарила рыбу на оливковом масле.	fried chicken
+3	slice	n	ломтик, кусочек	Would you like another slice of pizza?	Хочешь ещё кусочек пиццы?	a slice of bread
+3	spicy	adj	острый (о еде)	Korean food is often very spicy.	Корейская еда часто очень острая.	spicy food
+3	frozen	adj	замороженный	I keep frozen vegetables for busy days.	Я держу замороженные овощи на загруженные дни.	frozen food
+3	ingredient	n	ингредиент	You only need four ingredients for this cake.	Для этого торта нужно всего четыре ингредиента.	the main ingredient
+3	flour	n	мука	Mix the flour with two eggs.	Смешайте муку с двумя яйцами.	a bag of flour
+3	pan	n	сковорода; кастрюля	Heat some oil in a pan.	Разогрейте немного масла на сковороде.	a frying pan
+3	pot	n	кастрюля, горшок	There's soup in the pot.	В кастрюле суп.	a pot of tea
+3	pour	v	наливать, лить	Can you pour me a glass of water?	Можешь налить мне стакан воды?	pour a drink
+3	mix	v	смешивать	Mix the sugar and the butter together.	Смешайте сахар со сливочным маслом.	mix A with B
+3	freeze	v	замораживать; замерзать	You can freeze the soup for later.	Суп можно заморозить на потом.	freeze food
+3	grain	n	зерно; крупа	Rice is the main grain in Asia.	Рис — основная зерновая культура в Азии.	whole grain
+3	liquid	n	жидкость	You can't take liquids on the plane.	В самолёт нельзя брать жидкости.	drink plenty of liquids
+3	container	n	контейнер, ёмкость	Keep the salad in a plastic container.	Храни салат в пластиковом контейнере.	a food container
+3	tin	n	жестяная банка	Open a tin of tomatoes.	Открой банку помидоров.	a tin of beans
+3	mixture	n	смесь	Pour the mixture into the pan.	Вылейте смесь в форму.	a mixture of sth
+3	sharp	adj	острый (о ноже)	Be careful — this knife is very sharp.	Осторожно — этот нож очень острый.	a sharp knife
+3	roll	n	булочка	I had a bread roll and coffee for breakfast.	На завтрак у меня была булочка и кофе.	a bread roll
+3	alcohol	n	алкоголь	I don't drink alcohol at business lunches.	Я не пью алкоголь на деловых обедах.	drink alcohol
+U	4	Покупки и деньги	Shopping & money
+4	afford	v	позволить себе (по деньгам)	We can't afford a new car this year.	В этом году мы не можем позволить себе новую машину.	can't afford to do sth
+4	discount	n	скидка	Students get a 10% discount.	Студенты получают скидку 10%.	get a discount
+4	receipt	n	чек, квитанция	Keep the receipt in case you want to return it.	Сохрани чек на случай, если захочешь вернуть товар.	ask for a receipt
+4	mall	n	торговый центр	Let's meet at the mall at five.	Давай встретимся в торговом центре в пять.	a shopping mall
+4	payment	n	оплата, платёж	We accept payment by card.	Мы принимаем оплату картой.	make a payment
+4	luxury	n	роскошь	They stayed in a luxury hotel.	Они остановились в роскошном отеле.	a luxury hotel
+4	valuable	adj	ценный	Don't leave valuable things in the car.	Не оставляйте ценные вещи в машине.	valuable information
+4	coin	n	монета	I need some coins for the machine.	Мне нужно несколько монет для автомата.	a 25-cent coin
+4	label	n	этикетка, ярлык	Read the label before you buy.	Прочитайте этикетку перед покупкой.	a price label
+4	package	n	посылка, упаковка	A package arrived for you this morning.	Сегодня утром для тебя пришла посылка.	send a package
+4	worth	adj	стоящий; стоимостью	This movie is worth watching.	Этот фильм стоит посмотреть.	be worth doing sth
+4	exchange	v	обменивать	Can I exchange this shirt for a bigger size?	Можно обменять эту рубашку на размер побольше?	exchange sth for sth
+4	spending	n	расходы, траты	We need to reduce our spending.	Нам нужно сократить расходы.	spending on sth
+4	value	n	ценность, стоимость	This watch has a high value.	Эти часы стоят очень дорого.	good value for money
+4	fashionable	adj	модный	She always wears fashionable clothes.	Она всегда носит модную одежду.	a fashionable restaurant
+4	leather	n	кожа (материал)	He bought a leather jacket.	Он купил кожаную куртку.	a leather bag
+4	cotton	n	хлопок	This shirt is 100% cotton.	Эта рубашка из 100% хлопка.	a cotton T-shirt
+4	wool	n	шерсть	This sweater is made of wool.	Этот свитер из шерсти.	a wool scarf
+4	glove	n	перчатка	I lost one of my gloves.	Я потерял одну перчатку.	a pair of gloves
+4	fancy	adj	шикарный, изысканный	We had dinner at a fancy restaurant.	Мы поужинали в шикарном ресторане.	a fancy hotel
+U	5	Работа и карьера	Work & career
+5	staff	n	персонал, сотрудники	All staff must attend the meeting.	Все сотрудники должны присутствовать на собрании.	hotel staff
+5	retire	v	уходить на пенсию	My father retired last year.	Мой отец вышел на пенсию в прошлом году.	retire early
+5	qualification	n	квалификация, диплом	What qualifications do you need for this job?	Какая квалификация нужна для этой работы?	professional qualifications
+5	qualified	adj	квалифицированный	We need a qualified engineer.	Нам нужен квалифицированный инженер.	highly qualified
+5	unemployed	adj	безработный	He was unemployed for six months.	Он был без работы полгода.	be unemployed
+5	profession	n	профессия	Medicine is a difficult profession.	Медицина — трудная профессия.	the medical profession
+5	responsibility	n	ответственность, обязанность	It's my responsibility to check the documents.	Проверять документы — моя обязанность.	take responsibility for sth
+5	shift	n	смена (рабочая)	Nurses often work night shifts.	Медсёстры часто работают в ночную смену.	a night shift
+5	hire	v	нанимать; брать напрокат	We're hiring two new sales managers.	Мы нанимаем двух новых менеджеров по продажам.	hire staff
+5	quit	v	уволиться; бросить	She quit her job to start her own business.	Она уволилась, чтобы открыть своё дело.	quit a job
+5	candidate	n	кандидат	We interviewed five candidates for the job.	Мы провели собеседование с пятью кандидатами.	a strong candidate
+5	experienced	adj	опытный	She is an experienced nurse.	Она опытная медсестра.	experienced in sth
+5	application	n	заявление, заявка	Send your application by June 1.	Отправьте заявку до 1 июня.	a job application
+5	employment	n	работа, трудоустройство	The new factory will create employment for 500 people.	Новый завод даст работу 500 людям.	full-time employment
+5	responsible	adj	ответственный	Who is responsible for this project?	Кто отвечает за этот проект?	responsible for sth
+5	duty	n	обязанность, долг	Checking the equipment is part of my duties.	Проверка оборудования входит в мои обязанности.	on duty
+5	achievement	n	достижение	Opening the clinic was a big achievement.	Открытие клиники стало большим достижением.	a great achievement
+5	ambition	n	амбиция, стремление	Her ambition is to become a director.	Она стремится стать директором.	a lifelong ambition
+5	qualify	v	получить квалификацию; иметь право	She qualified as a doctor in 2015.	Она получила диплом врача в 2015 году.	qualify as sth
+5	assist	v	помогать, ассистировать	A nurse assisted the doctor during the operation.	Медсестра ассистировала врачу во время операции.	assist sb with sth
+U	6	Продажи и переговоры	Sales & negotiation
+6	persuade	v	убеждать, уговаривать	She persuaded the doctor to try the new X-ray system.	Она убедила врача попробовать новую рентген-систему.	persuade sb to do sth
+6	convince	v	убеждать (в чём-то)	I'm convinced that this is the right decision.	Я убеждён, что это правильное решение.	convince sb of sth
+6	profit	n	прибыль	The company made a big profit this year.	В этом году компания получила большую прибыль.	make a profit
+6	client	n	клиент	I'm meeting an important client tomorrow.	Завтра у меня встреча с важным клиентом.	a regular client
+6	competitor	n	конкурент	Our prices are lower than our competitors'.	Наши цены ниже, чем у конкурентов.	a main competitor
+6	export	v	экспортировать	We export medical equipment to 20 countries.	Мы экспортируем медицинское оборудование в 20 стран.	export goods
+6	import	v	импортировать	Most of our coffee is imported from Brazil.	Большая часть нашего кофе импортируется из Бразилии.	import from
+6	invest	v	инвестировать, вкладывать	They invested a lot of money in the new clinic.	Они вложили много денег в новую клинику.	invest in sth
+6	marketing	n	маркетинг	She works in marketing.	Она работает в маркетинге.	a marketing plan
+6	deliver	v	доставлять, поставлять	We can deliver the goods by Friday.	Мы можем доставить товар к пятнице.	deliver on time
+6	agreement	n	соглашение, договорённость	The two companies signed an agreement.	Две компании подписали соглашение.	reach an agreement
+6	deal	n	сделка	We finally made a deal with the distributor.	Мы наконец заключили сделку с дистрибьютором.	make a deal
+6	competitive	adj	конкурентоспособный	We offer very competitive prices.	Мы предлагаем очень конкурентные цены.	a competitive price
+6	market	v	продвигать на рынке	The product is marketed in 15 countries.	Продукт продвигается на рынках 15 стран.	market a product
+6	account	n	клиент (ключевой); счёт	She manages our biggest accounts in Asia.	Она ведёт наших крупнейших клиентов в Азии.	a key account
+6	contact	v	связываться	Please contact me if you have any questions.	Пожалуйста, свяжитесь со мной, если возникнут вопросы.	contact sb
+6	standard	n	стандарт, уровень	Our products meet international standards.	Наша продукция соответствует международным стандартам.	high standards
+6	range	n	ассортимент, диапазон	We offer a wide range of products.	Мы предлагаем широкий ассортимент продукции.	a wide range of sth
+6	charge	n	плата, сбор	There is no charge for delivery.	Плата за доставку не взимается.	free of charge
+6	require	v	требовать, нуждаться	The contract requires a 30% prepayment.	Контракт требует предоплаты 30%.	be required to do sth
+U	7	Компания и рынок	Company & market
+7	promote	v	продвигать; повышать в должности	We promote our products at trade shows.	Мы продвигаем нашу продукцию на выставках.	promote a product
+7	brand	n	бренд, марка	Which brand of phone do you use?	Телефоном какой марки ты пользуешься?	a famous brand
+7	goods	n	товары	The goods will arrive next week.	Товар прибудет на следующей неделе.	deliver goods
+7	supply	v	поставлять, снабжать	We supply equipment to hospitals.	Мы поставляем оборудование в больницы.	supply sb with sth
+7	trade	n	торговля	Trade between the two countries is growing.	Торговля между двумя странами растёт.	international trade
+7	growth	n	рост	The company showed strong growth this year.	В этом году компания показала сильный рост.	economic growth
+7	economy	n	экономика	The economy is getting stronger.	Экономика становится сильнее.	the global economy
+7	campaign	n	кампания	They started a new advertising campaign.	Они запустили новую рекламную кампанию.	an advertising campaign
+7	consumer	n	потребитель	Consumers want cheaper and faster delivery.	Потребители хотят более дешёвой и быстрой доставки.	consumer demand
+7	production	n	производство	Production starts in March.	Производство начнётся в марте.	mass production
+7	financial	adj	финансовый	The company has financial problems.	У компании финансовые проблемы.	a financial report
+7	percentage	n	процент, доля	What percentage of our clients are from abroad?	Какой процент наших клиентов из-за рубежа?	a high percentage
+7	economic	adj	экономический	The country is going through an economic crisis.	Страна переживает экономический кризис.	economic growth
+7	global	adj	глобальный, мировой	We are a global company with offices in 12 countries.	Мы глобальная компания с офисами в 12 странах.	the global market
+7	expand	v	расширять(ся)	The company plans to expand into Latin America.	Компания планирует выйти на рынок Латинской Америки.	expand a business
+7	trend	n	тенденция, тренд	There is a growing trend toward online shopping.	Растёт тенденция к покупкам онлайн.	the latest trend
+7	analysis	n	анализ	We need a detailed analysis of the market.	Нам нужен детальный анализ рынка.	market analysis
+7	loss	n	убыток; потеря	The company made a loss last year.	В прошлом году компания понесла убытки.	make a loss
+7	rise	n	рост, повышение	There has been a rise in prices.	Цены выросли.	a rise in sth
+7	branch	n	филиал, отделение	The bank has a branch in every city.	У банка есть отделение в каждом городе.	a local branch
+U	8	Встречи и общение	Meetings & communication
+8	announce	v	объявлять	The company announced a new product.	Компания объявила о новом продукте.	announce a decision
+8	admit	v	признавать	He admitted that he had made a mistake.	Он признал, что ошибся.	admit a mistake
+8	confirm	v	подтверждать	Could you confirm the date of the meeting?	Не могли бы вы подтвердить дату встречи?	confirm a booking
+8	request	v	просить, запрашивать	We requested more information about the price.	Мы запросили дополнительную информацию о цене.	request information
+8	presentation	n	презентация	I'm giving a presentation to the directors tomorrow.	Завтра я делаю презентацию для руководства.	give a presentation
+8	complaint	n	жалоба	We received a complaint from a customer.	Мы получили жалобу от клиента.	make a complaint
+8	comment	v	комментировать	He didn't want to comment on the news.	Он не захотел комментировать новость.	comment on sth
+8	reject	v	отклонять, отвергать	The client rejected our first offer.	Клиент отклонил наше первое предложение.	reject an offer
+8	conclude	v	заключить, сделать вывод; завершить	Let me conclude with a short summary.	Позвольте завершить кратким резюме.	conclude that
+8	summarize	v	подводить итог, резюмировать	Can you summarize the main points?	Можете подвести итог по главным пунктам?	summarize the results
+8	attach	v	прикреплять	I've attached the price list to this email.	Я прикрепил прайс-лист к этому письму.	attach a file
+8	appreciate	v	ценить, быть признательным	I really appreciate your help.	Я очень ценю вашу помощь.	appreciate it
+8	announcement	n	объявление	The CEO made an important announcement.	Генеральный директор сделал важное объявление.	make an announcement
+8	communication	n	общение, коммуникация	Good communication is the key to success.	Хорошая коммуникация — ключ к успеху.	communication skills
+8	conclusion	n	вывод, заключение	What conclusion did you come to?	К какому выводу вы пришли?	come to a conclusion
+8	summary	n	краткое изложение, резюме	Please send me a short summary of the meeting.	Пожалуйста, пришлите мне краткое резюме встречи.	a brief summary
+8	highlight	v	выделять, подчёркивать	I want to highlight three main points.	Я хочу выделить три главных момента.	highlight a problem
+8	indicate	v	указывать, показывать	The results indicate strong demand.	Результаты указывают на высокий спрос.	indicate that
+8	represent	v	представлять (интересы)	I represent SG Healthcare in Central Asia.	Я представляю SG Healthcare в Центральной Азии.	represent a company
+8	issue	n	вопрос, проблема	We need to discuss the delivery issue.	Нам нужно обсудить вопрос с доставкой.	raise an issue
+U	9	Путешествия	Travel
+9	departure	n	отправление, вылет	Please arrive two hours before departure.	Пожалуйста, приезжайте за два часа до вылета.	departure time
+9	arrival	n	прибытие	Our arrival time is 6:45 p.m.	Время нашего прибытия — 18:45.	the arrivals hall
+9	destination	n	пункт назначения	Japan is my favorite travel destination.	Япония — моё любимое направление для путешествий.	a popular destination
+9	board	v	садиться на борт	Passengers can now board the plane.	Пассажиры могут проходить на посадку.	board a plane
+9	currency	n	валюта	You can exchange currency at the airport.	Валюту можно обменять в аэропорту.	foreign currency
+9	accommodation	n	жильё, проживание	The price includes flights and accommodation.	В стоимость входят перелёт и проживание.	find accommodation
+9	reservation	n	бронирование	I have a reservation for two nights.	У меня бронь на две ночи.	make a reservation
+9	explore	v	исследовать, осматривать	We spent the day exploring the old town.	Мы провели день, гуляя по старому городу.	explore the city
+9	border	n	граница	We crossed the border at night.	Мы пересекли границу ночью.	cross the border
+9	attraction	n	достопримечательность	The castle is the main tourist attraction.	Замок — главная туристическая достопримечательность.	a tourist attraction
+9	tour	v	совершать тур, путешествовать по	We toured Japan for two weeks.	Мы две недели путешествовали по Японии.	tour a country
+9	port	n	порт	The ship arrived at the port in the morning.	Корабль прибыл в порт утром.	a busy port
+9	expedition	n	экспедиция	They went on an expedition to the mountains.	Они отправились в экспедицию в горы.	go on an expedition
+9	sight	n	вид; достопримечательность (мн.)	We saw all the sights of Tokyo in two days.	За два дня мы осмотрели все достопримечательности Токио.	see the sights
+9	entry	n	въезд, вход	You need a visa for entry into the country.	Для въезда в страну нужна виза.	entry visa
+9	host	n	хозяин, принимающая сторона	Our hosts showed us around the city.	Принимающая сторона показала нам город.	a good host
+9	local	n	местный житель	Ask a local for the best restaurant.	Спроси у местного, где лучший ресторан.	the locals
+9	atmosphere	n	атмосфера	The café has a cozy atmosphere.	В кафе уютная атмосфера.	a relaxed atmosphere
+9	historic	adj	исторический (значимый)	We walked around the historic center.	Мы погуляли по историческому центру.	a historic building
+9	convenient	adj	удобный	Is 10 a.m. convenient for you?	Вам удобно в 10 утра?	a convenient time
+U	10	Транспорт и город	Transport & city
+10	fuel	n	топливо	This car uses very little fuel.	Эта машина расходует очень мало топлива.	run out of fuel
+10	tire	n	шина	We had a flat tire on the way.	По дороге у нас спустило колесо.	a flat tire
+10	helicopter	n	вертолёт	The patient was taken to hospital by helicopter.	Пациента доставили в больницу на вертолёте.	by helicopter
+10	transport	v	перевозить, транспортировать	The equipment was transported by truck.	Оборудование перевезли на грузовике.	transport goods
+10	path	n	тропинка, дорожка	Follow the path along the river.	Идите по тропинке вдоль реки.	a narrow path
+10	signal	n	сигнал	There's no cell phone signal here.	Здесь нет мобильной связи.	a weak signal
+10	entrance	n	вход	Let's meet at the main entrance.	Давай встретимся у главного входа.	the main entrance
+10	location	n	местоположение, расположение	The hotel is in a great location.	У отеля отличное расположение.	a central location
+10	central	adj	центральный	Our office is in central Almaty.	Наш офис в центре Алматы.	central heating
+10	statue	n	статуя	There's a statue of a poet in the square.	На площади стоит статуя поэта.	a bronze statue
+10	sail	n	парус	The boat had white sails.	У лодки были белые паруса.	set sail
+10	slow	v	замедлять(ся)	Slow down — there's a school here.	Сбавь скорость — здесь школа.	slow down
+10	direct	v	показать дорогу; направлять	Could you direct me to the station?	Не подскажете, как пройти к вокзалу?	direct sb to sth
+10	fasten	v	пристёгивать, застёгивать	Please fasten your seat belt.	Пожалуйста, пристегните ремень безопасности.	fasten your seat belt
+10	safety	n	безопасность	Safety is our top priority.	Безопасность — наш главный приоритет.	road safety
+10	security	n	безопасность; охрана, досмотр	We went through airport security.	Мы прошли досмотр в аэропорту.	airport security
+10	wing	n	крыло	I had a seat over the wing.	У меня было место над крылом.	the wing of a plane
+10	approximately	adv	приблизительно	The trip takes approximately two hours.	Поездка занимает примерно два часа.	approximately 50%
+10	sailor	n	моряк	The sailors got the ship ready.	Моряки подготовили корабль.	an experienced sailor
+10	flag	n	флаг	The ship was flying a Korean flag.	Корабль шёл под корейским флагом.	a national flag
+U	11	Тело и здоровье	Body & health
+11	breathe	v	дышать	Breathe in slowly through your nose.	Медленно вдохните через нос.	breathe deeply
+11	muscle	n	мышца	My muscles hurt after the gym.	После спортзала у меня болят мышцы.	build muscle
+11	chest	n	грудь, грудная клетка	He felt a pain in his chest.	Он почувствовал боль в груди.	chest pain
+11	throat	n	горло	I have a sore throat.	У меня болит горло.	a sore throat
+11	toe	n	палец ноги	I hurt my toe on the door.	Я ударил палец ноги о дверь.	big toe
+11	tongue	n	язык (орган)	Please put out your tongue and say "ah".	Пожалуйста, высуньте язык и скажите «а».	bite your tongue
+11	lip	n	губа	My lips are dry in winter.	Зимой у меня сохнут губы.	dry lips
+11	injured	adj	раненый, травмированный	Two people were injured in the accident.	В аварии пострадали два человека.	badly injured
+11	painful	adj	болезненный	My knee is still painful.	Колено всё ещё болит.	a painful injury
+11	fitness	n	физическая форма, фитнес	She goes to a fitness class twice a week.	Она ходит на фитнес два раза в неделю.	a fitness center
+11	weigh	v	весить; взвешивать	How much do you weigh?	Сколько ты весишь?	weigh 70 kilos
+11	pale	adj	бледный	You look pale. Are you OK?	Ты бледный. Всё в порядке?	go pale
+11	breath	n	дыхание, вдох	Take a deep breath.	Сделай глубокий вдох.	take a deep breath
+11	bite	n	укус	I have a mosquito bite on my arm.	У меня на руке укус комара.	an insect bite
+11	injure	v	ранить, травмировать	He injured his back at the gym.	Он повредил спину в спортзале.	injure your knee
+11	strength	n	сила	You need strength for this sport.	Для этого спорта нужна сила.	physical strength
+11	bend	v	сгибать(ся), наклоняться	Bend your knees when you lift something heavy.	Сгибайте колени, когда поднимаете тяжёлое.	bend down
+11	touch	n	прикосновение; связь	I felt a light touch on my shoulder.	Я почувствовал лёгкое прикосновение к плечу.	keep in touch
+11	uncomfortable	adj	неудобный	These shoes are really uncomfortable.	Эти туфли очень неудобные.	feel uncomfortable
+11	mild	adj	лёгкий, слабый; мягкий	I have a mild headache.	У меня лёгкая головная боль.	a mild winter
+U	12	Медицина	Medicine
+12	treatment	n	лечение	The new treatment works very well.	Новое лечение очень эффективно.	receive treatment
+12	operation	n	операция	He needs an operation on his knee.	Ему нужна операция на колене.	have an operation
+12	emergency	n	экстренная ситуация	In an emergency, call 911.	В экстренной ситуации звоните 911 (в США).	an emergency room
+12	examine	v	осматривать, обследовать	The doctor examined my throat.	Врач осмотрел моё горло.	examine a patient
+12	symptom	n	симптом	What are the symptoms of flu?	Какие симптомы у гриппа?	have symptoms
+12	treat	v	лечить; обращаться	The doctor treated her for a back injury.	Врач лечил её от травмы спины.	treat a patient
+12	suffer	v	страдать	He suffers from headaches.	Он страдает от головных болей.	suffer from sth
+12	survive	v	выжить	Everyone survived the crash.	Все выжили в катастрофе.	survive an accident
+12	laboratory	n	лаборатория	The blood samples were sent to the laboratory.	Образцы крови отправили в лабораторию.	a research laboratory
+12	mental	adj	психический, умственный	Sport is good for your mental health.	Спорт полезен для психического здоровья.	mental health
+12	needle	n	игла	I'm afraid of needles.	Я боюсь уколов.	a needle and thread
+12	poison	n	яд	This plant contains poison.	В этом растении содержится яд.	rat poison
+12	sample	n	образец, проба	The nurse took a blood sample.	Медсестра взяла кровь на анализ.	a blood sample
+12	chemical	n	химическое вещество	Some cleaning products contain dangerous chemicals.	Некоторые чистящие средства содержат опасные химические вещества.	harmful chemicals
+12	substance	n	вещество	This substance is dangerous for children.	Это вещество опасно для детей.	a toxic substance
+12	poisonous	adj	ядовитый	Some mushrooms are poisonous.	Некоторые грибы ядовиты.	a poisonous snake
+12	scientific	adj	научный	There is no scientific proof.	Научных доказательств нет.	scientific research
+12	effective	adj	эффективный	This medicine is very effective.	Это лекарство очень эффективно.	an effective treatment
+12	investigate	v	исследовать, расследовать	Doctors are investigating the cause of the illness.	Врачи выясняют причину болезни.	investigate a problem
+12	reaction	n	реакция	She had an allergic reaction to the medicine.	У неё была аллергическая реакция на лекарство.	an allergic reaction
+U	13	Чувства	Feelings
+13	annoyed	adj	раздражённый	I'm annoyed that the train is late again.	Меня раздражает, что поезд опять опаздывает.	annoyed with sb
+13	disappointed	adj	разочарованный	We were disappointed with the hotel.	Отель нас разочаровал.	disappointed with sth
+13	embarrassed	adj	смущённый	I was embarrassed when I forgot his name.	Мне было неловко, когда я забыл его имя.	feel embarrassed
+13	upset	adj	расстроенный	She was upset because nobody called her.	Она расстроилась, потому что никто ей не позвонил.	get upset
+13	lonely	adj	одинокий	He felt lonely in the new city.	В новом городе ему было одиноко.	feel lonely
+13	proud	adj	гордый	I'm very proud of my team.	Я очень горжусь своей командой.	proud of sb
+13	confused	adj	растерянный, сбитый с толку	I'm confused — which form do I need?	Я запутался — какая форма мне нужна?	get confused
+13	frightened	adj	испуганный	The child was frightened of the dog.	Ребёнок испугался собаки.	frightened of sth
+13	amazed	adj	поражённый, изумлённый	I was amazed by the view.	Меня поразил вид.	amazed at/by sth
+13	relaxed	adj	расслабленный	I feel relaxed after a vacation.	После отпуска я чувствую себя отдохнувшим.	feel relaxed
+13	grateful	adj	благодарный	I'm grateful for your support.	Я благодарен за вашу поддержку.	grateful for sth
+13	mood	n	настроение	You're in a good mood today!	У тебя сегодня хорошее настроение!	in a good mood
+13	emotion	n	эмоция, чувство	He doesn't show his emotions.	Он не показывает своих эмоций.	show emotion
+13	excitement	n	волнение, радостное возбуждение	The children couldn't sleep from excitement.	Дети не могли уснуть от волнения.	full of excitement
+13	happiness	n	счастье	Money doesn't always bring happiness.	Деньги не всегда приносят счастье.	true happiness
+13	glad	adj	довольный, рад	I'm glad you could come.	Я рад, что ты смог прийти.	glad to do sth
+13	keen	adj	увлечённый, горящий желанием	She's keen to learn Korean.	Она очень хочет выучить корейский.	keen on sth
+13	pleasure	n	удовольствие	It was a pleasure to work with you.	Было приятно с вами работать.	my pleasure
+13	worry	n	беспокойство, забота	My biggest worry is the deadline.	Больше всего меня беспокоит срок.	no worries
+13	embarrassing	adj	неловкий, смущающий	It was an embarrassing mistake.	Это была неловкая ошибка.	an embarrassing moment
+U	14	Характер	Character
+14	brave	adj	смелый	It was brave of her to speak first.	С её стороны было смело выступить первой.	a brave decision
+14	calm	adj	спокойный	Stay calm and listen carefully.	Сохраняй спокойствие и внимательно слушай.	stay calm
+14	cheerful	adj	жизнерадостный	Our receptionist is always cheerful.	Наш администратор всегда жизнерадостный.	a cheerful smile
+14	honest	adj	честный	To be honest, I didn't like the movie.	Честно говоря, фильм мне не понравился.	to be honest
+14	generous	adj	щедрый	It's very generous of you to pay for dinner.	Очень щедро с твоей стороны заплатить за ужин.	generous with sth
+14	reliable	adj	надёжный	We need a reliable supplier.	Нам нужен надёжный поставщик.	a reliable partner
+14	sensible	adj	благоразумный, разумный	That's a sensible idea.	Это разумная идея.	a sensible decision
+14	shy	adj	застенчивый	He's too shy to speak in public.	Он слишком застенчив, чтобы выступать на публике.	shy of people
+14	careless	adj	небрежный, невнимательный	It was a careless mistake.	Это была ошибка по невнимательности.	a careless mistake
+14	gentle	adj	мягкий, нежный	She is very gentle with the children.	Она очень ласкова с детьми.	a gentle voice
+14	ambitious	adj	амбициозный, целеустремлённый	He is young and very ambitious.	Он молод и очень амбициозен.	an ambitious plan
+14	determined	adj	решительный, настроенный	She was determined to win.	Она была настроена победить.	determined to do sth
+14	confident	adj	уверенный	She feels confident about the interview.	Она уверена в себе перед собеседованием.	confident about sth
+14	kind	adj	добрый	It's very kind of you to help.	Очень любезно с вашей стороны помочь.	kind to sb
+14	smart	adj	умный; нарядный	She's a smart student.	Она умная студентка.	a smart idea
+14	silly	adj	глупый	Don't be silly!	Не говори глупостей!	a silly mistake
+14	cruel	adj	жестокий	It's cruel to keep a dog in a small cage.	Держать собаку в маленькой клетке — жестоко.	cruel to animals
+14	talented	adj	талантливый	He's a very talented musician.	Он очень талантливый музыкант.	a talented artist
+14	practical	adj	практичный, практический	She always finds practical solutions.	Она всегда находит практичные решения.	practical advice
+14	organized	adj	организованный	He's very organized and never misses a deadline.	Он очень организован и никогда не срывает сроки.	well organized
+U	15	Семья и отношения	Family & relationships
+15	relative	n	родственник	We visit our relatives every New Year.	Мы навещаем родственников каждый Новый год.	a close relative
+15	childhood	n	детство	I spent my childhood in a small town.	Я провёл детство в маленьком городе.	a happy childhood
+15	generation	n	поколение	Three generations live in this house.	В этом доме живут три поколения.	the younger generation
+15	friendship	n	дружба	Their friendship started at school.	Их дружба началась в школе.	a long friendship
+15	marriage	n	брак	They have a happy marriage.	У них счастливый брак.	a happy marriage
+15	bride	n	невеста	The bride wore a white dress.	Невеста была в белом платье.	the bride and groom
+15	engaged	adj	помолвленный	They got engaged last summer.	Они обручились прошлым летом.	get engaged
+15	respect	v	уважать	We respect each other's opinions.	Мы уважаем мнения друг друга.	respect sb for sth
+15	apologize	v	извиняться	I apologize for being late.	Прошу прощения за опоздание.	apologize for sth
+15	admire	v	восхищаться	I admire my mother's patience.	Я восхищаюсь терпением своей мамы.	admire sb for sth
+15	stranger	n	незнакомец	Don't open the door to strangers.	Не открывай дверь незнакомым людям.	a complete stranger
+15	encourage	v	поощрять, поддерживать	My parents encouraged me to study abroad.	Родители поддержали меня в учёбе за границей.	encourage sb to do sth
+15	celebration	n	празднование	We had a big celebration for her birthday.	Мы устроили большое празднование её дня рождения.	a birthday celebration
+15	ceremony	n	церемония	The wedding ceremony starts at noon.	Свадебная церемония начинается в полдень.	a wedding ceremony
+15	kiss	v	целовать	She kissed her son goodbye.	Она поцеловала сына на прощание.	kiss sb goodbye
+15	youth	n	молодость, юность	In his youth, he played football.	В молодости он играл в футбол.	in my youth
+15	relation	n	связь; отношения	Our two countries have good relations.	У наших двух стран хорошие отношения.	business relations
+15	related	adj	родственный, связанный	Are you two related?	Вы родственники?	related to sb
+15	age	v	стареть	My parents are aging well.	Мои родители хорошо выглядят для своих лет.	age quickly
+15	gentleman	n	джентльмен, господин	Ladies and gentlemen, welcome!	Дамы и господа, добро пожаловать!	a real gentleman
+U	16	Учёба	Study
+16	graduate	v	окончить (вуз)	He graduated from university in 2012.	Он окончил университет в 2012 году.	graduate from university
+16	grade	n	оценка	She got good grades in math.	У неё хорошие оценки по математике.	get a good grade
+16	concentrate	v	сосредотачиваться	I can't concentrate with this noise.	Я не могу сосредоточиться при таком шуме.	concentrate on sth
+16	academic	adj	академический, учебный	The academic year starts in September.	Учебный год начинается в сентябре.	academic year
+16	assignment	n	задание	The assignment is due on Monday.	Задание нужно сдать в понедельник.	hand in an assignment
+16	campus	n	кампус, территория вуза	The library is in the center of the campus.	Библиотека находится в центре кампуса.	on campus
+16	chapter	n	глава	Read chapter three for tomorrow.	Прочитайте третью главу к завтрашнему дню.	the first chapter
+16	translate	v	переводить	Can you translate this letter into Russian?	Можешь перевести это письмо на русский?	translate into Russian
+16	theory	n	теория	In theory, the plan should work.	Теоретически план должен сработать.	in theory
+16	experiment	v	экспериментировать	Scientists are experimenting with new materials.	Учёные экспериментируют с новыми материалами.	experiment with sth
+16	definition	n	определение	Look up the definition in the dictionary.	Найди определение в словаре.	a clear definition
+16	literature	n	литература	She studied English literature.	Она изучала английскую литературу.	modern literature
+16	educational	adj	образовательный	This is a very educational game for kids.	Это очень познавательная игра для детей.	an educational program
+16	primary	adj	начальный; основной	Our primary goal is quality.	Наша главная цель — качество.	primary school
+16	secondary	adj	средний (об образовании); второстепенный	She teaches at a secondary school.	Она преподаёт в средней школе.	secondary school
+16	translation	n	перевод	Is this translation correct?	Этот перевод правильный?	a translation into Russian
+16	technique	n	техника, метод	This technique helps you remember new words.	Эта техника помогает запоминать новые слова.	a new technique
+16	intelligence	n	интеллект	Artificial intelligence is changing education.	Искусственный интеллект меняет образование.	artificial intelligence
+16	diagram	n	схема, диаграмма	The diagram shows how the machine works.	Схема показывает, как работает аппарат.	draw a diagram
+16	reference	n	ссылка; справка	Use this dictionary for reference.	Используй этот словарь как справочник.	for reference
+U	17	Технологии	Technology
+17	battery	n	батарея, аккумулятор	My phone battery is almost dead.	Аккумулятор телефона почти сел.	the battery is low
+17	software	n	программное обеспечение	The new software saves us a lot of time.	Новая программа экономит нам много времени.	install software
+17	update	v	обновлять	Please update the app to the latest version.	Обновите приложение до последней версии.	update software
+17	click	v	нажимать, кликать	Click on the link to download the file.	Нажмите на ссылку, чтобы скачать файл.	click on a link
+17	keyboard	n	клавиатура	The keyboard on my laptop is broken.	На моём ноутбуке сломалась клавиатура.	a wireless keyboard
+17	file	n	файл; папка	I saved the file on my desktop.	Я сохранил файл на рабочем столе.	open a file
+17	scan	v	сканировать	Please scan the contract and send it to me.	Пожалуйста, отсканируйте договор и пришлите мне.	scan a document
+17	program	v	программировать	The robot is programmed to clean the floor.	Робот запрограммирован мыть пол.	program a computer
+17	robot	n	робот	Robots now help surgeons in operations.	Сейчас роботы помогают хирургам на операциях.	a robot vacuum
+17	access	n	доступ	Do you have access to the internet here?	У тебя здесь есть доступ к интернету?	have access to sth
+17	version	n	версия	Is this the latest version of the app?	Это последняя версия приложения?	the latest version
+17	switch	v	переключать(ся)	Switch the TV to channel 5.	Переключи телевизор на пятый канал.	switch on/off
+17	IT	n	информационные технологии, ИТ	Call the IT department if your computer doesn't work.	Звони в ИТ-отдел, если не работает компьютер.	the IT department
+17	type	v	печатать (на клавиатуре)	I can type very fast.	Я умею печатать очень быстро.	type a message
+17	connection	n	соединение, подключение	The internet connection is very slow.	Интернет-соединение очень медленное.	an internet connection
+17	function	n	функция	This button has two functions.	У этой кнопки две функции.	a basic function
+17	technical	adj	технический	We have a technical problem with the website.	У нас техническая проблема с сайтом.	technical support
+17	advanced	adj	продвинутый, передовой	This is the most advanced ultrasound system.	Это самая передовая УЗИ-система.	advanced technology
+17	content	n	содержимое, контент	The website has a lot of useful content.	На сайте много полезного контента.	online content
+17	printing	n	печать	The printing costs are included.	Стоимость печати включена.	3D printing
+U	18	СМИ	Media
+18	channel	n	канал	What's on the other channel?	Что идёт по другому каналу?	a news channel
+18	headline	n	заголовок	The news was in all the headlines.	Эта новость была во всех заголовках.	hit the headlines
+18	documentary	n	документальный фильм	We watched a documentary about the ocean.	Мы посмотрели документальный фильм об океане.	a nature documentary
+18	episode	n	серия, эпизод	I watched three episodes last night.	Вчера вечером я посмотрел три серии.	the final episode
+18	editor	n	редактор	The editor checked the article before it was published.	Редактор проверил статью перед публикацией.	a newspaper editor
+18	press	n	пресса	The minister spoke to the press.	Министр выступил перед прессой.	a press conference
+18	viewer	n	зритель (телевизионный)	The show has millions of viewers.	У шоу миллионы зрителей.	TV viewers
+18	photographer	n	фотограф	The photographer took pictures of the wedding.	Фотограф снимал свадьбу.	a professional photographer
+18	album	n	альбом	Her new album comes out next month.	Её новый альбом выйдет в следующем месяце.	a photo album
+18	quote	v	цитировать	He often quotes famous writers.	Он часто цитирует известных писателей.	quote sb
+18	release	v	выпускать (фильм, альбом)	The movie will be released in May.	Фильм выйдет в мае.	release a movie
+18	latest	adj	последний, новейший	Have you heard the latest news?	Ты слышал последние новости?	the latest news
+18	ad	n	реклама, объявление	I saw an ad for a new phone.	Я видел рекламу нового телефона.	an online ad
+18	commercial	n	рекламный ролик	The commercial is shown before the movie.	Рекламный ролик показывают перед фильмом.	a TV commercial
+18	journal	n	журнал (научный, проф.)	His article was published in a medical journal.	Его статья вышла в медицинском журнале.	a medical journal
+18	script	n	сценарий	The actors are reading the script.	Актёры читают сценарий.	write a script
+18	studio	n	студия	The show is filmed in a studio in Seoul.	Шоу снимают в студии в Сеуле.	a TV studio
+18	photography	n	фотография (как занятие)	Photography is my hobby.	Фотография — моё хобби.	digital photography
+18	producer	n	продюсер; производитель	She is a TV producer.	Она телепродюсер.	a movie producer
+18	live	adj	прямой (эфир), живой	The concert is shown live on TV.	Концерт показывают в прямом эфире.	live music
+U	19	Природа	Nature
+19	flood	n	наводнение	The flood destroyed many houses.	Наводнение разрушило много домов.	a flood warning
+19	earthquake	n	землетрясение	There was a small earthquake last night.	Прошлой ночью было небольшое землетрясение.	a strong earthquake
+19	hurricane	n	ураган	The hurricane hit the coast on Monday.	Ураган обрушился на побережье в понедельник.	a hurricane warning
+19	soil	n	почва	Tomatoes grow well in this soil.	Помидоры хорошо растут на этой почве.	rich soil
+19	seed	n	семя	Plant the seeds in spring.	Посадите семена весной.	plant seeds
+19	leaf	n	лист (растения)	The leaves turn red in autumn.	Осенью листья краснеют.	fallen leaves
+19	sand	n	песок	The children are playing in the sand.	Дети играют в песке.	white sand
+19	mud	n	грязь	My shoes are covered in mud.	Мои ботинки все в грязи.	covered in mud
+19	shell	n	ракушка; скорлупа	We collected shells on the beach.	Мы собирали ракушки на пляже.	a sea shell
+19	bee	n	пчела	A bee landed on the flower.	Пчела села на цветок.	a bee sting
+19	waste	n	отходы; пустая трата	We need to reduce plastic waste.	Нам нужно сократить пластиковые отходы.	a waste of time
+19	damage	n	ущерб, повреждение	The storm caused a lot of damage.	Шторм нанёс большой ущерб.	cause damage
+19	environmental	adj	экологический	Plastic is a big environmental problem.	Пластик — серьёзная экологическая проблема.	environmental protection
+19	coal	n	уголь	Kazakhstan produces a lot of coal.	Казахстан добывает много угля.	a coal mine
+19	fur	n	мех, шерсть (животного)	The cat has soft white fur.	У кошки мягкая белая шерсть.	thick fur
+19	tail	n	хвост	The dog is wagging its tail.	Собака виляет хвостом.	a long tail
+19	surface	n	поверхность	The surface of the lake was frozen.	Поверхность озера замёрзла.	the surface of the water
+19	rare	adj	редкий	This is a very rare bird.	Это очень редкая птица.	a rare species
+19	hunt	v	охотиться	Wolves hunt in groups.	Волки охотятся стаями.	hunt for food
+19	flow	v	течь	The river flows into the sea.	Река впадает в море.	flow into sth
+U	20	Спорт и досуг	Sport & leisure
+20	stadium	n	стадион	The stadium holds 50,000 people.	Стадион вмещает 50 000 человек.	a football stadium
+20	champion	n	чемпион	She is the world champion in tennis.	Она чемпионка мира по теннису.	the world champion
+20	captain	n	капитан	He is the captain of the team.	Он капитан команды.	the team captain
+20	coach	v	тренировать	She coaches a children's football team.	Она тренирует детскую футбольную команду.	coach a team
+20	kick	v	пинать, бить ногой	He kicked the ball into the goal.	Он забил мяч в ворота.	kick a ball
+20	leisure	n	досуг, свободное время	What do you do in your leisure time?	Чем вы занимаетесь в свободное время?	leisure time
+20	tent	n	палатка	We put up the tent near the lake.	Мы поставили палатку у озера.	put up a tent
+20	climb	n	подъём, восхождение	It was a long climb to the top.	Подъём на вершину был долгим.	a steep climb
+20	outdoor	adj	на открытом воздухе	The hotel has an outdoor pool.	В отеле есть открытый бассейн.	outdoor activities
+20	indoor	adj	крытый, в помещении	We play tennis on an indoor court in winter.	Зимой мы играем в теннис на крытом корте.	an indoor pool
+20	supporter	n	болельщик, сторонник	Thousands of supporters came to the match.	На матч пришли тысячи болельщиков.	football supporters
+20	challenge	n	вызов, трудная задача	Learning a language is a big challenge.	Выучить язык — серьёзный вызов.	face a challenge
+20	win	n	победа	It was our third win this season.	Это была наша третья победа в сезоне.	a big win
+20	racing	n	гонки	He loves car racing.	Он обожает автогонки.	horse racing
+20	rugby	n	регби	Rugby is very popular in New Zealand.	Регби очень популярно в Новой Зеландии.	play rugby
+20	swim	n	заплыв, купание	Let's go for a swim in the lake.	Пойдём искупаемся в озере.	go for a swim
+20	award	v	награждать, присуждать	She was awarded a gold medal.	Ей вручили золотую медаль.	award a prize
+20	participate	v	участвовать	Over 50 teams participated in the tournament.	В турнире участвовали более 50 команд.	participate in sth
+20	organizer	n	организатор	The organizers canceled the race because of rain.	Организаторы отменили забег из-за дождя.	the event organizer
+20	net	n	сетка	The ball hit the net.	Мяч попал в сетку.	a tennis net
+U	21	Искусство и культура	Arts & culture
+21	exhibition	n	выставка	We visited a photo exhibition.	Мы сходили на фотовыставку.	an art exhibition
+21	performance	n	выступление, спектакль	The performance starts at 7:30.	Спектакль начинается в 19:30.	a live performance
+21	talent	n	талант	She has a real talent for music.	У неё настоящий талант к музыке.	a talent for sth
+21	plot	n	сюжет	The plot of this movie is hard to follow.	За сюжетом этого фильма сложно следить.	the plot of a movie
+21	costume	n	костюм (сценический, национальный)	The dancers wore traditional costumes.	Танцоры были в национальных костюмах.	a national costume
+21	sculpture	n	скульптура	There's a modern sculpture in front of the museum.	Перед музеем стоит современная скульптура.	a stone sculpture
+21	portrait	n	портрет	She painted a portrait of her grandmother.	Она нарисовала портрет своей бабушки.	paint a portrait
+21	drum	n	барабан	He plays the drums in a band.	Он играет на барабанах в группе.	play the drums
+21	musical	n	мюзикл	We saw a musical in New York.	Мы посмотрели мюзикл в Нью-Йорке.	a Broadway musical
+21	poetry	n	поэзия, стихи	She enjoys reading poetry.	Она любит читать стихи.	a book of poetry
+21	folk	adj	народный	They played Kazakh folk music.	Они играли казахскую народную музыку.	folk music
+21	magic	n	магия, фокусы	The children loved the magic show.	Детям очень понравилось шоу фокусов.	a magic trick
+21	entertainment	n	развлечения	The hotel offers evening entertainment.	Отель предлагает вечернюю развлекательную программу.	live entertainment
+21	horror	n	ужас; ужасы (жанр)	I don't like horror movies.	Я не люблю фильмы ужасов.	a horror movie
+21	mystery	n	тайна, загадка	His disappearance is still a mystery.	Его исчезновение до сих пор остаётся загадкой.	a murder mystery
+21	ghost	n	призрак	Do you believe in ghosts?	Ты веришь в призраков?	a ghost story
+21	poem	n	стихотворение	He wrote a poem for his wife.	Он написал стихотворение для жены.	write a poem
+21	collection	n	коллекция	The museum has a large collection of Korean art.	В музее большая коллекция корейского искусства.	a collection of sth
+21	cultural	adj	культурный	There are many cultural differences between our countries.	Между нашими странами много культурных различий.	cultural differences
+21	romantic	adj	романтичный, романтический	We had a romantic dinner by the sea.	У нас был романтический ужин у моря.	a romantic comedy
+U	22	Закон и порядок	Law & order
+22	arrest	v	арестовывать	The police arrested two men.	Полиция арестовала двух мужчин.	be arrested for sth
+22	ban	v	запрещать	Smoking is banned in all restaurants.	Курение запрещено во всех ресторанах.	ban sth
+22	illegal	adj	незаконный	It's illegal to park here.	Парковаться здесь незаконно.	illegal parking
+22	legal	adj	законный, юридический	We need legal advice before we sign.	Перед подписанием нам нужна юридическая консультация.	legal advice
+22	prisoner	n	заключённый	The prisoner escaped last night.	Заключённый сбежал прошлой ночью.	a political prisoner
+22	victim	n	жертва, пострадавший	The police are talking to the victims.	Полиция беседует с пострадавшими.	a victim of crime
+22	guilty	adj	виновный	The court found him guilty.	Суд признал его виновным.	feel guilty
+22	innocent	adj	невиновный	She says she is innocent.	Она утверждает, что невиновна.	an innocent man
+22	judge	n	судья	The judge listened to both sides.	Судья выслушал обе стороны.	a judge in court
+22	court	n	суд	The case went to court.	Дело дошло до суда.	go to court
+22	punish	v	наказывать	Drivers who speed will be punished.	Водителей, превышающих скорость, накажут.	punish sb for sth
+22	guard	n	охранник	A security guard checked our bags.	Охранник проверил наши сумки.	a security guard
+22	punishment	n	наказание	The punishment was too strict.	Наказание было слишком суровым.	a fair punishment
+22	cheat	v	жульничать, списывать	He cheated on the exam.	Он списывал на экзамене.	cheat at cards
+22	commit	v	совершать (преступление)	He committed a serious crime.	Он совершил тяжкое преступление.	commit a crime
+22	prove	v	доказывать	Can you prove that you were at home?	Вы можете доказать, что были дома?	prove sth
+22	claim	v	утверждать; заявлять права	He claims that he didn't see the car.	Он утверждает, что не видел машину.	claim that
+22	lie	v	лгать	Don't lie to me!	Не лги мне!	lie to sb
+22	unfair	adj	несправедливый	The decision was unfair.	Решение было несправедливым.	unfair treatment
+22	identity	n	личность	The police checked his identity.	Полиция проверила его личность.	an identity card
+U	23	Общество	Society
+23	vote	v	голосовать	Who did you vote for?	За кого ты голосовал?	vote for sb
+23	election	n	выборы	The election is next month.	Выборы в следующем месяце.	win an election
+23	politician	n	политик	The politician promised lower taxes.	Политик пообещал снизить налоги.	a famous politician
+23	policy	n	политика, правила (компании)	What is the company's policy on returns?	Какие у компании правила возврата?	company policy
+23	nation	n	нация, страна	The whole nation watched the match.	Вся страна смотрела матч.	the whole nation
+23	protest	n	протест	There was a protest outside the factory.	У завода прошёл протест.	a peaceful protest
+23	authority	n	власть; полномочия	The local authorities closed the road.	Местные власти закрыли дорогу.	the local authorities
+23	poverty	n	бедность	Many people still live in poverty.	Многие люди всё ещё живут в бедности.	live in poverty
+23	immigrant	n	иммигрант	Many immigrants work in this city.	В этом городе работает много иммигрантов.	a new immigrant
+23	volunteer	n	волонтёр	Volunteers helped clean the park.	Волонтёры помогли убрать парк.	work as a volunteer
+23	donate	v	жертвовать, дарить	We donated old clothes to charity.	Мы отдали старую одежду на благотворительность.	donate money
+23	tax	n	налог	Prices include tax.	Цены указаны с учётом налога.	pay tax
+23	politics	n	политика (сфера)	I'm not interested in politics.	Я не интересуюсь политикой.	be involved in politics
+23	political	adj	политический	The country has a stable political system.	В стране стабильная политическая система.	a political party
+23	religion	n	религия	People of all religions live in this city.	В этом городе живут люди всех религий.	freedom of religion
+23	union	n	союз; профсоюз	Kazakhstan is a member of the Eurasian Economic Union.	Казахстан — член Евразийского экономического союза.	a trade union
+23	equal	adj	равный	Men and women should get equal pay.	Мужчины и женщины должны получать равную зарплату.	equal rights
+23	royal	adj	королевский	We visited the royal palace in Bangkok.	Мы побывали в королевском дворце в Бангкоке.	the royal family
+23	unemployment	n	безработица	Unemployment has fallen this year.	В этом году безработица снизилась.	high unemployment
+23	official	adj	официальный	Kazakh and Russian are official languages.	Казахский и русский — официальные языки.	an official visit
+U	24	Проблемы и решения	Problems & solutions
+24	warn	v	предупреждать	I warned you about the traffic!	Я же предупреждал тебя о пробках!	warn sb about sth
+24	warning	n	предупреждение	There's a storm warning for tomorrow.	На завтра объявлено штормовое предупреждение.	a warning sign
+24	risk	n	риск	Smoking increases the risk of heart disease.	Курение повышает риск болезней сердца.	take a risk
+24	lack	n	нехватка, отсутствие	The project failed because of a lack of money.	Проект провалился из-за нехватки денег.	a lack of sth
+24	difficulty	n	трудность	We had difficulty finding the hotel.	Мы с трудом нашли отель.	have difficulty doing sth
+24	pressure	n	давление	I work well under pressure.	Я хорошо работаю в условиях давления.	under pressure
+24	consequence	n	последствие	Think about the consequences before you decide.	Подумай о последствиях, прежде чем решать.	serious consequences
+24	impact	n	влияние, воздействие	The new law had a big impact on prices.	Новый закон сильно повлиял на цены.	have an impact on sth
+24	influence	v	влиять	The weather influences my mood.	Погода влияет на моё настроение.	influence sb's decision
+24	effort	n	усилие	Thank you for all your effort.	Спасибо за все ваши старания.	make an effort
+24	ignore	v	игнорировать	He ignored my advice.	Он проигнорировал мой совет.	ignore a problem
+24	bother	v	беспокоить, мешать	Sorry to bother you, but can I ask a question?	Извините за беспокойство, можно задать вопрос?	sorry to bother you
+24	improvement	n	улучшение	There has been a big improvement in sales.	Продажи заметно улучшились.	an improvement in sth
+24	alternative	adj	альтернативный, другой	We need an alternative plan.	Нам нужен запасной план.	an alternative solution
+24	essential	adj	необходимый, важнейший	Good English is essential for this job.	Хороший английский необходим для этой работы.	essential for sth
+24	unnecessary	adj	ненужный, излишний	Let's avoid unnecessary costs.	Давайте избегать ненужных расходов.	unnecessary risk
+24	limit	n	предел, ограничение	There is a limit of two bags per person.	Есть ограничение — две сумки на человека.	a time limit
+24	balance	n	баланс, равновесие	It's hard to find a balance between work and family.	Трудно найти баланс между работой и семьёй.	work-life balance
+24	occur	v	случаться, происходить	The problem occurred during shipping.	Проблема возникла во время перевозки.	occur to sb
+24	escape	v	сбежать, избежать	Nobody can escape from this problem.	От этой проблемы никуда не деться.	escape from sth
+U	25	Мысли и мнения	Thinking & opinions
+25	doubt	v	сомневаться	I doubt he'll come on time.	Сомневаюсь, что он придёт вовремя.	no doubt
+25	attitude	n	отношение, позиция	She has a positive attitude to work.	У неё позитивное отношение к работе.	a positive attitude
+25	obvious	adj	очевидный	The answer is obvious.	Ответ очевиден.	it's obvious that
+25	aware	adj	осведомлённый, знающий	Are you aware of the new rules?	Ты в курсе новых правил?	be aware of sth
+25	belief	n	убеждение, вера	It's my belief that hard work pays off.	Я убеждён, что упорный труд окупается.	a strong belief
+25	impression	n	впечатление	She made a good impression at the interview.	Она произвела хорошее впечатление на собеседовании.	make a good impression
+25	intend	v	намереваться	I intend to finish the report today.	Я намерен закончить отчёт сегодня.	intend to do sth
+25	pretend	v	притворяться	He pretended not to see me.	Он сделал вид, что не видит меня.	pretend to do sth
+25	wonder	v	интересоваться, задаваться вопросом	I wonder if she got my message.	Интересно, получила ли она моё сообщение.	I wonder if/why
+25	prediction	n	прогноз, предсказание	His prediction was correct.	Его прогноз оказался верным.	make a prediction
+25	disadvantage	n	недостаток	The main disadvantage is the price.	Главный недостаток — цена.	advantages and disadvantages
+25	truth	n	правда	Tell me the truth.	Скажи мне правду.	tell the truth
+25	intention	n	намерение	I have no intention of leaving the company.	У меня нет намерения уходить из компании.	have no intention of doing sth
+25	dislike	v	не любить	I dislike long meetings.	Я не люблю долгие совещания.	dislike doing sth
+25	reality	n	реальность, действительность	In reality, the project will take longer.	В действительности проект займёт больше времени.	in reality
+25	comparison	n	сравнение	Here is a price comparison of three suppliers.	Вот сравнение цен трёх поставщиков.	in comparison with
+25	contrast	n	контраст, противоположность	In contrast to last year, sales are growing.	В отличие от прошлого года, продажи растут.	in contrast to
+25	definite	adj	определённый, точный	We need a definite answer by Friday.	Нам нужен точный ответ к пятнице.	a definite answer
+25	imaginary	adj	воображаемый	The story takes place in an imaginary city.	Действие истории происходит в вымышленном городе.	an imaginary friend
+25	personally	adv	лично	Personally, I prefer the first option.	Лично я предпочитаю первый вариант.	personally responsible
