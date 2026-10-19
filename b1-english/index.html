@@ -67,6 +67,7 @@ h2{font-size:18px;margin:22px 0 10px;font-weight:800}
 .pic{position:relative;width:100%;aspect-ratio:640/616;border-radius:18px;overflow:hidden;background:var(--sunk) no-repeat;background-size:300% 200%}
 .pic.thumb{width:56px;border-radius:12px;flex-shrink:0}
 .pic.med{width:100%;max-width:340px;margin:0 auto}
+.pic.sm{width:100%;max-width:200px;margin:0 auto}
 .en{font-size:34px;font-weight:800;letter-spacing:-.5px;line-height:1.1}
 .ipa{font-family:ui-monospace,Menlo,monospace;color:var(--muted);font-size:14px}
 .ex{background:var(--sunk);border-radius:14px;padding:12px;display:flex;gap:10px;align-items:flex-start}
@@ -251,7 +252,7 @@ R.session=()=>{tabs(null);if(!SES||!SES.queue.length){app(`<div class="stack" st
   const it=SES.queue[0],w=byId[it.id],cnt={n:0,l:0,r:0};SES.queue.forEach(q=>cnt[q.k]++);
   app(`<div class="top"><button class="icon-btn" id="x" aria-label="Закрыть">${ic("close")}</button><div class="bar"><i style="width:${SES.done/(SES.done+SES.queue.length)*100}%"></i></div><span class="mark">${SES.done}/${SES.done+SES.queue.length}</span></div>
   <div class="row" style="gap:6px;margin-bottom:10px"><span class="chip gray">НОВЫЕ · ${cnt.n}</span><span class="chip amber">УЧУ · ${cnt.l}</span><span class="chip violet">ПОВТОР · ${cnt.r}</span></div>
-  <div class="card stack" style="padding:14px">${pic(w,SES.shown?"med":"")}
+  <div class="card stack" style="padding:14px">${pic(w,SES.shown?"sm":"")}
    <div class="between"><div><div class="en">${esc(w.en)}</div><div class="ipa">/${esc(w.ipa)}/ · ${POS[w.pos]}</div></div><button class="icon-btn blue" id="pw" aria-label="Произношение">${ic("sound")}</button></div>
    ${SES.shown?backHtml(w):""}</div>
   <div style="margin-top:12px">${SES.shown?`<div class="grades">${["Снова","Трудно","Хорошо","Легко"].map((l,i)=>`<button class="g${i+1}" data-g="${i+1}">${l}<small>${fmtIvl(preview(w.id,i+1))}</small></button>`).join("")}</div>

@@ -142,7 +142,9 @@
    "img": {
     "sheet": 1,
     "cell": 1
-   }
+   },
+   "ex2": "The fire alarm went off during our meeting in Almaty.",
+   "ex2Ru": "Во время нашей встречи в Алматы сработала пожарная сигнализация."
   },
   {
    "id": 2,
@@ -157,7 +159,9 @@
    "img": {
     "sheet": 1,
     "cell": 2
-   }
+   },
+   "ex2": "I ironed my suit in the hotel room before the presentation.",
+   "ex2Ru": "Перед презентацией я погладил костюм в номере отеля."
   },
   {
    "id": 3,
@@ -172,7 +176,9 @@
    "img": {
     "sheet": 1,
     "cell": 3
-   }
+   },
+   "ex2": "There's no need to hurry — the store is open until ten.",
+   "ex2Ru": "Не нужно спешить — магазин работает до десяти."
   },
   {
    "id": 4,
@@ -187,7 +193,9 @@
    "img": {
     "sheet": 1,
     "cell": 4
-   }
+   },
+   "ex2": "Our new apartment has really high ceilings.",
+   "ex2Ru": "В нашей новой квартире очень высокие потолки."
   },
   {
    "id": 5,
@@ -202,7 +210,9 @@
    "img": {
     "sheet": 1,
     "cell": 5
-   }
+   },
+   "ex2": "We need new curtains for the living room.",
+   "ex2Ru": "Нам нужны новые шторы для гостиной."
   },
   {
    "id": 6,
@@ -217,7 +227,9 @@
    "img": {
     "sheet": 1,
     "cell": 6
-   }
+   },
+   "ex2": "The coffee is on the top shelf, next to the tea.",
+   "ex2Ru": "Кофе стоит на верхней полке, рядом с чаем."
   },
   {
    "id": 7,
@@ -232,7 +244,9 @@
    "img": {
     "sheet": 2,
     "cell": 1
-   }
+   },
+   "ex2": "The heating in our office isn't working again.",
+   "ex2Ru": "В нашем офисе опять не работает отопление."
   },
   {
    "id": 8,
@@ -247,7 +261,9 @@
    "img": {
     "sheet": 2,
     "cell": 2
-   }
+   },
+   "ex2": "The kids made a huge mess in the kitchen.",
+   "ex2Ru": "Дети устроили на кухне страшный беспорядок."
   },
   {
    "id": 9,
@@ -262,7 +278,9 @@
    "img": {
     "sheet": 2,
     "cell": 3
-   }
+   },
+   "ex2": "There's a lot of dust under the bed.",
+   "ex2Ru": "Под кроватью полно пыли."
   },
   {
    "id": 10,
@@ -277,7 +295,9 @@
    "img": {
     "sheet": 2,
     "cell": 4
-   }
+   },
+   "ex2": "She folded the letter and put it in an envelope.",
+   "ex2Ru": "Она сложила письмо и положила его в конверт."
   },
   {
    "id": 11,
@@ -292,7 +312,9 @@
    "img": {
     "sheet": 2,
     "cell": 5
-   }
+   },
+   "ex2": "We're hanging a new picture in the hallway.",
+   "ex2Ru": "Мы вешаем новую картину в прихожей."
   },
   {
    "id": 12,
@@ -307,7 +329,9 @@
    "img": {
     "sheet": 2,
     "cell": 6
-   }
+   },
+   "ex2": "My neighbor watered my plants while I was in Tokyo.",
+   "ex2Ru": "Пока я был в Токио, соседка поливала мои цветы."
   },
   {
    "id": 13,
@@ -322,7 +346,9 @@
    "img": {
     "sheet": 3,
     "cell": 1
-   }
+   },
+   "ex2": "My assistant reminded me about the meeting at the clinic.",
+   "ex2Ru": "Ассистентка напомнила мне о встрече в клинике."
   },
   {
    "id": 14,
@@ -337,7 +363,9 @@
    "img": {
     "sheet": 3,
     "cell": 2
-   }
+   },
+   "ex2": "I need to cancel my appointment for Friday.",
+   "ex2Ru": "Мне нужно отменить запись на пятницу."
   },
   {
    "id": 15,
@@ -352,7 +380,9 @@
    "img": {
     "sheet": 3,
     "cell": 3
-   }
+   },
+   "ex2": "Don't forget to empty the dishwasher before you leave.",
+   "ex2Ru": "Не забудь разгрузить посудомойку перед уходом."
   },
   {
    "id": 16,
@@ -367,7 +397,9 @@
    "img": {
     "sheet": 3,
     "cell": 4
-   }
+   },
+   "ex2": "The clinic stores patient records on a secure server.",
+   "ex2Ru": "Клиника хранит медицинские карты пациентов на защищённом сервере."
   },
   {
    "id": 17,
@@ -382,7 +414,9 @@
    "img": {
     "sheet": 3,
     "cell": 5
-   }
+   },
+   "ex2": "We cleared the snow from the driveway this morning.",
+   "ex2Ru": "Сегодня утром мы расчистили от снега подъезд к дому."
   },
   {
    "id": 18,
@@ -397,7 +431,9 @@
    "img": {
     "sheet": 3,
     "cell": 6
-   }
+   },
+   "ex2": "She warmed the milk for the baby.",
+   "ex2Ru": "Она подогрела молоко для малыша."
   },
   {
    "id": 19,
@@ -412,7 +448,9 @@
    "img": {
     "sheet": 4,
     "cell": 1
-   }
+   },
+   "ex2": "I left some of my stuff at the hotel in Bishkek.",
+   "ex2Ru": "Я оставил часть своих вещей в отеле в Бишкеке."
   },
   {
    "id": 20,
@@ -427,7 +465,9 @@
    "img": {
     "sheet": 4,
     "cell": 2
-   }
+   },
+   "ex2": "Clean the monitor screen with a soft, dry cloth.",
+   "ex2Ru": "Протирайте экран монитора мягкой сухой тряпочкой."
   },
   {
    "id": 21,
@@ -442,7 +482,9 @@
    "img": {
     "sheet": 4,
     "cell": 3
-   }
+   },
+   "ex2": "Our rent went up again this year.",
+   "ex2Ru": "В этом году нам снова подняли арендную плату."
   },
   {
    "id": 22,
@@ -457,7 +499,9 @@
    "img": {
     "sheet": 4,
     "cell": 4
-   }
+   },
+   "ex2": "The ultrasound machine was sent back for repair.",
+   "ex2Ru": "Аппарат УЗИ отправили обратно в ремонт."
   },
   {
    "id": 23,
@@ -472,7 +516,9 @@
    "img": {
     "sheet": 4,
     "cell": 5
-   }
+   },
+   "ex2": "Have you decorated the Christmas tree yet?",
+   "ex2Ru": "Вы уже нарядили ёлку?"
   },
   {
    "id": 24,
@@ -487,7 +533,9 @@
    "img": {
     "sheet": 4,
     "cell": 6
-   }
+   },
+   "ex2": "I took my car to the garage because the brakes were making noise.",
+   "ex2Ru": "Я отвёз машину в автосервис: тормоза начали шуметь."
   },
   {
    "id": 25,
@@ -502,7 +550,9 @@
    "img": {
     "sheet": 5,
     "cell": 1
-   }
+   },
+   "ex2": "My grandparents spend every summer at their cottage.",
+   "ex2Ru": "Бабушка с дедушкой каждое лето проводят на даче."
   },
   {
    "id": 26,
@@ -517,7 +567,9 @@
    "img": {
     "sheet": 5,
     "cell": 2
-   }
+   },
+   "ex2": "We had a barbecue in the back yard on Saturday.",
+   "ex2Ru": "В субботу мы устроили барбекю на заднем дворе."
   },
   {
    "id": 27,
@@ -532,7 +584,9 @@
    "img": {
     "sheet": 5,
     "cell": 3
-   }
+   },
+   "ex2": "We're going to paint the fence white.",
+   "ex2Ru": "Мы собираемся покрасить забор в белый цвет."
   },
   {
    "id": 28,
@@ -547,7 +601,9 @@
    "img": {
     "sheet": 5,
     "cell": 4
-   }
+   },
+   "ex2": "Is this neighborhood safe at night?",
+   "ex2Ru": "В этом районе ночью безопасно?"
   },
   {
    "id": 29,
@@ -562,7 +618,9 @@
    "img": {
     "sheet": 5,
     "cell": 5
-   }
+   },
+   "ex2": "My friend invests his money in property in Almaty.",
+   "ex2Ru": "Мой друг вкладывает деньги в недвижимость в Алматы."
   },
   {
    "id": 30,
@@ -577,7 +635,9 @@
    "img": {
     "sheet": 5,
     "cell": 6
-   }
+   },
+   "ex2": "Where is your head office located?",
+   "ex2Ru": "Где находится ваш головной офис?"
   },
   {
    "id": 31,
@@ -592,7 +652,9 @@
    "img": {
     "sheet": 6,
     "cell": 1
-   }
+   },
+   "ex2": "We deliver equipment to hospitals in remote areas.",
+   "ex2Ru": "Мы поставляем оборудование в больницы отдалённых районов."
   },
   {
    "id": 32,
@@ -607,7 +669,9 @@
    "img": {
     "sheet": 6,
     "cell": 2
-   }
+   },
+   "ex2": "I grew up in the countryside, so I love fresh air.",
+   "ex2Ru": "Я вырос в деревне, поэтому люблю свежий воздух."
   },
   {
    "id": 33,
@@ -622,7 +686,9 @@
    "img": {
     "sheet": 6,
     "cell": 3
-   }
+   },
+   "ex2": "The pipes froze during that cold winter.",
+   "ex2Ru": "Той холодной зимой у нас замёрзли трубы."
   },
   {
    "id": 34,
@@ -637,7 +703,9 @@
    "img": {
     "sheet": 6,
     "cell": 4
-   }
+   },
+   "ex2": "The bank is just two blocks from here.",
+   "ex2Ru": "Банк всего в двух кварталах отсюда."
   },
   {
    "id": 35,
@@ -652,7 +720,9 @@
    "img": {
     "sheet": 6,
     "cell": 5
-   }
+   },
+   "ex2": "Is this a private clinic or a public one?",
+   "ex2Ru": "Это частная клиника или государственная?"
   },
   {
    "id": 36,
@@ -667,7 +737,9 @@
    "img": {
     "sheet": 6,
     "cell": 6
-   }
+   },
+   "ex2": "The temples in Kyoto are so peaceful in the morning.",
+   "ex2Ru": "Утром в храмах Киото так спокойно."
   },
   {
    "id": 37,
@@ -682,7 +754,9 @@
    "img": {
     "sheet": 7,
     "cell": 1
-   }
+   },
+   "ex2": "The weather in Lima was warm and pleasant.",
+   "ex2Ru": "Погода в Лиме была тёплой и приятной."
   },
   {
    "id": 38,
@@ -697,7 +771,9 @@
    "img": {
     "sheet": 7,
     "cell": 2
-   }
+   },
+   "ex2": "I broke a nail opening the box.",
+   "ex2Ru": "Я сломала ноготь, когда открывала коробку."
   },
   {
    "id": 39,
@@ -712,7 +788,9 @@
    "img": {
     "sheet": 7,
     "cell": 3
-   }
+   },
+   "ex2": "Hotel rooms in Tokyo are often tiny.",
+   "ex2Ru": "Номера в токийских отелях часто крошечные."
   },
   {
    "id": 40,
@@ -727,7 +805,9 @@
    "img": {
     "sheet": 7,
     "cell": 4
-   }
+   },
+   "ex2": "Don't put your glass so close to the edge of the table.",
+   "ex2Ru": "Не ставь стакан так близко к краю стола."
   },
   {
    "id": 41,
@@ -742,7 +822,9 @@
    "img": {
     "sheet": 7,
     "cell": 5
-   }
+   },
+   "ex2": "My wife bakes cookies every Christmas.",
+   "ex2Ru": "Жена каждое Рождество печёт печенье."
   },
   {
    "id": 42,
@@ -757,7 +839,9 @@
    "img": {
     "sheet": 7,
     "cell": 6
-   }
+   },
+   "ex2": "Do you want me to fry some eggs for breakfast?",
+   "ex2Ru": "Пожарить тебе яичницу на завтрак?"
   },
   {
    "id": 43,
@@ -772,7 +856,9 @@
    "img": {
     "sheet": 8,
     "cell": 1
-   }
+   },
+   "ex2": "Can I have a slice of lemon in my tea?",
+   "ex2Ru": "Можно мне ломтик лимона в чай?"
   },
   {
    "id": 44,
@@ -787,7 +873,9 @@
    "img": {
     "sheet": 8,
     "cell": 2
-   }
+   },
+   "ex2": "Is this dish too spicy for you?",
+   "ex2Ru": "Это блюдо для тебя не слишком острое?"
   },
   {
    "id": 45,
@@ -802,7 +890,9 @@
    "img": {
     "sheet": 8,
     "cell": 3
-   }
+   },
+   "ex2": "Frozen pizza is fine when I get home late from the airport.",
+   "ex2Ru": "Когда я поздно возвращаюсь из аэропорта, меня вполне устраивает замороженная пицца."
   },
   {
    "id": 46,
@@ -817,7 +907,9 @@
    "img": {
     "sheet": 8,
     "cell": 4
-   }
+   },
+   "ex2": "What's the secret ingredient in this sauce?",
+   "ex2Ru": "Какой секретный ингредиент в этом соусе?"
   },
   {
    "id": 47,
@@ -832,7 +924,9 @@
    "img": {
     "sheet": 8,
     "cell": 5
-   }
+   },
+   "ex2": "We ran out of flour, so I couldn't make pancakes.",
+   "ex2Ru": "У нас закончилась мука, поэтому блины я так и не испёк."
   },
   {
    "id": 48,
@@ -847,7 +941,9 @@
    "img": {
     "sheet": 8,
     "cell": 6
-   }
+   },
+   "ex2": "Don't put this pan in the dishwasher.",
+   "ex2Ru": "Эту сковороду нельзя мыть в посудомойке."
   },
   {
    "id": 49,
@@ -862,7 +958,9 @@
    "img": {
     "sheet": 9,
     "cell": 1
-   }
+   },
+   "ex2": "This plant needs a bigger pot.",
+   "ex2Ru": "Этому растению нужен горшок побольше."
   },
   {
    "id": 50,
@@ -877,7 +975,9 @@
    "img": {
     "sheet": 9,
     "cell": 2
-   }
+   },
+   "ex2": "It's pouring outside — take an umbrella.",
+   "ex2Ru": "На улице льёт как из ведра — возьми зонт."
   },
   {
    "id": 51,
@@ -892,7 +992,9 @@
    "img": {
     "sheet": 9,
     "cell": 3
-   }
+   },
+   "ex2": "You shouldn't mix these pills with alcohol.",
+   "ex2Ru": "Эти таблетки нельзя совмещать с алкоголем."
   },
   {
    "id": 52,
@@ -907,7 +1009,9 @@
    "img": {
     "sheet": 9,
     "cell": 4
-   }
+   },
+   "ex2": "Water freezes at zero degrees Celsius.",
+   "ex2Ru": "Вода замерзает при нуле градусов по Цельсию."
   },
   {
    "id": 53,
@@ -922,7 +1026,9 @@
    "img": {
     "sheet": 9,
     "cell": 5
-   }
+   },
+   "ex2": "I try to eat more whole grains.",
+   "ex2Ru": "Я стараюсь есть больше цельнозерновых продуктов."
   },
   {
    "id": 54,
@@ -937,7 +1043,9 @@
    "img": {
     "sheet": 9,
     "cell": 6
-   }
+   },
+   "ex2": "Keep this liquid away from children.",
+   "ex2Ru": "Храните эту жидкость в недоступном для детей месте."
   },
   {
    "id": 55,
@@ -952,7 +1060,9 @@
    "img": {
     "sheet": 10,
     "cell": 1
-   }
+   },
+   "ex2": "The containers with our equipment arrived at the port yesterday.",
+   "ex2Ru": "Контейнеры с нашим оборудованием вчера прибыли в порт."
   },
   {
    "id": 56,
@@ -967,7 +1077,9 @@
    "img": {
     "sheet": 10,
     "cell": 2
-   }
+   },
+   "ex2": "There's a tin of cookies in the cupboard.",
+   "ex2Ru": "В шкафу стоит жестяная банка с печеньем."
   },
   {
    "id": 57,
@@ -982,7 +1094,9 @@
    "img": {
     "sheet": 10,
     "cell": 3
-   }
+   },
+   "ex2": "The city is an interesting mixture of old and new.",
+   "ex2Ru": "Этот город — интересная смесь старого и нового."
   },
   {
    "id": 58,
@@ -997,7 +1111,9 @@
    "img": {
     "sheet": 10,
     "cell": 4
-   }
+   },
+   "ex2": "I need a sharper knife to cut this bread.",
+   "ex2Ru": "Чтобы порезать этот хлеб, нужен нож поострее."
   },
   {
    "id": 59,
@@ -1012,7 +1128,9 @@
    "img": {
     "sheet": 10,
     "cell": 5
-   }
+   },
+   "ex2": "We bought some warm rolls at the bakery.",
+   "ex2Ru": "Мы купили в пекарне тёплых булочек."
   },
   {
    "id": 60,
@@ -1027,7 +1145,9 @@
    "img": {
     "sheet": 10,
     "cell": 6
-   }
+   },
+   "ex2": "Alcohol isn't allowed in this park.",
+   "ex2Ru": "Распивать алкоголь в этом парке запрещено."
   },
   {
    "id": 61,
@@ -1042,7 +1162,9 @@
    "img": {
     "sheet": 11,
     "cell": 1
-   }
+   },
+   "ex2": "Small hospitals often can't afford expensive equipment.",
+   "ex2Ru": "Небольшие больницы часто не могут позволить себе дорогое оборудование."
   },
   {
    "id": 62,
@@ -1057,7 +1179,9 @@
    "img": {
     "sheet": 11,
     "cell": 2
-   }
+   },
+   "ex2": "The distributor asked for a bigger discount.",
+   "ex2Ru": "Дистрибьютор попросил скидку побольше."
   },
   {
    "id": 63,
@@ -1072,7 +1196,9 @@
    "img": {
     "sheet": 11,
     "cell": 3
-   }
+   },
+   "ex2": "Did you get a receipt for the taxi?",
+   "ex2Ru": "Ты взял чек за такси?"
   },
   {
    "id": 64,
@@ -1087,7 +1213,9 @@
    "img": {
     "sheet": 11,
     "cell": 4
-   }
+   },
+   "ex2": "The new mall has a great food court.",
+   "ex2Ru": "В новом торговом центре отличный фуд-корт."
   },
   {
    "id": 65,
@@ -1102,7 +1230,9 @@
    "img": {
     "sheet": 11,
     "cell": 5
-   }
+   },
+   "ex2": "We're still waiting for the second payment from the hospital.",
+   "ex2Ru": "Мы всё ещё ждём второй платёж от больницы."
   },
   {
    "id": 66,
@@ -1117,7 +1247,9 @@
    "img": {
     "sheet": 11,
     "cell": 6
-   }
+   },
+   "ex2": "For many families, a trip to Japan is a luxury.",
+   "ex2Ru": "Для многих семей поездка в Японию — это роскошь."
   },
   {
    "id": 67,
@@ -1132,7 +1264,9 @@
    "img": {
     "sheet": 12,
     "cell": 1
-   }
+   },
+   "ex2": "Her advice was really valuable for my career.",
+   "ex2Ru": "Её совет оказался очень ценным для моей карьеры."
   },
   {
    "id": 68,
@@ -1147,7 +1281,9 @@
    "img": {
     "sheet": 12,
     "cell": 2
-   }
+   },
+   "ex2": "My son collects old coins from different countries.",
+   "ex2Ru": "Мой сын собирает старые монеты разных стран."
   },
   {
    "id": 69,
@@ -1162,7 +1298,9 @@
    "img": {
     "sheet": 12,
     "cell": 3
-   }
+   },
+   "ex2": "Check the label — it says \"Made in Korea.\"",
+   "ex2Ru": "Посмотри на этикетку — там написано «Сделано в Корее»."
   },
   {
    "id": 70,
@@ -1177,7 +1315,9 @@
    "img": {
     "sheet": 12,
     "cell": 4
-   }
+   },
+   "ex2": "Has the package from the head office arrived yet?",
+   "ex2Ru": "Посылка из головного офиса уже пришла?"
   },
   {
    "id": 71,
@@ -1192,7 +1332,9 @@
    "img": {
     "sheet": 12,
     "cell": 5
-   }
+   },
+   "ex2": "The trip was expensive, but it was worth it.",
+   "ex2Ru": "Поездка была дорогой, но она того стоила."
   },
   {
    "id": 72,
@@ -1207,7 +1349,9 @@
    "img": {
     "sheet": 12,
     "cell": 6
-   }
+   },
+   "ex2": "I exchanged some dollars for yen at the airport.",
+   "ex2Ru": "В аэропорту я обменял немного долларов на иены."
   },
   {
    "id": 73,
@@ -1222,7 +1366,9 @@
    "img": {
     "sheet": 13,
     "cell": 1
-   }
+   },
+   "ex2": "Government spending on health care went up this year.",
+   "ex2Ru": "В этом году государственные расходы на здравоохранение выросли."
   },
   {
    "id": 74,
@@ -1237,7 +1383,9 @@
    "img": {
     "sheet": 13,
     "cell": 2
-   }
+   },
+   "ex2": "The value of the peso dropped last month.",
+   "ex2Ru": "В прошлом месяце стоимость песо упала."
   },
   {
    "id": 75,
@@ -1252,7 +1400,9 @@
    "img": {
     "sheet": 13,
     "cell": 3
-   }
+   },
+   "ex2": "Wide jeans are fashionable again.",
+   "ex2Ru": "Широкие джинсы снова в моде."
   },
   {
    "id": 76,
@@ -1267,7 +1417,9 @@
    "img": {
     "sheet": 13,
     "cell": 4
-   }
+   },
+   "ex2": "These leather shoes are really comfortable.",
+   "ex2Ru": "Эти кожаные туфли очень удобные."
   },
   {
    "id": 77,
@@ -1282,7 +1434,9 @@
    "img": {
     "sheet": 13,
     "cell": 5
-   }
+   },
+   "ex2": "In hot weather I only wear cotton shirts.",
+   "ex2Ru": "В жару я ношу только хлопковые рубашки."
   },
   {
    "id": 78,
@@ -1297,7 +1451,9 @@
    "img": {
     "sheet": 13,
     "cell": 6
-   }
+   },
+   "ex2": "Wool socks keep your feet warm in winter.",
+   "ex2Ru": "Шерстяные носки зимой согревают ноги."
   },
   {
    "id": 79,
@@ -1312,7 +1468,9 @@
    "img": {
     "sheet": 14,
     "cell": 1
-   }
+   },
+   "ex2": "The nurse put on a pair of gloves.",
+   "ex2Ru": "Медсестра надела перчатки."
   },
   {
    "id": 80,
@@ -1327,7 +1485,9 @@
    "img": {
     "sheet": 14,
     "cell": 2
-   }
+   },
+   "ex2": "I don't need anything fancy — just a clean room.",
+   "ex2Ru": "Мне не нужно ничего шикарного — просто чистый номер."
   },
   {
    "id": 81,
@@ -1342,7 +1502,9 @@
    "img": {
     "sheet": 14,
     "cell": 3
-   }
+   },
+   "ex2": "We trained the clinic staff to use the new scanner.",
+   "ex2Ru": "Мы обучили персонал клиники работать с новым сканером."
   },
   {
    "id": 82,
@@ -1357,7 +1519,9 @@
    "img": {
     "sheet": 14,
     "cell": 4
-   }
+   },
+   "ex2": "When do you plan to retire?",
+   "ex2Ru": "Когда вы планируете выйти на пенсию?"
   },
   {
    "id": 83,
@@ -1372,7 +1536,9 @@
    "img": {
     "sheet": 14,
     "cell": 5
-   }
+   },
+   "ex2": "Her qualifications are perfect for this position.",
+   "ex2Ru": "Её квалификация идеально подходит для этой должности."
   },
   {
    "id": 84,
@@ -1387,7 +1553,9 @@
    "img": {
     "sheet": 14,
     "cell": 6
-   }
+   },
+   "ex2": "Only qualified technicians can repair this machine.",
+   "ex2Ru": "Ремонтировать этот аппарат могут только квалифицированные специалисты."
   },
   {
    "id": 85,
@@ -1402,7 +1570,9 @@
    "img": {
     "sheet": 15,
     "cell": 1
-   }
+   },
+   "ex2": "Many young people in our town are unemployed.",
+   "ex2Ru": "В нашем городе много безработной молодёжи."
   },
   {
    "id": 86,
@@ -1417,7 +1587,9 @@
    "img": {
     "sheet": 15,
     "cell": 2
-   }
+   },
+   "ex2": "What made you choose this profession?",
+   "ex2Ru": "Почему вы выбрали эту профессию?"
   },
   {
    "id": 87,
@@ -1432,7 +1604,9 @@
    "img": {
     "sheet": 15,
     "cell": 3
-   }
+   },
+   "ex2": "Our manager took full responsibility for the delay.",
+   "ex2Ru": "Наш руководитель взял на себя полную ответственность за задержку."
   },
   {
    "id": 88,
@@ -1447,7 +1621,9 @@
    "img": {
     "sheet": 15,
     "cell": 4
-   }
+   },
+   "ex2": "I'm working the morning shift this week.",
+   "ex2Ru": "На этой неделе я работаю в утреннюю смену."
   },
   {
    "id": 89,
@@ -1462,7 +1638,9 @@
    "img": {
     "sheet": 15,
     "cell": 5
-   }
+   },
+   "ex2": "They hired a local guide in Kyoto.",
+   "ex2Ru": "В Киото они наняли местного гида."
   },
   {
    "id": 90,
@@ -1477,7 +1655,9 @@
    "img": {
     "sheet": 15,
     "cell": 6
-   }
+   },
+   "ex2": "My uncle finally quit smoking.",
+   "ex2Ru": "Мой дядя наконец бросил курить."
   },
   {
    "id": 91,
@@ -1492,7 +1672,9 @@
    "img": {
     "sheet": 16,
     "cell": 1
-   }
+   },
+   "ex2": "Which candidate did you vote for?",
+   "ex2Ru": "За какого кандидата ты голосовал?"
   },
   {
    "id": 92,
@@ -1507,7 +1689,9 @@
    "img": {
     "sheet": 16,
     "cell": 2
-   }
+   },
+   "ex2": "Our service engineers are very experienced.",
+   "ex2Ru": "Наши сервисные инженеры очень опытные."
   },
   {
    "id": 93,
@@ -1522,7 +1706,9 @@
    "img": {
     "sheet": 16,
     "cell": 3
-   }
+   },
+   "ex2": "Your visa application has been approved.",
+   "ex2Ru": "Ваше заявление на визу одобрено."
   },
   {
    "id": 94,
@@ -1537,7 +1723,9 @@
    "img": {
     "sheet": 16,
     "cell": 4
-   }
+   },
+   "ex2": "He found employment at a car factory.",
+   "ex2Ru": "Он устроился на работу на автомобильный завод."
   },
   {
    "id": 95,
@@ -1552,7 +1740,9 @@
    "img": {
     "sheet": 16,
     "cell": 5
-   }
+   },
+   "ex2": "You're not responsible for his mistakes.",
+   "ex2Ru": "Ты не отвечаешь за его ошибки."
   },
   {
    "id": 96,
@@ -1567,7 +1757,9 @@
    "img": {
     "sheet": 16,
     "cell": 6
-   }
+   },
+   "ex2": "Which doctor is on duty tonight?",
+   "ex2Ru": "Какой врач сегодня дежурит ночью?"
   },
   {
    "id": 97,
@@ -1582,7 +1774,9 @@
    "img": {
     "sheet": 17,
     "cell": 1
-   }
+   },
+   "ex2": "Learning Japanese at forty is a real achievement.",
+   "ex2Ru": "Выучить японский в сорок лет — настоящее достижение."
   },
   {
    "id": 98,
@@ -1597,7 +1791,9 @@
    "img": {
     "sheet": 17,
     "cell": 2
-   }
+   },
+   "ex2": "My son has big ambitions in sports.",
+   "ex2Ru": "У моего сына большие спортивные амбиции."
   },
   {
    "id": 99,
@@ -1612,7 +1808,9 @@
    "img": {
     "sheet": 17,
     "cell": 3
-   }
+   },
+   "ex2": "Do we qualify for a discount if we order ten units?",
+   "ex2Ru": "Нам положена скидка, если мы закажем десять аппаратов?"
   },
   {
    "id": 100,
@@ -1627,7 +1825,9 @@
    "img": {
     "sheet": 17,
     "cell": 4
-   }
+   },
+   "ex2": "Our engineer will assist you with the installation.",
+   "ex2Ru": "Наш инженер поможет вам с установкой."
   },
   {
    "id": 101,
@@ -1642,7 +1842,9 @@
    "img": {
     "sheet": 17,
     "cell": 5
-   }
+   },
+   "ex2": "My wife finally persuaded me to take a week off.",
+   "ex2Ru": "Жена наконец уговорила меня взять неделю отпуска."
   },
   {
    "id": 102,
@@ -1657,7 +1859,9 @@
    "img": {
     "sheet": 17,
     "cell": 6
-   }
+   },
+   "ex2": "Nobody could convince him that the restaurant was closed.",
+   "ex2Ru": "Никто не мог убедить его, что ресторан закрыт."
   },
   {
    "id": 103,
@@ -1672,7 +1876,9 @@
    "img": {
     "sheet": 18,
     "cell": 1
-   }
+   },
+   "ex2": "Did the café make any profit in its first year?",
+   "ex2Ru": "Кафе получило хоть какую-то прибыль в первый год?"
   },
   {
    "id": 104,
@@ -1687,7 +1893,9 @@
    "img": {
     "sheet": 18,
     "cell": 2
-   }
+   },
+   "ex2": "Our clients in Kazakhstan prefer to meet in person, not on Zoom.",
+   "ex2Ru": "Наши клиенты в Казахстане предпочитают встречаться лично, а не в Zoom."
   },
   {
    "id": 105,
@@ -1702,7 +1910,9 @@
    "img": {
     "sheet": 18,
     "cell": 3
-   }
+   },
+   "ex2": "The new bakery across the street is a real competitor.",
+   "ex2Ru": "Новая пекарня через дорогу — серьёзный конкурент."
   },
   {
    "id": 106,
@@ -1717,7 +1927,9 @@
    "img": {
     "sheet": 18,
     "cell": 4
-   }
+   },
+   "ex2": "Chile exports a lot of wine and copper.",
+   "ex2Ru": "Чили экспортирует много вина и меди."
   },
   {
    "id": 107,
@@ -1732,7 +1944,9 @@
    "img": {
     "sheet": 18,
     "cell": 5
-   }
+   },
+   "ex2": "Kazakhstan imports most of its medical equipment.",
+   "ex2Ru": "Казахстан импортирует большую часть медицинского оборудования."
   },
   {
    "id": 108,
@@ -1747,7 +1961,9 @@
    "img": {
     "sheet": 18,
     "cell": 6
-   }
+   },
+   "ex2": "I'd rather invest in a good mattress than a new TV.",
+   "ex2Ru": "Лучше я вложусь в хороший матрас, чем в новый телевизор."
   },
   {
    "id": 109,
@@ -1762,7 +1978,9 @@
    "img": {
     "sheet": 19,
     "cell": 1
-   }
+   },
+   "ex2": "Our marketing team made a short video about the new ultrasound.",
+   "ex2Ru": "Наш отдел маркетинга снял короткий ролик о новом УЗИ-аппарате."
   },
   {
    "id": 110,
@@ -1777,7 +1995,9 @@
    "img": {
     "sheet": 19,
     "cell": 2
-   }
+   },
+   "ex2": "Was the pizza delivered on time?",
+   "ex2Ru": "Пиццу доставили вовремя?"
   },
   {
    "id": 111,
@@ -1792,7 +2012,9 @@
    "img": {
     "sheet": 19,
     "cell": 3
-   }
+   },
+   "ex2": "My neighbors and I have an agreement about parking.",
+   "ex2Ru": "У нас с соседями есть договорённость насчёт парковки."
   },
   {
    "id": 112,
@@ -1807,7 +2029,9 @@
    "img": {
     "sheet": 19,
     "cell": 4
-   }
+   },
+   "ex2": "They closed the deal over dinner in Tashkent.",
+   "ex2Ru": "Они заключили сделку за ужином в Ташкенте."
   },
   {
    "id": 113,
@@ -1822,7 +2046,9 @@
    "img": {
     "sheet": 19,
     "cell": 5
-   }
+   },
+   "ex2": "Online stores usually have more competitive prices.",
+   "ex2Ru": "В интернет-магазинах цены обычно более конкурентные."
   },
   {
    "id": 114,
@@ -1837,7 +2063,9 @@
    "img": {
     "sheet": 19,
     "cell": 6
-   }
+   },
+   "ex2": "How should we market this app to younger users?",
+   "ex2Ru": "Как нам продвигать это приложение среди молодёжи?"
   },
   {
    "id": 115,
@@ -1852,7 +2080,9 @@
    "img": {
     "sheet": 20,
     "cell": 1
-   }
+   },
+   "ex2": "Min-jun took over three key accounts in Mexico last month.",
+   "ex2Ru": "В прошлом месяце Мин-джун взял на себя трёх ключевых клиентов в Мексике."
   },
   {
    "id": 116,
@@ -1867,7 +2097,9 @@
    "img": {
     "sheet": 20,
     "cell": 2
-   }
+   },
+   "ex2": "Have you contacted the hotel about the late check-in?",
+   "ex2Ru": "Ты связался с отелем насчёт позднего заселения?"
   },
   {
    "id": 117,
@@ -1882,7 +2114,9 @@
    "img": {
     "sheet": 20,
     "cell": 3
-   }
+   },
+   "ex2": "The standard of English at this school is very high.",
+   "ex2Ru": "Уровень английского в этой школе очень высокий."
   },
   {
    "id": 118,
@@ -1897,7 +2131,9 @@
    "img": {
     "sheet": 20,
     "cell": 4
-   }
+   },
+   "ex2": "The store has a good range of running shoes.",
+   "ex2Ru": "В этом магазине хороший выбор кроссовок для бега."
   },
   {
    "id": 119,
@@ -1912,7 +2148,9 @@
    "img": {
     "sheet": 20,
     "cell": 5
-   }
+   },
+   "ex2": "Is there an extra charge for a second bag?",
+   "ex2Ru": "За второй чемодан берут дополнительную плату?"
   },
   {
    "id": 120,
@@ -1927,7 +2165,9 @@
    "img": {
     "sheet": 20,
     "cell": 6
-   }
+   },
+   "ex2": "This recipe requires only four ingredients.",
+   "ex2Ru": "Для этого рецепта нужны всего четыре ингредиента."
   },
   {
    "id": 121,
@@ -1942,7 +2182,9 @@
    "img": {
     "sheet": 21,
     "cell": 1
-   }
+   },
+   "ex2": "She was promoted to sales director last spring.",
+   "ex2Ru": "Прошлой весной её повысили до директора по продажам."
   },
   {
    "id": 122,
@@ -1957,7 +2199,9 @@
    "img": {
     "sheet": 21,
     "cell": 2
-   }
+   },
+   "ex2": "My mom only buys one brand of coffee.",
+   "ex2Ru": "Мама покупает кофе только одной марки."
   },
   {
    "id": 123,
@@ -1972,7 +2216,9 @@
    "img": {
     "sheet": 21,
     "cell": 3
-   }
+   },
+   "ex2": "Some of the goods were damaged during shipping.",
+   "ex2Ru": "Часть товаров повредили при перевозке."
   },
   {
    "id": 124,
@@ -1987,7 +2233,9 @@
    "img": {
     "sheet": 21,
     "cell": 4
-   }
+   },
+   "ex2": "Who's going to supply the drinks for the party?",
+   "ex2Ru": "Кто займётся напитками для вечеринки?"
   },
   {
    "id": 125,
@@ -2002,7 +2250,9 @@
    "img": {
     "sheet": 21,
     "cell": 5
-   }
+   },
+   "ex2": "Online trade really grew during the pandemic.",
+   "ex2Ru": "Онлайн-торговля сильно выросла во время пандемии."
   },
   {
    "id": 126,
@@ -2017,7 +2267,9 @@
    "img": {
     "sheet": 21,
     "cell": 6
-   }
+   },
+   "ex2": "Kids need enough sleep for healthy growth.",
+   "ex2Ru": "Детям нужно достаточно спать, чтобы нормально расти."
   },
   {
    "id": 127,
@@ -2032,7 +2284,9 @@
    "img": {
     "sheet": 22,
     "cell": 1
-   }
+   },
+   "ex2": "Tourism is a big part of the local economy.",
+   "ex2Ru": "Туризм — важная часть местной экономики."
   },
   {
    "id": 128,
@@ -2047,7 +2301,9 @@
    "img": {
     "sheet": 22,
     "cell": 2
-   }
+   },
+   "ex2": "The city started a campaign to keep the streets clean.",
+   "ex2Ru": "Город запустил кампанию за чистоту улиц."
   },
   {
    "id": 129,
@@ -2062,7 +2318,9 @@
    "img": {
     "sheet": 22,
     "cell": 3
-   }
+   },
+   "ex2": "Most consumers read online reviews before they buy anything.",
+   "ex2Ru": "Большинство потребителей читают отзывы в интернете перед покупкой."
   },
   {
    "id": 130,
@@ -2077,7 +2335,9 @@
    "img": {
     "sheet": 22,
     "cell": 4
-   }
+   },
+   "ex2": "Production of the old model stopped last year.",
+   "ex2Ru": "Производство старой модели прекратили в прошлом году."
   },
   {
    "id": 131,
@@ -2092,7 +2352,9 @@
    "img": {
     "sheet": 22,
     "cell": 5
-   }
+   },
+   "ex2": "My brother gives me financial advice, but I rarely follow it.",
+   "ex2Ru": "Брат даёт мне финансовые советы, но я редко им следую."
   },
   {
    "id": 132,
@@ -2107,7 +2369,9 @@
    "img": {
     "sheet": 22,
     "cell": 6
-   }
+   },
+   "ex2": "Only a small percentage of people actually read the instructions.",
+   "ex2Ru": "Лишь небольшой процент людей действительно читает инструкции."
   },
   {
    "id": 133,
@@ -2122,7 +2386,9 @@
    "img": {
     "sheet": 23,
     "cell": 1
-   }
+   },
+   "ex2": "Economic problems made life harder for many families.",
+   "ex2Ru": "Из-за экономических проблем многим семьям стало труднее жить."
   },
   {
    "id": 134,
@@ -2137,7 +2403,9 @@
    "img": {
     "sheet": 23,
     "cell": 2
-   }
+   },
+   "ex2": "Climate change is a global problem.",
+   "ex2Ru": "Изменение климата — глобальная проблема."
   },
   {
    "id": 135,
@@ -2152,7 +2420,9 @@
    "img": {
     "sheet": 23,
     "cell": 3
-   }
+   },
+   "ex2": "We're expanding the kitchen to make room for a bigger table.",
+   "ex2Ru": "Мы расширяем кухню, чтобы поместился стол побольше."
   },
   {
    "id": 136,
@@ -2167,7 +2437,9 @@
    "img": {
     "sheet": 23,
     "cell": 4
-   }
+   },
+   "ex2": "Is this jacket the latest trend, or is it just weird?",
+   "ex2Ru": "Эта куртка — последний тренд или просто странная?"
   },
   {
    "id": 137,
@@ -2182,7 +2454,9 @@
    "img": {
     "sheet": 23,
     "cell": 5
-   }
+   },
+   "ex2": "The clinic sent my blood sample for analysis.",
+   "ex2Ru": "Клиника отправила мой образец крови на анализ."
   },
   {
    "id": 138,
@@ -2197,7 +2471,9 @@
    "img": {
     "sheet": 23,
     "cell": 6
-   }
+   },
+   "ex2": "After the storm, the farmers had heavy losses.",
+   "ex2Ru": "После бури фермеры понесли большие убытки."
   },
   {
    "id": 139,
@@ -2212,7 +2488,9 @@
    "img": {
     "sheet": 24,
     "cell": 1
-   }
+   },
+   "ex2": "Will there be a rise in rent next year?",
+   "ex2Ru": "Будет ли повышение арендной платы в следующем году?"
   },
   {
    "id": 140,
@@ -2227,7 +2505,9 @@
    "img": {
     "sheet": 24,
     "cell": 2
-   }
+   },
+   "ex2": "Our Bogotá branch opened in 2019 with just three people.",
+   "ex2Ru": "Наш филиал в Боготе открылся в 2019 году, и там работало всего три человека."
   },
   {
    "id": 141,
@@ -2242,7 +2522,9 @@
    "img": {
     "sheet": 24,
     "cell": 3
-   }
+   },
+   "ex2": "They announced that our flight was delayed by an hour.",
+   "ex2Ru": "Объявили, что наш рейс задерживается на час."
   },
   {
    "id": 142,
@@ -2257,7 +2539,9 @@
    "img": {
     "sheet": 24,
     "cell": 4
-   }
+   },
+   "ex2": "I have to admit, the movie was better than I expected.",
+   "ex2Ru": "Должен признать, фильм оказался лучше, чем я ожидал."
   },
   {
    "id": 143,
@@ -2272,7 +2556,9 @@
    "img": {
     "sheet": 24,
     "cell": 5
-   }
+   },
+   "ex2": "The clinic confirmed my appointment by text.",
+   "ex2Ru": "Клиника подтвердила мою запись по SMS."
   },
   {
    "id": 144,
@@ -2287,7 +2573,9 @@
    "img": {
     "sheet": 24,
     "cell": 6
-   }
+   },
+   "ex2": "A guest requested a quiet room away from the elevator.",
+   "ex2Ru": "Гость попросил тихий номер подальше от лифта."
   },
   {
    "id": 145,
@@ -2302,7 +2590,9 @@
    "img": {
     "sheet": 25,
     "cell": 1
-   }
+   },
+   "ex2": "My daughter's school presentation was about Japanese castles.",
+   "ex2Ru": "Школьная презентация моей дочери была о японских замках."
   },
   {
    "id": 146,
@@ -2317,7 +2607,9 @@
    "img": {
     "sheet": 25,
     "cell": 2
-   }
+   },
+   "ex2": "Did you make a complaint about the noise next door?",
+   "ex2Ru": "Ты пожаловался на шум у соседей?"
   },
   {
    "id": 147,
@@ -2332,7 +2624,9 @@
    "img": {
     "sheet": 25,
     "cell": 3
-   }
+   },
+   "ex2": "Lots of people commented on my vacation photos.",
+   "ex2Ru": "Много кто прокомментировал мои фотографии из отпуска."
   },
   {
    "id": 148,
@@ -2347,7 +2641,9 @@
    "img": {
     "sheet": 25,
     "cell": 4
-   }
+   },
+   "ex2": "My first visa application was rejected.",
+   "ex2Ru": "Моё первое заявление на визу отклонили."
   },
   {
    "id": 149,
@@ -2362,7 +2658,9 @@
    "img": {
     "sheet": 25,
     "cell": 5
-   }
+   },
+   "ex2": "After a week, we concluded that the old printer wasn't worth fixing.",
+   "ex2Ru": "Через неделю мы пришли к выводу, что старый принтер чинить не стоит."
   },
   {
    "id": 150,
@@ -2377,7 +2675,9 @@
    "img": {
     "sheet": 25,
     "cell": 6
-   }
+   },
+   "ex2": "Could you summarize the movie in one sentence?",
+   "ex2Ru": "Можешь пересказать фильм в одном предложении?"
   },
   {
    "id": 151,
@@ -2392,7 +2692,9 @@
    "img": {
     "sheet": 26,
     "cell": 1
-   }
+   },
+   "ex2": "Don't forget to attach a photo to your application.",
+   "ex2Ru": "Не забудь приложить фотографию к заявлению."
   },
   {
    "id": 152,
@@ -2407,7 +2709,9 @@
    "img": {
     "sheet": 26,
     "cell": 2
-   }
+   },
+   "ex2": "We'd appreciate a quick reply from your team.",
+   "ex2Ru": "Будем признательны за быстрый ответ вашей команды."
   },
   {
    "id": 153,
@@ -2422,7 +2726,9 @@
    "img": {
     "sheet": 26,
     "cell": 3
-   }
+   },
+   "ex2": "Did you hear the announcement about Gate 12?",
+   "ex2Ru": "Ты слышал объявление про выход 12?"
   },
   {
    "id": 154,
@@ -2437,7 +2743,9 @@
    "img": {
     "sheet": 26,
     "cell": 4
-   }
+   },
+   "ex2": "Communication between the two offices could be better.",
+   "ex2Ru": "Общение между двумя офисами могло бы быть и лучше."
   },
   {
    "id": 155,
@@ -2452,7 +2760,9 @@
    "img": {
     "sheet": 26,
     "cell": 5
-   }
+   },
+   "ex2": "Don't jump to conclusions — let's hear the whole story.",
+   "ex2Ru": "Не спеши с выводами — давай выслушаем всю историю."
   },
   {
    "id": 156,
@@ -2467,7 +2777,9 @@
    "img": {
     "sheet": 26,
     "cell": 6
-   }
+   },
+   "ex2": "The book has a short summary on the back cover.",
+   "ex2Ru": "На задней обложке книги есть краткое описание."
   },
   {
    "id": 157,
@@ -2482,7 +2794,9 @@
    "img": {
     "sheet": 27,
     "cell": 1
-   }
+   },
+   "ex2": "The report highlighted the need for more service engineers.",
+   "ex2Ru": "В отчёте подчеркнули, что нужно больше сервисных инженеров."
   },
   {
    "id": 158,
@@ -2497,7 +2811,9 @@
    "img": {
     "sheet": 27,
     "cell": 2
-   }
+   },
+   "ex2": "Dark clouds usually indicate rain.",
+   "ex2Ru": "Тёмные тучи обычно предвещают дождь."
   },
   {
    "id": 159,
@@ -2512,7 +2828,9 @@
    "img": {
     "sheet": 27,
     "cell": 3
-   }
+   },
+   "ex2": "Who's representing our company at the expo in Lima?",
+   "ex2Ru": "Кто представляет нашу компанию на выставке в Лиме?"
   },
   {
    "id": 160,
@@ -2527,7 +2845,9 @@
    "img": {
     "sheet": 27,
     "cell": 4
-   }
+   },
+   "ex2": "Is money an issue for you right now?",
+   "ex2Ru": "Деньги для тебя сейчас — проблема?"
   },
   {
    "id": 161,
@@ -2542,7 +2862,9 @@
    "img": {
     "sheet": 27,
     "cell": 5
-   }
+   },
+   "ex2": "Our departure was delayed because of the snow.",
+   "ex2Ru": "Наш вылет задержали из-за снега."
   },
   {
    "id": 162,
@@ -2557,7 +2879,9 @@
    "img": {
     "sheet": 27,
     "cell": 6
-   }
+   },
+   "ex2": "Text me on arrival so I know you're safe.",
+   "ex2Ru": "Напиши мне по прибытии, чтобы я знал, что всё в порядке."
   },
   {
    "id": 163,
@@ -2572,7 +2896,9 @@
    "img": {
     "sheet": 28,
     "cell": 1
-   }
+   },
+   "ex2": "Bali is a popular destination for honeymoons.",
+   "ex2Ru": "Бали — популярное место для медового месяца."
   },
   {
    "id": 164,
@@ -2587,7 +2913,9 @@
    "img": {
     "sheet": 28,
     "cell": 2
-   }
+   },
+   "ex2": "We boarded the train just before the doors closed.",
+   "ex2Ru": "Мы сели в поезд прямо перед тем, как закрылись двери."
   },
   {
    "id": 165,
@@ -2602,7 +2930,9 @@
    "img": {
     "sheet": 28,
     "cell": 3
-   }
+   },
+   "ex2": "What currency do they use in Peru?",
+   "ex2Ru": "Какая валюта в Перу?"
   },
   {
    "id": 166,
@@ -2617,7 +2947,9 @@
    "img": {
     "sheet": 28,
     "cell": 4
-   }
+   },
+   "ex2": "Finding cheap accommodation in Tokyo isn't easy.",
+   "ex2Ru": "Найти недорогое жильё в Токио непросто."
   },
   {
    "id": 167,
@@ -2632,7 +2964,9 @@
    "img": {
     "sheet": 28,
     "cell": 5
-   }
+   },
+   "ex2": "Should I make a reservation, or can we just walk in?",
+   "ex2Ru": "Мне забронировать столик или можно прийти просто так?"
   },
   {
    "id": 168,
@@ -2647,7 +2981,9 @@
    "img": {
     "sheet": 28,
     "cell": 6
-   }
+   },
+   "ex2": "Let's explore the area a little before dinner.",
+   "ex2Ru": "Давай немного осмотрим окрестности перед ужином."
   },
   {
    "id": 169,
@@ -2662,7 +2998,9 @@
    "img": {
     "sheet": 29,
     "cell": 1
-   }
+   },
+   "ex2": "There was a long line at the Kazakh border.",
+   "ex2Ru": "На казахстанской границе была длинная очередь."
   },
   {
    "id": 170,
@@ -2677,7 +3015,9 @@
    "img": {
     "sheet": 29,
     "cell": 2
-   }
+   },
+   "ex2": "The night market is one of the city's top attractions.",
+   "ex2Ru": "Ночной рынок — одна из главных достопримечательностей города."
   },
   {
    "id": 171,
@@ -2692,7 +3032,9 @@
    "img": {
     "sheet": 29,
     "cell": 3
-   }
+   },
+   "ex2": "The band is touring Latin America this fall.",
+   "ex2Ru": "Этой осенью группа гастролирует по Латинской Америке."
   },
   {
    "id": 172,
@@ -2707,7 +3049,9 @@
    "img": {
     "sheet": 29,
     "cell": 4
-   }
+   },
+   "ex2": "Our containers are still waiting at the port in Valparaíso.",
+   "ex2Ru": "Наши контейнеры всё ещё ждут в порту Вальпараисо."
   },
   {
    "id": 173,
@@ -2722,7 +3066,9 @@
    "img": {
     "sheet": 29,
     "cell": 5
-   }
+   },
+   "ex2": "The expedition took three months and cost a fortune.",
+   "ex2Ru": "Экспедиция длилась три месяца и стоила целое состояние."
   },
   {
    "id": 174,
@@ -2737,7 +3083,9 @@
    "img": {
     "sheet": 29,
     "cell": 6
-   }
+   },
+   "ex2": "Let's skip the sights and just relax by the pool.",
+   "ex2Ru": "Давай пропустим достопримечательности и просто отдохнём у бассейна."
   },
   {
    "id": 175,
@@ -2752,7 +3100,9 @@
    "img": {
     "sheet": 30,
     "cell": 1
-   }
+   },
+   "ex2": "Entry to the museum is free on Sundays.",
+   "ex2Ru": "По воскресеньям вход в музей бесплатный."
   },
   {
    "id": 176,
@@ -2767,7 +3117,9 @@
    "img": {
     "sheet": 30,
     "cell": 2
-   }
+   },
+   "ex2": "Our host in Kyoto cooked us a traditional breakfast.",
+   "ex2Ru": "Хозяин нашего жилья в Киото приготовил нам традиционный завтрак."
   },
   {
    "id": 177,
@@ -2782,7 +3134,9 @@
    "img": {
     "sheet": 30,
     "cell": 3
-   }
+   },
+   "ex2": "The locals here are really friendly to tourists.",
+   "ex2Ru": "Местные жители здесь очень дружелюбны к туристам."
   },
   {
    "id": 178,
@@ -2797,7 +3151,9 @@
    "img": {
     "sheet": 30,
     "cell": 4
-   }
+   },
+   "ex2": "The atmosphere at the meeting was a little tense.",
+   "ex2Ru": "Атмосфера на встрече была немного напряжённой."
   },
   {
    "id": 179,
@@ -2812,7 +3168,9 @@
    "img": {
     "sheet": 30,
     "cell": 5
-   }
+   },
+   "ex2": "This historic hotel opened in 1890.",
+   "ex2Ru": "Этот исторический отель открылся в 1890 году."
   },
   {
    "id": 180,
@@ -2827,7 +3185,9 @@
    "img": {
     "sheet": 30,
     "cell": 6
-   }
+   },
+   "ex2": "It's more convenient to pay by card here.",
+   "ex2Ru": "Здесь удобнее платить картой."
   },
   {
    "id": 181,
@@ -2842,7 +3202,9 @@
    "img": {
     "sheet": 31,
     "cell": 1
-   }
+   },
+   "ex2": "Fuel prices went up again this week.",
+   "ex2Ru": "На этой неделе цены на топливо снова выросли."
   },
   {
    "id": 182,
@@ -2857,7 +3219,9 @@
    "img": {
     "sheet": 31,
     "cell": 2
-   }
+   },
+   "ex2": "You should check your tires before a long drive.",
+   "ex2Ru": "Перед дальней поездкой стоит проверить шины."
   },
   {
    "id": 183,
@@ -2872,7 +3236,9 @@
    "img": {
     "sheet": 31,
     "cell": 3
-   }
+   },
+   "ex2": "We took a helicopter ride over the Andes.",
+   "ex2Ru": "Мы полетали на вертолёте над Андами."
   },
   {
    "id": 184,
@@ -2887,7 +3253,9 @@
    "img": {
     "sheet": 31,
     "cell": 4
-   }
+   },
+   "ex2": "How do you transport such a big machine to the hospital?",
+   "ex2Ru": "Как вы перевозите такой большой аппарат в больницу?"
   },
   {
    "id": 185,
@@ -2902,7 +3270,9 @@
    "img": {
     "sheet": 31,
     "cell": 5
-   }
+   },
+   "ex2": "This path goes straight down to the beach.",
+   "ex2Ru": "Эта тропинка ведёт прямо к пляжу."
   },
   {
    "id": 186,
@@ -2917,7 +3287,9 @@
    "img": {
     "sheet": 31,
     "cell": 6
-   }
+   },
+   "ex2": "My phone keeps losing signal in the elevator.",
+   "ex2Ru": "В лифте у меня постоянно пропадает сигнал."
   },
   {
    "id": 187,
@@ -2932,7 +3304,9 @@
    "img": {
     "sheet": 32,
     "cell": 1
-   }
+   },
+   "ex2": "The entrance to the clinic is around the back.",
+   "ex2Ru": "Вход в клинику — с обратной стороны здания."
   },
   {
    "id": 188,
@@ -2947,7 +3321,9 @@
    "img": {
     "sheet": 32,
     "cell": 2
-   }
+   },
+   "ex2": "Can you send me your location? I'm lost.",
+   "ex2Ru": "Можешь скинуть свою геолокацию? Я заблудился."
   },
   {
    "id": 189,
@@ -2962,7 +3338,9 @@
    "img": {
     "sheet": 32,
     "cell": 3
-   }
+   },
+   "ex2": "We rented an apartment in a central part of Lima.",
+   "ex2Ru": "Мы сняли квартиру в центральном районе Лимы."
   },
   {
    "id": 190,
@@ -2977,7 +3355,9 @@
    "img": {
     "sheet": 32,
     "cell": 4
-   }
+   },
+   "ex2": "Tourists love taking selfies with the statue of Hachiko.",
+   "ex2Ru": "Туристы обожают фотографироваться со статуей Хатико."
   },
   {
    "id": 191,
@@ -2992,7 +3372,9 @@
    "img": {
     "sheet": 32,
     "cell": 5
-   }
+   },
+   "ex2": "The strong wind tore the sail in half.",
+   "ex2Ru": "Сильный ветер разорвал парус пополам."
   },
   {
    "id": 192,
@@ -3007,7 +3389,9 @@
    "img": {
     "sheet": 32,
     "cell": 6
-   }
+   },
+   "ex2": "Traffic slowed down a lot near the airport.",
+   "ex2Ru": "Возле аэропорта движение сильно замедлилось."
   },
   {
    "id": 193,
@@ -3022,7 +3406,9 @@
    "img": {
     "sheet": 33,
     "cell": 1
-   }
+   },
+   "ex2": "A police officer directed us to the parking lot.",
+   "ex2Ru": "Полицейский показал нам дорогу к парковке."
   },
   {
    "id": 194,
@@ -3037,7 +3423,9 @@
    "img": {
     "sheet": 33,
     "cell": 2
-   }
+   },
+   "ex2": "Have you fastened the baby's car seat properly?",
+   "ex2Ru": "Ты правильно пристегнул детское автокресло?"
   },
   {
    "id": 195,
@@ -3052,7 +3440,9 @@
    "img": {
     "sheet": 33,
     "cell": 3
-   }
+   },
+   "ex2": "Wear a helmet for your own safety.",
+   "ex2Ru": "Надевай шлем ради собственной безопасности."
   },
   {
    "id": 196,
@@ -3067,7 +3457,9 @@
    "img": {
     "sheet": 33,
     "cell": 4
-   }
+   },
+   "ex2": "The hotel has 24-hour security.",
+   "ex2Ru": "В отеле круглосуточная охрана."
   },
   {
    "id": 197,
@@ -3082,7 +3474,9 @@
    "img": {
     "sheet": 33,
     "cell": 5
-   }
+   },
+   "ex2": "The bird had a broken wing, so we took it to a vet.",
+   "ex2Ru": "У птицы было сломано крыло, и мы отвезли её к ветеринару."
   },
   {
    "id": 198,
@@ -3097,7 +3491,9 @@
    "img": {
     "sheet": 33,
     "cell": 6
-   }
+   },
+   "ex2": "Approximately 40% of our sales come from Latin America.",
+   "ex2Ru": "Примерно 40% наших продаж приходится на Латинскую Америку."
   },
   {
    "id": 199,
@@ -3112,7 +3508,9 @@
    "img": {
     "sheet": 34,
     "cell": 1
-   }
+   },
+   "ex2": "My grandfather was a sailor for thirty years.",
+   "ex2Ru": "Мой дедушка тридцать лет был моряком."
   },
   {
    "id": 200,
@@ -3127,7 +3525,9 @@
    "img": {
     "sheet": 34,
     "cell": 2
-   }
+   },
+   "ex2": "Kids were waving flags along the street.",
+   "ex2Ru": "Дети махали флажками вдоль всей улицы."
   },
   {
    "id": 201,
@@ -3142,7 +3542,9 @@
    "img": {
     "sheet": 34,
     "cell": 3
-   }
+   },
+   "ex2": "In La Paz, I couldn't breathe easily for the first two days.",
+   "ex2Ru": "В Ла-Пасе я первые два дня с трудом дышал."
   },
   {
    "id": 202,
@@ -3157,7 +3559,9 @@
    "img": {
     "sheet": 34,
     "cell": 4
-   }
+   },
+   "ex2": "Swimming is great for your back muscles.",
+   "ex2Ru": "Плавание отлично укрепляет мышцы спины."
   },
   {
    "id": 203,
@@ -3172,7 +3576,9 @@
    "img": {
     "sheet": 34,
     "cell": 5
-   }
+   },
+   "ex2": "The doctor listened to my chest and said everything was fine.",
+   "ex2Ru": "Врач прослушал грудную клетку и сказал, что всё в порядке."
   },
   {
    "id": 204,
@@ -3187,7 +3593,9 @@
    "img": {
     "sheet": 34,
     "cell": 6
-   }
+   },
+   "ex2": "My throat hurts from talking all day at the trade show.",
+   "ex2Ru": "У меня болит горло — весь день говорил на выставке."
   },
   {
    "id": 205,
@@ -3202,7 +3610,9 @@
    "img": {
     "sheet": 35,
     "cell": 1
-   }
+   },
+   "ex2": "The water was so cold that my toes went numb.",
+   "ex2Ru": "Вода была такой холодной, что у меня онемели пальцы ног."
   },
   {
    "id": 206,
@@ -3217,7 +3627,9 @@
    "img": {
     "sheet": 35,
     "cell": 2
-   }
+   },
+   "ex2": "Careful, the soup is hot — don't burn your tongue!",
+   "ex2Ru": "Осторожно, суп горячий — не обожги язык!"
   },
   {
    "id": 207,
@@ -3232,7 +3644,9 @@
    "img": {
     "sheet": 35,
     "cell": 3
-   }
+   },
+   "ex2": "She bit her lip and tried not to laugh.",
+   "ex2Ru": "Она закусила губу, чтобы не рассмеяться."
   },
   {
    "id": 208,
@@ -3247,7 +3661,9 @@
    "img": {
     "sheet": 35,
     "cell": 4
-   }
+   },
+   "ex2": "The injured player left the field after ten minutes.",
+   "ex2Ru": "Травмированный игрок ушёл с поля через десять минут."
   },
   {
    "id": 209,
@@ -3262,7 +3678,9 @@
    "img": {
     "sheet": 35,
     "cell": 5
-   }
+   },
+   "ex2": "Was the injection painful?",
+   "ex2Ru": "Укол был болезненный?"
   },
   {
    "id": 210,
@@ -3277,7 +3695,9 @@
    "img": {
     "sheet": 35,
     "cell": 6
-   }
+   },
+   "ex2": "Our hotel in Tokyo has a small fitness room on the top floor.",
+   "ex2Ru": "В нашем отеле в Токио есть небольшой фитнес-зал на последнем этаже."
   },
   {
    "id": 211,
@@ -3292,7 +3712,9 @@
    "img": {
     "sheet": 36,
     "cell": 1
-   }
+   },
+   "ex2": "Our new ultrasound unit weighs only twelve kilos.",
+   "ex2Ru": "Наш новый УЗИ-аппарат весит всего двенадцать килограммов."
   },
   {
    "id": 212,
@@ -3307,7 +3729,9 @@
    "img": {
     "sheet": 36,
     "cell": 2
-   }
+   },
+   "ex2": "He turned pale when he saw the bill.",
+   "ex2Ru": "Он побледнел, когда увидел счёт."
   },
   {
    "id": 213,
@@ -3322,7 +3746,9 @@
    "img": {
     "sheet": 36,
     "cell": 3
-   }
+   },
+   "ex2": "I ran for the bus and was completely out of breath.",
+   "ex2Ru": "Я бежал за автобусом и совсем запыхался."
   },
   {
    "id": 214,
@@ -3337,7 +3763,9 @@
    "img": {
     "sheet": 36,
     "cell": 4
-   }
+   },
+   "ex2": "The dog bite on his leg needed three stitches.",
+   "ex2Ru": "После укуса собаки ему наложили на ногу три шва."
   },
   {
    "id": 215,
@@ -3352,7 +3780,9 @@
    "img": {
     "sheet": 36,
     "cell": 5
-   }
+   },
+   "ex2": "Be careful not to injure yourself on the ski trip.",
+   "ex2Ru": "Смотри не травмируйся в лыжной поездке."
   },
   {
    "id": 216,
@@ -3367,7 +3797,9 @@
    "img": {
     "sheet": 36,
     "cell": 6
-   }
+   },
+   "ex2": "After the flu, it took me a week to get my strength back.",
+   "ex2Ru": "После гриппа мне понадобилась неделя, чтобы восстановить силы."
   },
   {
    "id": 217,
@@ -3382,7 +3814,9 @@
    "img": {
     "sheet": 37,
     "cell": 1
-   }
+   },
+   "ex2": "Bending over a laptop all day is bad for your back.",
+   "ex2Ru": "Весь день сидеть, склонившись над ноутбуком, вредно для спины."
   },
   {
    "id": 218,
@@ -3397,7 +3831,9 @@
    "img": {
     "sheet": 37,
     "cell": 2
-   }
+   },
+   "ex2": "Let's keep in touch after the conference.",
+   "ex2Ru": "Давайте оставаться на связи после конференции."
   },
   {
    "id": 219,
@@ -3412,7 +3848,9 @@
    "img": {
     "sheet": 37,
     "cell": 3
-   }
+   },
+   "ex2": "The bed in my hotel was so uncomfortable that I barely slept.",
+   "ex2Ru": "Кровать в отеле была такой неудобной, что я почти не спал."
   },
   {
    "id": 220,
@@ -3427,7 +3865,9 @@
    "img": {
     "sheet": 37,
     "cell": 4
-   }
+   },
+   "ex2": "We had a mild winter in Almaty this year.",
+   "ex2Ru": "В этом году в Алматы была мягкая зима."
   },
   {
    "id": 221,
@@ -3442,7 +3882,9 @@
    "img": {
     "sheet": 37,
     "cell": 5
-   }
+   },
+   "ex2": "How long will the treatment take?",
+   "ex2Ru": "Сколько продлится лечение?"
   },
   {
    "id": 222,
@@ -3457,7 +3899,9 @@
    "img": {
     "sheet": 37,
     "cell": 6
-   }
+   },
+   "ex2": "My grandfather had an operation last month, and he's doing well now.",
+   "ex2Ru": "Дедушке в прошлом месяце сделали операцию, и сейчас он чувствует себя хорошо."
   },
   {
    "id": 223,
@@ -3472,7 +3916,9 @@
    "img": {
     "sheet": 38,
     "cell": 1
-   }
+   },
+   "ex2": "Sorry, I have to leave — it's a family emergency.",
+   "ex2Ru": "Извините, мне нужно уйти — срочные семейные обстоятельства."
   },
   {
    "id": 224,
@@ -3487,7 +3933,9 @@
    "img": {
     "sheet": 38,
     "cell": 2
-   }
+   },
+   "ex2": "The engineer examined the X-ray machine but found nothing wrong.",
+   "ex2Ru": "Инженер осмотрел рентген-аппарат, но неисправностей не нашёл."
   },
   {
    "id": 225,
@@ -3502,7 +3950,9 @@
    "img": {
     "sheet": 38,
     "cell": 3
-   }
+   },
+   "ex2": "If the symptoms don't go away, see a doctor.",
+   "ex2Ru": "Если симптомы не пройдут, сходите к врачу."
   },
   {
    "id": 226,
@@ -3517,7 +3967,9 @@
    "img": {
     "sheet": 38,
     "cell": 4
-   }
+   },
+   "ex2": "This clinic treats about fifty patients a day.",
+   "ex2Ru": "В этой клинике лечат около пятидесяти пациентов в день."
   },
   {
    "id": 227,
@@ -3532,7 +3984,9 @@
    "img": {
     "sheet": 38,
     "cell": 5
-   }
+   },
+   "ex2": "Did you suffer from jet lag after your trip to Mexico?",
+   "ex2Ru": "Тебя мучил джетлаг после поездки в Мексику?"
   },
   {
    "id": 228,
@@ -3547,7 +4001,9 @@
    "img": {
     "sheet": 38,
     "cell": 6
-   }
+   },
+   "ex2": "Only a few old buildings survived the earthquake.",
+   "ex2Ru": "Землетрясение пережили лишь несколько старых зданий."
   },
   {
    "id": 229,
@@ -3562,7 +4018,9 @@
    "img": {
     "sheet": 39,
     "cell": 1
-   }
+   },
+   "ex2": "The new laboratory equipment arrives in Astana next week.",
+   "ex2Ru": "Новое лабораторное оборудование прибудет в Астану на следующей неделе."
   },
   {
    "id": 230,
@@ -3577,7 +4035,9 @@
    "img": {
     "sheet": 39,
     "cell": 2
-   }
+   },
+   "ex2": "I made a mental note to call him back.",
+   "ex2Ru": "Я мысленно отметил себе, что нужно ему перезвонить."
   },
   {
    "id": 231,
@@ -3592,7 +4052,9 @@
    "img": {
     "sheet": 39,
     "cell": 3
-   }
+   },
+   "ex2": "Do you have a needle? I need to sew on a button.",
+   "ex2Ru": "У тебя есть иголка? Мне надо пришить пуговицу."
   },
   {
    "id": 232,
@@ -3607,7 +4069,9 @@
    "img": {
     "sheet": 39,
     "cell": 4
-   }
+   },
+   "ex2": "Keep the rat poison away from the kids.",
+   "ex2Ru": "Держи отраву для крыс подальше от детей."
   },
   {
    "id": 233,
@@ -3622,7 +4086,9 @@
    "img": {
     "sheet": 39,
     "cell": 5
-   }
+   },
+   "ex2": "Could you send us a few free samples of the gel?",
+   "ex2Ru": "Не могли бы вы прислать нам несколько бесплатных образцов геля?"
   },
   {
    "id": 234,
@@ -3637,7 +4103,9 @@
    "img": {
     "sheet": 39,
     "cell": 6
-   }
+   },
+   "ex2": "Wear gloves when you work with these chemicals.",
+   "ex2Ru": "Работайте с этими химикатами в перчатках."
   },
   {
    "id": 235,
@@ -3652,7 +4120,9 @@
    "img": {
     "sheet": 40,
     "cell": 1
-   }
+   },
+   "ex2": "Customs wanted to know what substance was in the bottles.",
+   "ex2Ru": "На таможне хотели знать, что за вещество в бутылках."
   },
   {
    "id": 236,
@@ -3667,7 +4137,9 @@
    "img": {
     "sheet": 40,
     "cell": 2
-   }
+   },
+   "ex2": "Is this plant poisonous to cats?",
+   "ex2Ru": "Это растение ядовито для кошек?"
   },
   {
    "id": 237,
@@ -3682,7 +4154,9 @@
    "img": {
     "sheet": 40,
     "cell": 3
-   }
+   },
+   "ex2": "Doctors want to see scientific studies before they buy new equipment.",
+   "ex2Ru": "Прежде чем покупать новое оборудование, врачи хотят увидеть научные исследования."
   },
   {
    "id": 238,
@@ -3697,7 +4171,9 @@
    "img": {
     "sheet": 40,
     "cell": 4
-   }
+   },
+   "ex2": "Is walking an effective way to lose weight?",
+   "ex2Ru": "Ходьба — эффективный способ похудеть?"
   },
   {
    "id": 239,
@@ -3712,7 +4188,9 @@
    "img": {
     "sheet": 40,
     "cell": 5
-   }
+   },
+   "ex2": "The police investigated the robbery but never found the thief.",
+   "ex2Ru": "Полиция расследовала ограбление, но вора так и не нашли."
   },
   {
    "id": 240,
@@ -3727,7 +4205,9 @@
    "img": {
     "sheet": 40,
     "cell": 6
-   }
+   },
+   "ex2": "What was your boss's reaction to the news?",
+   "ex2Ru": "Как твой начальник отреагировал на новость?"
   },
   {
    "id": 241,
@@ -3742,7 +4222,9 @@
    "img": {
     "sheet": 41,
     "cell": 1
-   }
+   },
+   "ex2": "He gets annoyed when people check their phones in meetings.",
+   "ex2Ru": "Его раздражает, когда на совещаниях сидят в телефонах."
   },
   {
    "id": 242,
@@ -3757,7 +4239,9 @@
    "img": {
     "sheet": 41,
     "cell": 2
-   }
+   },
+   "ex2": "The kids were disappointed when the rain canceled the picnic.",
+   "ex2Ru": "Дети были разочарованы, когда пикник отменили из-за дождя."
   },
   {
    "id": 243,
@@ -3772,7 +4256,9 @@
    "img": {
     "sheet": 41,
     "cell": 3
-   }
+   },
+   "ex2": "Don't feel embarrassed — everyone makes mistakes in a new language.",
+   "ex2Ru": "Не смущайся — все ошибаются, когда говорят на новом языке."
   },
   {
    "id": 244,
@@ -3787,7 +4273,9 @@
    "img": {
     "sheet": 41,
     "cell": 4
-   }
+   },
+   "ex2": "Don't get upset — it's just a small scratch on the car.",
+   "ex2Ru": "Не расстраивайся — это всего лишь маленькая царапина на машине."
   },
   {
    "id": 245,
@@ -3802,7 +4290,9 @@
    "img": {
     "sheet": 41,
     "cell": 5
-   }
+   },
+   "ex2": "Hotel rooms can feel lonely on long business trips.",
+   "ex2Ru": "В долгих командировках в гостиничном номере бывает одиноко."
   },
   {
    "id": 246,
@@ -3817,7 +4307,9 @@
    "img": {
     "sheet": 41,
     "cell": 6
-   }
+   },
+   "ex2": "My dad was proud of me when I got my first job.",
+   "ex2Ru": "Папа гордился мной, когда я устроился на первую работу."
   },
   {
    "id": 247,
@@ -3832,7 +4324,9 @@
    "img": {
     "sheet": 42,
     "cell": 1
-   }
+   },
+   "ex2": "The tourists looked confused by the subway map in Tokyo.",
+   "ex2Ru": "Туристы растерянно смотрели на схему метро в Токио."
   },
   {
    "id": 248,
@@ -3847,7 +4341,9 @@
    "img": {
     "sheet": 42,
     "cell": 2
-   }
+   },
+   "ex2": "I was frightened when the plane started shaking.",
+   "ex2Ru": "Мне стало страшно, когда самолёт начало трясти."
   },
   {
    "id": 249,
@@ -3862,7 +4358,9 @@
    "img": {
     "sheet": 42,
     "cell": 3
-   }
+   },
+   "ex2": "She was amazed at how clean the streets in Japan are.",
+   "ex2Ru": "Её поразило, какие чистые улицы в Японии."
   },
   {
    "id": 250,
@@ -3877,7 +4375,9 @@
    "img": {
     "sheet": 42,
     "cell": 4
-   }
+   },
+   "ex2": "The meeting was more relaxed than I expected.",
+   "ex2Ru": "Встреча прошла в более непринуждённой обстановке, чем я ожидал."
   },
   {
    "id": 251,
@@ -3892,7 +4392,9 @@
    "img": {
     "sheet": 42,
     "cell": 5
-   }
+   },
+   "ex2": "We're very grateful to our partners in Bogotá for their help.",
+   "ex2Ru": "Мы очень благодарны нашим партнёрам в Боготе за помощь."
   },
   {
    "id": 252,
@@ -3907,7 +4409,9 @@
    "img": {
     "sheet": 42,
     "cell": 6
-   }
+   },
+   "ex2": "Sorry, I'm not in the mood for a movie tonight.",
+   "ex2Ru": "Извини, сегодня у меня нет настроения смотреть кино."
   },
   {
    "id": 253,
@@ -3922,7 +4426,9 @@
    "img": {
     "sheet": 43,
     "cell": 1
-   }
+   },
+   "ex2": "It's hard to control your emotions when you're tired.",
+   "ex2Ru": "Когда устаёшь, трудно сдерживать эмоции."
   },
   {
    "id": 254,
@@ -3937,7 +4443,9 @@
    "img": {
     "sheet": 43,
     "cell": 2
-   }
+   },
+   "ex2": "There was a lot of excitement in the office about the new contract.",
+   "ex2Ru": "Новый контракт вызвал в офисе настоящее оживление."
   },
   {
    "id": 255,
@@ -3952,7 +4460,9 @@
    "img": {
     "sheet": 43,
     "cell": 3
-   }
+   },
+   "ex2": "For me, happiness is a quiet weekend with my family.",
+   "ex2Ru": "Для меня счастье — это спокойные выходные с семьёй."
   },
   {
    "id": 256,
@@ -3967,7 +4477,9 @@
    "img": {
     "sheet": 43,
     "cell": 4
-   }
+   },
+   "ex2": "I'm glad to hear the shipment arrived safely.",
+   "ex2Ru": "Рад слышать, что груз прибыл в целости."
   },
   {
    "id": 257,
@@ -3982,7 +4494,9 @@
    "img": {
     "sheet": 43,
     "cell": 5
-   }
+   },
+   "ex2": "My son isn't very keen on vegetables.",
+   "ex2Ru": "Мой сын не особенно любит овощи."
   },
   {
    "id": 258,
@@ -3997,7 +4511,9 @@
    "img": {
     "sheet": 43,
     "cell": 6
-   }
+   },
+   "ex2": "Reading on long flights is one of my small pleasures.",
+   "ex2Ru": "Читать в долгих перелётах — одно из моих маленьких удовольствий."
   },
   {
    "id": 259,
@@ -4012,7 +4528,9 @@
    "img": {
     "sheet": 44,
     "cell": 1
-   }
+   },
+   "ex2": "My only worry is the weather in Tokyo next week.",
+   "ex2Ru": "Меня беспокоит только погода в Токио на следующей неделе."
   },
   {
    "id": 260,
@@ -4027,7 +4545,9 @@
    "img": {
     "sheet": 44,
     "cell": 2
-   }
+   },
+   "ex2": "It's embarrassing when your phone rings during a presentation.",
+   "ex2Ru": "Неловко, когда у тебя звонит телефон во время презентации."
   },
   {
    "id": 261,
@@ -4042,7 +4562,9 @@
    "img": {
     "sheet": 44,
     "cell": 3
-   }
+   },
+   "ex2": "You were very brave at the dentist today!",
+   "ex2Ru": "Ты сегодня был очень смелым у зубного!"
   },
   {
    "id": 262,
@@ -4057,7 +4579,9 @@
    "img": {
     "sheet": 44,
     "cell": 4
-   }
+   },
+   "ex2": "The sea was calm, so we went out on a boat.",
+   "ex2Ru": "Море было спокойным, и мы вышли на лодке."
   },
   {
    "id": 263,
@@ -4072,7 +4596,9 @@
    "img": {
     "sheet": 44,
     "cell": 5
-   }
+   },
+   "ex2": "Even on Mondays, Ji-woo is cheerful and full of energy.",
+   "ex2Ru": "Даже по понедельникам Джиу жизнерадостна и полна энергии."
   },
   {
    "id": 264,
@@ -4087,7 +4613,9 @@
    "img": {
     "sheet": 44,
     "cell": 6
-   }
+   },
+   "ex2": "Please give me an honest answer — do you like the design?",
+   "ex2Ru": "Ответь честно — тебе нравится дизайн?"
   },
   {
    "id": 265,
@@ -4102,7 +4630,9 @@
    "img": {
     "sheet": 45,
     "cell": 1
-   }
+   },
+   "ex2": "The client was generous and gave us extra time to deliver.",
+   "ex2Ru": "Клиент проявил щедрость и дал нам дополнительное время на поставку."
   },
   {
    "id": 266,
@@ -4117,7 +4647,9 @@
    "img": {
     "sheet": 45,
     "cell": 2
-   }
+   },
+   "ex2": "Is the bus service reliable here, or should I take a taxi?",
+   "ex2Ru": "Здесь можно положиться на автобусы или лучше взять такси?"
   },
   {
    "id": 267,
@@ -4132,7 +4664,9 @@
    "img": {
     "sheet": 45,
     "cell": 3
-   }
+   },
+   "ex2": "Wear sensible shoes — we'll be walking all day in Kyoto.",
+   "ex2Ru": "Надень удобную обувь — мы весь день будем гулять по Киото."
   },
   {
    "id": 268,
@@ -4147,7 +4681,9 @@
    "img": {
     "sheet": 45,
     "cell": 4
-   }
+   },
+   "ex2": "Don't be shy — come and join us!",
+   "ex2Ru": "Не стесняйся — присоединяйся к нам!"
   },
   {
    "id": 269,
@@ -4162,7 +4698,9 @@
    "img": {
     "sheet": 45,
     "cell": 5
-   }
+   },
+   "ex2": "He's careless with his passport — he lost it twice last year.",
+   "ex2Ru": "Он небрежно обращается с паспортом — в прошлом году терял его дважды."
   },
   {
    "id": 270,
@@ -4177,7 +4715,9 @@
    "img": {
     "sheet": 45,
     "cell": 6
-   }
+   },
+   "ex2": "The nurse was very gentle when she took off the bandage.",
+   "ex2Ru": "Медсестра сняла повязку очень бережно."
   },
   {
    "id": 271,
@@ -4192,7 +4732,9 @@
    "img": {
     "sheet": 46,
     "cell": 1
-   }
+   },
+   "ex2": "Our sales targets for Latin America are pretty ambitious this year.",
+   "ex2Ru": "В этом году у нас довольно амбициозные планы продаж по Латинской Америке."
   },
   {
    "id": 272,
@@ -4207,7 +4749,9 @@
    "img": {
     "sheet": 46,
     "cell": 2
-   }
+   },
+   "ex2": "I'm determined to run a marathon before I turn fifty.",
+   "ex2Ru": "Я твёрдо решил пробежать марафон до пятидесяти."
   },
   {
    "id": 273,
@@ -4222,7 +4766,9 @@
    "img": {
     "sheet": 46,
     "cell": 3
-   }
+   },
+   "ex2": "Are you confident that the equipment will arrive on time?",
+   "ex2Ru": "Ты уверен, что оборудование придёт вовремя?"
   },
   {
    "id": 274,
@@ -4237,7 +4783,9 @@
    "img": {
     "sheet": 46,
     "cell": 4
-   }
+   },
+   "ex2": "The hotel staff in Osaka were so kind to us.",
+   "ex2Ru": "Персонал отеля в Осаке был к нам очень добр."
   },
   {
    "id": 275,
@@ -4252,7 +4800,9 @@
    "img": {
     "sheet": 46,
     "cell": 5
-   }
+   },
+   "ex2": "Booking the flights early was a smart move.",
+   "ex2Ru": "Забронировать билеты заранее было умным решением."
   },
   {
    "id": 276,
@@ -4267,7 +4817,9 @@
    "img": {
     "sheet": 46,
     "cell": 6
-   }
+   },
+   "ex2": "I feel silly asking, but where's the restroom?",
+   "ex2Ru": "Глупый вопрос, но где здесь туалет?"
   },
   {
    "id": 277,
@@ -4282,7 +4834,9 @@
    "img": {
     "sheet": 47,
     "cell": 1
-   }
+   },
+   "ex2": "Some kids can be really cruel to each other at school.",
+   "ex2Ru": "Некоторые дети в школе бывают очень жестоки друг к другу."
   },
   {
    "id": 278,
@@ -4297,7 +4851,9 @@
    "img": {
     "sheet": 47,
     "cell": 2
-   }
+   },
+   "ex2": "Min-jun is a talented cook — you should try his kimchi stew.",
+   "ex2Ru": "Мин-джун — талантливый повар, попробуй его рагу с кимчи."
   },
   {
    "id": 279,
@@ -4312,7 +4868,9 @@
    "img": {
     "sheet": 47,
     "cell": 3
-   }
+   },
+   "ex2": "This bag isn't pretty, but it's very practical for travel.",
+   "ex2Ru": "Сумка не очень красивая, зато очень практичная для поездок."
   },
   {
    "id": 280,
@@ -4327,7 +4885,9 @@
    "img": {
     "sheet": 47,
     "cell": 4
-   }
+   },
+   "ex2": "The conference in Lima was really well organized.",
+   "ex2Ru": "Конференция в Лиме была очень хорошо организована."
   },
   {
    "id": 281,
@@ -4342,7 +4902,9 @@
    "img": {
     "sheet": 47,
     "cell": 5
-   }
+   },
+   "ex2": "Do you have any relatives in Moscow?",
+   "ex2Ru": "У тебя есть родственники в Москве?"
   },
   {
    "id": 282,
@@ -4357,7 +4919,9 @@
    "img": {
     "sheet": 47,
     "cell": 6
-   }
+   },
+   "ex2": "This song always reminds me of my childhood.",
+   "ex2Ru": "Эта песня всегда напоминает мне о детстве."
   },
   {
    "id": 283,
@@ -4372,7 +4936,9 @@
    "img": {
     "sheet": 48,
     "cell": 1
-   }
+   },
+   "ex2": "The younger generation prefers texting to phone calls.",
+   "ex2Ru": "Молодое поколение предпочитает переписку телефонным звонкам."
   },
   {
    "id": 284,
@@ -4387,7 +4953,9 @@
    "img": {
     "sheet": 48,
     "cell": 2
-   }
+   },
+   "ex2": "Their business partnership turned into a real friendship.",
+   "ex2Ru": "Их деловое партнёрство переросло в настоящую дружбу."
   },
   {
    "id": 285,
@@ -4402,7 +4970,9 @@
    "img": {
     "sheet": 48,
     "cell": 3
-   }
+   },
+   "ex2": "My grandparents' marriage lasted sixty years.",
+   "ex2Ru": "Бабушка с дедушкой прожили в браке шестьдесят лет."
   },
   {
    "id": 286,
@@ -4417,7 +4987,9 @@
    "img": {
     "sheet": 48,
     "cell": 4
-   }
+   },
+   "ex2": "The bride's father gave a funny speech.",
+   "ex2Ru": "Отец невесты произнёс смешную речь."
   },
   {
    "id": 287,
@@ -4432,7 +5004,9 @@
    "img": {
     "sheet": 48,
     "cell": 5
-   }
+   },
+   "ex2": "Did you hear? My sister is engaged!",
+   "ex2Ru": "Слышал? Моя сестра обручилась!"
   },
   {
    "id": 288,
@@ -4447,7 +5021,9 @@
    "img": {
     "sheet": 48,
     "cell": 6
-   }
+   },
+   "ex2": "Everyone in the company respects her for her experience.",
+   "ex2Ru": "Все в компании уважают её за опыт."
   },
   {
    "id": 289,
@@ -4462,7 +5038,9 @@
    "img": {
     "sheet": 49,
     "cell": 1
-   }
+   },
+   "ex2": "The airline apologized for the delay and gave us meal vouchers.",
+   "ex2Ru": "Авиакомпания извинилась за задержку и выдала нам талоны на питание."
   },
   {
    "id": 290,
@@ -4477,7 +5055,9 @@
    "img": {
     "sheet": 49,
     "cell": 2
-   }
+   },
+   "ex2": "We stopped to admire the view of Mount Fuji.",
+   "ex2Ru": "Мы остановились, чтобы полюбоваться видом на Фудзи."
   },
   {
    "id": 291,
@@ -4492,7 +5072,9 @@
    "img": {
     "sheet": 49,
     "cell": 3
-   }
+   },
+   "ex2": "A stranger helped me find my hotel in Mexico City.",
+   "ex2Ru": "Незнакомый человек помог мне найти отель в Мехико."
   },
   {
    "id": 292,
@@ -4507,7 +5089,9 @@
    "img": {
     "sheet": 49,
     "cell": 4
-   }
+   },
+   "ex2": "Our manager encourages us to share new ideas.",
+   "ex2Ru": "Наш руководитель поощряет нас делиться новыми идеями."
   },
   {
    "id": 293,
@@ -4522,7 +5106,9 @@
    "img": {
     "sheet": 49,
     "cell": 5
-   }
+   },
+   "ex2": "After we signed the contract, we had a small celebration in the office.",
+   "ex2Ru": "После подписания контракта мы устроили в офисе небольшой праздник."
   },
   {
    "id": 294,
@@ -4537,7 +5123,9 @@
    "img": {
     "sheet": 49,
     "cell": 6
-   }
+   },
+   "ex2": "The opening ceremony for the new clinic is on Friday.",
+   "ex2Ru": "Церемония открытия новой клиники состоится в пятницу."
   },
   {
    "id": 295,
@@ -4552,7 +5140,9 @@
    "img": {
     "sheet": 50,
     "cell": 1
-   }
+   },
+   "ex2": "In Latin America, people often kiss on the cheek when they meet.",
+   "ex2Ru": "В Латинской Америке при встрече часто целуются в щёку."
   },
   {
    "id": 296,
@@ -4567,7 +5157,9 @@
    "img": {
     "sheet": 50,
     "cell": 2
-   }
+   },
+   "ex2": "She spent her youth traveling around Asia.",
+   "ex2Ru": "Молодость она провела в путешествиях по Азии."
   },
   {
    "id": 297,
@@ -4582,7 +5174,9 @@
    "img": {
     "sheet": 50,
     "cell": 3
-   }
+   },
+   "ex2": "This problem has no relation to the software update.",
+   "ex2Ru": "Эта проблема никак не связана с обновлением программы."
   },
   {
    "id": 298,
@@ -4597,7 +5191,9 @@
    "img": {
     "sheet": 50,
     "cell": 4
-   }
+   },
+   "ex2": "Could the headache be related to the new medicine?",
+   "ex2Ru": "Может, головная боль связана с новым лекарством?"
   },
   {
    "id": 299,
@@ -4612,7 +5208,9 @@
    "img": {
     "sheet": 50,
     "cell": 5
-   }
+   },
+   "ex2": "Stress can make you age faster.",
+   "ex2Ru": "От стресса можно быстрее постареть."
   },
   {
    "id": 300,
@@ -4627,7 +5225,9 @@
    "img": {
     "sheet": 50,
     "cell": 6
-   }
+   },
+   "ex2": "Could you help this gentleman with his bags, please?",
+   "ex2Ru": "Помогите, пожалуйста, этому господину с сумками."
   },
   {
    "id": 301,
@@ -4642,7 +5242,9 @@
    "img": {
     "sheet": 51,
     "cell": 1
-   }
+   },
+   "ex2": "Our new engineer just graduated from a technical university in Almaty.",
+   "ex2Ru": "Наш новый инженер только что окончил технический университет в Алматы."
   },
   {
    "id": 302,
@@ -4657,7 +5259,9 @@
    "img": {
     "sheet": 51,
     "cell": 2
-   }
+   },
+   "ex2": "Don't worry, one bad grade won't ruin your year.",
+   "ex2Ru": "Не переживай, одна плохая оценка не испортит тебе весь год."
   },
   {
    "id": 303,
@@ -4672,7 +5276,9 @@
    "img": {
     "sheet": 51,
     "cell": 3
-   }
+   },
+   "ex2": "Let's concentrate on the most important clients this quarter.",
+   "ex2Ru": "Давай в этом квартале сосредоточимся на самых важных клиентах."
   },
   {
    "id": 304,
@@ -4687,7 +5293,9 @@
    "img": {
     "sheet": 51,
     "cell": 4
-   }
+   },
+   "ex2": "His academic results were good, but he had no real work experience.",
+   "ex2Ru": "Учился он хорошо, но реального опыта работы у него не было."
   },
   {
    "id": 305,
@@ -4702,7 +5310,9 @@
    "img": {
     "sheet": 51,
     "cell": 5
-   }
+   },
+   "ex2": "My son stayed up late to finish his history assignment.",
+   "ex2Ru": "Сын засиделся допоздна, чтобы доделать задание по истории."
   },
   {
    "id": 306,
@@ -4717,7 +5327,9 @@
    "img": {
     "sheet": 51,
     "cell": 6
-   }
+   },
+   "ex2": "Do the students live on campus or in the city?",
+   "ex2Ru": "Студенты живут в кампусе или в городе?"
   },
   {
    "id": 307,
@@ -4732,7 +5344,9 @@
    "img": {
     "sheet": 52,
     "cell": 1
-   }
+   },
+   "ex2": "I only read the first chapter, but I already love the book.",
+   "ex2Ru": "Я прочитал только первую главу, но книга мне уже нравится."
   },
   {
    "id": 308,
@@ -4747,7 +5361,9 @@
    "img": {
     "sheet": 52,
     "cell": 2
-   }
+   },
+   "ex2": "Our distributor translated the user manual into Spanish.",
+   "ex2Ru": "Наш дистрибьютор перевёл руководство пользователя на испанский."
   },
   {
    "id": 309,
@@ -4762,7 +5378,9 @@
    "img": {
     "sheet": 52,
     "cell": 3
-   }
+   },
+   "ex2": "He has a theory about why sales dropped in July.",
+   "ex2Ru": "У него есть своя теория, почему в июле упали продажи."
   },
   {
    "id": 310,
@@ -4777,7 +5395,9 @@
    "img": {
     "sheet": 52,
     "cell": 4
-   }
+   },
+   "ex2": "I like to experiment with new recipes on weekends.",
+   "ex2Ru": "По выходным я люблю экспериментировать с новыми рецептами."
   },
   {
    "id": 311,
@@ -4792,7 +5412,9 @@
    "img": {
     "sheet": 52,
     "cell": 5
-   }
+   },
+   "ex2": "What's your definition of a good vacation?",
+   "ex2Ru": "Что, по-твоему, значит хороший отпуск?"
   },
   {
    "id": 312,
@@ -4807,7 +5429,9 @@
    "img": {
     "sheet": 52,
     "cell": 6
-   }
+   },
+   "ex2": "Have you read any Japanese literature?",
+   "ex2Ru": "Ты читал что-нибудь из японской литературы?"
   },
   {
    "id": 313,
@@ -4822,7 +5446,9 @@
    "img": {
     "sheet": 53,
     "cell": 1
-   }
+   },
+   "ex2": "The clinic runs educational programs for young doctors.",
+   "ex2Ru": "Клиника проводит образовательные программы для молодых врачей."
   },
   {
    "id": 314,
@@ -4837,7 +5463,9 @@
    "img": {
     "sheet": 53,
     "cell": 2
-   }
+   },
+   "ex2": "She works as a primary care doctor in a small town.",
+   "ex2Ru": "Она работает терапевтом в небольшом городке."
   },
   {
    "id": 315,
@@ -4852,7 +5480,9 @@
    "img": {
     "sheet": 53,
     "cell": 3
-   }
+   },
+   "ex2": "For us, the design is secondary — reliability comes first.",
+   "ex2Ru": "Для нас дизайн — дело второстепенное, главное — надёжность."
   },
   {
    "id": 316,
@@ -4867,7 +5497,9 @@
    "img": {
     "sheet": 53,
     "cell": 4
-   }
+   },
+   "ex2": "The translations in the brochure need to be checked before printing.",
+   "ex2Ru": "Перед печатью нужно проверить переводы в брошюре."
   },
   {
    "id": 317,
@@ -4882,7 +5514,9 @@
    "img": {
     "sheet": 53,
     "cell": 5
-   }
+   },
+   "ex2": "The surgeon showed us a new technique for knee operations.",
+   "ex2Ru": "Хирург показал нам новую методику операций на колене."
   },
   {
    "id": 318,
@@ -4897,7 +5531,9 @@
    "img": {
     "sheet": 53,
     "cell": 6
-   }
+   },
+   "ex2": "Crows are famous for their intelligence.",
+   "ex2Ru": "Вороны славятся своим умом."
   },
   {
    "id": 319,
@@ -4912,7 +5548,9 @@
    "img": {
     "sheet": 54,
     "cell": 1
-   }
+   },
+   "ex2": "Could you draw a quick diagram of the office network?",
+   "ex2Ru": "Можешь быстро нарисовать схему офисной сети?"
   },
   {
    "id": 320,
@@ -4927,7 +5565,9 @@
    "img": {
     "sheet": 54,
     "cell": 2
-   }
+   },
+   "ex2": "Keep the receipt for future reference.",
+   "ex2Ru": "Сохрани чек — может пригодиться."
   },
   {
    "id": 321,
@@ -4942,7 +5582,9 @@
    "img": {
     "sheet": 54,
     "cell": 3
-   }
+   },
+   "ex2": "Don't forget to charge the camera batteries before the trip.",
+   "ex2Ru": "Не забудь зарядить аккумуляторы фотоаппарата перед поездкой."
   },
   {
    "id": 322,
@@ -4957,7 +5599,9 @@
    "img": {
     "sheet": 54,
     "cell": 4
-   }
+   },
+   "ex2": "The device won't work until we install the software.",
+   "ex2Ru": "Аппарат не заработает, пока мы не установим программу."
   },
   {
    "id": 323,
@@ -4972,7 +5616,9 @@
    "img": {
     "sheet": 54,
     "cell": 5
-   }
+   },
+   "ex2": "I updated the client list after the meeting in Bogotá.",
+   "ex2Ru": "После встречи в Боготе я обновил список клиентов."
   },
   {
    "id": 324,
@@ -4987,7 +5633,9 @@
    "img": {
     "sheet": 54,
     "cell": 6
-   }
+   },
+   "ex2": "Nothing happens when I click this button.",
+   "ex2Ru": "Когда я нажимаю на эту кнопку, ничего не происходит."
   },
   {
    "id": 325,
@@ -5002,7 +5650,9 @@
    "img": {
     "sheet": 55,
     "cell": 1
-   }
+   },
+   "ex2": "I need a keyboard with Russian letters.",
+   "ex2Ru": "Мне нужна клавиатура с русскими буквами."
   },
   {
    "id": 326,
@@ -5017,7 +5667,9 @@
    "img": {
     "sheet": 55,
     "cell": 2
-   }
+   },
+   "ex2": "Can you send me the files before the meeting?",
+   "ex2Ru": "Можешь прислать мне файлы до встречи?"
   },
   {
    "id": 327,
@@ -5032,7 +5684,9 @@
    "img": {
     "sheet": 55,
     "cell": 3
-   }
+   },
+   "ex2": "The border officer scanned my passport and let me through.",
+   "ex2Ru": "Пограничник отсканировал мой паспорт и пропустил меня."
   },
   {
    "id": 328,
@@ -5047,7 +5701,9 @@
    "img": {
     "sheet": 55,
     "cell": 4
-   }
+   },
+   "ex2": "Can you program the coffee maker to start at seven?",
+   "ex2Ru": "Можно запрограммировать кофеварку, чтобы она включалась в семь?"
   },
   {
    "id": 329,
@@ -5062,7 +5718,9 @@
    "img": {
     "sheet": 55,
     "cell": 5
-   }
+   },
+   "ex2": "We bought a robot vacuum, and the cat is scared of it.",
+   "ex2Ru": "Мы купили робот-пылесос, и кот его боится."
   },
   {
    "id": 330,
@@ -5077,7 +5735,9 @@
    "img": {
     "sheet": 55,
     "cell": 6
-   }
+   },
+   "ex2": "Only doctors have access to this room.",
+   "ex2Ru": "Доступ в эту комнату есть только у врачей."
   },
   {
    "id": 331,
@@ -5092,7 +5752,9 @@
    "img": {
     "sheet": 56,
     "cell": 1
-   }
+   },
+   "ex2": "I prefer the original version of the movie with subtitles.",
+   "ex2Ru": "Я предпочитаю смотреть фильм в оригинале с субтитрами."
   },
   {
    "id": 332,
@@ -5107,7 +5769,9 @@
    "img": {
     "sheet": 56,
     "cell": 2
-   }
+   },
+   "ex2": "I switched to a cheaper phone plan last month.",
+   "ex2Ru": "В прошлом месяце я перешёл на более дешёвый тариф."
   },
   {
    "id": 333,
@@ -5122,7 +5786,9 @@
    "img": {
     "sheet": 56,
     "cell": 3
-   }
+   },
+   "ex2": "My brother works in IT, so he fixes all our computers.",
+   "ex2Ru": "Брат работает в айти, поэтому чинит все наши компьютеры."
   },
   {
    "id": 334,
@@ -5137,7 +5803,9 @@
    "img": {
     "sheet": 56,
     "cell": 4
-   }
+   },
+   "ex2": "Could you type your email address here, please?",
+   "ex2Ru": "Введите, пожалуйста, сюда свой адрес электронной почты."
   },
   {
    "id": 335,
@@ -5152,7 +5820,9 @@
    "img": {
     "sheet": 56,
     "cell": 5
-   }
+   },
+   "ex2": "We lost the connection in the middle of the video call.",
+   "ex2Ru": "Посреди видеозвонка у нас пропала связь."
   },
   {
    "id": 336,
@@ -5167,7 +5837,9 @@
    "img": {
     "sheet": 56,
     "cell": 6
-   }
+   },
+   "ex2": "What's the main function of this device?",
+   "ex2Ru": "Какая основная функция у этого аппарата?"
   },
   {
    "id": 337,
@@ -5182,7 +5854,9 @@
    "img": {
     "sheet": 57,
     "cell": 1
-   }
+   },
+   "ex2": "Our engineer will answer all the technical questions.",
+   "ex2Ru": "Наш инженер ответит на все технические вопросы."
   },
   {
    "id": 338,
@@ -5197,7 +5871,9 @@
    "img": {
     "sheet": 57,
     "cell": 2
-   }
+   },
+   "ex2": "She took an advanced Spanish course before moving to Mexico.",
+   "ex2Ru": "Перед переездом в Мексику она прошла продвинутый курс испанского."
   },
   {
    "id": 339,
@@ -5212,7 +5888,9 @@
    "img": {
     "sheet": 57,
     "cell": 3
-   }
+   },
+   "ex2": "Kids watch too much online content these days.",
+   "ex2Ru": "Дети сейчас смотрят слишком много всего в интернете."
   },
   {
    "id": 340,
@@ -5227,7 +5905,9 @@
    "img": {
     "sheet": 57,
     "cell": 4
-   }
+   },
+   "ex2": "3D printing is now used to make dental implants.",
+   "ex2Ru": "Сейчас с помощью 3D-печати делают зубные импланты."
   },
   {
    "id": 341,
@@ -5242,7 +5922,9 @@
    "img": {
     "sheet": 57,
     "cell": 5
-   }
+   },
+   "ex2": "Which channel is the game on tonight?",
+   "ex2Ru": "По какому каналу сегодня игра?"
   },
   {
    "id": 342,
@@ -5257,7 +5939,9 @@
    "img": {
     "sheet": 57,
     "cell": 6
-   }
+   },
+   "ex2": "I only read the headlines on my phone in the morning.",
+   "ex2Ru": "По утрам я читаю в телефоне только заголовки."
   },
   {
    "id": 343,
@@ -5272,7 +5956,9 @@
    "img": {
     "sheet": 58,
     "cell": 1
-   }
+   },
+   "ex2": "Have you seen that documentary about Japanese trains?",
+   "ex2Ru": "Ты видел тот документальный фильм про японские поезда?"
   },
   {
    "id": 344,
@@ -5287,7 +5973,9 @@
    "img": {
     "sheet": 58,
     "cell": 2
-   }
+   },
+   "ex2": "Don't tell me what happens in the last episode!",
+   "ex2Ru": "Не рассказывай, что будет в последней серии!"
   },
   {
    "id": 345,
@@ -5302,7 +5990,9 @@
    "img": {
     "sheet": 58,
     "cell": 3
-   }
+   },
+   "ex2": "I sent my article to the editor, but she hasn't replied yet.",
+   "ex2Ru": "Я отправил статью редактору, но она пока не ответила."
   },
   {
    "id": 346,
@@ -5317,7 +6007,9 @@
    "img": {
     "sheet": 58,
     "cell": 4
-   }
+   },
+   "ex2": "The local press wrote about our new MRI center in Astana.",
+   "ex2Ru": "Местная пресса написала о нашем новом МРТ-центре в Астане."
   },
   {
    "id": 347,
@@ -5332,7 +6024,9 @@
    "img": {
     "sheet": 58,
     "cell": 5
-   }
+   },
+   "ex2": "The final episode got a record number of viewers.",
+   "ex2Ru": "Финальную серию посмотрело рекордное число зрителей."
   },
   {
    "id": 348,
@@ -5347,7 +6041,9 @@
    "img": {
     "sheet": 58,
     "cell": 6
-   }
+   },
+   "ex2": "We hired a photographer for the trade show in São Paulo.",
+   "ex2Ru": "Мы наняли фотографа для выставки в Сан-Паулу."
   },
   {
    "id": 349,
@@ -5362,7 +6058,9 @@
    "img": {
     "sheet": 59,
     "cell": 1
-   }
+   },
+   "ex2": "My grandmother keeps old family photos in a big album.",
+   "ex2Ru": "Бабушка хранит старые семейные фото в большом альбоме."
   },
   {
    "id": 350,
@@ -5377,7 +6075,9 @@
    "img": {
     "sheet": 59,
     "cell": 2
-   }
+   },
+   "ex2": "Can I quote you on that in my report?",
+   "ex2Ru": "Можно процитировать вас в моём отчёте?"
   },
   {
    "id": 351,
@@ -5392,7 +6092,9 @@
    "img": {
     "sheet": 59,
     "cell": 3
-   }
+   },
+   "ex2": "The band released their first song on YouTube.",
+   "ex2Ru": "Группа выпустила свою первую песню на YouTube."
   },
   {
    "id": 352,
@@ -5407,7 +6109,9 @@
    "img": {
     "sheet": 59,
     "cell": 4
-   }
+   },
+   "ex2": "The clinic wants the latest model, not last year's.",
+   "ex2Ru": "Клинике нужна новейшая модель, а не прошлогодняя."
   },
   {
    "id": 353,
@@ -5422,7 +6126,9 @@
    "img": {
     "sheet": 59,
     "cell": 5
-   }
+   },
+   "ex2": "I posted an ad to sell my old bike.",
+   "ex2Ru": "Я разместил объявление о продаже старого велосипеда."
   },
   {
    "id": 354,
@@ -5437,7 +6143,9 @@
    "img": {
     "sheet": 59,
     "cell": 6
-   }
+   },
+   "ex2": "I hate it when commercials interrupt a good movie.",
+   "ex2Ru": "Терпеть не могу, когда хороший фильм прерывают рекламой."
   },
   {
    "id": 355,
@@ -5452,7 +6160,9 @@
    "img": {
     "sheet": 60,
     "cell": 1
-   }
+   },
+   "ex2": "You can find the study in the latest issue of the journal.",
+   "ex2Ru": "Это исследование есть в последнем номере журнала."
   },
   {
    "id": 356,
@@ -5467,7 +6177,9 @@
    "img": {
     "sheet": 60,
     "cell": 2
-   }
+   },
+   "ex2": "He wrote the script for a short movie about his hometown.",
+   "ex2Ru": "Он написал сценарий короткометражки о родном городе."
   },
   {
    "id": 357,
@@ -5482,7 +6194,9 @@
    "img": {
     "sheet": 60,
     "cell": 3
-   }
+   },
+   "ex2": "The singer spent three months in the studio recording the album.",
+   "ex2Ru": "Певец провёл три месяца в студии, записывая альбом."
   },
   {
    "id": 358,
@@ -5497,7 +6211,9 @@
    "img": {
     "sheet": 60,
     "cell": 4
-   }
+   },
+   "ex2": "She took a photography class before her trip to Japan.",
+   "ex2Ru": "Перед поездкой в Японию она сходила на курс фотографии."
   },
   {
    "id": 359,
@@ -5512,7 +6228,9 @@
    "img": {
     "sheet": 60,
     "cell": 5
-   }
+   },
+   "ex2": "Kazakhstan is one of the world's biggest producers of uranium.",
+   "ex2Ru": "Казахстан — один из крупнейших в мире производителей урана."
   },
   {
    "id": 360,
@@ -5527,7 +6245,9 @@
    "img": {
     "sheet": 60,
     "cell": 6
-   }
+   },
+   "ex2": "We watched the game live at a sports bar.",
+   "ex2Ru": "Мы смотрели игру в прямом эфире в спорт-баре."
   },
   {
    "id": 361,
@@ -5542,7 +6262,9 @@
    "img": {
     "sheet": 61,
     "cell": 1
-   }
+   },
+   "ex2": "After the floods, the road to the village was closed for a week.",
+   "ex2Ru": "После наводнения дорогу в деревню закрыли на неделю."
   },
   {
    "id": 362,
@@ -5557,7 +6279,9 @@
    "img": {
     "sheet": 61,
     "cell": 2
-   }
+   },
+   "ex2": "In Japan, hotels explain what to do during an earthquake.",
+   "ex2Ru": "В Японии в отелях объясняют, что делать во время землетрясения."
   },
   {
    "id": 363,
@@ -5572,7 +6296,9 @@
    "img": {
     "sheet": 61,
     "cell": 3
-   }
+   },
+   "ex2": "Our flight to Cancún was canceled because of the hurricane.",
+   "ex2Ru": "Наш рейс в Канкун отменили из-за урагана."
   },
   {
    "id": 364,
@@ -5587,7 +6313,9 @@
    "img": {
     "sheet": 61,
     "cell": 4
-   }
+   },
+   "ex2": "The soil in our garden is too dry for roses.",
+   "ex2Ru": "Почва у нас в саду слишком сухая для роз."
   },
   {
    "id": 365,
@@ -5602,7 +6330,9 @@
    "img": {
     "sheet": 61,
     "cell": 5
-   }
+   },
+   "ex2": "My son planted a seed in a cup, and now it's growing.",
+   "ex2Ru": "Сын посадил семечко в стаканчик, и теперь оно растёт."
   },
   {
    "id": 366,
@@ -5617,7 +6347,9 @@
    "img": {
     "sheet": 61,
     "cell": 6
-   }
+   },
+   "ex2": "A yellow leaf fell into my coffee.",
+   "ex2Ru": "В мой кофе упал жёлтый листок."
   },
   {
    "id": 367,
@@ -5632,7 +6364,9 @@
    "img": {
     "sheet": 62,
     "cell": 1
-   }
+   },
+   "ex2": "I still have sand in my shoes from the beach.",
+   "ex2Ru": "У меня в обуви до сих пор песок с пляжа."
   },
   {
    "id": 368,
@@ -5647,7 +6381,9 @@
    "img": {
     "sheet": 62,
     "cell": 2
-   }
+   },
+   "ex2": "Our car got stuck in the mud on the way to the village.",
+   "ex2Ru": "По дороге в деревню наша машина застряла в грязи."
   },
   {
    "id": 369,
@@ -5662,7 +6398,9 @@
    "img": {
     "sheet": 62,
     "cell": 3
-   }
+   },
+   "ex2": "Crack the eggs and throw away the shells.",
+   "ex2Ru": "Разбей яйца, а скорлупу выброси."
   },
   {
    "id": 370,
@@ -5677,7 +6415,9 @@
    "img": {
     "sheet": 62,
     "cell": 4
-   }
+   },
+   "ex2": "Are you allergic to bees?",
+   "ex2Ru": "У вас аллергия на пчёл?"
   },
   {
    "id": 371,
@@ -5692,7 +6432,9 @@
    "img": {
     "sheet": 62,
     "cell": 5
-   }
+   },
+   "ex2": "That meeting was a complete waste of time.",
+   "ex2Ru": "Эта встреча была пустой тратой времени."
   },
   {
    "id": 372,
@@ -5707,7 +6449,9 @@
    "img": {
     "sheet": 62,
     "cell": 6
-   }
+   },
+   "ex2": "The box arrived wet, but there was no damage to the equipment.",
+   "ex2Ru": "Коробка пришла мокрой, но оборудование не пострадало."
   },
   {
    "id": 373,
@@ -5722,7 +6466,9 @@
    "img": {
     "sheet": 63,
     "cell": 1
-   }
+   },
+   "ex2": "Many companies now publish environmental reports.",
+   "ex2Ru": "Многие компании теперь публикуют экологические отчёты."
   },
   {
    "id": 374,
@@ -5737,7 +6483,9 @@
    "img": {
     "sheet": 63,
     "cell": 2
-   }
+   },
+   "ex2": "Some towns still heat their homes with coal.",
+   "ex2Ru": "В некоторых городах дома до сих пор отапливают углём."
   },
   {
    "id": 375,
@@ -5752,7 +6500,9 @@
    "img": {
     "sheet": 63,
     "cell": 3
-   }
+   },
+   "ex2": "There's dog fur all over my black pants.",
+   "ex2Ru": "Мои чёрные брюки все в собачьей шерсти."
   },
   {
    "id": 376,
@@ -5767,7 +6517,9 @@
    "img": {
     "sheet": 63,
     "cell": 4
-   }
+   },
+   "ex2": "My cat's tail goes up when she's happy.",
+   "ex2Ru": "Когда кошка довольна, она поднимает хвост."
   },
   {
    "id": 377,
@@ -5782,7 +6534,9 @@
    "img": {
     "sheet": 63,
     "cell": 5
-   }
+   },
+   "ex2": "Clean the surface of the device with a dry cloth.",
+   "ex2Ru": "Протирайте поверхность аппарата сухой тканью."
   },
   {
    "id": 378,
@@ -5797,7 +6551,9 @@
    "img": {
     "sheet": 63,
     "cell": 6
-   }
+   },
+   "ex2": "It's rare for our clients to pay early.",
+   "ex2Ru": "Наши клиенты редко платят раньше срока."
   },
   {
    "id": 379,
@@ -5812,7 +6568,9 @@
    "img": {
     "sheet": 64,
     "cell": 1
-   }
+   },
+   "ex2": "My grandfather used to hunt ducks every fall.",
+   "ex2Ru": "Дедушка каждую осень охотился на уток."
   },
   {
    "id": 380,
@@ -5827,7 +6585,9 @@
    "img": {
     "sheet": 64,
     "cell": 2
-   }
+   },
+   "ex2": "Traffic was flowing smoothly until we got close to the airport.",
+   "ex2Ru": "Машины ехали без пробок, пока мы не подъехали к аэропорту."
   },
   {
    "id": 381,
@@ -5842,7 +6602,9 @@
    "img": {
     "sheet": 64,
     "cell": 3
-   }
+   },
+   "ex2": "The concert will take place in the new stadium.",
+   "ex2Ru": "Концерт пройдёт на новом стадионе."
   },
   {
    "id": 382,
@@ -5857,7 +6619,9 @@
    "img": {
     "sheet": 64,
     "cell": 4
-   }
+   },
+   "ex2": "Our local team became national champions last year.",
+   "ex2Ru": "В прошлом году наша местная команда стала чемпионом страны."
   },
   {
    "id": 383,
@@ -5872,7 +6636,9 @@
    "img": {
     "sheet": 64,
     "cell": 5
-   }
+   },
+   "ex2": "The captain says we're landing in Tokyo in twenty minutes.",
+   "ex2Ru": "Командир экипажа говорит, что через двадцать минут мы садимся в Токио."
   },
   {
    "id": 384,
@@ -5887,7 +6653,9 @@
    "img": {
     "sheet": 64,
     "cell": 6
-   }
+   },
+   "ex2": "Who coached you when you were a kid?",
+   "ex2Ru": "Кто тебя тренировал в детстве?"
   },
   {
    "id": 385,
@@ -5902,7 +6670,9 @@
    "img": {
     "sheet": 65,
     "cell": 1
-   }
+   },
+   "ex2": "Stop kicking my seat, please!",
+   "ex2Ru": "Перестань, пожалуйста, пинать моё кресло!"
   },
   {
    "id": 386,
@@ -5917,7 +6687,9 @@
    "img": {
     "sheet": 65,
     "cell": 2
-   }
+   },
+   "ex2": "The hotel has great leisure facilities, including a spa.",
+   "ex2Ru": "В отеле отличные условия для отдыха, есть даже спа."
   },
   {
    "id": 387,
@@ -5932,7 +6704,9 @@
    "img": {
     "sheet": 65,
     "cell": 3
-   }
+   },
+   "ex2": "It rained all night, but the tent stayed dry inside.",
+   "ex2Ru": "Всю ночь шёл дождь, но в палатке было сухо."
   },
   {
    "id": 388,
@@ -5947,7 +6721,9 @@
    "img": {
     "sheet": 65,
     "cell": 4
-   }
+   },
+   "ex2": "The climb to the temple took us about an hour.",
+   "ex2Ru": "Подъём к храму занял у нас около часа."
   },
   {
    "id": 389,
@@ -5962,7 +6738,9 @@
    "img": {
     "sheet": 65,
     "cell": 5
-   }
+   },
+   "ex2": "Kids need more outdoor activities and less screen time.",
+   "ex2Ru": "Детям нужно больше гулять и меньше сидеть у экранов."
   },
   {
    "id": 390,
@@ -5977,7 +6755,9 @@
    "img": {
     "sheet": 65,
     "cell": 6
-   }
+   },
+   "ex2": "On rainy days, the kids play at an indoor playground.",
+   "ex2Ru": "В дождливые дни дети играют на крытой площадке."
   },
   {
    "id": 391,
@@ -5992,7 +6772,9 @@
    "img": {
     "sheet": 66,
     "cell": 1
-   }
+   },
+   "ex2": "Our biggest supporter at the hospital is the head of cardiology.",
+   "ex2Ru": "Наш главный сторонник в больнице — заведующий кардиологией."
   },
   {
    "id": 392,
@@ -6007,7 +6789,9 @@
    "img": {
     "sheet": 66,
     "cell": 2
-   }
+   },
+   "ex2": "Working with a new distributor is always a challenge.",
+   "ex2Ru": "Работа с новым дистрибьютором — всегда непростая задача."
   },
   {
    "id": 393,
@@ -6022,7 +6806,9 @@
    "img": {
     "sheet": 66,
     "cell": 3
-   }
+   },
+   "ex2": "The fans celebrated the win all night.",
+   "ex2Ru": "Болельщики всю ночь праздновали победу."
   },
   {
    "id": 394,
@@ -6037,7 +6823,9 @@
    "img": {
     "sheet": 66,
     "cell": 4
-   }
+   },
+   "ex2": "Is horse racing popular in Kazakhstan?",
+   "ex2Ru": "В Казахстане популярны скачки?"
   },
   {
    "id": 395,
@@ -6052,7 +6840,9 @@
    "img": {
     "sheet": 66,
     "cell": 5
-   }
+   },
+   "ex2": "I tried rugby in college, but it was too rough for me.",
+   "ex2Ru": "В колледже я пробовал играть в регби, но для меня это было слишком жёстко."
   },
   {
    "id": 396,
@@ -6067,7 +6857,9 @@
    "img": {
     "sheet": 66,
     "cell": 6
-   }
+   },
+   "ex2": "I had a quick swim in the hotel pool before breakfast.",
+   "ex2Ru": "Перед завтраком я быстро искупался в бассейне отеля."
   },
   {
    "id": 397,
@@ -6082,7 +6874,9 @@
    "img": {
     "sheet": 67,
     "cell": 1
-   }
+   },
+   "ex2": "The company awarded him a bonus for the Peru contract.",
+   "ex2Ru": "Компания выдала ему премию за контракт с Перу."
   },
   {
    "id": 398,
@@ -6097,7 +6891,9 @@
    "img": {
     "sheet": 67,
     "cell": 2
-   }
+   },
+   "ex2": "Will you participate in the medical exhibition in Almaty?",
+   "ex2Ru": "Вы будете участвовать в медицинской выставке в Алматы?"
   },
   {
    "id": 399,
@@ -6112,7 +6908,9 @@
    "img": {
     "sheet": 67,
     "cell": 3
-   }
+   },
+   "ex2": "The organizers forgot to book a room for our presentation.",
+   "ex2Ru": "Организаторы забыли забронировать зал для нашей презентации."
   },
   {
    "id": 400,
@@ -6127,7 +6925,9 @@
    "img": {
     "sheet": 67,
     "cell": 4
-   }
+   },
+   "ex2": "Grandma covers the strawberries with a net to keep birds away.",
+   "ex2Ru": "Бабушка накрывает клубнику сеткой от птиц."
   },
   {
    "id": 401,
@@ -6142,7 +6942,9 @@
    "img": {
     "sheet": 67,
     "cell": 5
-   }
+   },
+   "ex2": "Our company will have a stand at the medical exhibition in Almaty.",
+   "ex2Ru": "Наша компания будет участвовать со стендом в медицинской выставке в Алматы."
   },
   {
    "id": 402,
@@ -6157,7 +6959,9 @@
    "img": {
     "sheet": 67,
     "cell": 6
-   }
+   },
+   "ex2": "Did you enjoy the performance last night?",
+   "ex2Ru": "Тебе понравился вчерашний спектакль?"
   },
   {
    "id": 403,
@@ -6172,7 +6976,9 @@
    "img": {
     "sheet": 68,
     "cell": 1
-   }
+   },
+   "ex2": "Our new sales manager has a talent for talking to doctors.",
+   "ex2Ru": "У нашего нового менеджера по продажам талант находить общий язык с врачами."
   },
   {
    "id": 404,
@@ -6187,7 +6993,9 @@
    "img": {
     "sheet": 68,
     "cell": 2
-   }
+   },
+   "ex2": "Don't tell me the plot — I haven't read the book yet!",
+   "ex2Ru": "Не рассказывай сюжет — я ещё не читал эту книгу!"
   },
   {
    "id": 405,
@@ -6202,7 +7010,9 @@
    "img": {
     "sheet": 68,
     "cell": 3
-   }
+   },
+   "ex2": "My daughter needs a costume for the school Halloween party.",
+   "ex2Ru": "Дочке нужен костюм для школьной вечеринки на Хэллоуин."
   },
   {
    "id": 406,
@@ -6217,7 +7027,9 @@
    "img": {
     "sheet": 68,
     "cell": 4
-   }
+   },
+   "ex2": "The park in Tokyo was full of strange metal sculptures.",
+   "ex2Ru": "Парк в Токио был полон странных металлических скульптур."
   },
   {
    "id": 407,
@@ -6232,7 +7044,9 @@
    "img": {
     "sheet": 68,
     "cell": 5
-   }
+   },
+   "ex2": "There's a portrait of the company founder in the lobby.",
+   "ex2Ru": "В холле висит портрет основателя компании."
   },
   {
    "id": 408,
@@ -6247,7 +7061,9 @@
    "img": {
     "sheet": 68,
     "cell": 6
-   }
+   },
+   "ex2": "Our neighbor's son practices the drums every evening.",
+   "ex2Ru": "Соседский сын каждый вечер репетирует на барабанах."
   },
   {
    "id": 409,
@@ -6262,7 +7078,9 @@
    "img": {
     "sheet": 69,
     "cell": 1
-   }
+   },
+   "ex2": "My wife loves musicals, but I usually fall asleep.",
+   "ex2Ru": "Жена обожает мюзиклы, а я на них обычно засыпаю."
   },
   {
    "id": 410,
@@ -6277,7 +7095,9 @@
    "img": {
     "sheet": 69,
     "cell": 2
-   }
+   },
+   "ex2": "He used to write poetry when he was a student.",
+   "ex2Ru": "В студенческие годы он писал стихи."
   },
   {
    "id": 411,
@@ -6292,7 +7112,9 @@
    "img": {
     "sheet": 69,
     "cell": 3
-   }
+   },
+   "ex2": "In Lima, we watched a folk dance festival in the main square.",
+   "ex2Ru": "В Лиме мы смотрели фестиваль народных танцев на главной площади."
   },
   {
    "id": 412,
@@ -6307,7 +7129,9 @@
    "img": {
     "sheet": 69,
     "cell": 4
-   }
+   },
+   "ex2": "My son learned a new magic trick and showed it to everyone.",
+   "ex2Ru": "Сын выучил новый фокус и показал его всем."
   },
   {
    "id": 413,
@@ -6322,7 +7146,9 @@
    "img": {
     "sheet": 69,
     "cell": 5
-   }
+   },
+   "ex2": "There's not much entertainment in this small town at night.",
+   "ex2Ru": "Вечером в этом городке особо нечем развлечься."
   },
   {
    "id": 414,
@@ -6337,7 +7163,9 @@
    "img": {
     "sheet": 69,
     "cell": 6
-   }
+   },
+   "ex2": "She screamed in horror when she saw the spider.",
+   "ex2Ru": "Увидев паука, она закричала от ужаса."
   },
   {
    "id": 415,
@@ -6352,7 +7180,9 @@
    "img": {
     "sheet": 70,
     "cell": 1
-   }
+   },
+   "ex2": "It's a mystery to me how she gets so much done.",
+   "ex2Ru": "Для меня загадка, как она столько всего успевает."
   },
   {
    "id": 416,
@@ -6367,7 +7197,9 @@
    "img": {
     "sheet": 70,
     "cell": 2
-   }
+   },
+   "ex2": "The kids told ghost stories around the campfire.",
+   "ex2Ru": "Дети рассказывали у костра истории о призраках."
   },
   {
    "id": 417,
@@ -6382,7 +7214,9 @@
    "img": {
     "sheet": 70,
     "cell": 3
-   }
+   },
+   "ex2": "We had to learn a poem by heart for school.",
+   "ex2Ru": "В школе нам задали выучить стихотворение наизусть."
   },
   {
    "id": 418,
@@ -6397,7 +7231,9 @@
    "img": {
     "sheet": 70,
     "cell": 4
-   }
+   },
+   "ex2": "My father has an amazing collection of old coins.",
+   "ex2Ru": "У моего отца потрясающая коллекция старинных монет."
   },
   {
    "id": 419,
@@ -6412,7 +7248,9 @@
    "img": {
     "sheet": 70,
     "cell": 5
-   }
+   },
+   "ex2": "Bowing is an important cultural tradition in Japan.",
+   "ex2Ru": "Поклон — важная культурная традиция в Японии."
   },
   {
    "id": 420,
@@ -6427,7 +7265,9 @@
    "img": {
     "sheet": 70,
     "cell": 6
-   }
+   },
+   "ex2": "He's not very romantic — he forgot our anniversary again.",
+   "ex2Ru": "Он не слишком романтичный — опять забыл про нашу годовщину."
   },
   {
    "id": 421,
@@ -6442,7 +7282,9 @@
    "img": {
     "sheet": 71,
     "cell": 1
-   }
+   },
+   "ex2": "Why did the police arrest him? He seemed like a nice guy.",
+   "ex2Ru": "За что его арестовала полиция? Он казался приятным парнем."
   },
   {
    "id": 422,
@@ -6457,7 +7299,9 @@
    "img": {
     "sheet": 71,
     "cell": 2
-   }
+   },
+   "ex2": "The city plans to ban cars from the old town center.",
+   "ex2Ru": "Город собирается запретить въезд машин в исторический центр."
   },
   {
    "id": 423,
@@ -6472,7 +7316,9 @@
    "img": {
     "sheet": 71,
     "cell": 3
-   }
+   },
+   "ex2": "Is it illegal to bring fruit into the country?",
+   "ex2Ru": "Ввозить фрукты в эту страну незаконно?"
   },
   {
    "id": 424,
@@ -6487,7 +7333,9 @@
    "img": {
     "sheet": 71,
     "cell": 4
-   }
+   },
+   "ex2": "Our legal department has to check every distributor contract.",
+   "ex2Ru": "Наш юридический отдел должен проверять каждый договор с дистрибьютором."
   },
   {
    "id": 425,
@@ -6502,7 +7350,9 @@
    "img": {
     "sheet": 71,
     "cell": 5
-   }
+   },
+   "ex2": "The prisoners are allowed one phone call a week.",
+   "ex2Ru": "Заключённым разрешён один телефонный звонок в неделю."
   },
   {
    "id": 426,
@@ -6517,7 +7367,9 @@
    "img": {
     "sheet": 71,
     "cell": 6
-   }
+   },
+   "ex2": "She was the victim of an online scam last month.",
+   "ex2Ru": "В прошлом месяце она стала жертвой интернет-мошенников."
   },
   {
    "id": 427,
@@ -6532,7 +7384,9 @@
    "img": {
     "sheet": 72,
     "cell": 1
-   }
+   },
+   "ex2": "I feel guilty that I missed my son's game.",
+   "ex2Ru": "Я чувствую себя виноватым, что пропустил игру сына."
   },
   {
    "id": 428,
@@ -6547,7 +7401,9 @@
    "img": {
     "sheet": 72,
     "cell": 2
-   }
+   },
+   "ex2": "The man spent ten years in prison, but he was innocent.",
+   "ex2Ru": "Этот человек провёл десять лет в тюрьме, хотя был невиновен."
   },
   {
    "id": 429,
@@ -6562,7 +7418,9 @@
    "img": {
     "sheet": 72,
     "cell": 3
-   }
+   },
+   "ex2": "The judge gave him a fine instead of jail time.",
+   "ex2Ru": "Судья назначил ему штраф вместо тюремного срока."
   },
   {
    "id": 430,
@@ -6577,7 +7435,9 @@
    "img": {
     "sheet": 72,
     "cell": 4
-   }
+   },
+   "ex2": "We'd rather solve this problem without going to court.",
+   "ex2Ru": "Мы бы предпочли решить эту проблему без суда."
   },
   {
    "id": 431,
@@ -6592,7 +7452,9 @@
    "img": {
     "sheet": 72,
     "cell": 5
-   }
+   },
+   "ex2": "My parents never punished me for bad grades.",
+   "ex2Ru": "Родители никогда не наказывали меня за плохие оценки."
   },
   {
    "id": 432,
@@ -6607,7 +7469,9 @@
    "img": {
     "sheet": 72,
     "cell": 6
-   }
+   },
+   "ex2": "The guard at the hospital entrance asked to see my ID.",
+   "ex2Ru": "Охранник на входе в больницу попросил показать документы."
   },
   {
    "id": 433,
@@ -6622,7 +7486,9 @@
    "img": {
     "sheet": 73,
     "cell": 1
-   }
+   },
+   "ex2": "Is a week without a phone a fair punishment?",
+   "ex2Ru": "Неделя без телефона — это справедливое наказание?"
   },
   {
    "id": 434,
@@ -6637,7 +7503,9 @@
    "img": {
     "sheet": 73,
     "cell": 2
-   }
+   },
+   "ex2": "My little brother always cheats when we play cards.",
+   "ex2Ru": "Младший брат вечно жульничает, когда мы играем в карты."
   },
   {
    "id": 435,
@@ -6652,7 +7520,9 @@
    "img": {
     "sheet": 73,
     "cell": 3
-   }
+   },
+   "ex2": "Do you think he really committed the crime?",
+   "ex2Ru": "Думаешь, он правда совершил это преступление?"
   },
   {
    "id": 436,
@@ -6667,7 +7537,9 @@
    "img": {
     "sheet": 73,
     "cell": 4
-   }
+   },
+   "ex2": "The test results proved that our device works perfectly.",
+   "ex2Ru": "Результаты испытаний доказали, что наш аппарат работает безупречно."
   },
   {
    "id": 437,
@@ -6682,7 +7554,9 @@
    "img": {
     "sheet": 73,
     "cell": 5
-   }
+   },
+   "ex2": "The distributor claimed the boxes were damaged during delivery.",
+   "ex2Ru": "Дистрибьютор заявил, что коробки повредили при доставке."
   },
   {
    "id": 438,
@@ -6697,7 +7571,9 @@
    "img": {
     "sheet": 73,
     "cell": 6
-   }
+   },
+   "ex2": "I think the seller lied about the car's age.",
+   "ex2Ru": "Мне кажется, продавец соврал насчёт возраста машины."
   },
   {
    "id": 439,
@@ -6712,7 +7588,9 @@
    "img": {
     "sheet": 74,
     "cell": 1
-   }
+   },
+   "ex2": "It's unfair that I always have to work on weekends.",
+   "ex2Ru": "Несправедливо, что мне всегда приходится работать по выходным."
   },
   {
    "id": 440,
@@ -6727,7 +7605,9 @@
    "img": {
     "sheet": 74,
     "cell": 2
-   }
+   },
+   "ex2": "You'll need proof of identity to open a bank account.",
+   "ex2Ru": "Чтобы открыть счёт в банке, нужен документ, удостоверяющий личность."
   },
   {
    "id": 441,
@@ -6742,7 +7622,9 @@
    "img": {
     "sheet": 74,
     "cell": 3
-   }
+   },
+   "ex2": "Most of the team voted to have the party on Friday.",
+   "ex2Ru": "Большинство в команде проголосовали за то, чтобы устроить вечеринку в пятницу."
   },
   {
    "id": 442,
@@ -6757,7 +7639,9 @@
    "img": {
     "sheet": 74,
     "cell": 4
-   }
+   },
+   "ex2": "Who do you think will win the election?",
+   "ex2Ru": "Как думаешь, кто победит на выборах?"
   },
   {
    "id": 443,
@@ -6772,7 +7656,9 @@
    "img": {
     "sheet": 74,
     "cell": 5
-   }
+   },
+   "ex2": "Most people don't trust politicians these days.",
+   "ex2Ru": "Сейчас большинство людей не доверяет политикам."
   },
   {
    "id": 444,
@@ -6787,7 +7673,9 @@
    "img": {
     "sheet": 74,
     "cell": 6
-   }
+   },
+   "ex2": "Our company has a strict policy on gifts from clients.",
+   "ex2Ru": "В нашей компании строгие правила насчёт подарков от клиентов."
   },
   {
    "id": 445,
@@ -6802,7 +7690,9 @@
    "img": {
     "sheet": 75,
     "cell": 1
-   }
+   },
+   "ex2": "Japan is a nation that really values politeness.",
+   "ex2Ru": "Япония — страна, где очень ценят вежливость."
   },
   {
    "id": 446,
@@ -6817,7 +7707,9 @@
    "img": {
     "sheet": 75,
     "cell": 2
-   }
+   },
+   "ex2": "Hundreds of students joined the protest against higher fees.",
+   "ex2Ru": "Сотни студентов вышли на протест против повышения платы за обучение."
   },
   {
    "id": 447,
@@ -6832,7 +7724,9 @@
    "img": {
     "sheet": 75,
     "cell": 3
-   }
+   },
+   "ex2": "Only the regional director has the authority to approve this discount.",
+   "ex2Ru": "Только у регионального директора есть полномочия утвердить такую скидку."
   },
   {
    "id": 448,
@@ -6847,7 +7741,9 @@
    "img": {
     "sheet": 75,
     "cell": 4
-   }
+   },
+   "ex2": "She grew up in poverty but became a successful doctor.",
+   "ex2Ru": "Она выросла в бедности, но стала успешным врачом."
   },
   {
    "id": 449,
@@ -6862,7 +7758,9 @@
    "img": {
     "sheet": 75,
     "cell": 5
-   }
+   },
+   "ex2": "My grandparents came to Canada as immigrants in the 1960s.",
+   "ex2Ru": "Мои бабушка и дедушка приехали в Канаду иммигрантами в 1960-х."
   },
   {
    "id": 450,
@@ -6877,7 +7775,9 @@
    "img": {
     "sheet": 75,
     "cell": 6
-   }
+   },
+   "ex2": "We need ten more volunteers for the charity run.",
+   "ex2Ru": "Для благотворительного забега нам нужно ещё десять волонтёров."
   },
   {
    "id": 451,
@@ -6892,7 +7792,9 @@
    "img": {
     "sheet": 76,
     "cell": 1
-   }
+   },
+   "ex2": "Our company donated an ultrasound machine to a rural clinic.",
+   "ex2Ru": "Наша компания подарила аппарат УЗИ сельской клинике."
   },
   {
    "id": 452,
@@ -6907,7 +7809,9 @@
    "img": {
     "sheet": 76,
     "cell": 2
-   }
+   },
+   "ex2": "How much tax do you pay on your salary?",
+   "ex2Ru": "Какой налог ты платишь с зарплаты?"
   },
   {
    "id": 453,
@@ -6922,7 +7826,9 @@
    "img": {
     "sheet": 76,
     "cell": 3
-   }
+   },
+   "ex2": "We never talk about politics at family dinners.",
+   "ex2Ru": "За семейным ужином мы никогда не говорим о политике."
   },
   {
    "id": 454,
@@ -6937,7 +7843,9 @@
    "img": {
     "sheet": 76,
     "cell": 4
-   }
+   },
+   "ex2": "He always avoids political topics with clients.",
+   "ex2Ru": "С клиентами он всегда избегает политических тем."
   },
   {
    "id": 455,
@@ -6952,7 +7860,9 @@
    "img": {
     "sheet": 76,
     "cell": 5
-   }
+   },
+   "ex2": "In Japan, many people follow more than one religion.",
+   "ex2Ru": "В Японии многие следуют сразу нескольким религиям."
   },
   {
    "id": 456,
@@ -6967,7 +7877,9 @@
    "img": {
     "sheet": 76,
     "cell": 6
-   }
+   },
+   "ex2": "The workers' union is asking for higher salaries.",
+   "ex2Ru": "Профсоюз рабочих требует повышения зарплат."
   },
   {
    "id": 457,
@@ -6982,7 +7894,9 @@
    "img": {
     "sheet": 77,
     "cell": 1
-   }
+   },
+   "ex2": "Cut the cake into six equal pieces, please.",
+   "ex2Ru": "Разрежь, пожалуйста, торт на шесть равных частей."
   },
   {
    "id": 458,
@@ -6997,7 +7911,9 @@
    "img": {
     "sheet": 77,
     "cell": 2
-   }
+   },
+   "ex2": "Millions of people watched the royal wedding on TV.",
+   "ex2Ru": "Миллионы людей смотрели королевскую свадьбу по телевизору."
   },
   {
    "id": 459,
@@ -7012,7 +7928,9 @@
    "img": {
     "sheet": 77,
     "cell": 3
-   }
+   },
+   "ex2": "Unemployment is a big problem for young people here.",
+   "ex2Ru": "Безработица здесь — серьёзная проблема для молодёжи."
   },
   {
    "id": 460,
@@ -7027,7 +7945,9 @@
    "img": {
     "sheet": 77,
     "cell": 4
-   }
+   },
+   "ex2": "We're still waiting for an official letter from the Ministry of Health.",
+   "ex2Ru": "Мы всё ещё ждём официального письма от Минздрава."
   },
   {
    "id": 461,
@@ -7042,7 +7962,9 @@
    "img": {
     "sheet": 77,
     "cell": 5
-   }
+   },
+   "ex2": "The doctor warned him to stop smoking.",
+   "ex2Ru": "Врач предупредил его, что пора бросать курить."
   },
   {
    "id": 462,
@@ -7057,7 +7979,9 @@
    "img": {
     "sheet": 77,
     "cell": 6
-   }
+   },
+   "ex2": "The receptionist gave us a warning about pickpockets near the station.",
+   "ex2Ru": "Администратор отеля предупредил нас о карманниках возле вокзала."
   },
   {
    "id": 463,
@@ -7072,7 +7996,9 @@
    "img": {
     "sheet": 78,
     "cell": 1
-   }
+   },
+   "ex2": "Let's not take any risks — book the earlier flight.",
+   "ex2Ru": "Не будем рисковать — бери билет на более ранний рейс."
   },
   {
    "id": 464,
@@ -7087,7 +8013,9 @@
    "img": {
     "sheet": 78,
     "cell": 2
-   }
+   },
+   "ex2": "I'm so tired because of a lack of sleep.",
+   "ex2Ru": "Я ужасно устал из-за недосыпа."
   },
   {
    "id": 465,
@@ -7102,7 +8030,9 @@
    "img": {
     "sheet": 78,
     "cell": 3
-   }
+   },
+   "ex2": "Do you have any difficulty understanding his accent?",
+   "ex2Ru": "Тебе трудно понимать его акцент?"
   },
   {
    "id": 466,
@@ -7117,7 +8047,9 @@
    "img": {
     "sheet": 78,
     "cell": 4
-   }
+   },
+   "ex2": "There's a lot of pressure to close the deal before December.",
+   "ex2Ru": "На нас сильно давят, чтобы мы закрыли сделку до декабря."
   },
   {
    "id": 467,
@@ -7132,7 +8064,9 @@
    "img": {
     "sheet": 78,
     "cell": 5
-   }
+   },
+   "ex2": "Skipping breakfast can have bad consequences for your health.",
+   "ex2Ru": "Если пропускать завтрак, это может плохо отразиться на здоровье."
   },
   {
    "id": 468,
@@ -7147,7 +8081,9 @@
    "img": {
     "sheet": 78,
     "cell": 6
-   }
+   },
+   "ex2": "Social media has a huge impact on teenagers.",
+   "ex2Ru": "Соцсети оказывают огромное влияние на подростков."
   },
   {
    "id": 469,
@@ -7162,7 +8098,9 @@
    "img": {
     "sheet": 79,
     "cell": 1
-   }
+   },
+   "ex2": "My father influenced my decision to study engineering.",
+   "ex2Ru": "Отец повлиял на моё решение учиться на инженера."
   },
   {
    "id": 470,
@@ -7177,7 +8115,9 @@
    "img": {
     "sheet": 79,
     "cell": 2
-   }
+   },
+   "ex2": "Learning a language takes a lot of time and effort.",
+   "ex2Ru": "Изучение языка требует много времени и усилий."
   },
   {
    "id": 471,
@@ -7192,7 +8132,9 @@
    "img": {
     "sheet": 79,
     "cell": 3
-   }
+   },
+   "ex2": "Don't ignore the pain — go see a doctor.",
+   "ex2Ru": "Не игнорируй боль — сходи к врачу."
   },
   {
    "id": 472,
@@ -7207,7 +8149,9 @@
    "img": {
     "sheet": 79,
     "cell": 4
-   }
+   },
+   "ex2": "Does the noise from the street bother you?",
+   "ex2Ru": "Тебе не мешает шум с улицы?"
   },
   {
    "id": 473,
@@ -7222,7 +8166,9 @@
    "img": {
     "sheet": 79,
     "cell": 5
-   }
+   },
+   "ex2": "The new software is a huge improvement over the old one.",
+   "ex2Ru": "Новая программа намного лучше старой."
   },
   {
    "id": 474,
@@ -7237,7 +8183,9 @@
    "img": {
     "sheet": 79,
     "cell": 6
-   }
+   },
+   "ex2": "If the road is closed, is there an alternative route?",
+   "ex2Ru": "Если дорогу перекроют, есть другой маршрут?"
   },
   {
    "id": 475,
@@ -7252,7 +8200,9 @@
    "img": {
     "sheet": 80,
     "cell": 1
-   }
+   },
+   "ex2": "Sunscreen is essential if you're going to the beach.",
+   "ex2Ru": "Если едешь на пляж, солнцезащитный крем просто необходим."
   },
   {
    "id": 476,
@@ -7267,7 +8217,9 @@
    "img": {
     "sheet": 80,
     "cell": 2
-   }
+   },
+   "ex2": "Please don't bring unnecessary stuff — the car is small.",
+   "ex2Ru": "Пожалуйста, не бери лишних вещей — машина маленькая."
   },
   {
    "id": 477,
@@ -7282,7 +8234,9 @@
    "img": {
     "sheet": 80,
     "cell": 3
-   }
+   },
+   "ex2": "What's the speed limit on this road?",
+   "ex2Ru": "Какое ограничение скорости на этой дороге?"
   },
   {
    "id": 478,
@@ -7297,7 +8251,9 @@
    "img": {
     "sheet": 80,
     "cell": 4
-   }
+   },
+   "ex2": "I lost my balance and fell off the bike.",
+   "ex2Ru": "Я потерял равновесие и упал с велосипеда."
   },
   {
    "id": 479,
@@ -7312,7 +8268,9 @@
    "img": {
     "sheet": 80,
     "cell": 5
-   }
+   },
+   "ex2": "It never occurred to me to ask for a discount.",
+   "ex2Ru": "Мне даже в голову не пришло попросить скидку."
   },
   {
    "id": 480,
@@ -7327,7 +8285,9 @@
    "img": {
     "sheet": 80,
     "cell": 6
-   }
+   },
+   "ex2": "We escaped the heat by spending the afternoon in a museum.",
+   "ex2Ru": "Мы спасались от жары, проведя полдня в музее."
   },
   {
    "id": 481,
@@ -7342,7 +8302,9 @@
    "img": {
     "sheet": 81,
     "cell": 1
-   }
+   },
+   "ex2": "Do you doubt that we can deliver on time?",
+   "ex2Ru": "Ты сомневаешься, что мы успеем поставить вовремя?"
   },
   {
    "id": 482,
@@ -7357,7 +8319,9 @@
    "img": {
     "sheet": 81,
     "cell": 2
-   }
+   },
+   "ex2": "I don't like his attitude toward customers.",
+   "ex2Ru": "Мне не нравится его отношение к клиентам."
   },
   {
    "id": 483,
@@ -7372,7 +8336,9 @@
    "img": {
     "sheet": 81,
     "cell": 3
-   }
+   },
+   "ex2": "It was obvious that the client wasn't happy with the price.",
+   "ex2Ru": "Было очевидно, что клиента не устраивает цена."
   },
   {
    "id": 484,
@@ -7387,7 +8353,9 @@
    "img": {
     "sheet": 81,
     "cell": 4
-   }
+   },
+   "ex2": "I wasn't aware that the store closes early on Sundays.",
+   "ex2Ru": "Я не знал, что по воскресеньям магазин закрывается рано."
   },
   {
    "id": 485,
@@ -7402,7 +8370,9 @@
    "img": {
     "sheet": 81,
     "cell": 5
-   }
+   },
+   "ex2": "There's a common belief that carrots are good for your eyes.",
+   "ex2Ru": "Многие убеждены, что морковь полезна для зрения."
   },
   {
    "id": 486,
@@ -7417,7 +8387,9 @@
    "img": {
     "sheet": 81,
     "cell": 6
-   }
+   },
+   "ex2": "What was your first impression of Tokyo?",
+   "ex2Ru": "Какое у тебя было первое впечатление от Токио?"
   },
   {
    "id": 487,
@@ -7432,7 +8404,9 @@
    "img": {
     "sheet": 82,
     "cell": 1
-   }
+   },
+   "ex2": "We intended to stay two days, but we stayed a week.",
+   "ex2Ru": "Мы собирались остаться на два дня, а пробыли неделю."
   },
   {
    "id": 488,
@@ -7447,7 +8421,9 @@
    "img": {
     "sheet": 82,
     "cell": 2
-   }
+   },
+   "ex2": "Kids love to pretend they're superheroes.",
+   "ex2Ru": "Дети обожают представлять себя супергероями."
   },
   {
    "id": 489,
@@ -7462,7 +8438,9 @@
    "img": {
     "sheet": 82,
     "cell": 3
-   }
+   },
+   "ex2": "I was wondering if you could help me with this form.",
+   "ex2Ru": "Не могли бы вы помочь мне с этой анкетой?"
   },
   {
    "id": 490,
@@ -7477,7 +8455,9 @@
    "img": {
     "sheet": 82,
     "cell": 4
-   }
+   },
+   "ex2": "Do you have any predictions for next year's sales?",
+   "ex2Ru": "Какой у тебя прогноз по продажам на следующий год?"
   },
   {
    "id": 491,
@@ -7492,7 +8472,9 @@
    "img": {
     "sheet": 82,
     "cell": 5
-   }
+   },
+   "ex2": "One disadvantage of living downtown is the noise.",
+   "ex2Ru": "Один из минусов жизни в центре — шум."
   },
   {
    "id": 492,
@@ -7507,7 +8489,9 @@
    "img": {
     "sheet": 82,
     "cell": 6
-   }
+   },
+   "ex2": "The truth is, I forgot all about your birthday.",
+   "ex2Ru": "Если честно, я совсем забыл про твой день рождения."
   },
   {
    "id": 493,
@@ -7522,7 +8506,9 @@
    "img": {
     "sheet": 83,
     "cell": 1
-   }
+   },
+   "ex2": "Sorry, it was never my intention to upset you.",
+   "ex2Ru": "Прости, я вовсе не хотел тебя расстроить."
   },
   {
    "id": 494,
@@ -7537,7 +8523,9 @@
    "img": {
     "sheet": 83,
     "cell": 2
-   }
+   },
+   "ex2": "Why do cats dislike water so much?",
+   "ex2Ru": "Почему кошки так не любят воду?"
   },
   {
    "id": 495,
@@ -7552,7 +8540,9 @@
    "img": {
     "sheet": 83,
     "cell": 3
-   }
+   },
+   "ex2": "Working from the beach sounds great, but the reality is different.",
+   "ex2Ru": "Работать на пляже звучит здорово, но на деле всё иначе."
   },
   {
    "id": 496,
@@ -7567,7 +8557,9 @@
    "img": {
     "sheet": 83,
     "cell": 4
-   }
+   },
+   "ex2": "This winter is mild in comparison with last year.",
+   "ex2Ru": "Эта зима мягкая по сравнению с прошлогодней."
   },
   {
    "id": 497,
@@ -7582,7 +8574,9 @@
    "img": {
     "sheet": 83,
     "cell": 5
-   }
+   },
+   "ex2": "There's a big contrast between the old and new parts of the city.",
+   "ex2Ru": "Между старой и новой частью города разительный контраст."
   },
   {
    "id": 498,
@@ -7597,7 +8591,9 @@
    "img": {
     "sheet": 83,
     "cell": 6
-   }
+   },
+   "ex2": "Is the date of the wedding definite yet?",
+   "ex2Ru": "Дату свадьбы уже точно назначили?"
   },
   {
    "id": 499,
@@ -7612,7 +8608,9 @@
    "img": {
     "sheet": 84,
     "cell": 1
-   }
+   },
+   "ex2": "When she was five, my daughter had an imaginary friend.",
+   "ex2Ru": "Когда дочке было пять, у неё был воображаемый друг."
   },
   {
    "id": 500,
@@ -7627,7 +8625,9 @@
    "img": {
     "sheet": 84,
     "cell": 2
-   }
+   },
+   "ex2": "I'll take the documents to the hospital personally.",
+   "ex2Ru": "Я лично отвезу документы в больницу."
   }
  ]
 }
