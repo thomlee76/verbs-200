@@ -67,6 +67,7 @@ h2{font-size:18px;margin:22px 0 10px;font-weight:800}
 .pic{position:relative;width:100%;aspect-ratio:640/616;border-radius:18px;overflow:hidden;background:var(--sunk) no-repeat;background-size:300% 200%}
 .pic.thumb{width:56px;border-radius:12px;flex-shrink:0}
 .pic.med{width:100%;max-width:340px;margin:0 auto}
+.pic.sm{width:100%;max-width:200px;margin:0 auto}
 .en{font-size:34px;font-weight:800;letter-spacing:-.5px;line-height:1.1}
 .ipa{font-family:ui-monospace,Menlo,monospace;color:var(--muted);font-size:14px}
 .ex{background:var(--sunk);border-radius:14px;padding:12px;display:flex;gap:10px;align-items:flex-start}
@@ -141,9 +142,9 @@ function picStyle(w){const c=w.img.cell-1;return `background-image:url(img/s${St
 const pic=(w,cls="")=>`<div class="pic ${cls}" role="img" aria-label="${esc(w.en)}" style="${picStyle(w)}"></div>`;
 const audio=new Audio();
 function play(src){try{audio.pause();audio.src=src;audio.playbackRate=S.settings.rate;audio.play().catch(()=>{})}catch(e){}}
-const playW=id=>play(`audio/w/${id}.mp3`), playE=id=>play(`audio/e/${id}.mp3`);
-function hl(w){const base=w.en.split(" ")[0],stem=base.length<=4?base:base.replace(/(e|y)$/i,"");
-  return esc(w.ex).replace(new RegExp("\\b("+stem.replace(/-/g,"\\-")+"[a-z]*)","i"),"<b>$1</b>")}
+const playW=id=>play(`audio/w/${id}.mp3`), playE=(id,n=1)=>play(`audio/${n===2?"e2":"e"}/${id}.mp3`);
+function hl(w,text=w.ex){const base=w.en.split(" ")[0],stem=base.length<=4?base:base.replace(/(e|y)$/i,"");
+  return esc(text).replace(new RegExp("\\b("+stem.replace(/-/g,"\\-")+"[a-z]*)","i"),"<b>$1</b>")}
 
 /* ---------- SRS (simplified SM-2 with learning steps) ---------- */
 const MIN=1/1440;
@@ -230,13 +231,14 @@ function wordSheet(id){const w=byId[id];const fav=S.fav.includes(id);const d=doc
    <div class="row"><button class="icon-btn" data-fav aria-label="В избранное" style="color:${fav?"var(--warn)":"inherit"}">${ic("star",20,fav)}</button><button class="icon-btn blue" data-pw aria-label="Произношение">${ic("sound")}</button></div></div>
    ${backHtml(w)}<button class="btn ghost" data-x>Закрыть</button></div>`;
   document.body.appendChild(d);d.onclick=e=>{if(e.target===d||e.target.closest("[data-x]"))d.remove()};
-  d.querySelector("[data-pw]").onclick=()=>playW(id);d.querySelector("[data-pe]").onclick=()=>playE(id);
+  d.querySelector("[data-pw]").onclick=()=>playW(id);d.querySelectorAll("[data-pe]").forEach(b=>b.onclick=()=>playE(id,+b.dataset.pe));
   d.querySelector("[data-fav]").onclick=e=>{const i=S.fav.indexOf(id);i<0?S.fav.push(id):S.fav.splice(i,1);save();d.remove();wordSheet(id)};
   if(S.settings.autoplay)playW(id)}
 const POS={n:"сущ.",v:"гл.",adj:"прил.",adv:"нареч."};
+const exBox=(w,n)=>`<div class="ex"><div class="grow"><div style="font-size:16px;font-weight:600">${hl(w,n===2?w.ex2:w.ex)}</div><div class="sub" style="margin-top:3px">${esc(n===2?w.ex2Ru:w.exRu)}</div></div>
+  <button class="icon-btn blue" data-pe="${n}" aria-label="Пример ${n} вслух" style="width:38px;height:38px">${ic("sound",18)}</button></div>`;
 const backHtml=w=>`<div><div style="font-size:19px;font-weight:800">${esc(w.ru)}</div></div>
-  <div class="ex"><div class="grow"><div style="font-size:16px;font-weight:600">${hl(w)}</div><div class="sub" style="margin-top:3px">${esc(w.exRu)}</div></div>
-  <button class="icon-btn blue" data-pe aria-label="Пример вслух" style="width:38px;height:38px">${ic("sound",18)}</button></div>
+  ${exBox(w,1)}${w.ex2?exBox(w,2):""}
   <div><span class="chip gray">${esc(w.col)}</span></div>`;
 
 /* ---------- learning session ---------- */
@@ -250,7 +252,7 @@ R.session=()=>{tabs(null);if(!SES||!SES.queue.length){app(`<div class="stack" st
   const it=SES.queue[0],w=byId[it.id],cnt={n:0,l:0,r:0};SES.queue.forEach(q=>cnt[q.k]++);
   app(`<div class="top"><button class="icon-btn" id="x" aria-label="Закрыть">${ic("close")}</button><div class="bar"><i style="width:${SES.done/(SES.done+SES.queue.length)*100}%"></i></div><span class="mark">${SES.done}/${SES.done+SES.queue.length}</span></div>
   <div class="row" style="gap:6px;margin-bottom:10px"><span class="chip gray">НОВЫЕ · ${cnt.n}</span><span class="chip amber">УЧУ · ${cnt.l}</span><span class="chip violet">ПОВТОР · ${cnt.r}</span></div>
-  <div class="card stack" style="padding:14px">${pic(w,SES.shown?"med":"")}
+  <div class="card stack" style="padding:14px">${pic(w,SES.shown?"sm":"")}
    <div class="between"><div><div class="en">${esc(w.en)}</div><div class="ipa">/${esc(w.ipa)}/ · ${POS[w.pos]}</div></div><button class="icon-btn blue" id="pw" aria-label="Произношение">${ic("sound")}</button></div>
    ${SES.shown?backHtml(w):""}</div>
   <div style="margin-top:12px">${SES.shown?`<div class="grades">${["Снова","Трудно","Хорошо","Легко"].map((l,i)=>`<button class="g${i+1}" data-g="${i+1}">${l}<small>${fmtIvl(preview(w.id,i+1))}</small></button>`).join("")}</div>
@@ -258,7 +260,7 @@ R.session=()=>{tabs(null);if(!SES||!SES.queue.length){app(`<div class="stack" st
    :`<button class="btn" id="show">Показать перевод</button>`}</div>`);
   on("#x",()=>{SES=null;back()});on("#pw",()=>playW(w.id));
   on("#show",()=>{SES.shown=true;render();if(S.settings.autoplay)playE(w.id)});
-  on("[data-pe]",()=>playE(w.id));
+  on("[data-pe]",el=>playE(w.id,+el.dataset.pe));
   on("[data-g]",el=>{const g=+el.dataset.g,r=grade(w.id,g);SES.queue.shift();SES.shown=false;
     if(r==="again")SES.queue.splice(Math.min(3,SES.queue.length),0,{id:w.id,k:"l"});
     else if(r==="hard")SES.queue.splice(Math.min(6,SES.queue.length),0,{id:w.id,k:"l"});
@@ -271,24 +273,24 @@ const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()
 function startQuiz(unit){let pool=W.filter(w=>(!unit||w.unit===unit)&&!isNew(w.id));if(pool.length<4)pool=W.filter(w=>!unit||w.unit===unit).slice(0,20);
   pool=shuffle(pool.slice()).slice(0,10);
   QZ={qs:pool.map(w=>{const type=["pic","ex","ru"][Math.floor(Math.random()*3)];const same=W.filter(x=>x.id!==w.id&&x.pos===w.pos&&(x.unit===w.unit||Math.abs(x.unit-w.unit)<3));
-     const opts=shuffle([w,...shuffle(same.length>=3?same:W.filter(x=>x.id!==w.id)).slice(0,3)]);return {w,type,opts,pick:null}}),i:0,score:0,unit};go("quiz",null)}
-function blank(w){const h=hl(w);return h.includes("<b>")?h.replace(/<b>.*?<\/b>/,'<span style="display:inline-block;min-width:70px;border-bottom:3px solid var(--accent)">&nbsp;</span>'):null}
+     const opts=shuffle([w,...shuffle(same.length>=3?same:W.filter(x=>x.id!==w.id)).slice(0,3)]);return {w,type,opts,pick:null,n:w.ex2&&Math.random()<.5?2:1}}),i:0,score:0,unit};go("quiz",null)}
+function blank(w,n=1){const h=hl(w,n===2?w.ex2:w.ex);return h.includes("<b>")?h.replace(/<b>.*?<\/b>/,'<span style="display:inline-block;min-width:70px;border-bottom:3px solid var(--accent)">&nbsp;</span>'):null}
 R.quiz=()=>{tabs(null);if(QZ.i>=QZ.qs.length){const n=QZ.qs.length;
    app(`<div class="stack" style="padding-top:14vh;text-align:center"><div class="big">${QZ.score} / ${n}</div><h1>${QZ.score>=n*.8?"Отлично!":QZ.score>=n*.5?"Неплохо!":"Нужно повторить"}</h1>
    <div class="list" style="text-align:left">${QZ.qs.filter(q=>q.pick&&q.pick.id!==q.w.id).map(q=>wordRow(q.w)).join("")||""}</div>
    <button class="btn" id="again">Ещё раз</button><button class="btn ghost" id="hm">Готово</button></div>`);
    on("[data-w]",el=>wordSheet(+el.dataset.w));on("#again",()=>startQuiz(QZ.unit));on("#hm",()=>{QZ=null;back()});return}
-  const q=QZ.qs[QZ.i],w=q.w;let type=q.type;const bl=blank(w);if(type==="ex"&&!bl)type=q.type="pic";
+  const q=QZ.qs[QZ.i],w=q.w;let type=q.type;const bl=blank(w,q.n);if(type==="ex"&&!bl)type=q.type="pic";
   const prompt=type==="pic"?`<div class="sub" style="font-weight:700;color:var(--accent)">Какое слово на картинке?</div>${pic(w,"med")}`
-   :type==="ex"?`<div class="sub" style="font-weight:700;color:var(--accent)">Вставьте слово</div><div style="font-size:21px;font-weight:700;line-height:1.4">${bl}</div><div class="sub">${esc(w.exRu)}</div>`
+   :type==="ex"?`<div class="sub" style="font-weight:700;color:var(--accent)">Вставьте слово</div><div style="font-size:21px;font-weight:700;line-height:1.4">${bl}</div><div class="sub">${esc(q.n===2?w.ex2Ru:w.exRu)}</div>`
    :`<div class="sub" style="font-weight:700;color:var(--accent)">Выберите перевод</div><div class="en">${esc(w.en)}</div><div class="ipa">/${esc(w.ipa)}/</div>`;
   app(`<div class="top"><button class="icon-btn" id="x" aria-label="Закрыть">${ic("close")}</button><div class="bar"><i style="width:${QZ.i/QZ.qs.length*100}%;background:var(--good)"></i></div><span class="mark">${QZ.i+1}/${QZ.qs.length}</span></div>
   <div class="stack">${prompt}<div class="stack" style="gap:8px">${q.opts.map((o,k)=>{const cls=q.pick?(o.id===w.id?"ok":o.id===q.pick.id?"no":""):"";
    return `<button class="opt ${cls}" data-o="${k}">${esc(type==="ru"?o.ru:o.en)}<span class="mark">${cls==="ok"?"верно":cls==="no"?"ошибка":""}</span></button>`}).join("")}</div>
-  ${q.pick?`<div class="card stack" style="padding:12px"><div class="between"><div><b>${esc(w.en)}</b> — ${esc(w.ru)}</div><button class="icon-btn blue" id="pe" aria-label="Пример вслух">${ic("sound",18)}</button></div><div class="sub">${hl(w)}</div></div><button class="btn" id="nx">Дальше</button>`:""}</div>`);
+  ${q.pick?`<div class="card stack" style="padding:12px"><div class="between"><div><b>${esc(w.en)}</b> — ${esc(w.ru)}</div><button class="icon-btn blue" id="pe" aria-label="Пример вслух">${ic("sound",18)}</button></div><div class="sub">${hl(w,q.n===2?w.ex2:w.ex)}</div></div><button class="btn" id="nx">Дальше</button>`:""}</div>`);
   on("#x",()=>{QZ=null;back()});
   on("[data-o]",el=>{if(q.pick)return;q.pick=q.opts[+el.dataset.o];if(q.pick.id===w.id)QZ.score++;render();playW(w.id)});
-  on("#pe",()=>playE(w.id));on("#nx",()=>{QZ.i++;render()})};
+  on("#pe",()=>playE(w.id,q.n));on("#nx",()=>{QZ.i++;render()})};
 
 /* ---------- grammar ---------- */
 R.grammar=()=>{tabs("grammar");
