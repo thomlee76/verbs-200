@@ -5,7 +5,7 @@ core = ['./', 'index.html', 'manifest.webmanifest', 'icon-512.png', 'apple-touch
         'data/words.json', 'data/grammar.json', 'data/patterns.json']
 core = [c for c in core if c == './' or os.path.exists(c)]
 assets = []
-for d in ['img', 'audio/w', 'audio/e', 'audio/p']:
+for d in ['img', 'audio/w', 'audio/e', 'audio/e2', 'audio/p']:
     if os.path.isdir(d):
         assets += sorted(f'{d}/{f}' for f in os.listdir(d))
 h = hashlib.sha1()
